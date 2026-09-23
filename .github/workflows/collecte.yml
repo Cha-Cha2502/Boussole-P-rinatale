@@ -1,0 +1,60 @@
+name: Collecte des articles
+
+on:
+  schedule:
+    # Tous les jours à 5 h UTC (7 h à Paris en été, 6 h en hiver).
+    # Hebdomadaire (lundi) : remplacez par  "0 5 * * 1"
+    - cron: "0 5 * * *"
+  workflow_dispatch:      # bouton « Run workflow » pour lancer à la main
+  push:
+    branches: [main]      # republie le site quand vous modifiez un fichier
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer la lecture des flux RSS
+        run: pip install feedparser
+
+      - name: Collecter les articles
+        run: |
+          if [ -f scripts/collecte.py ]; then python scripts/collecte.py; else python collecte.py; fi
+
+      - name: Enregistrer la collecte
+        run: |
+          git config user.name "boussole-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- "*articles.json"
+          git diff --staged --quiet || (git commit -m "Collecte du $(date -u +%F)" && git push)
+
+      - name: Choisir le dossier du site
+        id: dir
+        run: |
+          if [ -d site ]; then echo "path=site" >> "$GITHUB_OUTPUT"; else echo "path=." >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ steps.dir.outputs.path }}
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
