@@ -1,0 +1,182 @@
+{
+  "_aide": "Modifiez ce fichier pour changer ce que la Boussole surveille. category : sci (scientifique & médical), pol (politique & institutionnel), soc (société & médias). filtre : true = on ne garde que les articles contenant un mot-clé ci-dessous. exclusions : un titre contenant l'un de ces mots est ignoré.",
+  "mots_cles": [
+    "périnatal",
+    "périnatalité",
+    "post-partum",
+    "postpartum",
+    "post partum",
+    "grossesse",
+    "enceinte",
+    "enceintes",
+    "accouchement",
+    "accouchements",
+    "accoucher",
+    "maternité",
+    "maternités",
+    "sage-femme",
+    "sages-femmes",
+    "nouveau-né",
+    "nouveau-nés",
+    "nourrisson",
+    "nourrissons",
+    "allaitement",
+    "césarienne",
+    "péridurale",
+    "naissance",
+    "naissances",
+    "fausse couche",
+    "fausses couches",
+    "prématuré",
+    "prématurés",
+    "prématurité",
+    "néonatal",
+    "néonatale",
+    "mortalité infantile",
+    "congé parental",
+    "doula",
+    "doulas",
+    "1000 premiers jours",
+    "baby blues",
+    "parentalité",
+    "bébé",
+    "bébés",
+    "deuil périnatal",
+    "PMA",
+    "infertilité"
+  ],
+  "exclusions": [
+    "recherche sage-femme",
+    "remplaçant",
+    "remplaçante",
+    "offre d'emploi",
+    "save the date",
+    "assemblée générale",
+    "meurtre",
+    "meurtrier",
+    "horoscope",
+    "kilos",
+    "régime",
+    "perdre du poids"
+  ],
+  "flux": [
+    {
+      "nom": "Inserm",
+      "url": "https://www.inserm.fr/feed/",
+      "category": "sci",
+      "filtre": true,
+      "officiel": true
+    },
+    {
+      "nom": "Inserm – salle de presse",
+      "url": "https://presse.inserm.fr/feed/",
+      "category": "sci",
+      "filtre": true,
+      "officiel": true
+    },
+    {
+      "nom": "CNGOF",
+      "url": "https://cngof.fr/feed/",
+      "category": "sci",
+      "filtre": false,
+      "officiel": false
+    },
+    {
+      "nom": "Futura Santé",
+      "url": "https://www.futura-sciences.com/rss/sante/actualites.xml",
+      "category": "sci",
+      "filtre": true,
+      "officiel": false
+    },
+    {
+      "nom": "The Conversation France",
+      "url": "https://theconversation.com/fr/articles.atom",
+      "category": "sci",
+      "filtre": true,
+      "officiel": false
+    },
+    {
+      "nom": "UNSSF (sages-femmes)",
+      "url": "https://unssf.org/feed/",
+      "category": "pol",
+      "filtre": false,
+      "officiel": false
+    },
+    {
+      "nom": "Public Sénat",
+      "url": "https://www.publicsenat.fr/feed",
+      "category": "pol",
+      "filtre": true,
+      "officiel": false
+    },
+    {
+      "nom": "Franceinfo Santé",
+      "url": "https://www.franceinfo.fr/sante.rss",
+      "category": "soc",
+      "filtre": true,
+      "officiel": false
+    }
+  ],
+  "google_news": [
+    {
+      "requete": "\"santé périnatale\" OR périnatalité",
+      "category": "sci"
+    },
+    {
+      "requete": "post-partum étude",
+      "category": "sci"
+    },
+    {
+      "requete": "grossesse recommandation HAS OR \"Santé publique France\"",
+      "category": "sci"
+    },
+    {
+      "requete": "\"congé de naissance\" OR \"congé supplémentaire de naissance\"",
+      "category": "pol"
+    },
+    {
+      "requete": "maternité fermeture OR moratoire",
+      "category": "pol"
+    },
+    {
+      "requete": "sages-femmes ministère OR loi OR réforme",
+      "category": "pol"
+    },
+    {
+      "requete": "\"dépression post-partum\"",
+      "category": "soc"
+    },
+    {
+      "requete": "accouchement témoignage",
+      "category": "soc"
+    },
+    {
+      "requete": "allaitement OR \"baby blues\" OR doula",
+      "category": "soc"
+    }
+  ],
+  "domaines_officiels": [
+    "has-sante.fr",
+    "santepubliquefrance.fr",
+    "sante.gouv.fr",
+    "solidarites.gouv.fr",
+    "info.gouv.fr",
+    "service-public.fr",
+    "legifrance.gouv.fr",
+    "senat.fr",
+    "assemblee-nationale.fr",
+    "ameli.fr",
+    "caf.fr",
+    "inserm.fr",
+    "who.int",
+    "vie-publique.fr",
+    "drees.solidarites-sante.gouv.fr",
+    "igas.gouv.fr"
+  ],
+  "reglages": {
+    "jours_max_nouveaux": 30,
+    "jours_conservation": 120,
+    "max_par_categorie": 60,
+    "jours_prioritaire": 10
+  }
+}
