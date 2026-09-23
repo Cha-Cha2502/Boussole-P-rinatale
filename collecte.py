@@ -45,7 +45,19 @@ IA_DEFAUT = {
     "appels_max_par_collecte": 25,
     "pause_secondes": 7,
 }
-MAX_PAGES_PAR_COLLECTE = 80
+MAX_PAGES_PAR_COLLECTE = 40
+# Garde-fous de durée : la collecte s'arrête proprement et enregistre son travail avant la limite de GitHub
+START = time.time()
+BUDGET_PAGES = 8 * 60      # lecture des pages : 8 minutes maximum
+BUDGET_TOTAL = 18 * 60     # collecte complète : 18 minutes maximum
+
+
+def elapsed():
+    return time.time() - START
+
+
+def say(msg):
+    print(f"[{int(elapsed()) // 60:02d}:{int(elapsed()) % 60:02d}] {msg}", flush=True)
 
 PROMPT = """Tu aides une accompagnante périnatale (doula) : une professionnelle non médicale qui soutient les parents sur le plan émotionnel, informationnel et pratique avant, pendant et après la naissance. Elle ne pose pas de diagnostic et n'intervient pas sur le plan médical.
 
@@ -151,7 +163,7 @@ def read_page(url):
         return "", ""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"})
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=10) as r:
             if "html" not in (r.headers.get("Content-Type") or ""):
                 return "", ""
             page = r.read(1_500_000).decode(r.headers.get_content_charset() or "utf-8", "ignore")
@@ -216,6 +228,9 @@ def enrich_with_ai(items, key, cfg_ia, log):
     size = cfg_ia["articles_par_appel"]
     done = calls = 0
     for i in range(0, len(items), size):
+        if elapsed() > BUDGET_TOTAL:
+            log.append("IA : temps de collecte écoulé, la suite sera traitée à la prochaine collecte")
+            break
         if calls >= cfg_ia["appels_max_par_collecte"]:
             log.append("IA : limite d'appels atteinte, la suite sera traitée à la prochaine collecte")
             break
@@ -232,6 +247,7 @@ def enrich_with_ai(items, key, cfg_ia, log):
         if calls:
             time.sleep(cfg_ia["pause_secondes"])
         calls += 1
+        say(f"Gemini : lot {calls} ({len(batch)} articles)")
         try:
             res = gemini_call(key, models, prompt)
         except GeminiStop as e:
@@ -302,6 +318,7 @@ def main():
             "sortDate": pub.date().isoformat(), "url": url, "summary": summary, "auto": True,
         })
 
+    say("Lecture des flux")
     for f in cfg["flux"]:
         source_names.append(f["nom"])
         try:
@@ -350,15 +367,23 @@ def main():
 
     # Lecture des pages (vrai lien + description) pour les nouveaux articles
     todo = [a for a in kept if not a.get("pageRead") or (key and not a.get("enriched"))][:MAX_PAGES_PAR_COLLECTE]
+    say(f"{len(found)} articles trouvés dans les flux, {len(todo)} page(s) à lire")
+    read = 0
     for a in todo:
+        if elapsed() > BUDGET_PAGES:
+            log.append("Lecture des pages interrompue (temps écoulé), reprise à la prochaine collecte")
+            break
+        read += 1
+        if read % 10 == 0:
+            say(f"{read} pages lues")
         a["url"] = resolve_google(a["url"])
         desc, excerpt = read_page(a["url"])
         a["_desc"], a["_excerpt"] = desc, excerpt
         if desc and not a.get("summary"):
             a["summary"] = clean_text(desc, 400)
         a["pageRead"] = True
-    if todo:
-        log.append(f"{len(todo)} page(s) d'articles lue(s)")
+    if read:
+        log.append(f"{read} page(s) d'articles lue(s)")
 
     curated = json.loads(CURATED.read_text(encoding="utf-8")) if CURATED.exists() else []
     for c in curated:
