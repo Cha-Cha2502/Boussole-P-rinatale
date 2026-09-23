@@ -21,6 +21,7 @@ concurrency:
 jobs:
   collecte:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -31,10 +32,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Installer la lecture des flux RSS
-        run: pip install feedparser
+      - name: Installer les outils
+        run: pip install feedparser googlenewsdecoder
 
       - name: Collecter les articles
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           if [ -f scripts/collecte.py ]; then python scripts/collecte.py; else python collecte.py; fi
 
