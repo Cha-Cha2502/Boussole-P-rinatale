@@ -327,6 +327,7 @@
   .src-details summary{cursor:pointer; font-weight:600;}
   .src-details ul{list-style:disc; padding-left:18px; margin-top:6px; line-height:1.6;}
   .summary.muted{color:var(--ink-faint); font-style:italic;}
+  .sum-note{margin:4px 0 0; font-size:.72rem; color:var(--ink-faint);}
 </style>
 </head>
 <body>
@@ -389,8 +390,9 @@
           <div class="stat"><b id="statCount">–</b><span>articles</span></div>
           <div class="stat"><b id="statDate">–</b><span>dernière collecte</span></div>
         </div>
-        <p class="note" style="margin:0;">Les articles sont collectés chaque jour à partir de flux RSS et de recherches Google Actualités, puis filtrés par mots-clés. Le texte affiché est le chapô publié par la source ; les articles marqués « Vérifié » ont été relus à la main. Toujours se référer à la source.</p>
+        <p class="note" style="margin:0;">Les articles sont collectés chaque jour à partir de flux RSS et de recherches Google Actualités. Gemini écarte ceux hors sujet, rédige les résumés et propose les points de discussion ; les articles marqués « Vérifié » ont été relus à la main. Toujours se référer à la source.</p>
         <details class="src-details"><summary>Sources surveillées</summary><ul id="sourceList"></ul></details>
+        <p class="note" id="iaNote" style="margin:0;" hidden></p>
         <p class="note" id="errNote" style="margin:0;" hidden></p>
       </div>
 
@@ -430,7 +432,7 @@
   }
 
   var articles = [];
-  var feedInfo = {updatedAt:null, sources:[], errors:[]};
+  var feedInfo = {updatedAt:null, sources:[], errors:[], journal:[]};
   var loadState = "loading"; // loading | ok | error
   var PAGE = 8;
 
@@ -506,8 +508,8 @@
     var res = await fetch("articles.json?t=" + Date.now(), {cache:"no-store"});
     if(!res.ok) throw new Error("HTTP " + res.status);
     var data = await res.json();
-    articles = (data.articles || []).filter(function(a){ return a && a.id && a.title && CATS[a.category]; });
-    feedInfo = {updatedAt:data.updatedAt, sources:data.sources || [], errors:data.errors || []};
+    articles = (data.articles || []).filter(function(a){ return a && a.id && a.title && CATS[a.category] && !a.horsSujet; });
+    feedInfo = {updatedAt:data.updatedAt, sources:data.sources || [], errors:data.errors || [], journal:data.journal || []};
     loadState = "ok";
   }
   function rerenderAll(){
@@ -586,9 +588,12 @@
     if(a.curated) tags += '<span class="pill ok">Vérifié</span>';
     var id = escapeHtml(a.id);
     var bodyId = "body-" + scope + "-" + id;
+    var note = a.summaryAI ? "Résumé rédigé automatiquement par Gemini à partir de l'article — à vérifier dans la source."
+      : (!a.curated && a.summary ? "Présentation publiée par la source." : "");
     var summary = a.summary
-      ? '<p class="summary">' + escapeHtml(a.summary) + '</p>'
-      : '<p class="summary muted">Pas de résumé fourni par la source — ouvrez l\'article pour le lire.</p>';
+      ? '<p class="summary">' + escapeHtml(a.summary) + '</p>' + (note ? '<p class="sum-note">' + note + '</p>' : '')
+      : '<p class="summary muted">Pas de résumé disponible pour le moment — ouvrez l\'article pour le lire.</p>';
+    var pts = (a.points || []).filter(Boolean);
     return (
       '<article class="card" id="card-' + scope + '-' + id + '">' +
         '<button class="fav-btn" data-fav="' + id + '" aria-pressed="' + isFav + '" aria-label="' + (isFav ? "Retirer des favoris" : "Ajouter aux favoris") + '">' +
@@ -606,7 +611,11 @@
           summary +
           '<div class="card-actions">' +
             '<a class="src-link" href="' + escapeHtml(safeUrl(a.url)) + '" target="_blank" rel="noopener" data-src="' + id + '">Lire la source ↗</a>' +
+            (pts.length ? '<button class="cp-btn" data-cp="' + id + '" aria-expanded="false">Points de discussion</button>' : '') +
           '</div>' +
+          (pts.length ? '<div class="cp-panel" hidden><ul class="cp-list">' +
+            pts.map(function(p){ return '<li>' + escapeHtml(p) + '</li>'; }).join("") +
+            '</ul><p class="cp-note">Pistes générées automatiquement à partir de cet article — à adapter à chaque accompagnement et à vérifier avec les professionnels concernés.</p></div>' : '') +
         '</div>' +
       '</article>'
     );
@@ -640,6 +649,13 @@
     });
     container.querySelectorAll("[data-src]").forEach(function(link){
       link.addEventListener("click", function(){ logHistory(link.getAttribute("data-src")); });
+    });
+    container.querySelectorAll("[data-cp]").forEach(function(btn){
+      btn.addEventListener("click", function(){
+        var panel = btn.closest(".card-body").querySelector(".cp-panel");
+        panel.hidden = !panel.hidden;
+        btn.setAttribute("aria-expanded", !panel.hidden);
+      });
     });
     container.querySelectorAll("[data-more]").forEach(function(btn){
       btn.addEventListener("click", function(){
@@ -765,6 +781,10 @@
     var err = document.getElementById("errNote");
     err.hidden = !feedInfo.errors.length;
     err.textContent = feedInfo.errors.length ? "Sources non joignables lors de la dernière collecte : " + feedInfo.errors.map(function(e){ return e.split(" : ")[0]; }).join(", ") + "." : "";
+    var ia = feedInfo.journal.filter(function(l){ return /^IA/.test(l); });
+    var iaEl = document.getElementById("iaNote");
+    iaEl.hidden = !ia.length;
+    iaEl.textContent = ia.length ? "Dernière collecte — " + ia.join(" · ") : "";
   }
   document.getElementById("settingsBtn").addEventListener("click", function(){
     updateSettingsInfo(); overlay.hidden = false;
