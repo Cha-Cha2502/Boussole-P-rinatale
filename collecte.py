@@ -18,10 +18,12 @@ from urllib.parse import quote, urlparse
 
 import feedparser
 
-ROOT = Path(__file__).resolve().parent.parent
+# Fonctionne avec les fichiers rangés en dossiers (scripts/, site/) ou tous à la racine du dépôt
+HERE = Path(__file__).resolve().parent
+ROOT = HERE.parent if HERE.name == "scripts" else HERE
 SOURCES = ROOT / "sources.json"
 CURATED = ROOT / "curated.json"
-OUT = ROOT / "site" / "articles.json"
+OUT = (ROOT / "site" / "articles.json") if (ROOT / "site").is_dir() else (ROOT / "articles.json")
 UA = "Mozilla/5.0 (compatible; BoussolePerinatale/1.0; +https://github.com)"
 NOW = datetime.now(timezone.utc)
 
