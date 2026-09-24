@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23T20:41:15+00:00",
+ "updatedAt": "2026-09-24T05:14:28+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -11,20 +11,10 @@
   "Franceinfo Santé",
   "Google Actualités (recherches par mots-clés)"
  ],
- "errors": [
-  "Google Actualités « \"santé périnatale\" OR périnatalité » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « post-partum étude » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « grossesse recommandation HAS OR \"Santé publique France\" » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « \"congé de naissance\" OR \"congé supplémentaire de naissance\" » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « maternité fermeture OR moratoire » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « sages-femmes ministère OR loi OR réforme » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « \"dépression post-partum\" » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « accouchement témoignage » : <unknown>:2:252: not well-formed (invalid token)",
-  "Google Actualités « allaitement OR \"baby blues\" OR doula » : <unknown>:2:252: not well-formed (invalid token)"
- ],
+ "errors": [],
  "journal": [
-  "40 page(s) d'articles lue(s)",
-  "IA : 100 article(s) résumé(s) et commenté(s)"
+  "19 page(s) d'articles lue(s)",
+  "IA : 19 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -37,7 +27,9 @@
   "a-a47795bf04c4": "2026-09-16",
   "a-9d46d6794a2d": "2026-09-16",
   "a-e0fcdee05993": "2026-09-15",
-  "a-10b5a874709a": "2026-09-15"
+  "a-10b5a874709a": "2026-09-15",
+  "a-3fafff3725a1": "2026-09-12",
+  "a-675b6b33f77a": "2026-09-08"
  },
  "articles": [
   {
@@ -819,6 +811,48 @@
    "enriched": true
   },
   {
+   "id": "a-cda75c914947",
+   "category": "sci",
+   "priority": false,
+   "title": "Procès de Lindsay Clancy: c'est quoi, une psychose post-partum?",
+   "source": "Blick",
+   "date": "13 septembre 2026",
+   "sortDate": "2026-09-13",
+   "url": "https://www.blick.ch/fr/monde/lindsay-clancy-signes-et-frequence-de-la-psychose-post-partum/dpwqpkc",
+   "summary": "Le procès médiatisé d'une mère de famille met en lumière la question de la psychose post-partum, un trouble de santé mentale sévère caractérisé par une perte totale de contact avec la réalité. L'affaire illustre la complexité de la prise en charge de cette pathologie et rappelle l'importance d'une vigilance médicale face aux signes de détresse psychologique pendant ou après la grossesse.",
+   "auto": true,
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Être particulièrement attentive aux signes avant-coureurs de détresse psychologique sévère, d'insomnies persistantes ou d'idées noires chez les jeunes parents.",
+    "Encourager sans attendre les parents à consulter un médecin ou à contacter des lignes d'écoute spécialisées dès qu'un comportement ou un mal-être inhabituel est repéré.",
+    "Garder strictement à l'esprit qu'un trouble psychique sévère relève de la prise en charge médicale d'urgence et ne pas tenter de poser de diagnostic ou de traiter la pathologie."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-12bef488dfe9",
+   "category": "sci",
+   "priority": false,
+   "title": "Grossesse et post-partum, quand le mal-être dépasse le « baby blues »",
+   "source": "Benin Web TV",
+   "date": "13 septembre 2026",
+   "sortDate": "2026-09-13",
+   "url": "https://beninwebtv.bj/grossesse-et-post-partum-quand-le-mal-etre-depasse-le-baby-blues/",
+   "summary": "L'article rappelle que la dépression périnatale et l'anxiété peuvent survenir dès la grossesse ou après l'accouchement, en allant au-delà du simple baby blues. Il souligne l'importance d'un dépistage précoce et régulier par des professionnels de santé à l'aide d'outils validés lorsque les symptômes persistent. Les signes d'alerte incluent une tristesse durable, une fatigue intense, des troubles du sommeil ou de l'appétit, ainsi qu'une difficulté à nouer un lien avec le nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Sois attentive aux signes de détresse psychologique et encourage les parents à consulter un professionnel de santé dès que la souffrance s'installe.",
+    "Rappelle aux parents que le baby blues est passager, tandis qu'une anxiété ou une tristesse prolongée au-delà de deux semaines nécessite une évaluation médicale.",
+    "Garde bien en tête ton rôle non médical : tu offres une écoute bienveillante et un espace de parole, mais tu ne poses aucun diagnostic de dépression."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-fa8ee6965f49",
    "category": "sci",
    "priority": false,
@@ -826,10 +860,60 @@
    "source": "Actu.fr",
    "date": "11 septembre 2026",
    "sortDate": "2026-09-11",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYUhtM05ZUncwdmQzUkNkWnp2bngzUnlzWks0dUthclpjNEs0YmI4RUlpcXl4eG9xa2dOQWRfX2F4NGJVTG1qTzlqWjJXRzMzdC1UYTlzMThhUmxsWjJ4NWhzellueXZYUktkSFNuWVhwampVUFFmaWhHV05SYm42Z2dZN3l4bzdDMVYwM2hNenJGNGtxWTdaR25wSUxGcjFQMzVHbzg4elZQN2hwRW5QUE9fMlc4bE44djRnZldtX29xanBLM3BTYUZieWFabzk3RG9YbXpwd1pET2tXeWVadkxPdzZWekZySm8tZksyZzA?oc=5",
-   "summary": "",
+   "url": "https://actu.fr/occitanie/belberaud_31057/sante-en-haute-garonne-cette-jeune-osteopathe-formee-en-perinatalite-ouvre-son-cabinet-pres-de-toulouse_64775651.html",
+   "summary": "Une jeune ostéopathe fraîchement diplômée a ouvert un cabinet spécialisé dans l'accompagnement de la grossesse et du post-partum près de Toulouse. Sa formation s'est notamment enrichie d'un stage en maternité qui lui a fait prendre conscience du manque d'information des mères concernant les douleurs post-natales. Elle a complété son parcours par une formation en périnatalité afin de proposer un suivi ciblé sur le bien-être maternel.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Reconnaître l'importance d'informer en amont les parents sur les bouleversements physiques et émotionnels du post-partum.",
+    "Collaborer étroitement avec des professionnels de santé spécialisés en périnatalité pour orienter les mères souffrant de douleurs.",
+    "Maintenir une posture de soutien non médical tout en valorisant la complémentarité des soins corporels pour le bien-être des femmes."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3b25d5bd21d4",
+   "category": "sci",
+   "priority": false,
+   "title": "Mort d’un nouveau-né: une consultante en allaitement accusée d’avoir pratiqué illégalement la dentisterie",
+   "source": "Noovo Info",
+   "date": "11 septembre 2026",
+   "sortDate": "2026-09-11",
+   "url": "https://www.noovo.info/videos/2026/09/11/mort-dun-nouveau-ne-une-consultante-en-allaitement-accusee-davoir-pratique-illegalement-la-dentisterie/",
+   "summary": "Une consultante en allaitement a été accusée par l'Ordre des dentistes du Québec d'exercice illégal de la profession à la suite du décès d'un nouveau-né après une frénotomie. Cet événement met en lumière les risques liés au dépassement des compétences professionnelles dans la prise en charge des nourrissons. L'affaire souligne la nécessité d'un strict respect des champs d'intervention médicale.",
+   "auto": true,
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Veiller rigoureusement à ne jamais pratiquer d'actes ou de gestes réservés aux professionnels de santé, tels que la frénotomie.",
+    "Redoubler de vigilance sur les limites de son rôle d'accompagnante et orienter systématiquement vers le corps médical pour tout problème anatomique ou physiologique.",
+    "Aborder avec prudence la question des freins restrictifs en se limitant à une écoute bienveillante et à une orientation médicale adaptée."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ca27ba3fbd68",
+   "category": "sci",
+   "priority": false,
+   "title": "Anôsy : Sensibilisation sur l’importance de l’allaitement maternel",
+   "source": "Moov.Mg",
+   "date": "10 septembre 2026",
+   "sortDate": "2026-09-10",
+   "url": "https://www.moov.mg/article/120932-anosy-sensibilisation-sur-limportance-de-lallaitement-maternel",
+   "summary": "Des campagnes de sensibilisation menées par les autorités sanitaires rappellent les bienfaits de l'allaitement exclusif jusqu'à six mois pour protéger la santé des mères et des nouveau-nés. En parallèle, des formations sont dispensées aux agents de santé pour renforcer la qualité des soins néonatals en milieu hospitalier.",
+   "auto": true,
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Transmettre aux parents des informations factuelles sur les recommandations de l'OMS concernant l'allaitement et les soins du nouveau-né.",
+    "Soutenir la confiance des mères dans leurs capacités physiologiques à nourrir et prendre soin de leur bébé au quotidien.",
+    "Laisser l'évaluation médicale de la santé du nourrisson et de la mère aux professionnels habilités lors des suivis de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-ccbb2c825354",
@@ -869,6 +953,27 @@
     "Intégrer la santé reproductive et le droit à disposer de son corps comme des composantes globales du bien-être des femmes.",
     "Être une ressource d'écoute bienveillante et neutre pour orienter les personnes vers les structures adaptées.",
     "Respecter strictement le choix des parents en matière de parentalité et de planification, hors de tout jugement moral."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-828fc16e28f5",
+   "category": "pol",
+   "priority": true,
+   "title": "Interruptions volontaires de grossesse : quel bilan en 2025, 50 ans après la loi Veil ?",
+   "source": "Vie publique",
+   "date": "23 septembre 2026",
+   "sortDate": "2026-09-23",
+   "url": "https://www.vie-publique.fr/en-bref/304704-interruptions-volontaires-de-grossesse-259-400-ivg-en-2025",
+   "summary": "Cet article aborde le bilan de l'interruption volontaire de grossesse en 2025, un demi-siècle après l'adoption de la loi Veil. Aucun détail textuel supplémentaire n'est fourni pour développer ce bilan.",
+   "auto": true,
+   "addedAt": "2026-09-24T05:14:28+00:00",
+   "pageRead": true,
+   "points": [
+    "Se tenir informée des évolutions législatives et des droits relatifs à l'interruption de grossesse pour orienter au mieux les parents si la question se pose.",
+    "Maintenir une posture d'écoute neutre et bienveillante, sans jamais juger les choix des personnes accompagnées en matière de santé reproductive.",
+    "Rappeler aux parents que les aspects médicaux de l'IVF relèvent strictement des professionnels de santé qualifiés."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1506,23 +1611,39 @@
    "source": "BFM",
    "date": "13 septembre 2026",
    "sortDate": "2026-09-13",
-   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPSXk2WnRfcmdqNnJkMVUxVHVseEtkYXNPWlYtSy1WWnNfRFZTNG43dUJiTVBxZ2lXVXpkMmk4VUtyaUlWcWVyVW5GWEJ1QnhJaVNjVlN6Y1pudDVMcnNJdnRzQ0tfU3NRQmFfeXFLd3ZZNHRWdGRhN2dUdkVNbEZ5VVl4czNzZ3FnNVdUTDFER2pqXzNFT1lyMlZ3T3VaUEtOTVN5UkE1bU9PRkNCelBfY3NKeGxDU1FrSGVGYTlHLVFCVVZzdTNVNHdGTGhDMGlFMUV1aEF0Z0V3SExMQ19EcTcyYnc4eE45UDVvejNHRHNhc1lFWmpMSThzVlJicFZnQV9RTW1vdm10Tjd0dC1EcVljcmt5OEkzNUVhYkM3NGszMGxyX1NMMVR5SGN0Y210blFpQmU1RUJla0N3OGxHNV9NdV83Yy1rckJMQUQzTEZUdmlnbEd3NkRpcjdFQ1JLLXgzN1VDR2FXLWphUmNJ?oc=5",
-   "summary": "",
+   "url": "https://www.bfmtv.com/economie/economie-social/ils-ont-fait-la-pub-partout-de-ce-droit-qu-ils-ne-sont-pas-fichus-de-respecter-submergee-par-110-000-demandes-l-assurance-maladie-peine-a-indemniser-a-temps-le-nouveau-conge-de-naissance_AV-202609130038.html",
+   "summary": "Le nouveau congé supplémentaire de naissance, entré en vigueur en juillet dernier, permet aux parents de prolonger leur arrêt de travail pour s'occuper de leur bébé. Toutefois, de nombreux assurés rencontrent des retards importants de versement de leurs indemnités journalières de la part de l'Assurance maladie.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents qui s'interrogent sur ce congé des éventuels délais administratifs et du fonctionnement du paiement à terme échu.",
+    "Écouter et valider l'anxiété financière que peuvent ressentir les familles face aux retards de versement de leurs indemnités dans le post-partum.",
+    "Rappeler qu'en tant que doula, vous n'avez pas de rôle administratif ou de recours à exercer auprès de la CPAM à leur place."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-47438c9817cc",
    "category": "pol",
    "priority": false,
    "title": "Congé de naissance : pourquoi certains parents attendent encore leurs indemnités",
-   "source": "Parents.fr",
+   "source": "parents.fr",
    "date": "13 septembre 2026",
    "sortDate": "2026-09-13",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYkEtMnNQX0dnZXRoXzZQbV90aGMxVVdoQ0prc3hRc3c1UXdVYmRhNGhHVnFGUWlLRXdoY0QxNEVzQXZta1pKSmlkS2xBaFJfQktTZXNtX2o1UjlIcjFWVzZkaDBWSHllc1hCZzVwSEM4Slo0cFhEMVh0dEVaT1pHdHRQckc3U254d0FpQ19RZUlfWTg1cnBKREo1NTZJMFV3NkJzeVd3cDZfbmFrd3Y2cjRrcndoZEZ4QU1acGdRUHFoOFhUN0JtU3JDTWptUDdwdnBjNg?oc=5",
-   "summary": "",
+   "url": "https://www.parents.fr/actualites/etre-parent/conge-de-naissance-des-parents-toujours-sans-indemnites-lassurance-maladie-sexplique-1156843",
+   "summary": "Les retards de paiement du congé supplémentaire de naissance s'expliquent par un versement à terme échu et par la fréquence des dossiers ou formulaires incomplets transmis par les assurés et les employeurs. L'Assurance maladie précise que les versements interviennent en moyenne onze jours après la période concernée lorsque le dossier est complet.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Aider les parents à anticiper ces démarches administrutives en amont pour éviter les oublis de pièces justificatives.",
+    "Offrir un espace de parole aux jeunes parents stressés par la gestion administrative et financière de leur arrivée à la maison.",
+    "S'abstenir de toute intervention ou conseil juridique direct sur l'exactitude des dossiers administratifs et renvoyer vers les organismes compétents."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-1d310859b2f3",
@@ -1532,10 +1653,18 @@
    "source": "Orange Actualités",
    "date": "13 septembre 2026",
    "sortDate": "2026-09-13",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbTRtVHI4WU9DUXVaYWJWWFRITTZZQjYzQWQtaDAwUndkM19aaC01ckNMSE9zWHVWSnc3VFRYOWptUjI5bkFkZVNDMVMtOFdMUm9weEgyR1FZcXNVbUZsdmliaTlqYlprb2dOUFNNNU9UdW5LRTZmV2RWaUNCUHBPTzI0NldIWTFEak5UOERZR0FydFprQnhqVHVlNEN0c0VuUEd1STRyVnFMdEZBRGlOUC0xV3NYX1h3UE9ycnVPd0tTdld3Y0t5MzlyNnppZWxfZHVMTVE3RVppbWJZVFYwMDMzVkZYekluUV9Bb2VR?oc=5",
-   "summary": "",
+   "url": "https://actu.orange.fr/france/un-droit-qu-ils-ne-sont-pas-fichus-de-respecter-le-conge-de-naissance-peine-a-payer-ses-beneficiaires-magic-CNT000002rSlWk.html",
+   "summary": "Le congé supplémentaire de naissance, instauré pour offrir un temps additionnel aux parents après l'arrivée d'un enfant, suscite la frustration de nombreux bénéficiaires en raison de retards notables de versement. Ce dispositif prévoit une indemnisation dégressive sur un ou deux mois, calculée à partir du salaire brut dans la limite du plafond de la Sécurité sociale.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter de l'organisation matérielle du post-partum en tenant compte de la réalité financière et des potentiels délais de versement des aides.",
+    "Accueillir le mécontentement et la déception des parents face aux dysfonctionnements administratifs avec empathie et soutien émotionnel.",
+    "Ne pas se substituer aux organismes sociaux pour expliquer le calcul exact des indemnités journalières."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-667ad65cdac0",
@@ -1546,9 +1675,17 @@
    "date": "12 septembre 2026",
    "sortDate": "2026-09-12",
    "url": "https://unssf.org/2026/09/12/%f0%9f%8e%99%ef%b8%8f-jlargo-2026-lunssf-porte-la-voix-des-sages-femmes-en-occitanie/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2599%25ef%25b8%258f-jlargo-2026-lunssf-porte-la-voix-des-sages-femmes-en-occitanie",
-   "summary": "Laurence Cassé représentait l’UNSSF à La Grande-Motte lors d’une table ronde sur l’avenir des ressources humaines en périnatalité en région L’article 🎙️ JLARGO 2026 : l’UNSSF porte la voix des sages-femmes en Occitanie est apparu en premier sur UNSSF - Union Nationale et Syndicale des Sages-Femmes .",
+   "summary": "Des représentants syndicaux de sages-femmes se sont réunis pour débattre des tensions de recrutement et de l'organisation des ressources humaines en périnatalité. Les discussions ont mis en avant la nécessité de repenser les modes de collaboration et de renforcer les liens entre les différents professionnels du secteur. L'enjeu est de peser collectivement sur les évolutions de la profession et de l'offre de soins.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Renseigne-toi sur l'organisation des soins périnataux et les difficultés rencontrées par les sages-femmes de ton secteur pour mieux comprendre le contexte local.",
+    "Tisse des liens étroits avec les sages-femmes libérales et hospitalières de ta région afin de fluidifier le parcours des parents que tu accompagnes.",
+    "Rappelle toujours aux familles que les sages-femmes sont les professionnelles médicales de référence pour le suivi de la grossesse et du post-partum."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-7413709a089f",
@@ -1558,36 +1695,39 @@
    "source": "Actu.fr",
    "date": "12 septembre 2026",
    "sortDate": "2026-09-12",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPV2Q2LU9yaTBSMENCYUVidEJMcjNaNzBHT1Rkb0ZqczJVcjlWb041Skl6UFdJb1NCU1ZwUjhURGcyekNPdllVYlQxRFJsQ0xBS0E0d1J1LWoxYk4yYlVRRk5Zd3RGRXVGY3kyYXVHSVZ4cnY0SGxtZF91eF9ldlRQZ1FSU0RiVk9RUWVWdEFnVkdxbzFkZ2oza052VHVzY292R2JxNGpQTFc5N0lxWkpheC1ubXhiMjhaZFRoSkYyU09DR0I5bWtsLTNNY1lranQzV3NObUc4SXcybVJZcmw3UVVlSURGOEhsNTR1d2RKMGRCTkY2Q3NQRzB5ZTNRVkFCWjRBT3FoN21JYlpH?oc=5",
-   "summary": "",
+   "url": "https://actu.fr/ile-de-france/tournan-en-brie_77470/cest-la-derniere-maternite-privee-de-seine-et-marne-a-tournan-le-personnel-se-prepare-a-la-la-fermeture-du-service_64781104.html",
+   "summary": "Le personnel de l'unique maternité privée de Seine-et-Marne, située à Tournan-en-Brie, se mobilise face au projet de fermeture définitive de leur service. Malgré une centaine de naissances annuelles, la structure fait face à des décisions de gestion qui inquiètent fortement les salariés et syndicats. Cette situation illustre les difficultés d'accès aux soins et la réduction des structures de naissance sur certains territoires.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
-  },
-  {
-   "id": "a-3fafff3725a1",
-   "category": "pol",
-   "priority": false,
-   "title": "Voiture en feu sur l’A13 à Mantes-la-Ville : une femme enceinte et son enfant de 2 ans sont décédés",
-   "source": "InfoNormandie",
-   "date": "12 septembre 2026",
-   "sortDate": "2026-09-12",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckZtaUtmdEJ1Z3k3LVkzQmJmSVk0YktibGV0VlRZS2lTSXpMaG52SGNuRWJ4VWV1X1dEWk5vVlNabDhhVG5fRi1XcEhqSGE0cWlCQ05VMTdBQzFVZFotRzRmRWJmeDhUcnRyTC1VempCQWZpZEZ3OHdJNnBaRnotMnNPQjFlN1h3UXcyRjczVUc5blJVWHZFTE82eEhTSW1zYXMzbzhpRXVzUUJJRF93ay1WakF1SnNKX3NNek5UR3lNa1VrU0JZRXRKd21RdER6ck9RYVNB?oc=5",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Sois à l'écoute des inquiétudes des parents face à la saturation ou à la fermeture des structures de naissance proches de chez eux.",
+    "Aide les futurs parents à anticiper leur plan de naissance en tenant compte des réalités géographiques et des options de structures disponibles localement.",
+    "Oriente les familles vers les réseaux de santé périnatale pour les informer de leurs droits et des alternatives d'accompagnement en cas de modification de l'offre de soins."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-e1b3aac33f4f",
    "category": "pol",
    "priority": false,
    "title": "Retraite : comment valider un trimestre avec le nouveau congé supplémentaire de naissance ?",
-   "source": "boursorama.com",
+   "source": "Boursorama",
    "date": "11 septembre 2026",
    "sortDate": "2026-09-11",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNU90ME1yTkttUTlPOHFBMURueTVCWFZjRGJPbXNkWTdWVmRVT3FiM2RYTVJDemFBUG14cVNUM1RUVUY5czhQWm41QjF5dTAwczdhYm1qbXhNRlJXV3lJNVVORkltS3VSSF9JSllMcTBhT1Ixb1JYd1JyVW5DNGhDN25Dd3pRVmZvSjFMaktEcXA3WFFnZUw4SGctWTNtOEhoZ29rdnBTNVhCbUYtdC1nTnAzVnBLYUszV3hrdGltSjY0RlFQREl5ZkVvTXIxVVFZSnlmdG5nMUpTN29nbHBnZlk3dmlSM05PVExMN25YNng2c2ktbjJ3WXZTb1ZEU05Uc3B6R2530gGLAkFVX3lxTE5aMEVRYmlsQXN3eko5ZVlJeDl3WGFFTUpXRzJCNkFGbHB2QXQxS1YyaGtNNmx4TVBrb1plT1dUS1Zqd3oyalZ0SEh5V0dXZW1yelExeHo1LUlUR1F3MzJ5WXQ1eTcwbFJrM0JyYmI1OTh4NVRlWEpuaHNvUmx4MEg4ZjdybndwWV93MUdGRnhvVDBqQzdjazY2SmpBZ0s2bk04LWZSWUhjVWF1Q3dFU1I0dXhPOXIwRmVBQ1FLWjQtajM5WEE2cGdRZHRaUkJFV1cxek5tbV9kV21sdndhQzh0SHdCRFNfWDFyYklQSjZaMk0xeksxOEE5bnJadDFZdjFxQWlyWC1CSEJyMA?oc=5",
-   "summary": "",
+   "url": "https://www.boursorama.com/epargne/retraite/actualites/retraite-comment-valider-un-trimestre-avec-le-nouveau-conge-supplementaire-de-naissance-ea883dbcc21fa0f56195dadd7abe64fe",
+   "summary": "Un congé supplémentaire de naissance d'une durée maximale de deux mois est entré en vigueur pour les parents ayant eu ou adopté un enfant depuis le 1er janvier 2026. Ce dispositif flexible peut être pris par l'un ou l'autre des parents, de manière conjointe ou fractionnée, dans les neuf mois suivant la naissance. Il offre une indemnisation partielle par la Sécurité sociale et permet de valider un trimestre au titre de l'assurance retraite.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les futurs parents de l'existence de ce nouveau congé et de ses modalités de prise pour les aider à anticiper l'organisation des premiers mois.",
+    "Discuter avec le coparent de sa place et de la possibilité de s'investir concrètement dans l'accueil du nouveau-né grâce à ce dispositif.",
+    "Orienter les familles vers les organismes administratifs compétents pour toute question précise liée aux indemnités et aux droits à la retraite."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-6e3b2a6809ed",
@@ -1597,23 +1737,18 @@
    "source": "Parents.fr",
    "date": "10 septembre 2026",
    "sortDate": "2026-09-10",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT3pHcEtRVVVRUXZtVGNucEJ5clFiMDJPRjJqUm5LSWpodS1SazYzMFNLdTZRcXd0NW9tZnE2YV91VmpVQnhzUWo5Y2ZhenF1Z05RQzVtWkV3bWFBWl9xLU5BQ1Q0OW9iMFJfendCR0Z3UGIzZGdaWVF0Zl9wa0tfQnR1OXh1d3g2T0pmNFhIdE9SZkFZa2x1SjFqcGQwSlRKb2ppN25VY1dkc3BwZ1ZmUERtRXdHVUUxbVR3UmtSY1p5b2RWdjFIcEV1eTZqM0JydTNkZDFkeVVPdWJVZEk2TWd4VlFVRU1Lc1pVNHBEcWhpcDFwN0pFNHYzTWZKcVNRM204U2hyajNDUDly?oc=5",
-   "summary": "",
+   "url": "https://www.parents.fr/actualites/etre-parent/conge-obligatoire-teletravail-le-haut-conseil-a-legalite-propose-45-mesures-pour-que-la-maternite-ne-freine-plus-les-carrieres-1156721",
+   "summary": "Un rapport du Haut Conseil à l'égalité met en lumière l'impact négatif de la maternité sur la carrière et les revenus des femmes, qualifié de pénalité maternelle. Parmi les 45 mesures proposées pour rééquilibrer la charge parentale figure la création d'un mois de congé obligatoire pour le second parent.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
-  },
-  {
-   "id": "a-675b6b33f77a",
-   "category": "pol",
-   "priority": false,
-   "title": "🚨 Sages-femmes Maîtres de Stage Universitaire : l’UNSSF dit NON à une rémunération au rabais !",
-   "source": "UNSSF (sages-femmes)",
-   "date": "8 septembre 2026",
-   "sortDate": "2026-09-08",
-   "url": "https://unssf.org/2026/09/08/%f0%9f%9a%a8-sages-femmes-maitres-de-stage-universitaire-lunssf-dit-non-a-une-remuneration-au-rabais/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%259a%25a8-sages-femmes-maitres-de-stage-universitaire-lunssf-dit-non-a-une-remuneration-au-rabais",
-   "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire. L’article 🚨 Sages-femmes Maîtres de Stage Universitaire : l’UNSSF dit NON à une rémunération au rabais ! est apparu en premier sur UNSSF - Union Nationale et Syndicale des Sages-Femmes .",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les couples la question de la répartition des tâches et du congé du second parent pour préparer l'organisation du post-partum.",
+    "Offrir un espace d'écoute aux mères sur leur charge mentale professionnelle et personnelle, sans jamais porter de jugement sur leurs choix de carrière.",
+    "Rappeler que la doula soutient le couple dans son organisation pratique mais ne se positionne pas sur les aspects juridiques ou salariaux du congé."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-dc7d8aef88c3",
@@ -1992,43 +2127,25 @@
    "enriched": true
   },
   {
-   "id": "a-cda75c914947",
-   "category": "soc",
-   "priority": false,
-   "title": "Procès de Lindsay Clancy: c'est quoi, une psychose post-partum?",
-   "source": "Blick",
-   "date": "13 septembre 2026",
-   "sortDate": "2026-09-13",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW04eG5PbzhkRVlrNmVjblM1MFNJcVg5TUpHd2l4aHlGSzMwNktkcEVxakdOWnBSM0hhbW5PeGMwMHBzd3daWHhfR2FabFRhR2hXQzZWQ1FXWXRrYlZlN0pfYk0zUlhlVFNiTFo5TGhDS2ZhZU80UmJlTFljLXFnekJHTEFWMDZnSG50dXltU01ielJEbHF4MWdzQTRnWm1W?oc=5",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
-  },
-  {
-   "id": "a-12bef488dfe9",
-   "category": "soc",
-   "priority": false,
-   "title": "Grossesse et post-partum, quand le mal-être dépasse le « baby blues »",
-   "source": "Benin Web TV",
-   "date": "13 septembre 2026",
-   "sortDate": "2026-09-13",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOV94bGxOMU10SUFrekwyMUZVTFc1SFhlM3h0WFRCTjhrSWlrclEtNERCeHU5bGg4ZFJybjViTThMcmdzMzQzb2JLMXJCa0VQNDAtdzlDcGQzOVpLNzYxOHBwbTJFTUlJUTROTFhncXVLQ25yc3NyVEFkSFpjbGpRbGVwdjNfeDJQb2tpUkxoOHk?oc=5",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
-  },
-  {
    "id": "a-e1293b792a48",
    "category": "soc",
    "priority": false,
    "title": "Leur 4ème bébé naît dans la voiture avec l’aide d’un pompier : les parents choisissent alors un prénom très symbolique",
-   "source": "Parole de mamans",
+   "source": "paroledemamans.com",
    "date": "12 septembre 2026",
    "sortDate": "2026-09-12",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWlJZX1pBYWlhTkJBSVd3WFJtTlFsTXlIMXpTVi1PZGlIMW1wQmFnUmo1c2U3S1dBU19FZkI4eGJMbzRuX2MxVl9HcUI1T1dDeGp6bWxSQTFEN0dnc0w1bmhCN29QS0pOeEU5bEhibUpVTVlOanlncEt5Z3l1elBqbmh5ZnQyVlcxakR0Sm1Uc01VU0hmRW1vYWpKUklQVThZdWFlZDMxWXRRaXlHTEdGandHWV9fQkhZemk1YVVETHp0bFFTQ0U4WUZlcXU5MVp4YlRkVXdUNi1PdE9TMTh6czZqTVprQlVCVDdXbUlhdVFuWFFNb0hyOC0tLVpmZVNxejctY2ktbw?oc=5",
-   "summary": "",
+   "url": "https://paroledemamans.com/actualites/actualites-accouchement/leur-4eme-bebe-nait-dans-la-voiture-avec-laide-dun-pompier-les-parents-choisissent-alors-un-prenom-tres-symbolique",
+   "summary": "Une maman a accouché de son quatrième enfant de manière impromptue devant une caserne de pompiers, avec l'aide d'un sapeur-pompier et du futur papa. Le travail s'étant accéléré très rapidement sur la route, le bébé est né avant d'arriver à la maternité de Montpellier. La mère et l'enfant ont ensuite été pris en charge à l'hôpital et se portent bien.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborde la question du départ à la maternité avec les parents pour qu'ils sachent identifier les signes d'un travail rapide, sans céder à la panique.",
+    "Valorise la place du co-parent dans ton discours, en soulignant son rôle précieux de soutien et d'acteur lors de l'accouchement.",
+    "Rappelle que si un accouchement inopiné survient hors de l'hôpital, l'accompagnement par des secouristes ou des professionnels d'urgence est primordial en attendant les secours médicaux."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-e5b463d88888",
@@ -2038,23 +2155,18 @@
    "source": "ladepeche.fr",
    "date": "12 septembre 2026",
    "sortDate": "2026-09-12",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3hPcFF4VXZ2dzZoV0VFa3ViMnFDRFl1SGwxVGRiR1F4VUwzQ2tMRUx1VUtpYUdCanF4b1RhNENPcVRLT2VKd09iQUE5U0JQa05EZFBoQzNqdXVJMjEtZnhSMVItZ0htYTcwUjZWckJMS0tJYnB0dFh1TU5iRTJtRWFQclNrNm5DdUMxRDVxRFNncjFfVUNwRGVsMDdDd0JudGl4U3VvbkpCdw?oc=5",
-   "summary": "",
+   "url": "https://www.ladepeche.fr/2026/09/12/des-cafes-allaitement-pour-accompagner-les-jeunes-parents-13547500.php",
+   "summary": "Une communauté de communes met en place des « Cafés allaitement » animés par des professionnelles de la petite enfance et une consultante en lactation. Ces espaces de parole conviviaux permettent aux parents et futurs parents d'échanger sur l'allaitement, le sommeil, l'alimentation et la vie quotidienne avec un nouveau-né. L'objectif est de briser l'isolement en favorisant le soutien mutuel et le partage d'expériences entre familles.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
-  },
-  {
-   "id": "a-3b25d5bd21d4",
-   "category": "soc",
-   "priority": false,
-   "title": "Mort d’un nouveau-né: une consultante en allaitement accusée d’avoir pratiqué illégalement la dentisterie",
-   "source": "noovo.info",
-   "date": "11 septembre 2026",
-   "sortDate": "2026-09-11",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWERBSGFueXBOT1F6Rlh4Q0lkNXduTVhXdjhTRGRjUk1VVlQzQUtSOFJ5aEFqNmh0Y3hYcGl0WXl3NENxVDA3UjlYYXB1cW01VWlDVjlvaW5KTmZZN240ODNhWXA4ZW9kcjQwRHZtSk5lbFNZWGduV1NWSm9EenR6aENuRHY5cFVLV3lPNW03RmtwS3hwWmpiTlpIZjNIRFVqMkJaYWxucEdMZ2dGd3VSQnZRV0N1YUx2MWFMYXByQWU3RUVLdnhUWXYwU0xXcTZJVDhZZ3pJa2JiU2tv?oc=5",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "Orienter les parents vers ces groupes de parole locaux pour qu'ils puissent rompre l'isolement et partager leurs vécus.",
+    "S'appuyer sur l'existence de ces réseaux de soutien communautaires pour compléter son propre accompagnement émotionnel.",
+    "Rappeler aux parents que les questions pratiques liées à l'allaitement peuvent aussi être partagées avec des professionnels spécialisés."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-a09df020dccc",
@@ -2064,10 +2176,18 @@
    "source": "Parents.fr",
    "date": "11 septembre 2026",
    "sortDate": "2026-09-11",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFFMNXJRVzlRM1JKbDJ0Vk9kb1lseDlaYTZWUzBhNE9xSmt2cWRVWnhKeWNHRXVCalptQjIyZFM5SW80U2F4Wmg3TDJuM2VicEpYR3J6V0M0VVRoVFY5M2dzSGZEc3Z0OXBVYW9yb1NQVTJzaG96OE94RzI2SW53Y293MFNfcTc2WGhGbTd2eEhhQXRVR2g5WHdveWZYbzRfZkNHek5WLVI3eDV1czV4ZzRMMWJhTlp0TDZnSmZPQ1VaZlNPNnlrWQ?oc=5",
-   "summary": "",
+   "url": "https://www.parents.fr/actualites/etre-parent/cela-nous-semble-naturel-ces-deux-belles-soeurs-allaitent-le-bebe-de-lautre-1156779",
+   "summary": "Deux belles-sœurs ont pris l'habitude d'allaiter occasionnellement les enfants l'une de l'autre par solidarité familiale et pour faire face aux situations d'urgence. Cette pratique d'entraide spontanée s'est mise en place naturellement dès les premiers jours du premier enfant. L'expérience illustre les liens étroits et l'adaptabilité que certaines mères développent autour de l'allaitement.",
    "auto": true,
-   "addedAt": "2026-09-23T19:58:04+00:00"
+   "addedAt": "2026-09-23T19:58:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute sans jugement aux parents qui partagent des modes d'organisation atypiques pour nourrir leur enfant.",
+    "Rappeler aux familles l'importance de s'informer sur les précautions sanitaires et les recommandations officielles concernant le partage de l'allaitement.",
+    "Garder une posture neutre face aux choix parentaux tout en incitant à la prudence sur le plan de la santé et de l'hygiène."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-bf9470e0f40a",
@@ -2077,23 +2197,18 @@
    "source": "Presse Agence",
    "date": "10 septembre 2026",
    "sortDate": "2026-09-10",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHI0UmFELUN4YndlME9NM04yVHluUFBUS0wtWjZqdGhLdGNPV2VJRDBLalQxendKaTZvOTY4OWFPMjZhc3hacHRMX3VlX05jdnVoM3E2eU1RdHNsZEZoalRuNWxVM2tmRFFKYWE1LTBETF9fOVhCVndvQjRBdXZnbXl6SUZ0a2tkQk5oS1VmdXpxUjdBNjl5TzZHSUJLdDhJZ3p0X2lxTE1LaU0ybTFJbWY0cUxhd1NhbVdiM0xSQQ?oc=5",
-   "summary": "",
+   "url": "https://presseagence.fr/cannes-sante-publique-le-forum-europeen-de-lallaitement-quitte-nice-et-sinstalle-sur-la-croisette/",
+   "summary": "Le Forum Européen de l'Allaitement déménage à Cannes pour rassembler experts et grand public autour de la périnatalité. Cet événement met en avant la nécessité d'améliorer l'accompagnement et l'information des familles dans un pays où la pratique de l'allaitement maternel reste faible.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
-  },
-  {
-   "id": "a-ca27ba3fbd68",
-   "category": "soc",
-   "priority": false,
-   "title": "Anôsy : Sensibilisation sur l’importance de l’allaitement maternel",
-   "source": "Moov.Mg",
-   "date": "10 septembre 2026",
-   "sortDate": "2026-09-10",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWpfZ1Q5WXBvRG9LQXcwdE8xLXNqb1hZSExKNUhlYjZCS3hZbm1qazBudWNhTEItTzZmY21sY01kRzdJa2tTdnZnOWUxTnJtOEw2ZDItM3NxTjhiWWJCZm5ta3diejZMSVhCZ0w4V1FRMERTTnV6RkJUdlFsVC12SVM2VWhMMGNseVpkdmw5eHhoRG5FeWphbVR0MkRMUQ?oc=5",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00"
+   "addedAt": "2026-09-23T19:25:43+00:00",
+   "pageRead": true,
+   "points": [
+    "S'informer sur les événements et ressources disponibles pour mieux orienter les parents en quête de soutien autour de l'allaitement.",
+    "Proposer une écoute bienveillante et sans pression sur le choix d'allaiter ou non, en respectant le projet de chaque parent.",
+    "Reconnaître ses propres limites et rediriger vers des consultantes en lactation certifiées (IBCLC) ou des professionnels de santé en cas de difficultés médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
   }
  ]
 }
