@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T05:14:28+00:00",
+ "updatedAt": "2026-09-25T05:14:39+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "19 page(s) d'articles lue(s)",
-  "IA : 19 article(s) résumé(s) et commenté(s)"
+  "18 page(s) d'articles lue(s)",
+  "IA : 18 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -29,7 +29,11 @@
   "a-e0fcdee05993": "2026-09-15",
   "a-10b5a874709a": "2026-09-15",
   "a-3fafff3725a1": "2026-09-12",
-  "a-675b6b33f77a": "2026-09-08"
+  "a-675b6b33f77a": "2026-09-08",
+  "a-6b1db9472646": "2026-09-25",
+  "a-e76403aee00f": "2026-09-24",
+  "a-c1233b6af103": "2026-09-24",
+  "a-97cd349f2670": "2026-09-22"
  },
  "articles": [
   {
@@ -413,6 +417,132 @@
    "enriched": true
   },
   {
+   "id": "a-9dc03f6cc4e0",
+   "category": "sci",
+   "priority": false,
+   "title": "Microbiote intestinal du nourrisson : l’importance des premiers aliments",
+   "source": "Presse Santé",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://www.pressesante.com/microbiote-intestinal-du-nourrisson-limportance-des-premiers-aliments/",
+   "summary": "Une étude récente montre que l'introduction des premiers aliments modifie non seulement la diversité des espèces du microbiote intestinal du nourrisson, mais aussi ses fonctions et ses capacités à transformer les nutriments. L'évolution de ce microbiote est également liée à la durée de l'allaitement et varie selon le mode d'alimentation, tout en confirmant que les recommandations alimentaires générales restent inchangées.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez aborder la diversification alimentaire avec les parents en soulignant la transition progressive du lait vers de nouveaux nutriments pour le système digestif de leur bébé.",
+    "Rappelez aux parents que les rythmes de développement digestif diffèrent d'un enfant à l'autre, ce qui déculpabilise face aux variations de selles ou d'appétit.",
+    "Précisez bien que ces observations scientifiques ne modifient en rien les recommandations médicales officielles sur l'âge de début de la diversification."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-d73d8cd30c14",
+   "category": "sci",
+   "priority": false,
+   "title": "VIDEO. Grands prématurés : du \"peau à peau\" jusqu'à l'intubation d'urgence, des ascenseurs émotionnels pour les parents",
+   "source": "Franceinfo Santé",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-grands-prematures-du-peau-a-peau-jusqu-a-l-intubation-d-urgence-des-ascenseurs-emotionnels-pour-les-parents_8206217.html#xtor=RSS-3-%5Bgeneral%5D",
+   "summary": "Le service de néonatologie de l'hôpital de Strasbourg applique un protocole de soins individualisés incluant la pratique intensive du contact peau à peau pour les grands prématurés. Ce contact physique rapproché, intégré au parcours de soins avec les parents, bénéficie à la fois au rythme cardiaque et cognitif du bébé tout en apaisant l'anxiété parentale.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez rassurer les parents sur l'importance majeure de leur présence et du lien corporel, même en milieu médicalisé hautement technique.",
+    "Valorisez le peau à peau dans vos échanges comme un outil puissant de sécurisation affective pour le nourrisson et ses parents.",
+    "Rappelez que la gestion des dispositifs médicaux et des soins techniques auprès de ces bébés fragiles est du strict ressort de l'équipe soignante."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-789673e26095",
+   "category": "sci",
+   "priority": false,
+   "title": "VIDEO. \"On lui donne toutes les armes pour y arriver\" : en France, un enfant sur quinze naît prématuré, \"entre deux tiers et trois quarts survivront\"",
+   "source": "Franceinfo Santé",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-on-lui-donne-toutes-les-armes-pour-y-arriver-en-france-un-enfant-sur-quinze-nait-premature-entre-deux-tiers-et-trois-quarts-survivront_8206214.html#xtor=RSS-3-%5Bgeneral%5D",
+   "summary": "En France, un enfant sur quinze naît prématuré, avec des taux de survie estimés entre deux tiers et trois quarts selon les situations. Les équipes médicales rappellent aux mamans qu'elles ne sont en rien responsables de cette naissance précoce, tandis que les réanimations peuvent débuter dès la 23e semaine de grossesse en accord avec les parents.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Utilisez ces données pour déculpabiliser les parents qui traversent un accouchement prématuré inattendu et traumatisant.",
+    "Soutenez l'expression de leurs émotions face à cet événement tout en respectant le cadre des décisions médicales prises avec l'équipe de néonatologie.",
+    "Ne posez aucun pronostic de survie ou de santé, les questions médicales concernant la viabilité devant être exclusivement abordées par les médecins."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-1043bb6758fe",
+   "category": "sci",
+   "priority": false,
+   "title": "Des bébés pourront naître à Binche : Le CHU Tivoli inaugure sa Maison de naissance sur la Grand-Place",
+   "source": "DHnet",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.dhnet.be/regions/centre/2026/09/24/des-bebes-pourront-naitre-a-binche-le-chu-tivoli-inaugure-sa-maison-de-naissance-sur-la-grand-place-57A7CHNS3ZFLBHNL4QD7RPTGRM/",
+   "summary": "Une nouvelle maison de naissance, gérée par des sages-femmes, a été inaugurée à Binche pour proposer un accompagnement physiologique global de la grossesse au post-partum. Ce lieu permet aux femmes dont la grossesse ne présente pas de risque particulier d'accoucher dans un cadre intime et sécurisé. Un protocole strict encadre l'admissibilité et prévoit un transfert rapide vers un hôpital en cas de complication.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Présentez aux parents l'existence d'alternatives physiologiques comme les maisons de naissance pour les grossesses à bas risque.",
+    "Soutenez la réflexion des parents sur leur projet de naissance en explorant leurs souhaits d'intimité et de prise en charge globale par des sages-femmes.",
+    "Rappelez que l'accès à ces structures dépend de critères médicaux précis évalués par l'équipe soignante et que la sécurité prime."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-152d134585d8",
+   "category": "sci",
+   "priority": false,
+   "title": "En 2025, les sages-femmes réalisent la moitié des IVG hors établissement",
+   "source": "santementale.fr",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.santementale.fr/2026/09/en-2025-les-sages-femmes-de-ville-realisent-la-moitie-des-ivg/",
+   "summary": "Une étude de la Drees indique qu'en 2025, le nombre d'interruptions volontaires de grossesse a atteint 259 400 en France, avec une hausse continue du taux de recours depuis 2018. L'écrasante majorité des IVG sont désormais médicamenteuses et la moitié sont pratiquées hors des établissements de santé, notamment par des sages-femmes. Le document souligne également de fortes disparités territoriales, les taux étant deux fois plus élevés dans les départements et régions d'outre-mer qu'en métropole.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "S'informer sur les lieux et les professionnels de santé habilités pour orienter rapidement et sans jugement les personnes qui s'interrogent sur l'IVG.",
+    "Rappeler aux parents que les sages-femmes de ville réalisent désormais une part importante des IVG médicamenteuses, ce qui offre un parcours de proximité.",
+    "Rester strictement dans un rôle d'écoute et d'orientation, l'accompagnante ne pratiquant aucun acte médical ni ne prodiguant de conseil sur le choix de la méthode."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-54fa86c33fb0",
+   "category": "sci",
+   "priority": false,
+   "title": "Les premiers aliments entraînent un changement fonctionnel précoce dans le microbiome intestinal du nourrisson",
+   "source": "ma-clinique.fr",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://ma-clinique.fr/les-premiers-aliments-entrainent-un-changement-fonctionnel-precoce-dans-le-microbiome-intestinal-du-nourrisson",
+   "summary": "Une étude menée auprès de couples mère-enfant montre que l'alimentation infantile influence de manière très précoce la composition et la fonction du microbiome intestinal du nourrisson. L'allaitement maternel présente un effet stimulant spécifique lié à sa durée, tandis que l'introduction d'aliments solides modifie rapidement les voies microbiennes de la digestion.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Partager ces observations scientifiques avec les parents pour illustrer l'impact de l'alimentation, qu'elle soit lactée ou diversifiée, sur le système digestif de leur bébé.",
+    "Valoriser l'importance de l'allaitement maternel et aborder sereinement la période de la diversification alimentaire sans pression sur l'âge exact de transition.",
+    "Ne pas formuler de recommandations nutritionnelles médicales ni interpréter les troubles digestifs du nourrisson, qui relèvent du pédiatre ou de la sage-femme."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-1caeb787cb3e",
    "category": "sci",
    "priority": false,
@@ -450,6 +580,27 @@
     "Informer les personnes sur le rôle de proximité des sages-femmes dans le parcours de santé génésique.",
     "Faciliter l'orientation vers les professionnels de santé habilités dès qu'une demande médicale ou contraceptive est exprimée.",
     "Rappeler que la doula n'a aucun rôle médical dans ces démarches mais offre un soutien émotionnel inconditionnel."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c11f7ecc7427",
+   "category": "sci",
+   "priority": false,
+   "title": "Le nombre d’interruptions volontaires de grossesse continue d’augmenter : près de 260 000 avortements enregistrés en un an",
+   "source": "Midi Libre",
+   "date": "23 septembre 2026",
+   "sortDate": "2026-09-23",
+   "url": "https://www.midilibre.fr/2026/09/23/le-nombre-dinterruptions-volontaires-de-grossesse-continue-daugmenter-pres-de-260-000-avortements-enregistres-en-un-an-13564428.php",
+   "summary": "Selon une étude de la Drees, près de 260 000 interruptions volontaires de grossesse ont été enregistrées en France en 2025, marquant une hausse continue du taux de recours dans toutes les classes d'âge. L'étude met en avant la prédominance de la méthode médicamenteuse, qui représente quatre IVG sur cinq, ainsi que le rôle croissant des sages-femmes libérales qui réalisent désormais un quart de ces actes.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Connaître l'organisation actuelle des soins pour rassurer les personnes sur l'accès aux professionnels de ville et aux méthodes médicamenteuses.",
+    "Offrir un espace d'écoute bienveillant et confidentiel pour libérer la parole autour de l'interruption de grossesse, sans jamais influencer la décision.",
+    "Ne jamais donner d'avis sur la méthode d'IVG à privilégier et s'en tenir strictement au soutien émotionnel et à l'orientation médicale."
    ],
    "summaryAI": true,
    "enriched": true
@@ -911,6 +1062,48 @@
     "Transmettre aux parents des informations factuelles sur les recommandations de l'OMS concernant l'allaitement et les soins du nouveau-né.",
     "Soutenir la confiance des mères dans leurs capacités physiologiques à nourrir et prendre soin de leur bébé au quotidien.",
     "Laisser l'évaluation médicale de la santé du nourrisson et de la mère aux professionnels habilités lors des suivis de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-8fdffdabf39d",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé supplémentaire de naissance : les travailleurs indépendants y ont droit aussi",
+   "source": "Aladom",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.aladom.fr/actualites/secteur-service/11333/conge-supplementaire-de-naissance-les-travailleurs-independants-y-ont-droit-aussi/",
+   "summary": "Depuis juillet 2026, les travailleurs indépendants peuvent bénéficier d'un congé supplémentaire de naissance indemnisé pouvant aller jusqu'à deux mois. Ce dispositif s'applique aux enfants nés ou adoptés dès 2025-2026, sous réserve d'affiliation à la Sécurité sociale depuis au moins six mois et d'un arrêt complet de l'activité professionnelle. Les indemnités varient selon les revenus, avec des démarches à effectuer en ligne avant le début du congé.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Informez les parents indépendants de l'existence de ce congé de deux mois pour qu'ils puissent anticiper leur organisation financière et logistique.",
+    "Encouragez les couples à aborder tôt la question de la répartition de ce congé pour préserver un équilibre dans le post-partum.",
+    "Rappelez que vous informez sur les droits mais que les démarches administratives et le calcul des indemnités relèvent des organismes compétents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-e43eaab6351a",
+   "category": "pol",
+   "priority": false,
+   "title": "En fermant une maternité après l'autre depuis 1975, la France a littéralement fait naître des bébés sur le bas-côté des routes",
+   "source": "Sciencepost",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://sciencepost.fr/en-fermant-une-maternite-apres-lautre-depuis-1975-la-france-a-litteralement-fait-naitre-des-bebes-sur-le-bas-cote-des-routes/",
+   "summary": "La France a connu une baisse importante du nombre de ses maternités au cours des cinquante dernières années, passant de plus de 1 300 établissements à moins de 500. Cette diminution, en grande partie liée à des seuils réglementaires d'activité minimale, entraîne des temps de trajet allongés pour de nombreuses femmes enceintes. Une part importante de la population féminine vit désormais à plus de 45 minutes d'une structure adaptée, ce qui complexifie l'accès aux soins lors du travail.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Discutez avec les parents de leur trajet réel vers la maternité pour anticiper le moment du départ en cas de travail.",
+    "Aidez les couples à repérer les signes d'alerte pour savoir quand partir, en tenant compte du temps de route estimé.",
+    "Validez l'écoute émotionnelle autour de l'anxiété liée à l'éloignement géographique sans interférer sur les choix médicaux de lieu d'accouchement."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1751,6 +1944,69 @@
    "enriched": true
   },
   {
+   "id": "a-03603ec52914",
+   "category": "soc",
+   "priority": false,
+   "title": "VIDEO. Grands prématurés : des vies sur le fil",
+   "source": "Franceinfo Santé",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-grands-prematures-des-vies-sur-le-fil_8206244.html#xtor=RSS-3-%5Bgeneral%5D",
+   "summary": "Un reportage télévisé plonge au cœur d'un service de néonatologie pour suivre le parcours de grands prématurés nés à 25 semaines de grossesse. Il met en lumière la fragilité de ces nouveau-nés, l'engagement intense des équipes médicales ainsi que les vagues d'espoir et d'angoisse traversées par les parents.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Cette lecture permet de mieux appréhender la réalité émotionnelle bouleversante des parents confrontés à une hospitalisation en néonatologie.",
+    "Exercez une écoute particulièrement empathique et sans jugement pour accueillir la culpabilité et la peur de parents traversant la grande prématurité.",
+    "Gardez à l'esprit que le suivi médical lourd et les décisions cliniques relèvent exclusivement de l'équipe soignante de l'hôpital."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2404c034271a",
+   "category": "soc",
+   "priority": false,
+   "title": "Blocs et maternité, réouverture le lundi 28 septembre",
+   "source": "Midi Libre",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.midilibre.fr/2026/09/24/blocs-et-maternite-reouverture-le-lundi-28-septembre-13565770.php",
+   "summary": "Le centre hospitalier Émile-Borel a dû reporter la réouverture de son bloc opératoire et de sa maternité à la suite de demandes de l'Agence régionale de santé concernant des contrôles microbiologiques. Cette fermeture temporaire, provoquée à l'origine par un incident technique sur la ventilation, illustre les contraintes organisationnelles et sanitaires pesant sur les structures locales.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Soyez vigilante face aux craintes des parents suivis dans des maternités locales pouvant faire l'objet de fermetures ou de transferts temporaires.",
+    "Offrez un espace d'écoute sécurisant pour exprimer le stress généré par ces incertitudes logistiques de dernière minute.",
+    "Orientez systématiquement les parents vers l'équipe médicale pour obtenir les informations officielles et actualisées sur l'ouverture des services."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-0b65a1ac74c4",
+   "category": "soc",
+   "priority": false,
+   "title": "Avignon. Des familles mobilisées pour l’allaitement dans l’espace public",
+   "source": "Le Dauphiné Libéré",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.ledauphine.com/societe/2026/09/24/des-familles-mobilisees-pour-l-allaitement-dans-l-espace-public",
+   "summary": "Un événement public annuel nommé #JAIFAIMJEMANGE est organisé dans plusieurs dizaines de villes en France et en Europe, dont Avignon, pour soutenir l'allaitement maternel dans l'espace public. Cette initiative vise à visibiliser la pratique et à normaliser le fait d'allaiter partout.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de la place de l'allaitement en dehors du foyer et des éventuelles appréhensions à nourrir leur bébé en public.",
+    "Soutenir la confiance des mères dans leur choix d'allaiter et les informer sur les initiatives locales ou les associations de soutien existantes.",
+    "Éviter de porter un jugement médical sur la lactation et rediriger vers des professionnels de santé qualifiés en cas de difficultés d'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-dc7d8aef88c3",
    "category": "soc",
    "priority": false,
@@ -1767,6 +2023,46 @@
     "Valider le vécu émotionnel intense des parents confrontés à un accouchement inopiné hors structure médicale.",
     "Proposer des espaces de parole pour aider le couple à intégrer le déroulement surprenant de cette naissance.",
     "Éviter toute idéalisation ou diabolisation de l'accouchement à domicile et réorienter vers des professionnels pour le suivi médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-73c313542d27",
+   "category": "soc",
+   "priority": false,
+   "title": "Belfort. Une photo collective pour défendre le droit à l’allaitement dans l’espace public",
+   "source": "L'Est Républicain",
+   "date": "23 septembre 2026",
+   "sortDate": "2026-09-23",
+   "url": "https://www.estrepublicain.fr/societe/2026/09/24/une-photo-collective-pour-defendre-le-droit-a-l-allaitement-dans-l-espace-public",
+   "summary": "Un rassemblement citoyen est organisé à Belfort pour soutenir et défendre la liberté d'allaiter dans l'espace public. Cette initiative portée par un collectif national met en lumière les freins sociaux que rencontrent parfois les parents qui nourrissent leur bébé au sein.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents la question de l'allaitement à l'extérieur pour les aider à anticiper le regard des autres et renforcer leur confiance.",
+    "Soutenir la démarche des mères en valorisant leurs droits et en créant un espace de parole bienveillant sur leur vécu de l'espace public."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3d3da41bbe0b",
+   "category": "soc",
+   "priority": false,
+   "title": "Charleville-Mézières > Atelier > Atelier allaitement – Reprise du travail",
+   "source": "Info-lux.com",
+   "date": "23 septembre 2026",
+   "sortDate": "2026-09-23",
+   "url": "https://www.info-lux.com/charleville-mezieres-atelier-atelier-allaitement-reprise-du-travail/pays/france/grand-est/ardennes/charleville-mezieres/",
+   "summary": "Un atelier d'information gratuit est proposé à Charleville-Mézières pour accompagner les parents qui allaitent dans la préparation de leur reprise professionnelle. L'événement aborde les aspects pratiques de la poursuite de l'allaitement ainsi que les différentes options liées au sevrage.",
+   "auto": true,
+   "addedAt": "2026-09-25T05:14:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur les ateliers locaux existants pour les aider à se préparer sereinement à la transition de la reprise du travail.",
+    "Discuter de l'organisation pratique du quotidien et du maintien de l'allaitement tout en orientant vers des professionnels compétents en cas de difficultés techniques."
    ],
    "summaryAI": true,
    "enriched": true
