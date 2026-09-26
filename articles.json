@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T05:14:39+00:00",
+ "updatedAt": "2026-09-26T05:14:07+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "18 page(s) d'articles lue(s)",
-  "IA : 18 article(s) résumé(s) et commenté(s)"
+  "12 page(s) d'articles lue(s)",
+  "IA : 12 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -33,7 +33,9 @@
   "a-6b1db9472646": "2026-09-25",
   "a-e76403aee00f": "2026-09-24",
   "a-c1233b6af103": "2026-09-24",
-  "a-97cd349f2670": "2026-09-22"
+  "a-97cd349f2670": "2026-09-22",
+  "a-e81caef957d8": "2026-09-25",
+  "a-ebd21095dd95": "2026-09-24"
  },
  "articles": [
   {
@@ -433,6 +435,48 @@
     "Vous pouvez aborder la diversification alimentaire avec les parents en soulignant la transition progressive du lait vers de nouveaux nutriments pour le système digestif de leur bébé.",
     "Rappelez aux parents que les rythmes de développement digestif diffèrent d'un enfant à l'autre, ce qui déculpabilise face aux variations de selles ou d'appétit.",
     "Précisez bien que ces observations scientifiques ne modifient en rien les recommandations médicales officielles sur l'âge de début de la diversification."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-6721a5113d53",
+   "category": "sci",
+   "priority": false,
+   "title": "Et si les premières semaines après l’accouchement cachaient un risque insoupçonné pour le bébé ?",
+   "source": "Pourquoi Docteur",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/55828-Et-premieres-semaines-l-accouchement-cachaient-risque-insoupconne-bebe",
+   "summary": "Une étude américaine met en évidence une association statistique entre les symptômes dépressifs maternels immédiats après l'accouchement et un risque accru de mortalité infantile avant l'âge d'un an. Les chercheurs insistent sur l'importance d'un dépistage précoce et d'un accompagnement psychologique ou médical continu pour la mère et l'enfant.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Soyez particulièrement attentive aux signes de détresse psychologique ou de dépression dans le post-partum immédiat lors de vos visites à domicile.",
+    "Orientez rapidement vers les professionnels de santé compétents dès que vous observez des signes de fragilité psychique chez la jeune mère.",
+    "Rappelez-vous que votre rôle est d'offrir une écoute bienveillante et un soutien pratique, sans jamais poser de diagnostic de dépression."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-0863b4dbead8",
+   "category": "sci",
+   "priority": false,
+   "title": "La douleur post-chirurgicale chronique affecte les femmes longtemps après une césarienne",
+   "source": "ma-clinique.fr",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://ma-clinique.fr/la-douleur-post-chirurgicale-chronique-affecte-les-femmes-longtemps-apres-une-cesarienne",
+   "summary": "Une synthèse de données mondiales montre qu'une part importante des femmes souffre de douleurs post-chirurgicales chroniques plusieurs mois ou années après une césarienne. Ces douleurs persistantes altèrent significativement leur qualité de vie, leur sommeil, leur mobilité et leur bien-être psychologique au quotidien.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Validez la réalité de la douleur physique des mères ayant accouché par césarienne, même plusieurs mois après la naissance.",
+    "Encouragez les mères souffrant de douleurs durables à consulter des professionnels de santé spécialisés pour un accompagnement adapté.",
+    "Ne proposez aucun soin thérapeutique ou manipulation médicale, mais aidez les parents à aménager leur quotidien pratique pour soulager la fatigue."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1067,6 +1111,27 @@
    "enriched": true
   },
   {
+   "id": "a-5c299a1aa730",
+   "category": "pol",
+   "priority": false,
+   "title": "Yvelines : l'ARS veut fermer la maternité, la réanimation et le bloc d'un hôpital entier",
+   "source": "Le Courrier des Stratèges",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://www.lecourrierdesstrateges.fr/yvelines-lars-veut-fermer-la-maternite-la-reanimation-et-le-bloc-dun-hopital-entier/",
+   "summary": "Une agence régionale de santé envisage de restructurer un hôpital public en fermant sa maternité, son service de réanimation et son bloc opératoire en raison de difficultés budgétaires et d'une baisse d'activité. Cette décision suscite des inquiétudes parmi le personnel quant à l'éloignement des lieux de soins et à la saturation des structures environnantes.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Informez-vous sur l'évolution de l'offre de soins locale pour orienter au mieux les familles vers les maternités disponibles.",
+    "Accueillez l'anxiété des futurs parents face aux fermetures de services en leur offrant un espace d'écoute sécurisant.",
+    "Restez neutre sur le plan politique et administratif, sans vous substituer aux décisions des autorités de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-8fdffdabf39d",
    "category": "pol",
    "priority": false,
@@ -1104,6 +1169,27 @@
     "Discutez avec les parents de leur trajet réel vers la maternité pour anticiper le moment du départ en cas de travail.",
     "Aidez les couples à repérer les signes d'alerte pour savoir quand partir, en tenant compte du temps de route estimé.",
     "Validez l'écoute émotionnelle autour de l'anxiété liée à l'éloignement géographique sans interférer sur les choix médicaux de lieu d'accouchement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2922b348237c",
+   "category": "pol",
+   "priority": false,
+   "title": "Miryang en \"état d'urgence\" après la fermeture de sa seule maternité : une course contre la montre pour sauver la vie des mères",
+   "source": "재경일보",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://news.jkn.co.kr/post/995932",
+   "summary": "La ville de Miryang fait face à une crise sanitaire majeure suite à la fermeture de sa seule maternité, plongeant les femmes enceintes dans un vide médical préoccupant. Pour pallier cette absence de structure locale, la municipalité a mis en place des plans d'urgence avec les services d'incendie et renforcé la coordination des transferts vers les hôpitaux des villes voisines. Cette situation met en lumière la vulnérabilité des petites communes en matière d'accès aux soins périnataux et la nécessité d'un soutien public.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux rassurer et aider les parents vivant en zone rurale à anticiper leur logistique de fin de grossesse et le trajet vers la maternité.",
+    "Tu peux proposer un espace d'écoute sécurisant pour libérer la parole autour de l'anxiété liée à l'éloignement des structures de soins.",
+    "Rappelle toujours que les décisions et la gestion des urgences médicales relèvent exclusivement des professionnels de santé et des services d'urgence."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1797,6 +1883,27 @@
    "enriched": true
   },
   {
+   "id": "a-5bf2edf51c75",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé naissance : l’Assurance maladie submergée, des parents sans indemnités",
+   "source": "Planet.fr",
+   "date": "14 septembre 2026",
+   "sortDate": "2026-09-14",
+   "url": "https://www.planet.fr/conge-naissance-lassurance-maladie-submergee-des-parents-sans-indemnites.2999193.817026.html",
+   "summary": "La mise en place d'un nouveau congé supplémentaire de naissance entraîne des retards massifs de versement de la part de l'Assurance maladie, en raison d'un nombre trop important de dossiers déposés. Cette situation plonge de nombreux foyers dans des difficultés financières importantes dès l'arrivée de leur nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de l'anticipation financière et de l'impact potentiel des retards administratifs sur leur sérénité en post-partum.",
+    "Orienter les familles vers les organismes compétents ou les services sociaux pour les démarches en cas de difficultés de perception des indemnités.",
+    "Garder à l'esprit que la doula ne gère pas les aspects administratifs ou juridiques des prestations sociales, mais peut valider le vécu émotionnel de stress lié à ces situations."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-76d6660d59e0",
    "category": "pol",
    "priority": false,
@@ -1939,6 +2046,90 @@
     "Aborder avec les couples la question de la répartition des tâches et du congé du second parent pour préparer l'organisation du post-partum.",
     "Offrir un espace d'écoute aux mères sur leur charge mentale professionnelle et personnelle, sans jamais porter de jugement sur leurs choix de carrière.",
     "Rappeler que la doula soutient le couple dans son organisation pratique mais ne se positionne pas sur les aspects juridiques ou salariaux du congé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2f19bb456827",
+   "category": "soc",
+   "priority": false,
+   "title": "Avant l’arrivée de bébé, cette maternité de Toulouse ouvre ses portes aux futurs parents lors d'une après-midi dédiée",
+   "source": "ladepeche.fr",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://www.ladepeche.fr/2026/09/25/avant-larrivee-de-bebe-cette-maternite-de-toulouse-ouvre-ses-portes-aux-futurs-parents-lors-dune-apres-midi-dediee-13568647.php",
+   "summary": "Une maternité à Toulouse organise une journée portes ouvertes pour permettre aux futurs parents de visiter les locaux et de rencontrer l'équipe pluridisciplinaire. Cet événement propose également des ateliers pratiques pour préparer l'arrivée du nouveau-né et aborder le retour à la maison.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Encouragez les parents que vous accompagnez à participer aux journées portes ouvertes pour se familiariser avec leur future maternité.",
+    "Discutez avec eux de leurs ressentis et de leurs questions à l'issue de ces visites pour les aider à verbaliser leurs choix.",
+    "Rappelez aux parents que les choix médicaux et les protocoles de la maternité relèvent de l'équipe soignante présente sur place."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c481b03fef64",
+   "category": "soc",
+   "priority": false,
+   "title": "Allaitement maternel : La Grande Tétée fête ses vingt ans à Chartres avec une grande photo nationale simultanée",
+   "source": "Actu.fr",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://actu.fr/centre-val-de-loire/chartres_28085/allaitement-maternel-la-grande-tetee-fete-ses-vingt-ans-a-chartres-avec-une-grande-photo-nationale-simultanee_64805357.html",
+   "summary": "L'événement national La Grande Tétée célèbre son vingtième anniversaire en proposant des rassemblements et des ateliers conviviaux autour de la parentalité et de l'allaitement à Chartres. Cette initiative inclusive accueille tous les parcours d'allaitement, qu'il s'agisse du sein, du biberon ou de lait tiré, afin de valoriser les familles. L'action vise principalement à normaliser la pratique de l'allaitement dans l'espace public tout en marquant le lancement de la Semaine Mondiale de l'Allaitement Maternel.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux informer les parents des initiatives locales et des temps de rencontre conviviaux organisés près de chez eux pour briser l'isolement en post-partum.",
+    "Tu peux rappeler aux parents que tous les choix d'alimentation du nourrisson sont valables et les encourager à vivre leur parentalité sans culpabilité.",
+    "Oriente systématiquement vers les professionnels de santé compétents en cas de difficultés techniques ou médicales liées à l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7f340fbdfb9a",
+   "category": "soc",
+   "priority": false,
+   "title": "#Jaifaimjemange : Participez à une photo collective autour de l'allaitement prévue à Eu",
+   "source": "Actu.fr",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://actu.fr/normandie/eu_76255/jaifaimjemange-participez-a-une-photo-collective-autour-de-lallaitement-prevue-a-eu_64803540.html",
+   "summary": "La manifestation nationale J'ai faim, je mange organise une photographie collective à Eu pour revendiquer le droit de nourrir les bébés dans l'espace public sans jugement ni entrave. Cet événement met en lumière les difficultés persistantes et la stigmatisation que rencontrent encore de nombreux parents lorsqu'ils nourrissent leur enfant en public. L'initiative rassemble de manière inclusive les familles, qu'elles optent pour l'allaitement au sein, au biberon ou la diversification.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux aborder la question du regard des autres et de la confiance en soi pour soutenir les parents dans leurs choix d'alimentation au quotidien.",
+    "Tu peux informer les familles sur l'existence de mouvements collectifs qui défendent la liberté de nourrir leur bébé partout et sans jugement.",
+    "Rappelle que ton rôle est d'offrir un espace d'écoute bienveillant et non de te substituer aux instances juridiques ou médicales face aux discriminations."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-e0f4c23b63e4",
+   "category": "soc",
+   "priority": false,
+   "title": "Allaitement | Cible Famille Brandon veut démontrer l’importance de l’allaitement",
+   "source": "Mon Joliette",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://monjoliette.com/2026/09/25/allaitement-cible-famille-brandon-veut-demontrer-limportance-de-lallaitement/",
+   "summary": "À l'approche de la Semaine mondiale de l'allaitement maternel, l'organisme Cible Famille Brandon appelle à transformer les milieux de vie pour les rendre plus favorables et accessibles aux parents qui allaitent. Différents acteurs locaux, comme des commerces et des bibliothèques, sont ainsi encouragés à s'afficher comme des espaces de soutien à l'allaitement. Cette démarche vise à offrir un environnement sécurisant et durable pour les familles dès les premiers mois de l'enfant.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux aider les parents à repérer les lieux publics et les structures locales bienveillantes qui facilitent la sortie avec un nouveau-né.",
+    "Tu peux écouter et valider les besoins de confort et d'intimité exprimés par les parents dans l'espace public, tout en valorisant leur autonomie.",
+    "Veille à orienter les familles vers des associations spécialisées si elles rencontrent des freins institutionnels ou des problématiques de santé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2272,6 +2463,27 @@
     "Encourager les parents à participer à des événements locaux de soutien à la parentalité pour briser l'isolement du post-partum.",
     "Utiliser ces espaces de rencontre pour orienter les mères vers des réseaux de soutien à l'allaitement près de chez elles.",
     "Ne pas se substituer aux consultantes en lactation certifiées en cas de difficultés médicales d'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-05daddf0edc5",
+   "category": "soc",
+   "priority": false,
+   "title": "Marine Tondelier renonce au début de son congé maternité pour répondre à l’invitation d’Emmanuel Macron",
+   "source": "Le Figaro",
+   "date": "17 septembre 2026",
+   "sortDate": "2026-09-17",
+   "url": "https://www.lefigaro.fr/politique/marine-tondelier-renonce-au-debut-de-son-conge-maternite-pour-repondre-a-l-invitation-d-emmanuel-macron-20260917",
+   "summary": "Une personnalité politique a choisi de reporter le début de son congé maternité et de s'éloigner de sa maternité à sept jours du terme pour participer à une réunion officielle urgente. Cet événement illustre la pression exercée par les impératifs professionnels et publics sur la fin de grossesse.",
+   "auto": true,
+   "addedAt": "2026-09-26T05:14:07+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents la difficulté parfois ressentie de s'arrêter à l'approche du terme face aux pressions extérieures.",
+    "Soutenir la future mère dans l'importance de s'écouter et de sécuriser son espace de fin de grossesse face aux sollicitations.",
+    "Rappeler que la doula n'intervient pas sur les choix professionnels mais offre un espace d'écoute sur la gestion du stress en fin de gestation."
    ],
    "summaryAI": true,
    "enriched": true
