@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-26T05:14:07+00:00",
+ "updatedAt": "2026-09-27T05:14:25+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "12 page(s) d'articles lue(s)",
-  "IA : 12 article(s) résumé(s) et commenté(s)"
+  "5 page(s) d'articles lue(s)",
+  "IA : 5 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -35,7 +35,8 @@
   "a-c1233b6af103": "2026-09-24",
   "a-97cd349f2670": "2026-09-22",
   "a-e81caef957d8": "2026-09-25",
-  "a-ebd21095dd95": "2026-09-24"
+  "a-ebd21095dd95": "2026-09-24",
+  "a-97a391333576": "2026-09-26"
  },
  "articles": [
   {
@@ -416,6 +417,27 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-b51a74f2820f",
+   "category": "sci",
+   "priority": false,
+   "title": "Après l'accouchement, les mères ayant souffert de diabète gestationnel doivent se souvenir de 4 choses.",
+   "source": "Vietnam.vn",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.vietnam.vn/fr/sau-sinh-me-tung-tieu-duong-thai-ky-can-nho-4-dieu",
+   "summary": "Les mères ayant connu un diabète gestationnel présentent un risque accru de développer ultérieurement un diabète de type 2, mais l'allaitement maternel ainsi qu'une bonne hygiène de vie peuvent contribuer à réduire cette probabilité. L'allaitement offre également des bénéfices pour le microbiote et la santé future de l'enfant, qui reste exposé à des risques métaboliques. Un dépistage glycémique est recommandé entre quatre et douze semaines après la naissance pour surveiller la santé de la mère.",
+   "auto": true,
+   "addedAt": "2026-09-27T05:14:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur l'importance du suivi glycémique postnatal en cas d'antécédent de diabète gestationnel, sans se substituer au corps médical.",
+    "Valoriser les bienfaits de l'allaitement pour la récupération maternelle et la prévention, tout en restant dans une démarche de soutien émotionnel et non injonctif.",
+    "Orienter systématiquement les mères concernées vers leur sage-femme, leur médecin ou un nutritionniste pour la réalisation des examens de dépistage."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1111,6 +1133,27 @@
    "enriched": true
   },
   {
+   "id": "a-d75398afd7fe",
+   "category": "pol",
+   "priority": false,
+   "title": "CHIMM : la maternité des Mureaux en sursis avant octobre",
+   "source": "InfosYvelines",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.infosyvelines.fr/articles/les-mureaux-chimm-avant-decision-ars-octobre",
+   "summary": "Un hôpital des Yvelines fait face à des menaces de fermeture ou de reconfiguration de sa maternité et d'autres services en raison d'une situation financière critique et d'un important déficit budgétaire. Cette situation suscite de fortes inquiétudes parmi les soignants et les habitants quant à l'engorgement des structures voisines et à l'accès aux soins pour les familles éloignées.",
+   "auto": true,
+   "addedAt": "2026-09-27T05:14:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents les impacts potentiels des restructurations hospitalières sur leurs options de lieu de naissance.",
+    "Soutenir l'écoute autour de l'anxiété liée à l'éloignement géographique des maternités et au trajet de dernière minute.",
+    "Rappeler aux familles que la gestion des fermetures de services relève des autorités de santé et des soignants, hors du champ d'intervention de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-5c299a1aa730",
    "category": "pol",
    "priority": false,
@@ -1190,6 +1233,27 @@
     "Tu peux rassurer et aider les parents vivant en zone rurale à anticiper leur logistique de fin de grossesse et le trajet vers la maternité.",
     "Tu peux proposer un espace d'écoute sécurisant pour libérer la parole autour de l'anxiété liée à l'éloignement des structures de soins.",
     "Rappelle toujours que les décisions et la gestion des urgences médicales relèvent exclusivement des professionnels de santé et des services d'urgence."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-cf17e9280981",
+   "category": "pol",
+   "priority": false,
+   "title": "« Il est temps que la périnatalité fasse l’objet d’un plan stratégique ambitieux »",
+   "source": "Le Quotidien du Médecin",
+   "date": "24 septembre 2026",
+   "sortDate": "2026-09-24",
+   "url": "https://www.lequotidiendumedecin.fr/opinions/il-est-temps-que-la-perinatalite-fasse-lobjet-dun-plan-strategique-ambitieux",
+   "summary": "Un rapport de l'Inspection générale des affaires sociales met en lumière une pénurie importante de ressources humaines dans les maternités françaises, marquée par une baisse notable du nombre de gynécologues-obstétriciens et de sages-femmes entre 2013 et 2023. Cette situation de tension persistante au sein des équipes obstétricales interroge l'organisation de la périnatalité et la sécurité des soins.",
+   "auto": true,
+   "addedAt": "2026-09-27T05:14:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Échanger avec les futurs parents sur la réalité des conditions d'exercice à l'hôpital pour mieux comprendre le contexte des équipes soignantes.",
+    "Accompagner l'expression des inquiétudes liées au manque de personnel tout en valorisant la compétence des professionnels présents.",
+    "Veiller à ne pas porter de jugement sur les politiques de santé publique ou la gestion des structures médicales auprès des familles."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2046,6 +2110,27 @@
     "Aborder avec les couples la question de la répartition des tâches et du congé du second parent pour préparer l'organisation du post-partum.",
     "Offrir un espace d'écoute aux mères sur leur charge mentale professionnelle et personnelle, sans jamais porter de jugement sur leurs choix de carrière.",
     "Rappeler que la doula soutient le couple dans son organisation pratique mais ne se positionne pas sur les aspects juridiques ou salariaux du congé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-9c66188d65af",
+   "category": "soc",
+   "priority": false,
+   "title": "Allaitement dans l’espace public : une mobilisation ce dimanche à Niort",
+   "source": "niortinfo.media",
+   "date": "26 septembre 2026",
+   "sortDate": "2026-09-26",
+   "url": "https://niortinfo.media/jaifaimjemange-rassemblement-niort-mairie/",
+   "summary": "Un événement national est organisé pour défendre la liberté de nourrir son enfant dans l'espace public, qu'il s'agisse d'allaitement ou de biberon, face aux pressions et aux jugements encore observés. Ce mouvement prône le libre choix des parents et vise à visibiliser les pratiques d'alimentation infantile sans culpabilisation. Plusieurs incidents récents dans des lieux publics ont mis en lumière le tabou persistant entourant ces situations.",
+   "auto": true,
+   "addedAt": "2026-09-27T05:14:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de parole sécurisant aux parents pour exprimer leurs craintes face au regard des autres lorsqu'ils nourrissent leur bébé hors de chez eux.",
+    "Soutenir le choix d'alimentation des parents qu'il soit question de lait maternel ou artificiel, en valorisant une posture dénuée de tout jugement.",
+    "Rappeler que la doula encourage la confiance des parents dans leurs choix d'alimentation, tout en les invitant à consulter des professionnels de santé en cas de difficultés physiologiques."
    ],
    "summaryAI": true,
    "enriched": true
