@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T05:14:25+00:00",
+ "updatedAt": "2026-09-28T05:16:25+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "5 page(s) d'articles lue(s)",
-  "IA : 5 article(s) résumé(s) et commenté(s)"
+  "12 page(s) d'articles lue(s)",
+  "IA : 12 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -36,7 +36,10 @@
   "a-97cd349f2670": "2026-09-22",
   "a-e81caef957d8": "2026-09-25",
   "a-ebd21095dd95": "2026-09-24",
-  "a-97a391333576": "2026-09-26"
+  "a-97a391333576": "2026-09-26",
+  "a-4df27962b747": "2026-09-27",
+  "a-b1da85a32ab5": "2026-09-27",
+  "a-5ab5d5bdb639": "2026-09-27"
  },
  "articles": [
   {
@@ -420,6 +423,27 @@
    "enriched": true
   },
   {
+   "id": "a-35405cf93792",
+   "category": "sci",
+   "priority": false,
+   "title": "Les soins kangourous aident les bébés plus petits. Des chercheurs étudient désormais les bébés nés avec un poids normal",
+   "source": "ma-clinique.fr",
+   "date": "28 septembre 2026",
+   "sortDate": "2026-09-28",
+   "url": "https://ma-clinique.fr/les-soins-kangourous-aident-les-bebes-plus-petits-des-chercheurs-etudient-desormais-les-bebes-nes-avec-un-poids-normal",
+   "summary": "Une étude récente évalue les effets de la prolongation du contact peau à peau au-delà de la première heure chez les nouveau-nés pesant normalement à la naissance. Ce contact prolongé vise à soutenir la stabilisation métabolique et thermorégulatrice ainsi que l'initiation de l'allaitement au cours des premiers jours de vie.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Valoriser l'importance du contact peau à peau prolongé auprès des parents, même pour les bébés nés à terme avec un poids standard.",
+    "Rappeler aux familles que la période d'adaptation du nouveau-né s'étend sur plusieurs jours, nécessitant un environnement calme et soutenant.",
+    "Laisser l'équipe médicale juger de la stabilité du nouveau-né tout en encourageant les pratiques favorisant le lien précoce."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-b51a74f2820f",
    "category": "sci",
    "priority": false,
@@ -436,6 +460,48 @@
     "Informer les parents sur l'importance du suivi glycémique postnatal en cas d'antécédent de diabète gestationnel, sans se substituer au corps médical.",
     "Valoriser les bienfaits de l'allaitement pour la récupération maternelle et la prévention, tout en restant dans une démarche de soutien émotionnel et non injonctif.",
     "Orienter systématiquement les mères concernées vers leur sage-femme, leur médecin ou un nutritionniste pour la réalisation des examens de dépistage."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-b2822b1ae57e",
+   "category": "sci",
+   "priority": false,
+   "title": "Dépression post-partum : cette étude révèle un risque méconnu pour le bébé",
+   "source": "Yahoo Life France",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://fr.style.yahoo.com/d%C3%A9pression-post-partum-%C3%A9tude-r%C3%A9v%C3%A8le-050000695.html",
+   "summary": "Une vaste étude américaine met en lumière une association significative entre la présence de symptômes dépressifs maternels post-partum et un risque accru de mortalité infantile au cours de la première année. Les auteurs rappellent la fréquence élevée des troubles dépressifs durant la grossesse et le post-partum.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Être particulièrement vigilante aux signes de détresse psychologique chez les jeunes mères et oser aborder ce sujet en toute bienveillance.",
+    "Disposer d'une liste de professionnels spécialisés vers qui orienter rapidement les parents en cas de suspicion de dépression post-partum.",
+    "Se rappeler qu'en tant que doula, on offre un soutien émotionnel précieux mais qu'aucun diagnostic ou traitement de la dépression ne relève de notre rôle."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-704daea4d147",
+   "category": "sci",
+   "priority": false,
+   "title": "Rétablissement après l'accouchement : ces deux troubles peuvent l’entraver",
+   "source": "Pourquoi Docteur",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/55848-Retablissement-l-accouchement-troubles-l-entraver",
+   "summary": "Des recherches récentes indiquent que la combinaison de douleurs physiques et de symptômes dépressifs après l'accouchement entrave fortement la récupération des mères. Ces difficultés impactent leur capacité à prendre soin d'elles-mêmes, à nourrir leur bébé et à nouer un lien affectif avec lui.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute inconditionnel pour valider la complexité des émotions et des douleurs physiques vécues après la naissance.",
+    "Proposer des pistes pratiques et un soutien physique léger pour soulager le quotidien des jeunes mères et leur permettre de souffler.",
+    "Encourager les parents à consulter des professionnels de santé qualifiés dès que la douleur ou la tristesse devient trop lourde à porter."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1149,6 +1215,27 @@
     "Aborder avec les parents les impacts potentiels des restructurations hospitalières sur leurs options de lieu de naissance.",
     "Soutenir l'écoute autour de l'anxiété liée à l'éloignement géographique des maternités et au trajet de dernière minute.",
     "Rappeler aux familles que la gestion des fermetures de services relève des autorités de santé et des soignants, hors du champ d'intervention de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-6912827e73d4",
+   "category": "pol",
+   "priority": false,
+   "title": "Vous êtes indépendant et vous venez d'avoir un enfant ? Voici tout ce qu'il faut savoir sur le nouveau congé supplémentaire de naissance",
+   "source": "TF1 Info",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.tf1info.fr/conso-argent/vous-etes-independant-et-vous-venez-d-avoir-un-enfant-voici-tout-ce-qu-il-faut-savoir-sur-le-nouveau-conge-supplementaire-de-naissance-2466125.html",
+   "summary": "Depuis juillet 2026, les travailleurs indépendants bénéficient d'un congé supplémentaire de naissance pouvant durer jusqu'à deux mois. Ce dispositif, indemnisé sous conditions, peut être pris par les deux parents simultanément ou successivement dans les neuf mois suivant l'arrivée de l'enfant.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents indépendants de l'existence de ce nouveau droit pour les aider à anticiper au mieux leur organisation financière et familiale.",
+    "Les encourager à se renseigner auprès des organismes officiels pour connaître les modalités précises d'indemnisation selon leur situation.",
+    "Respecter le choix des parents concernant la répartition de ce congé sans porter de jugement sur leurs décisions d'organisation."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2115,6 +2202,90 @@
    "enriched": true
   },
   {
+   "id": "a-ff0d2bccbbd3",
+   "category": "soc",
+   "priority": false,
+   "title": "« L’allaitement n’est pas protégé en France » : à Bordeaux, des mamans et papas toujours mobilisés",
+   "source": "Sud Ouest",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.sudouest.fr/gironde/bordeaux/l-allaitement-n-est-pas-protege-en-france-a-bordeaux-des-mamans-et-papas-toujours-mobilises-30804683.php",
+   "summary": "Un rassemblement de parents s'est tenu à Bordeaux dans le cadre du mouvement J'ai faim je mange pour réclamer le droit d'allaiter dans l'espace public sans subir de discriminations. Les participants soulignent que l'allaitement maternel n'est pas protégé en France et qu'il souffre d'un manque de reconnaissance légale et sociale.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question des lieux publics avec les mères qui choisissent d'allaiter pour anticiper leurs appréhensions.",
+    "Offrir un espace de parole bienveillant sur le regard des autres et le sentiment d'isolement face aux critiques.",
+    "Rediriger les parents vers des associations de soutien à l'allaitement pour trouver des ressources collectives."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-fe850549c648",
+   "category": "soc",
+   "priority": false,
+   "title": "Dans le cadre du programme \"J'ai faim, je mange\", des mamans ont défendu l'allaitement maternel dans l'espace public",
+   "source": "La République du Centre",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.larep.fr/orleans-45000/economie/dans-le-cadre-du-programme-j-ai-faim-je-mange-des-mamans-ont-defendu-l-allaitement-maternel-dans-l-espace-public_15053748/",
+   "summary": "Une dizaine de mères ont participé à une action artistique et militante à Orléans, via un shooting photo en plein air, afin de normaliser l'allaitement dans l'espace public. Cette initiative s'inscrit dans le programme européen J'ai faim, je mange pour lutter contre l'assimilation de cet acte à une exhibition sexuelle.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur l'existence de collectifs artistiques et militants qui valorisent l'allaitement hors du domicile.",
+    "Soutenir la confiance des mères dans leur choix d'allaiter où elles le souhaitent.",
+    "Valoriser l'écoute active autour des difficultés psychologiques liées au regard de la société."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-33b9e810c186",
+   "category": "soc",
+   "priority": false,
+   "title": "Le mouvement \"J’ai faim je mange\" rassemble des parents à Niort pour normaliser l’allaitement en public",
+   "source": "lanouvellerepublique.fr",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.lanouvellerepublique.fr/niort/le-mouvement-j-ai-faim-je-mange-rassemble-des-parents-a-niort-pour-normaliser-l-allaitement-en-public-1790521048",
+   "summary": "Un groupe de parents s'est rassemblé à Niort sous l'égide du mouvement J'ai faim je mange pour demander la banalisation de l'allaitement dans les lieux publics. Portée par des photographes locales, cette mobilisation vise à soutenir les familles face aux critiques et aux regards négatifs.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents des solutions pratiques pour allaiter sereinement hors de chez soi.",
+    "Proposer un accompagnement émotionnel pour déculpabiliser les mères confrontées au regard social.",
+    "Orienter vers des réseaux locaux de soutien à la parentalité et à l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-f0c39de2fcd1",
+   "category": "soc",
+   "priority": false,
+   "title": "TÉMOIGNAGES. « Montrer que c’est normal » : ces mères se sont rassemblées à Saumur pour défendre l’allaitement en public",
+   "source": "angers.maville.com",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://angers.maville.com/actu/actudet_-temoignages-montrer-que-c-est-normal-ces-meres-se-sont-rassemblees-a-saumur-pour-defendre-l-allaitement-en-public_dep-7497451_actu.Htm",
+   "summary": "Plusieurs mères se sont réunies à Saumur afin de normaliser et de défendre la pratique de l'allaitement dans l'espace public. Cet événement met en lumière les difficultés et le regard social que subissent parfois les femmes qui allaitent hors de chez elles.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question de l'allaitement en public lors des entretiens prénataux pour rassurer les mères sur leurs droits et le regard des autres.",
+    "Offrir un espace d'écoute bienveillant pour libérer la parole sur le jugement social et le manque de soutien parfois ressenti dans l'espace public.",
+    "Rappeler aux parents que le choix de nourrir leur bébé en public ou en privé leur appartient entièrement, sans empiéter sur les conseils médicaux liés à la lactation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-9c66188d65af",
    "category": "soc",
    "priority": false,
@@ -2569,6 +2740,27 @@
     "Aborder avec les parents la difficulté parfois ressentie de s'arrêter à l'approche du terme face aux pressions extérieures.",
     "Soutenir la future mère dans l'importance de s'écouter et de sécuriser son espace de fin de grossesse face aux sollicitations.",
     "Rappeler que la doula n'intervient pas sur les choix professionnels mais offre un espace d'écoute sur la gestion du stress en fin de gestation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-86ae8e6a2804",
+   "category": "soc",
+   "priority": false,
+   "title": "« Le dos-d’âne a été fatal » : près d’Argentan, elle accouche dans sa voiture sur le chemin de la maternité",
+   "source": "Ouest-France",
+   "date": "17 septembre 2026",
+   "sortDate": "2026-09-17",
+   "url": "https://www.ouest-france.fr/sante/le-dos-dane-a-ete-fatal-pres-dargentan-elle-accouche-dans-sa-voiture-sur-le-chemin-de-la-maternite-c8c777b8-b271-11f1-978f-b3ea995ed274",
+   "summary": "Une femme a accouché de manière imprévue dans sa voiture en se rendant à la maternité, un événement précipité par les secousses de la route. Ce type de situation illustre l'éloignement géographique de certaines structures de soins et le stress lié au trajet pour accoucher.",
+   "auto": true,
+   "addedAt": "2026-09-28T05:16:25+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de la gestion du départ pour la maternité et des signes d'alerte pour anticiper le trajet sans céder à la panique.",
+    "Valider l'intensité émotionnelle et le vécu parfois brutal d'un accouchement inopiné lors du suivi en post-partum.",
+    "Reconnaître ses limites en orientant les parents vers des professionnels de santé pour la prise en charge médicale des naissances rapides hors structure."
    ],
    "summaryAI": true,
    "enriched": true
