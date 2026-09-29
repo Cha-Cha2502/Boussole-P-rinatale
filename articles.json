@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T05:16:25+00:00",
+ "updatedAt": "2026-09-29T05:15:30+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "12 page(s) d'articles lue(s)",
-  "IA : 12 article(s) résumé(s) et commenté(s)"
+  "14 page(s) d'articles lue(s)",
+  "IA : 14 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -39,7 +39,11 @@
   "a-97a391333576": "2026-09-26",
   "a-4df27962b747": "2026-09-27",
   "a-b1da85a32ab5": "2026-09-27",
-  "a-5ab5d5bdb639": "2026-09-27"
+  "a-5ab5d5bdb639": "2026-09-27",
+  "a-b56380cd0426": "2026-09-28",
+  "a-fd0a8f30dc4f": "2026-09-28",
+  "a-d892cf47e508": "2026-09-27",
+  "a-fcd624ca2c71": "2026-09-24"
  },
  "articles": [
   {
@@ -439,6 +443,26 @@
     "Valoriser l'importance du contact peau à peau prolongé auprès des parents, même pour les bébés nés à terme avec un poids standard.",
     "Rappeler aux familles que la période d'adaptation du nouveau-né s'étend sur plusieurs jours, nécessitant un environnement calme et soutenant.",
     "Laisser l'équipe médicale juger de la stabilité du nouveau-né tout en encourageant les pratiques favorisant le lien précoce."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-0567be6887c4",
+   "category": "sci",
+   "priority": false,
+   "title": "\"C’est tabou de dire qu’on est triste quand on a un beau bébé\" : en Loir-et-Cher, le travail actif des sages-femmes pour les mamans",
+   "source": "lanouvellerepublique.fr",
+   "date": "28 septembre 2026",
+   "sortDate": "2026-09-28",
+   "url": "https://www.lanouvellerepublique.fr/blois/c-est-tabou-de-dire-qu-on-est-triste-quand-on-a-un-beau-bebe-en-loir-et-cher-le-travail-actif-des-sages-femmes-pour-les-mamans-1790610973",
+   "summary": "Les équipes de la Protection maternelle et infantile rappellent que la dépression post-partum touche une part importante des jeunes mères et représente un risque majeur pour leur santé. Un travail de terrain est mené pour repérer précocement ces situations de fragilité.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Sensibiliser les parents dès la période prénatale à l'existence de la dépression post-partum pour banaliser ces difficultés et libérer la parole.",
+    "Connaître les ressources locales de la PMI pour orienter rapidement les familles vers des structures de soutien adaptées en cas de besoin."
    ],
    "summaryAI": true,
    "enriched": true
@@ -990,6 +1014,27 @@
    "enriched": true
   },
   {
+   "id": "a-53eb6edf8c4b",
+   "category": "sci",
+   "priority": false,
+   "title": "Une deuxième grossesse entraîne des changements étonnamment différents au niveau du cerveau.",
+   "source": "Vietnam.vn",
+   "date": "16 septembre 2026",
+   "sortDate": "2026-09-16",
+   "url": "https://www.vietnam.vn/fr/mang-thai-lan-hai-thay-doi-nao-bo-theo-cach-khac-biet-bat-ngo",
+   "summary": "Une étude récente utilisant des IRM cérébrales montre que chaque grossesse laisse une empreinte unique et modifie la structure du cerveau de la mère. Si la première grossesse entraîne des changements majeurs dans le réseau de la conscience de soi et de la pensée sociale, la seconde engendre plutôt des évolutions au niveau de l'attention et du traitement sensoriel. Ces découvertes ouvrent de nouvelles perspectives pour comprendre et identifier les problématiques de santé mentale post-partum.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Rassurer les mères sur la réalité des modifications psychologiques et cognitives qu'elles traversent, qu'il s'agisse d'une première ou d'une énième grossesse.",
+    "Utiliser ces connaissances scientifiques pour déculpabiliser les parents face aux bouleversements émotionnels et aux difficultés de concentration du post-partum.",
+    "Orienter systématiquement vers des professionnels de santé qualifiés dès l'apparition de signes de détresse psychologique, sans poser de diagnostic."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-04f0ed0140ec",
    "category": "sci",
    "priority": false,
@@ -1199,6 +1244,48 @@
    "enriched": true
   },
   {
+   "id": "a-596491459a64",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé de naissance 2026 : jusqu’à deux mois supplémentaires par parent, avec une indemnisation dégressive",
+   "source": "lavoixdefrance.fr",
+   "date": "28 septembre 2026",
+   "sortDate": "2026-09-28",
+   "url": "https://www.lavoixdefrance.fr/conge-de-naissance-2026-jusqua-deux-mois-supplementaires-par-parent-avec-une-indemnisation-degressive-16563/",
+   "summary": "Un nouveau congé supplémentaire de naissance est entré en vigueur en France pour permettre à chaque parent de cesser son activité un à deux mois de plus. Ce dispositif, indemnisé de manière dégressive, s'ajoute aux congés existants pour les enfants nés ou adoptés depuis le début de l'année.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les futurs parents sur l'existence de ce nouveau congé pour les aider à anticiper l'organisation pratique de leur post-partum.",
+    "Soutenir la réflexion du couple sur la place et l'implication du second parent dès les premiers mois de l'enfant.",
+    "Inviter les familles à consulter les sites officiels administratifs pour vérifier leurs droits exacts sans se substituer à un conseiller juridique ou social."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ee1658ffb6c9",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé de naissance à l'officine : l'indemnisation sera de...",
+   "source": "Le Quotidien du Pharmacien",
+   "date": "28 septembre 2026",
+   "sortDate": "2026-09-28",
+   "url": "https://www.lequotidiendupharmacien.fr/gestion-de-lofficine/conge-de-naissance-lofficine-lindemnisation-sera-de",
+   "summary": "Le congé de naissance voté dans le cadre de la loi de financement de la Sécurité sociale est officiellement entré en vigueur au premier juillet. Ce dispositif s'inscrit dans la continuité des annonces gouvernementales concernant l'accompagnement des familles.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Mentionner aux parents l'évolution des droits sociaux liés à l'arrivée d'un enfant pour nourrir leur préparation matérielle.",
+    "Encourager le dialogue au sein du couple sur la répartition du temps de présence auprès du nouveau-né.",
+    "Rappeler que les démarches administratives et l'indemnisation dépendent des organismes officiels et de l'employeur."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-d75398afd7fe",
    "category": "pol",
    "priority": false,
@@ -1257,6 +1344,27 @@
     "Informez-vous sur l'évolution de l'offre de soins locale pour orienter au mieux les familles vers les maternités disponibles.",
     "Accueillez l'anxiété des futurs parents face aux fermetures de services en leur offrant un espace d'écoute sécurisant.",
     "Restez neutre sur le plan politique et administratif, sans vous substituer aux décisions des autorités de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-6854c8c9a7dd",
+   "category": "pol",
+   "priority": false,
+   "title": "Création de 15 « lits halte soins santé » (LHSS) dédiés à la périnatalité sur la Métropole de Lyon",
+   "source": "Agence régionale de santé (ARS) Auvergne-Rhône-Alpes",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/creation-de-15-lits-halte-soins-sante-lhss-dedies-la-perinatalite-sur-la-metropole-de-lyon",
+   "summary": "Un appel à projets a été lancé dans la Métropole de Lyon pour créer une structure résidentielle de 15 lits halte soins santé dédiée aux femmes enceintes ou sortantes de maternité sans domicile fixe. Ces structures médico-sociales offrent un hébergement et un accompagnement global pour répondre aux situations de grande précarité et faciliter l'accès aux soins. La durée de séjour y est limitée mais renouvelable selon l'état de santé de la mère et du nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Se renseigner sur les ressources locales d'hébergement d'urgence et les structures médico-sociales pour orienter au mieux les familles en grande précarité.",
+    "Adapter son écoute face aux difficultés sociales et administratives des mères isolées sans s'immiscer dans la gestion médicale de leur situation.",
+    "Rappeler aux parents que l'accès aux soins de base est un droit fondamental, quelle que soit leur situation administrative."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2202,6 +2310,68 @@
    "enriched": true
   },
   {
+   "id": "a-30fb71afdd84",
+   "category": "soc",
+   "priority": false,
+   "title": "Arnas. Cette maternité ferme après 32 ans d’existence : « Ce service, c’était une famille »",
+   "source": "Le Progrès",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://www.leprogres.fr/sante/2026/09/29/cette-maternite-ferme-apres-32-ans-d-existence-ce-service-c-etait-une-famille",
+   "summary": "La maternité de la polyclinique du Beaujolais à Arnas ferme ses portes après trente-deux ans d'activité et des dizaines de milliers de naissances. Ce service historique s'apprête à accueillir ses tout derniers nouveau-nés avant l'arrêt définitif de son activité.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'impact émotionnel et logistique de la fermeture des structures de proximité sur leur projet de naissance.",
+    "Être attentive au sentiment de perte de repères que peuvent ressentir les familles face à la modification de l'offre de soins locale.",
+    "Rappeler que le choix du lieu d'accouchement relève exclusivement de l'équipe médicale et des structures hospitalières disponibles."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2dab97e5e7a5",
+   "category": "soc",
+   "priority": false,
+   "title": "« C’était magique » : soignante dans la maternité d’Arnas, elle est la dernière maman à y accoucher avant sa fermeture",
+   "source": "Le Progrès",
+   "date": "28 septembre 2026",
+   "sortDate": "2026-09-28",
+   "url": "https://www.leprogres.fr/sante/2026/09/28/c-etait-magique-soignante-dans-la-maternite-d-arnas-elle-est-la-derniere-maman-a-y-accoucher-avant-sa-fermeture",
+   "summary": "Une salariée de la maternité de la polyclinique du Beaujolais a donné naissance au tout dernier bébé de l'établissement avant sa fermeture définitive. Cet événement marque symboliquement la fin de trente-deux ans d'histoire pour ce service de soins.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute bienveillant aux parents attachés à leur maternité de proximité qui ferment leurs portes.",
+    "Accueillir les émotions ambivalentes des familles confrontées à des bouleversements dans les structures de naissance locales.",
+    "Laisser l'équipe médicale gérer les aspects cliniques de l'accouchement, même dans un contexte de fermeture de service."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-1993746cb2c9",
+   "category": "soc",
+   "priority": false,
+   "title": "\"On m’a dépossédé de ce moment\" : le témoignage de Cynthia, jeune maman traumatisée par son accouchement à Blois",
+   "source": "lanouvellerepublique.fr",
+   "date": "28 septembre 2026",
+   "sortDate": "2026-09-28",
+   "url": "https://www.lanouvellerepublique.fr/blois/on-m-a-depossede-de-ce-moment-le-temoignage-de-cynthia-jeune-maman-traumatisee-par-son-accouchement-a-blois-1790610438",
+   "summary": "Une jeune femme partage son vécu douloureux et sa détresse psychologique malgré un accouchement jugé médicalement réussi. Elle met en lumière la souffrance psychique liée au post-partum et l'importance cruciale de l'écoute des mères.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de parole sécurisant et sans jugement pour permettre aux parents d'exprimer leur ressenti émotionnel sur l'accouchement.",
+    "Être particulièrement vigilante aux signes de détresse psychologique dans le post-partum, tout en orientant vers des professionnels de santé qualifiés si un accompagnement thérapeutique est nécessaire."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-ff0d2bccbbd3",
    "category": "soc",
    "priority": false,
@@ -2281,6 +2451,26 @@
     "Aborder la question de l'allaitement en public lors des entretiens prénataux pour rassurer les mères sur leurs droits et le regard des autres.",
     "Offrir un espace d'écoute bienveillant pour libérer la parole sur le jugement social et le manque de soutien parfois ressenti dans l'espace public.",
     "Rappeler aux parents que le choix de nourrir leur bébé en public ou en privé leur appartient entièrement, sans empiéter sur les conseils médicaux liés à la lactation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-0c14d5b7ca1d",
+   "category": "soc",
+   "priority": false,
+   "title": "« On doit pouvoir nourrir son enfant quand il en a besoin » : ils souhaitent normaliser l’allaitement dans l’espace public",
+   "source": "L'Est Républicain",
+   "date": "27 septembre 2026",
+   "sortDate": "2026-09-27",
+   "url": "https://www.estrepublicain.fr/societe/2026/09/28/on-doit-pouvoir-nourrir-son-enfant-quand-il-en-a-besoin-ils-souhaitent-normaliser-l-allaitement-dans-l-espace-public",
+   "summary": "Plusieurs familles se sont mobilisées pour banaliser l'alimentation infantile, qu'il s'agisse d'allaitement ou de biberon, dans l'espace public. Cette démarche vise à soutenir le droit des parents à nourrir leur bébé selon ses besoins, partout et en toute sérénité.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Accompagner les parents dans la confiance en eux concernant le mode d'alimentation choisi, qu'il s'agisse du sein ou du biberon.",
+    "Discuter des appréhensions liées à la sortie dans l'espace public et valoriser le droit des parents à nourrir leur enfant sans pression extérieure."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2614,6 +2804,27 @@
     "Connaître l'existence de ces outils de confort pour orienter les parents vers des solutions de bien-être non médicales en cas de besoin.",
     "Aborder l'usage de ces accessoires en gardant à l'esprit qu'ils ne remplacent en rien un accompagnement professionnel en cas de difficulté d'allaitement.",
     "Rester neutre face aux produits commerciaux et aider les parents à évaluer leurs propres besoins de confort physique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-fe5e72fe044c",
+   "category": "soc",
+   "priority": false,
+   "title": "\"Vous êtes trop grosse\" : enceinte de 7 mois et obèse, Zoé s'est battue pour accoucher près de chez elle",
+   "source": "Actu.fr",
+   "date": "19 septembre 2026",
+   "sortDate": "2026-09-19",
+   "url": "https://actu.fr/societe/vous-etes-trop-grosse-enceinte-de-7-mois-et-obese-zoe-s-est-battue-pour-accoucher-pres-de-chez-elle_64801993.html",
+   "summary": "Une jeune femme enceinte de sept mois a rencontré de grandes difficultés pour pouvoir accoucher dans l'hôpital de sa ville en raison de son obésité. Ce témoignage illustre les pressions et la stigmatisation liées au poids que subissent régulièrement les femmes enceintes dans la sphère médicale. Cette incertitude quant au lieu d'accouchement a généré un stress important tout au long de sa grossesse.",
+   "auto": true,
+   "addedAt": "2026-09-29T05:15:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de parole bienveillant et sans jugement pour permettre aux parents d'exprimer leurs angoisses liées au regard du corps médical.",
+    "Valoriser l'estime de soi des futurs parents et les encourager à faire valoir leurs droits à une prise en charge respectueuse.",
+    "Observer strictement sa limite non médicale en évitant d'émettre quelque avis que ce soit sur les risques de santé liés au poids."
    ],
    "summaryAI": true,
    "enriched": true
