@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T05:15:30+00:00",
+ "updatedAt": "2026-09-30T05:16:42+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -43,7 +43,10 @@
   "a-b56380cd0426": "2026-09-28",
   "a-fd0a8f30dc4f": "2026-09-28",
   "a-d892cf47e508": "2026-09-27",
-  "a-fcd624ca2c71": "2026-09-24"
+  "a-fcd624ca2c71": "2026-09-24",
+  "a-c33a88e3777c": "2026-09-29",
+  "a-3f143cc600f1": "2026-09-29",
+  "a-502107b74d00": "2026-09-29"
  },
  "articles": [
   {
@@ -424,6 +427,48 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-723d28df53b6",
+   "category": "sci",
+   "priority": false,
+   "title": "On pensait la sage-femme cantonnée à la salle d'accouchement : 87 % des Françaises ignorent ce qu'elle peut faire seule depuis 2009",
+   "source": "sciencepost.fr",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://sciencepost.fr/on-pensait-la-sage-femme-cantonnee-a-la-salle-daccouchement-87-des-francaises-ignorent-ce-quelle-peut-faire-seule-depuis-2009/",
+   "summary": "En France, la majorité du grand public ignore que les sages-femmes peuvent réaliser le suivi gynécologique de prévention et la contraception depuis la loi HPST de 2009. Ce cadre légal leur confère un rôle de premier recours pour la santé des femmes, en dehors des situations pathologiques.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Encourage à rappeler aux parents que les sages-femmes sont des professionnelles de santé compétentes pour le suivi global en dehors des seuls accouchements.",
+    "Aide à orienter les femmes vers une sage-femme pour leur suivi de prévention et de contraception.",
+    "Évite toute confusion en rappelant que la sage-femme gère le suivi physiologique et délègue ou oriente en cas de pathologie."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-f01a00382c1f",
+   "category": "sci",
+   "priority": false,
+   "title": "Côte d’Ivoire-AIP/ L’INFAS engage la révision des curricula de formation des sages-femmes pour améliorer la santé maternelle et néonatale",
+   "source": "AIP - Agence Ivoirienne de Presse",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://www.aip.ci/cote-divoire-aip-linfas-engage-la-revision-des-curricula-de-formation-des-sages-femmes-pour-ameliorer-la-sante-maternelle-et-neonatale/?amp=1",
+   "summary": "En Côte d'Ivoire, un atelier national révise les programmes de formation des sages-femmes pour améliorer la santé maternelle et néonatale. Les travaux intègrent de nouvelles spécialités, la prise en charge des hémorragies du post-partum et l'harmonisation des pratiques cliniques.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Illustre l'importance accordée à la formation continue et à la sécurité des soins dans le parcours de naissance à l'international.",
+    "Permet de valoriser auprès des parents le haut niveau d'exigence requis dans la formation des professionnels qui les encadrent.",
+    "Souligne la stricte délimitation entre le rôle de soutien de la doula et les actes cliniques d'urgence de la sage-femme."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1239,6 +1284,111 @@
     "Transmettre aux parents des informations factuelles sur les recommandations de l'OMS concernant l'allaitement et les soins du nouveau-né.",
     "Soutenir la confiance des mères dans leurs capacités physiologiques à nourrir et prendre soin de leur bébé au quotidien.",
     "Laisser l'évaluation médicale de la santé du nourrisson et de la mère aux professionnels habilités lors des suivis de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-dcf58b8ac2ee",
+   "category": "pol",
+   "priority": false,
+   "title": "Rapport ministériel sur la santé périnatale : l’UNSSF appelle à reprendre les travaux avec les sages-femmes",
+   "source": "UNSSF (sages-femmes)",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://unssf.org/2026/09/29/rapport-ministeriel-sur-la-sante-perinatale-lunssf-appelle-a-reprendre-les-travaux-avec-les-sages-femmes/?utm_source=rss&utm_medium=rss&utm_campaign=rapport-ministeriel-sur-la-sante-perinatale-lunssf-appelle-a-reprendre-les-travaux-avec-les-sages-femmes",
+   "summary": "Un syndicat de sages-femmes a pris acte de la parution d'un rapport ministériel sur la santé périnatale tout en regrettant l'insuffisance des mesures consacrées à la prévention et à l'articulation entre la ville et l'hôpital. Il soutient le refus d'une des contributrices de signer le texte, estimant qu'il ne valorise pas assez le parcours global et le suivi de proximité des familles. Les recommandations syndicales insistent sur l'importance du dépistage, de l'accompagnement accessible et de la prise en compte de la santé globale des femmes.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur les débats actuels concernant l'organisation des soins et l'importance du suivi de proximité en ville comme à l'hôpital.",
+    "Accueillir les inquiétudes des familles face aux évolutions de l'offre de soins périnataux en valorisant une écoute attentive et bienveillante.",
+    "Rappeler aux parents que les aspects médicaux et décisionnels de la grossesse relèvent strictement des professionnels de santé habilités."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-dc0697d6572d",
+   "category": "pol",
+   "priority": false,
+   "title": "Trop de maternités en France ? Ce que préconise le rapport de 3 médecins sur la périnatalité",
+   "source": "Whatsupdoc-lemag.fr",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://www.whatsupdoc-lemag.fr/article/trop-de-maternites-en-france-ce-que-preconise-le-rapport-de-3-medecins-sur-la-perinatalite",
+   "summary": "Un rapport officiel rédigé par des médecins juge insoutenable le maintien de nombreuses maternités à faible activité en raison de contraintes de personnel et de la permanence des soins. Le document suggère de réviser la carte des structures selon des seuils de sécurité et de remplacer les fermetures par des centres périnataux de proximité. Une sage-femme membre de la mission a refusé de signer le texte, estimant qu'il négligeait le rôle des praticiens exerçant en ville.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de leur lieu de naissance envisagé et des éventuels temps de trajet induits par la recomposition de l'offre hospitalière.",
+    "Offrir un espace d'écoute pour rassurer les futurs parents qui s'interrogent sur la sécurité et l'organisation des structures de naissance.",
+    "Ne formuler aucun avis sur la pertinence médicale des fermetures ou le maintien des seuils d'activité des maternités."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-227852dd364d",
+   "category": "pol",
+   "priority": false,
+   "title": "\"Un modèle devenu insoutenable\" : un rapport choc préconise de fermer de nombreuses maternités en France",
+   "source": "lanouvellerepublique.fr",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://www.lanouvellerepublique.fr/a-la-une/un-modele-devenu-insoutenable-un-rapport-choc-preconise-de-fermer-de-nombreuses-maternites-en-france-1790703549",
+   "summary": "Un rapport ministériel préconise de réduire le nombre de maternités françaises pour faire face aux difficultés de personnel et garantir la sécurité des soins. Les auteurs recommandent de fermer les structures à faible activité et de les substituer par de nouveaux centres de périnatalité, tout en maintenant des exceptions pour les zones isolées. Cette réorganisation vise à répondre à la pénurie de professionnels spécialisés et à l'usage excessif de l'intérim médical.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Aider les parents à se préparer aux changements potentiels de leur parcours de soins et à anticiper la logistique de fin de grossesse.",
+    "Proposer un accompagnement émotionnel renforcé aux familles anxieuses à l'idée de devoir accoucher plus loin de leur domicile.",
+    "Veiller à orienter systématiquement les parents vers leurs sages-femmes ou médecins pour toute question relative aux choix de l'établissement de naissance."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a5e37979f70b",
+   "category": "pol",
+   "priority": false,
+   "title": "Le nombre actuel de maternités est « insoutenable », selon un rapport remis au gouvernement",
+   "source": "Yahoo Actualités",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://fr.news.yahoo.com/nombre-actuel-maternit%C3%A9s-insoutenable-selon-153321856.html",
+   "summary": "Un rapport officiel remis au gouvernement qualifie d'insoutenable le nombre actuel de maternités en France et recommande de le réduire. Les auteurs pointent une mauvaise répartition des professionnels qualifiés et suggèrent de s'appuyer sur de nouveaux centres de périnatalité.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Informe les parents sur les évolutions territoriales potentielles et l'organisation des soins de proximité.",
+    "Rappelle l'importance de valoriser le rôle des sages-femmes dans l'accompagnement global de la grossesse.",
+    "Conforte la doula dans sa posture non médicale face aux inquiétudes liées aux restructurations hospitalières."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-84e4f92b0d15",
+   "category": "pol",
+   "priority": false,
+   "title": "Un rapport juge « insoutenable » le nombre de maternités en France",
+   "source": "Le Journal des Français",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://lejdf.fr/un-rapport-juge-insoutenable-le-nombre-de-maternites-en-france-245c1c/",
+   "summary": "Un rapport préconise de diminuer le nombre de maternités à faible activité pour garantir la sécurité des soins en s'appuyant sur un référentiel national. Il propose de transformer les structures fermées en centres périnatalis de proximité proposant des soins sans plateau technique.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Permet d'expliquer aux parents la logique derrière la réorganisation des parcours de naissance et des lieux de suivi.",
+    "Aide à orienter les familles vers les structures de proximité existantes pour le suivi gynécologique et la santé sexuelle.",
+    "Rappelle qu'en tant que doula, il ne faut pas se prononcer sur la pertinence médicale des fermetures mais écouter le ressenti des parents."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2331,6 +2481,48 @@
    "enriched": true
   },
   {
+   "id": "a-b9bc33d57bbd",
+   "category": "soc",
+   "priority": false,
+   "title": "Semaine de l’allaitement maternel : « Un tremplin pour la vie : soutenir et renforcer ce qui fonctionne »",
+   "source": "paris.fr",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://www.paris.fr/evenements/semaine-de-l-allaitement-maternel-un-tremplin-pour-la-vie-soutenir-et-renforcer-ce-qui-fonctionne-125067",
+   "summary": "La Ville de Paris organise des événements dans le cadre de la Semaine mondiale de l'allaitement maternel pour informer et soutenir les familles. Des ateliers et des espaces d'échange sont proposés pour accompagner le libre choix des parents dans un cadre convivial.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Fournit des ressources locales concrètes à recommander aux parents qui s'interrogent sur l'allaitement.",
+    "Permet d'ouvrir le dialogue avec bienveillance sur les choix d'alimentation du nourrisson, sans aucune injonction.",
+    "Rappelle que le rôle de la doula est d'offrir un espace d'écoute et d'information pratique, en complément des réseaux de soutien institutionnels."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-e23a7a7b604e",
+   "category": "soc",
+   "priority": false,
+   "title": "Bourg-en-Bresse. Allaitement : le mouvement “J’ai faim, je mange” est lancé",
+   "source": "Le Progrès",
+   "date": "29 septembre 2026",
+   "sortDate": "2026-09-29",
+   "url": "https://www.leprogres.fr/sante/2026/09/29/allaitement-le-mouvement-j-ai-faim-je-mange-est-lance",
+   "summary": "Un rassemblement de mamans, de bébés et de papas a eu lieu à Bourg-en-Bresse dans le cadre du mouvement autour de l'allaitement. L'événement a été organisé avec le soutien d'une photographe de maternité qui exerce également comme doula.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "S'inspirer de ces initiatives locales pour encourager la création d'espaces de parole bienveillants autour de l'allaitement et du soutien aux jeunes parents.",
+    "Valoriser l'importance de l'inclusion des pères dans les temps d'échange sur l'arrivée de l'enfant.",
+    "Maintenir une posture d'accompagnement émotionnel et communautaire sans se substituer aux professionnels de santé en cas de difficultés techniques d'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-2dab97e5e7a5",
    "category": "soc",
    "priority": false,
@@ -2705,6 +2897,27 @@
    "enriched": true
   },
   {
+   "id": "a-bdbeab60f7c4",
+   "category": "soc",
+   "priority": false,
+   "title": "Pays d'Ancenis. Parentalité : huit ateliers pour jeunes parents à Ancenis et au-delà dès le 2 octobre",
+   "source": "echoancenis.fr",
+   "date": "23 septembre 2026",
+   "sortDate": "2026-09-23",
+   "url": "https://www.echoancenis.fr/actualite-13290-pays-d-ancenis-parentalite-huit-ateliers-pour-jeunes-parents-a-ancenis-et-au-dela-des-le-2-octobre",
+   "summary": "Une communauté professionnelle de santé organise des ateliers animés par des professionnels pour permettre aux jeunes parents de partager leurs difficultés et leurs besoins grâce à un jeu de discussion. Ces temps d'échange visent à briser l'isolement parental et à offrir un espace où exprimer les doutes du quotidien.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser des outils ludiques ou des supports de discussion pour faciliter l'expression des doutes et des besoins des parents lors des séances.",
+    "Aider les parents à réaliser que leurs difficultés du quotidien sont normales afin de réduire leur sentiment d'isolement.",
+    "Savoir orienter les familles vers les professionnels de santé du territoire dès qu'une problématique médicale ou psychologique émerge."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-9985b7f7c99c",
    "category": "soc",
    "priority": false,
@@ -2972,6 +3185,27 @@
     "Discuter avec les parents de la gestion du départ pour la maternité et des signes d'alerte pour anticiper le trajet sans céder à la panique.",
     "Valider l'intensité émotionnelle et le vécu parfois brutal d'un accouchement inopiné lors du suivi en post-partum.",
     "Reconnaître ses limites en orientant les parents vers des professionnels de santé pour la prise en charge médicale des naissances rapides hors structure."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-50baaf9ab9e7",
+   "category": "soc",
+   "priority": false,
+   "title": "Une réalité méconnue et taboue | Deuil périnatal: «Le deuil d'une vie que tu avais imaginée» -Valérie Lebeuf",
+   "source": "98.5 Montréal",
+   "date": "17 septembre 2026",
+   "sortDate": "2026-09-17",
+   "url": "https://www.985fm.ca/audio/802683/deuil-perinatal-le-deuil-d-une-vie-que-tu-avais-imaginee-valerie-lebeuf",
+   "summary": "Le témoignage d'une journaliste et l'analyse d'une psychologue mettent en lumière la réalité taboue du deuil périnatal et la perte d'un lien d'attachement. Les intervenantes insistent sur la nécessité de briser le silence et de reconnaître la souffrance spécifique des pères, trop souvent marginalisés dans cette épreuve.",
+   "auto": true,
+   "addedAt": "2026-09-30T05:16:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute sécurisant et sans jugement pour libérer la parole autour du deuil périnatal et de la perte d'un enfant.",
+    "Veiller à inclure systématiquement les pères dans l'accompagnement du deuil et à valider leur souffrance propre.",
+    "Connaître les limites de l'accompagnement non médical et orienter vers des professionnels spécialisés en santé mentale ou des associations de deuil périnatal."
    ],
    "summaryAI": true,
    "enriched": true
