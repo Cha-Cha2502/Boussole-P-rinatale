@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T05:16:39+00:00",
+ "updatedAt": "2026-10-02T05:15:54+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "17 page(s) d'articles lue(s)",
-  "IA : 17 article(s) résumé(s) et commenté(s)"
+  "24 page(s) d'articles lue(s)",
+  "IA : 15 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -49,7 +49,10 @@
   "a-502107b74d00": "2026-09-29",
   "a-653ca1ad831e": "2026-09-30",
   "a-4007d0b4fdd6": "2026-09-30",
-  "a-f72f40bdece0": "2026-09-30"
+  "a-f72f40bdece0": "2026-09-30",
+  "a-4fd8b2d1cb7f": "2026-10-01",
+  "a-58116af30339": "2026-10-01",
+  "a-1d88a8c5feb7": "2026-10-01"
  },
  "articles": [
   {
@@ -433,6 +436,27 @@
    "enriched": true
   },
   {
+   "id": "a-b500af1ef3f3",
+   "category": "sci",
+   "priority": false,
+   "title": "Le nombre de maternités jugé « insoutenable » : voici les propositions d’un rapport remis au gouvernement",
+   "source": "parents.fr",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.parents.fr/actualites/etre-parent/le-nombre-de-maternites-juge-insoutenable-ce-que-propose-le-rapport-remis-au-gouvernement-1157706",
+   "summary": "Un rapport officiel rédigé par des spécialistes de la santé recommande de réorganiser la carte des maternités en raison d'un modèle jugé insoutenable dans les structures à faible activité. Les auteurs soulignent que le maintien de ces petits établissements mobilise des ressources humaines importantes pour une activité réduite. Le document suscite toutefois des désaccords au sein même du groupe de travail, notamment de la part d'une sage-femme dénonçant une approche trop hospitalière.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborde avec bienveillance l'anxiété que peut générer l'incertitude autour de la fermeture de structures locales.",
+    "Soutiens les parents dans l'élaboration de leur projet de naissance en tenant compte des temps de trajet actualisés vers les maternités.",
+    "Ne prend pas position sur la pertinence médico-administrative de la fermeture des hôpitaux, mais écoute les ressentis des familles face à ces modifications territoriales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-ecc424823874",
    "category": "sci",
    "priority": false,
@@ -702,6 +726,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-bb7b80d9e8f3",
+   "category": "sci",
+   "priority": false,
+   "title": "WEBINAIRE - Présentation du réseau périnatal NEF aux CPTS du 93",
+   "source": "YouTube",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://youtu.be/5LtJNIFb8r0?si=PSxJn8U3Q02sHgZW",
+   "summary": "Profitez des vidéos et de la musique que vous aimez, mettez en ligne des contenus originaux, et partagez-les avec vos amis, vos proches et le monde entier.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
   },
   {
    "id": "a-d73d8cd30c14",
@@ -1082,6 +1120,20 @@
    "enriched": true
   },
   {
+   "id": "a-71d8f1c47113",
+   "category": "sci",
+   "priority": false,
+   "title": "L’ anémie pendant la grossesse aurait des conséquences sur le volume du cerveau du bébé",
+   "source": "parents.fr",
+   "date": "18 septembre 2026",
+   "sortDate": "2026-09-18",
+   "url": "https://www.parents.fr/actualites/grossesse/lanemie-pendant-la-grossesse-aurait-des-consequences-sur-le-volume-du-cerveau-du-bebe-1157090",
+   "summary": "Une étude fait état des conséquences potentielles de l’anémie de la femme enceinte sur le volume cérébral du bébé. On vous aide à y voir plus clair.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
+  },
+  {
    "id": "a-6acd3d788c61",
    "category": "sci",
    "priority": false,
@@ -1349,6 +1401,90 @@
     "Transmettre aux parents des informations factuelles sur les recommandations de l'OMS concernant l'allaitement et les soins du nouveau-né.",
     "Soutenir la confiance des mères dans leurs capacités physiologiques à nourrir et prendre soin de leur bébé au quotidien.",
     "Laisser l'évaluation médicale de la santé du nourrisson et de la mère aux professionnels habilités lors des suivis de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-b98003afe2bd",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé de naissance : « décrocher de son travail pour être avec son enfant »",
+   "source": "Agribourgogne",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://www.agribourgogne.fr/articles/conge-de-naissance-decrocher-de-son-travail-pour-etre-avec-son-enfant/",
+   "summary": "Un congé de naissance supplémentaire est entré en vigueur pour permettre aux deux parents de bénéficier d'un ou deux mois de congés consécutifs ou fractionnés. Ce dispositif, pris en charge pour faciliter le remplacement, doit être utilisé dans les neuf mois suivant l'arrivée de l'enfant. Il s'adresse aux parents d'enfants nés ou adoptés à partir de janvier 2026.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Informe les parents sur l'existence de ce nouveau congé pour qu'ils puissent anticiper leur organisation dans les premiers mois.",
+    "Ouvre l'échange sur la place du co-parent et l'importance du temps partagé auprès du nouveau-né.",
+    "Rappelle que la doula n'intervient pas dans les démarches administratives ou juridiques liées aux congés mais peut orienter vers les organismes compétents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a7ce6967aa9c",
+   "category": "pol",
+   "priority": false,
+   "title": "Maternités : un rapport gouvernemental préconise des fermetures",
+   "source": "Politique Matin",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.politiquematin.fr/maternites-rapport-gouvernemental-preconise-fermetures",
+   "summary": "Un rapport ministériel préconise de fermer certaines maternités à faible activité pour les transformer en centres de périnatalité de proximité, provoquant un vif débat politique. Le texte divise les experts de la santé et se voit rejeté par les représentants des sages-femmes qui estiment leur rôle ignoré. Cette réforme de l'organisation des soins soulève des questions majeures sur l'aménagement du territoire et l'accès aux soins.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Permets aux parents d'exprimer leurs inquiétudes face aux changements de l'offre de soins dans leur région.",
+    "Valorise l'importance du suivi de proximité assuré par les sages-femmes libérales en cas d'éloignement de la structure hospitalière.",
+    "Reste dans ton rôle de soutien émotionnel sans porter de jugement critique sur les décisions politiques de santé publique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-78e53f5249d9",
+   "category": "pol",
+   "priority": false,
+   "title": "La Cnav détaille les incidences du congé supplémentaire de naissance sur les droits à retraite",
+   "source": "open.lefebvre-dalloz.fr",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://open.lefebvre-dalloz.fr/actualites/droit-social/cnav-detaille-incidences-conge-supplementaire-naissance-droits-retraite_fe76b381d-bc18-4768-9d32-07cb906059ab",
+   "summary": "Une circulaire de la Cnav précise les modalités de prise en compte du congé supplémentaire de naissance pour le calcul des droits à retraite. L'indemnisation de ce congé permet de valider des trimestres assimilés sous conditions d'une durée minimale de 58 jours d'indemnisation, indépendamment du nombre d'enfants. Ces informations administratives facilitent la compréhension des droits sociaux pour les parents.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Informe les parents sur l'impact de ce congé sur leur future retraite pour les aider dans leurs démarches administratives.",
+    "Aide à orienter les familles vers les organismes compétents comme la Cnav ou la Cnam pour toute question sur leurs droits précis.",
+    "Rappelle qu'en tant que doula, le rôle est d'informer sans se substituer aux institutions administratives ou médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-e49c764f8e35",
+   "category": "pol",
+   "priority": false,
+   "title": "Trappes : les élus face à Ramsay pour la maternité",
+   "source": "infosyvelines.fr",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.infosyvelines.fr/articles/trappes-maternite-ramsay-moratoire-elus-8-octobre-2026",
+   "summary": "Des élus locaux de Saint-Quentin-en-Yvelines rencontrent la direction de Ramsay Santé pour demander un moratoire de trois ans sur la fermeture de la maternité de Trappes. Cette structure, qui représente la seule option pour les accouchements dans le secteur, fait face à un projet de fermeture motivé par une baisse de la natalité et des difficultés de recrutement. Les mobilisations locales tentent de préserver l'accès aux soins de proximité pour les habitants.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborde avec les futurs parents l'organisation locale des naissances et l'existence potentielle de déserts médicaux périnataux dans leur secteur.",
+    "Soutient l'écoute émotionnelle face à l'anxiété liée à la fermeture ou à l'éloignement des structures de naissance habituelles.",
+    "Oriente strictement vers les réseaux de santé locaux pour connaître les solutions de remplacement, sans émettre d'avis sur la gestion des structures."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2522,85 +2658,218 @@
    "enriched": true
   },
   {
-   "id": "a-5bf2edf51c75",
-   "category": "pol",
+   "id": "a-35b1196880ba",
+   "category": "soc",
    "priority": false,
-   "title": "Congé naissance : l’Assurance maladie submergée, des parents sans indemnités",
+   "title": "Maternités : un rapport préconise la fermeture des structures à faible activité",
+   "source": "Speedy Life",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.speedylife.fr/maternites-rapport-fermeture-faible-activite/",
+   "summary": "La proposition de fermer les petites maternités engendre de fortes inquiétudes chez les femmes enceintes résidant en zone rurale ou isolée. L'éloignement géographique majore le stress lié aux trajets, au coût des déplacements et à la crainte d'accoucher en route. Face à cette situation, certaines familles envisagent des solutions d'hébergement provisoire à proximité de la structure de naissance.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Aide les parents à anticiper concrètement la logistique du jour J en calculant précisément les temps de trajet vers la maternité de recours.",
+    "Offre un espace d'écoute sécurisant pour libérer la parole autour de la peur de l'accouchement inopiné ou de l'éloignement.",
+    "Orioute systématiquement vers l'équipe médicale pour toute question relative aux signes cliniques du travail et au moment opportun pour partir à la maternité."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-07cd05b50bbb",
+   "category": "soc",
+   "priority": false,
+   "title": "« Ici, on était comme dans un cocon » : les parents en soutien aux équipes lors de la fermeture de la maternité",
+   "source": "Le Progrès",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.leprogres.fr/sante/2026/10/01/ici-on-etait-comme-dans-un-petit-cocon-les-parents-en-soutien-aux-equipes-lors-de-la-fermeture-de-la-maternite",
+   "summary": "La maternité de la polyclinique d'Arnas a fermé définitivement ses portes fin septembre, suscitant une vive émotion et des témoignages de reconnaissance de la part des familles envers le personnel. Cet événement illustre l'attachement des parents aux structures de proximité à taille humaine et l'impact psychologique de leur disparition.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Offre un espace d'écoute bienveillant pour accueillir l'angoisse ou la nostalgie des parents confrontés à la modification du paysage des maternités.",
+    "Valide les émotions des familles qui attachent une importance particulière à la qualité humaine et au sentiment de cocon dans leur lieu de naissance.",
+    "Maintient une posture d'accompagnement émotionnel sans prendre parti dans les débats politiques ou administratifs sur la fermeture des structures."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-82452c995a6e",
+   "category": "soc",
+   "priority": false,
+   "title": "A 38 semaines de grossesse, une passionnée de yoga fait le poirier et accouche quelques heures plus tard",
+   "source": "Magicmaman",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.magicmaman.com/a-38-semaines-de-grossesse-une-passionnee-de-yoga-fait-le-poirier-et-accouche-quelques-heures-plus-tard,3786484.asp",
+   "summary": "Une femme enceinte de 38 semaines, habituée à la pratique du yoga et de la gymnastique, a réalisé un poirier avant de ressentir des contractions et d'accoucher peu de temps après. Suivie par une sage-femme, elle a constaté le début du travail après cet épisode d'activité physique. Le couple a ensuite été orienté vers une maison de naissance pour la suite du suivi.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Discute avec les parents de la perception corporelle et de l'écoute des signaux du corps en fin de grossesse.",
+    "Encourage l'autonomie et le mouvement tout en rappelant l'importance de s'en référer aux professionnels de santé pour toute question médicale.",
+    "Garde à l'esprit qu'il s'agit d'un témoignage personnel et non d'une pratique médicale universelle à recommander systématiquement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-9bc628f1ac95",
+   "category": "soc",
+   "priority": false,
+   "title": "KAFOUNTINE : Deux femmes surprises en train d'enterrer un nouveau-né, l'hypothèse de l'infanticide privilégiée",
+   "source": "dakaractu.com",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.dakaractu.com/KAFOUNTINE-Deux-femmes-surprises-en-train-d-enterrer-un-nouveau-ne-l-hypothese-de-l-infanticide-privilegiee_a276559.html",
+   "summary": "Deux femmes ont été interpellées à Kafountine après avoir été surprises en train d’enterrer le corps d’un nouveau-né, rapporte L’Observateur. Le corps a été exhumé sur instruction du procureur. Si les premières investigations s’orientent vers un possible infanticide, les circonstances du décès...",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-472ab6234b54",
+   "category": "soc",
+   "priority": false,
+   "title": "«Des pauses d’allaitement effectives et rémunérées» : Marine Tondelier souhaite réformer l’accompagnement des mères allaitantes",
+   "source": "Le Figaro",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.lefigaro.fr/social/des-pauses-d-allaitement-effectives-et-remunerees-marine-tondelier-souhaite-reformer-l-accompagnement-des-meres-allaitantes-20261001",
+   "summary": "La candidate des Écologistes à la présidentielle, qui allaite son nourrisson, né le 18 septembre, réclame également la «possibilité d’un congé d’allaitement choisi et indemnisé».",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-90691daa5d5b",
+   "category": "soc",
+   "priority": false,
+   "title": "Un délit d’entrave à l’allaitement ?",
+   "source": "fr.aleteia.org",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://fr.aleteia.org/2026/10/01/un-delit-dentrave-a-lallaitement/",
+   "summary": "Comment défendre l’allaitement sans le réduire au droit durable à satisfaire un besoin ? L’écrivain Henri Quantin a trouvé : relire Balzac.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-5282cb6d5581",
+   "category": "soc",
+   "priority": false,
+   "title": "Marine Tondelier favorable à un congé d’allaitement indemnisé",
+   "source": "RMC",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/video-marine-tondelier-favorable-a-un-conge-d-allaitement-indemnise_VN-202610010504.html",
+   "summary": "VIDÉO - Marine Tondelier favorable à un congé d’allaitement indemnisé",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-18384eef9d89",
+   "category": "soc",
+   "priority": false,
+   "title": "\"Je n'ai jamais vu quelqu'un autant instrumentaliser\" sa maternité: Marine Tondelier évoque un \"congé d'allaitement indemnisé\" et interroge",
+   "source": "RMC",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/je-n-ai-jamais-vu-quelqu-un-autant-instrumentaliser-sa-maternite-marine-tondelier-evoque-un-conge-d-allaitement-indemnise-et-interroge_AV-202610010534.html",
+   "summary": "\"Je n'en peux plus de la grossesse\" de Marine Tondelier, s'agace Joëlle Dago-Serry. La chroniqueuse des Grandes Gueules a été amenée à réagir ce jeudi à la proposition de la candidate des Ecologistes à la présidentielle, se disant favorable à \"congé d'allaitement indemnisé\".",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-ec54cb0f3785",
+   "category": "soc",
+   "priority": false,
+   "title": "\"Est-ce que je vais tenir ?\" : Marine Tondelier se confie sur son allaitement 12 jours après la naissance de Léon",
+   "source": "Marie Claire",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.marieclaire.fr/est-ce-que-je-vais-tenir-marine-tondelier-se-confie-sur-son-allaitement-12-jours-apres-la-naissance-de-leon,1521030.asp",
+   "summary": "Une personnalité publique a partagé son expérience récente de l'allaitement maternel, mettant en lumière la fatigue intense, les doutes et les difficultés physiques inhérents aux premiers jours. Elle souligne l'importance cruciale d'un accompagnement adapté pour les mères qui font le choix d'allaiter leur nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Valider la charge émotionnelle et la fatigue intense des premiers temps pour aider les parents à déculpabiliser face aux difficultés.",
+    "Offrir un espace d'écoute bienveillant pour aborder les doutes nocturnes et les questionnements sur la quantité bue par le bébé.",
+    "Orienter vers des professionnels de santé ou des conseillères en lactation en cas de douleurs persistantes, tout en restant hors du champ médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-8fb633531da2",
+   "category": "soc",
+   "priority": false,
+   "title": "Café Allaitement Darmstadt : Offre gratuite le 2 octobre",
+   "source": "da.news",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://da.news/fr/stillcafe-darstadt-semaine-mondiale-de-lallaitement-maternel/",
+   "summary": "Un centre familial organise un événement d'échange autour de l'allaitement animé par une consultante en lactation, ouvert aux futurs et jeunes parents. Cette rencontre aborde les aspects pratiques et émotionnels de l'alimentation du nourrisson, favorisant le partage d'expériences entre pairs.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Encourager les parents à participer à des espaces collectifs locaux pour briser l'isolement et normaliser les vécus de la période post-natale.",
+    "Informer les futurs parents dès la grossesse de l'existence de ces lieux ressource gratuits pour qu'ils puissent anticiper leurs besoins de soutien.",
+    "Rappeler aux parents que les consultations spécialisées en lactation constituent un appui technique de premier plan en cas de difficultés."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-313125a67d16",
+   "category": "soc",
+   "priority": false,
+   "title": "Travail et maternité : une élue veut rémunérer les \"pauses d'allaitement\" en entreprise",
    "source": "Planet.fr",
-   "date": "14 septembre 2026",
-   "sortDate": "2026-09-14",
-   "url": "https://www.planet.fr/conge-naissance-lassurance-maladie-submergee-des-parents-sans-indemnites.2999193.817026.html",
-   "summary": "La mise en place d'un nouveau congé supplémentaire de naissance entraîne des retards massifs de versement de la part de l'Assurance maladie, en raison d'un nombre trop important de dossiers déposés. Cette situation plonge de nombreux foyers dans des difficultés financières importantes dès l'arrivée de leur nouveau-né.",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.planet.fr/travail-et-maternite-une-elue-veut-remunerer-les-pauses-dallaitement-en-entreprise.2999585.817021.html",
+   "summary": "Face aux difficultés rencontrées lors de la reprise de l'activité professionnelle, des propositions de réformes législatives visent à mieux encadrer et rémunérer les temps dédiés à l'allaitement en entreprise. Le cadre juridique actuel prévoit des temps de pause non rémunérés pour les salariées allaitant ou tirant leur lait jusqu'aux un ans de l'enfant.",
    "auto": true,
-   "addedAt": "2026-09-26T05:14:07+00:00",
+   "addedAt": "2026-10-02T05:15:54+00:00",
    "pageRead": true,
    "points": [
-    "Discuter avec les parents de l'anticipation financière et de l'impact potentiel des retards administratifs sur leur sérénité en post-partum.",
-    "Orienter les familles vers les organismes compétents ou les services sociaux pour les démarches en cas de difficultés de perception des indemnités.",
-    "Garder à l'esprit que la doula ne gère pas les aspects administratifs ou juridiques des prestations sociales, mais peut valider le vécu émotionnel de stress lié à ces situations."
+    "Discuter de l'anticipation du retour au travail avec les parents pour aborder sereinement la question de la poursuite de l'allaitement ou du sevrage.",
+    "Informer les mères sur leurs droits légaux en matière de pauses dédiées au tirage de lait sur le temps de travail.",
+    "Soutenir la réflexion pratique autour de l'organisation quotidienne et de l'aménagement des horaires sans se substituer au droit du travail ou aux conseils juridiques."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-76d6660d59e0",
-   "category": "pol",
+   "id": "a-5c821a32588f",
+   "category": "soc",
    "priority": false,
-   "title": "\"Ils ont fait la pub partout de ce droit qu'ils ne sont pas fichus de respecter\": submergée par 110.000 demandes, l’Assurance maladie peine à indemniser (à temps) le nouveau congé de naissance",
-   "source": "BFM",
-   "date": "13 septembre 2026",
-   "sortDate": "2026-09-13",
-   "url": "https://www.bfmtv.com/economie/economie-social/ils-ont-fait-la-pub-partout-de-ce-droit-qu-ils-ne-sont-pas-fichus-de-respecter-submergee-par-110-000-demandes-l-assurance-maladie-peine-a-indemniser-a-temps-le-nouveau-conge-de-naissance_AV-202609130038.html",
-   "summary": "Le nouveau congé supplémentaire de naissance, entré en vigueur en juillet dernier, permet aux parents de prolonger leur arrêt de travail pour s'occuper de leur bébé. Toutefois, de nombreux assurés rencontrent des retards importants de versement de leurs indemnités journalières de la part de l'Assurance maladie.",
+   "title": "L’allaitement célébré au Centre Manicouagan",
+   "source": "Le Manic",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.lemanic.ca/2026/10/01/lallaitement-celebre-au-centre-manicouagan/",
+   "summary": "Un événement communautaire familial célèbre l'allaitement à travers des activités, une exposition photo et des espaces de rencontre encadrés par des organismes locaux. Des marraines d'allaitement y proposent un soutien personnalisé, du prêt de matériel et des temps d'échange réguliers pour les familles.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-02T05:15:54+00:00",
    "pageRead": true,
    "points": [
-    "Informer les parents qui s'interrogent sur ce congé des éventuels délais administratifs et du fonctionnement du paiement à terme échu.",
-    "Écouter et valider l'anxiété financière que peuvent ressentir les familles face aux retards de versement de leurs indemnités dans le post-partum.",
-    "Rappeler qu'en tant que doula, vous n'avez pas de rôle administratif ou de recours à exercer auprès de la CPAM à leur place."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-47438c9817cc",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé de naissance : pourquoi certains parents attendent encore leurs indemnités",
-   "source": "parents.fr",
-   "date": "13 septembre 2026",
-   "sortDate": "2026-09-13",
-   "url": "https://www.parents.fr/actualites/etre-parent/conge-de-naissance-des-parents-toujours-sans-indemnites-lassurance-maladie-sexplique-1156843",
-   "summary": "Les retards de paiement du congé supplémentaire de naissance s'expliquent par un versement à terme échu et par la fréquence des dossiers ou formulaires incomplets transmis par les assurés et les employeurs. L'Assurance maladie précise que les versements interviennent en moyenne onze jours après la période concernée lorsque le dossier est complet.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Aider les parents à anticiper ces démarches administrutives en amont pour éviter les oublis de pièces justificatives.",
-    "Offrir un espace de parole aux jeunes parents stressés par la gestion administrative et financière de leur arrivée à la maison.",
-    "S'abstenir de toute intervention ou conseil juridique direct sur l'exactitude des dossiers administratifs et renvoyer vers les organismes compétents."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-1d310859b2f3",
-   "category": "pol",
-   "priority": false,
-   "title": "\"Un droit qu'ils ne sont pas fichus de respecter\" : le congé de naissance peine à payer ses bénéficiaires",
-   "source": "Orange Actualités",
-   "date": "13 septembre 2026",
-   "sortDate": "2026-09-13",
-   "url": "https://actu.orange.fr/france/un-droit-qu-ils-ne-sont-pas-fichus-de-respecter-le-conge-de-naissance-peine-a-payer-ses-beneficiaires-magic-CNT000002rSlWk.html",
-   "summary": "Le congé supplémentaire de naissance, instauré pour offrir un temps additionnel aux parents après l'arrivée d'un enfant, suscite la frustration de nombreux bénéficiaires en raison de retards notables de versement. Ce dispositif prévoit une indemnisation dégressive sur un ou deux mois, calculée à partir du salaire brut dans la limite du plafond de la Sécurité sociale.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter de l'organisation matérielle du post-partum en tenant compte de la réalité financière et des potentiels délais de versement des aides.",
-    "Accueillir le mécontentement et la déception des parents face aux dysfonctionnements administratifs avec empathie et soutien émotionnel.",
-    "Ne pas se substituer aux organismes sociaux pour expliquer le calcul exact des indemnités journalières."
+    "Orienter les parents vers les réseaux de marraines d'allaitement et les maisons de la famille pour tisser un réseau de soutien de proximité.",
+    "Valoriser l'importance de l'implication du co-parent et de l'entourage dans la réussite du projet d'alimentation du nourrisson.",
+    "Promouvoir l'accès aux ressources matérielles locales, comme le prêt de tire-lait, pour faciliter l'organisation des premiers mois."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2646,6 +2915,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-03846a2b7141",
+   "category": "soc",
+   "priority": false,
+   "title": "Marine Tondelier jeune maman : son message fort sur l’allaitement... \"C’est aussi à la société de vous soutenir\"",
+   "source": "StarMag",
+   "date": "30 septembre 2026",
+   "sortDate": "2026-09-30",
+   "url": "https://www.starmag.com/actu-people/peopolitique/marine-tondelier-jeune-maman-son-message-fort-sur-lallaitement-1055787.html/amp",
+   "summary": "Peopolitique. Quelques jours après la naissance de son deuxième enfant, Marine Tondelier a partagé un long message sur l’allaitement. La candidate à la...",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true
   },
   {
    "id": "a-30fb71afdd84",
@@ -3582,69 +3865,6 @@
     "Aborde la question du départ à la maternité avec les parents pour qu'ils sachent identifier les signes d'un travail rapide, sans céder à la panique.",
     "Valorise la place du co-parent dans ton discours, en soulignant son rôle précieux de soutien et d'acteur lors de l'accouchement.",
     "Rappelle que si un accouchement inopiné survient hors de l'hôpital, l'accompagnement par des secouristes ou des professionnels d'urgence est primordial en attendant les secours médicaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e5b463d88888",
-   "category": "soc",
-   "priority": false,
-   "title": "Pechbonnieu. Des \"Cafés allaitement\" pour accompagner les jeunes parents",
-   "source": "ladepeche.fr",
-   "date": "12 septembre 2026",
-   "sortDate": "2026-09-12",
-   "url": "https://www.ladepeche.fr/2026/09/12/des-cafes-allaitement-pour-accompagner-les-jeunes-parents-13547500.php",
-   "summary": "Une communauté de communes met en place des « Cafés allaitement » animés par des professionnelles de la petite enfance et une consultante en lactation. Ces espaces de parole conviviaux permettent aux parents et futurs parents d'échanger sur l'allaitement, le sommeil, l'alimentation et la vie quotidienne avec un nouveau-né. L'objectif est de briser l'isolement en favorisant le soutien mutuel et le partage d'expériences entre familles.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Orienter les parents vers ces groupes de parole locaux pour qu'ils puissent rompre l'isolement et partager leurs vécus.",
-    "S'appuyer sur l'existence de ces réseaux de soutien communautaires pour compléter son propre accompagnement émotionnel.",
-    "Rappeler aux parents que les questions pratiques liées à l'allaitement peuvent aussi être partagées avec des professionnels spécialisés."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a09df020dccc",
-   "category": "soc",
-   "priority": false,
-   "title": "« Cela nous semble naturel »: ces deux belles-sœurs allaitent le bébé de l’autre",
-   "source": "Parents.fr",
-   "date": "11 septembre 2026",
-   "sortDate": "2026-09-11",
-   "url": "https://www.parents.fr/actualites/etre-parent/cela-nous-semble-naturel-ces-deux-belles-soeurs-allaitent-le-bebe-de-lautre-1156779",
-   "summary": "Deux belles-sœurs ont pris l'habitude d'allaiter occasionnellement les enfants l'une de l'autre par solidarité familiale et pour faire face aux situations d'urgence. Cette pratique d'entraide spontanée s'est mise en place naturellement dès les premiers jours du premier enfant. L'expérience illustre les liens étroits et l'adaptabilité que certaines mères développent autour de l'allaitement.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:58:04+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute sans jugement aux parents qui partagent des modes d'organisation atypiques pour nourrir leur enfant.",
-    "Rappeler aux familles l'importance de s'informer sur les précautions sanitaires et les recommandations officielles concernant le partage de l'allaitement.",
-    "Garder une posture neutre face aux choix parentaux tout en incitant à la prudence sur le plan de la santé et de l'hygiène."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-bf9470e0f40a",
-   "category": "soc",
-   "priority": false,
-   "title": "CANNES : Santé publique - Le Forum Européen de l'Allaitement quitte Nice et s'installe sur la Croisette",
-   "source": "Presse Agence",
-   "date": "10 septembre 2026",
-   "sortDate": "2026-09-10",
-   "url": "https://presseagence.fr/cannes-sante-publique-le-forum-europeen-de-lallaitement-quitte-nice-et-sinstalle-sur-la-croisette/",
-   "summary": "Le Forum Européen de l'Allaitement déménage à Cannes pour rassembler experts et grand public autour de la périnatalité. Cet événement met en avant la nécessité d'améliorer l'accompagnement et l'information des familles dans un pays où la pratique de l'allaitement maternel reste faible.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "S'informer sur les événements et ressources disponibles pour mieux orienter les parents en quête de soutien autour de l'allaitement.",
-    "Proposer une écoute bienveillante et sans pression sur le choix d'allaiter ou non, en respectant le projet de chaque parent.",
-    "Reconnaître ses propres limites et rediriger vers des consultantes en lactation certifiées (IBCLC) ou des professionnels de santé en cas de difficultés médicales."
    ],
    "summaryAI": true,
    "enriched": true
