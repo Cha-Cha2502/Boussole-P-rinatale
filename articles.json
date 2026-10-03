@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T05:15:54+00:00",
+ "updatedAt": "2026-10-03T05:14:31+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "24 page(s) d'articles lue(s)",
-  "IA : 15 article(s) résumé(s) et commenté(s)"
+  "27 page(s) d'articles lue(s)",
+  "IA : 27 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -52,7 +52,13 @@
   "a-f72f40bdece0": "2026-09-30",
   "a-4fd8b2d1cb7f": "2026-10-01",
   "a-58116af30339": "2026-10-01",
-  "a-1d88a8c5feb7": "2026-10-01"
+  "a-1d88a8c5feb7": "2026-10-01",
+  "a-50f63cf9b078": "2026-10-02",
+  "a-a814fad07ec1": "2026-10-02",
+  "a-9bc628f1ac95": "2026-10-01",
+  "a-fdcd2ef70494": "2026-09-30",
+  "a-bb7b80d9e8f3": "2026-09-25",
+  "a-8be4e4951fdc": "2026-09-21"
  },
  "articles": [
   {
@@ -436,6 +442,69 @@
    "enriched": true
   },
   {
+   "id": "a-9c5da45cc3a6",
+   "category": "sci",
+   "priority": false,
+   "title": "Les prescriptions post-partum de GLP-1 augmentent fortement chez les femmes américaines",
+   "source": "ma-clinique.fr",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://ma-clinique.fr/les-prescriptions-post-partum-de-glp-1-augmentent-fortement-chez-les-femmes-americaines",
+   "summary": "Une étude américaine montre une forte augmentation des prescriptions de médicaments GLP-1, tels qu'Ozempic, chez les femmes au cours des six mois suivant l'accouchement entre 2018 et 2025. Cette hausse concerne particulièrement les patientes ayant des antécédents de diabète, de diabète gestationnel ou d'obésité.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir la parole des mères qui expriment des préoccupations liées à leur poids ou à leur métabolisme après la naissance sans émettre de jugement.",
+    "Orienter systématiquement les parents vers un médecin ou une sage-femme pour toute question relative aux traitements médicamenteux en post-partum.",
+    "Ne formuler aucun avis ni conseil sur la prise de traitements de perte de poids, qui relèvent exclusivement du champ médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-65e482f6a1e0",
+   "category": "sci",
+   "priority": false,
+   "title": "Post-partum : l'explosion d'Ozempic chez les jeunes mères américaines et ce risque méconnu qui inquiète",
+   "source": "Homéophyto",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://homeophyto.topsante.com/mere-enfant/le-10eme-mois-de-grossesse-bebe-est-la/post-partum-lexplosion-dozempic-chez-les-jeunes-meres-americaines-et-ce-risque-meconnu-qui-inquiete-69717.html",
+   "summary": "Une étude publiée dans le JAMA met en lumière l'augmentation importante des prescriptions post-partum de traitements contre le diabète et l'obésité aux États-Unis. Ce phénomène soulève des interrogations sur la santé métabolique des mères ainsi que sur les impacts potentiels de ces molécules sur l'allaitement.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir l'écoute émotionnelle des jeunes mères confrontées à la fatigue et aux changements corporels de la période postnatale.",
+    "Rappeler aux parents que l'évaluation des risques liés aux médicaments pendant l'allaitement appartient exclusivement aux professionnels de santé.",
+    "Maintenir une posture d'information générale sans se prononcer sur l'indication ou l'efficacité de ces thérapies."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7a239b301838",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement : un temps d’information et d’échange à la",
+   "source": "mairie17.paris.fr",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://mairie17.paris.fr/pages/allaitement-un-temps-d-information-et-d-echange-a-la-mairie-du-17e-36690",
+   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, une municipalité et les professionnels de la Protection Maternelle et Infantile organisent un temps d'échange et d'information destiné aux futurs et jeunes parents. Cet événement permet aux familles de poser leurs questions et d'obtenir des conseils de prévention en accès direct.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Informez les parents que vous accompagnez sur l'existence des permanences et des ressources locales comme la PMI pour les soutenir dans leur parentalité.",
+    "Encouragez l'accès à l'information pluridisciplinaire pour répondre aux questionnements sur l'alimentation des nourrissons.",
+    "Rappelez que l'accompagnante partage des informations pratiques et de confort, tandis que le suivi médical et l'accompagnement technique de l'allaitement relèvent des professionnels de santé de la PMI."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-b500af1ef3f3",
    "category": "sci",
    "priority": false,
@@ -493,6 +562,27 @@
    "points": [
     "Encouragez les parents à participer à ces groupes de parole locaux pour rompre l'isolement et partager leurs questionnements sur l'arrivée de bébé.",
     "Valorisez le rôle des structures publiques comme la PMI tout en clarifiant votre position de soutien non médical et émotionnel."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c5bbf1e45486",
+   "category": "sci",
+   "priority": false,
+   "title": "Les accouchements par césarienne seraient liés à un risque accru de leucémie chez les enfants, alerte une étude",
+   "source": "Science et vie",
+   "date": "30 septembre 2026",
+   "sortDate": "2026-09-30",
+   "url": "https://www.science-et-vie.com/corps-et-sante/cancer/les-accouchements-par-cesarienne-lies-a-un-risque-accru-de-leucemie-chez-les-enfants-selon-une-etude-206440.html",
+   "summary": "Une étude suédoise portant sur plus de 2,4 millions de naissances suggère un lien potentiel entre les césariennes programmées sans urgence médicale et un risque accru de leucémie aiguë lymphoblastique chez l'enfant. Les chercheurs soulignent l'importance d'interroger l'impact à long terme des modes d'accouchement sur le système immunitaire.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir les questionnements des futurs parents sur les différents modes d'accouchement avec empathie et neutralité.",
+    "Inviter les parents à échanger directement avec leur équipe médicale pour toute question relative aux indications et aux choix concernant la césarienne.",
+    "Éviter toute interprétation alarmiste de données scientifiques complexes et rappeler que la doula ne pose aucun diagnostic ni ne juge les choix médicaux."
    ],
    "summaryAI": true,
    "enriched": true
@@ -726,20 +816,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-bb7b80d9e8f3",
-   "category": "sci",
-   "priority": false,
-   "title": "WEBINAIRE - Présentation du réseau périnatal NEF aux CPTS du 93",
-   "source": "YouTube",
-   "date": "25 septembre 2026",
-   "sortDate": "2026-09-25",
-   "url": "https://youtu.be/5LtJNIFb8r0?si=PSxJn8U3Q02sHgZW",
-   "summary": "Profitez des vidéos et de la musique que vous aimez, mettez en ligne des contenus originaux, et partagez-les avec vos amis, vos proches et le monde entier.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
   },
   {
    "id": "a-d73d8cd30c14",
@@ -1128,10 +1204,17 @@
    "date": "18 septembre 2026",
    "sortDate": "2026-09-18",
    "url": "https://www.parents.fr/actualites/grossesse/lanemie-pendant-la-grossesse-aurait-des-consequences-sur-le-volume-du-cerveau-du-bebe-1157090",
-   "summary": "Une étude fait état des conséquences potentielles de l’anémie de la femme enceinte sur le volume cérébral du bébé. On vous aide à y voir plus clair.",
+   "summary": "Une recherche récente indique que l'anémie vécue pendant la grossesse pourrait être associée à une réduction du volume cérébral global et de certaines structures spécifiques chez le nourrisson. Menée auprès d'une cohorte mère-enfant, cette étude par imagerie montre des écarts mesurables de volume cérébral durant la première et la deuxième année de vie.",
    "auto": true,
    "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder l'importance d'une alimentation équilibrée et du suivi des bilans sanguins avec les parents tout en leur rappelant que le diagnostic et la prescription de suppléments relèvent strictement du médecin ou de la sage-femme.",
+    "Offrir un espace d'écoute bienveillant aux futures mères fatiguées ou anxieuses face aux risques de carence, sans jamais dramatiser ni poser de diagnostic de fatigue lié à l'anémie.",
+    "Garder à l'esprit les limites du rôle de la doula en orientant systématiquement vers le corps médical dès qu'un symptôme physique persistant comme une fatigue inhabituelle est évoqué."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-6acd3d788c61",
@@ -1427,6 +1510,27 @@
    "enriched": true
   },
   {
+   "id": "a-2c6be1639f1a",
+   "category": "pol",
+   "priority": false,
+   "title": "Maternités : un rapport sur la périnatalité propose de revoir la carte de ces structures",
+   "source": "lasantepublique.fr",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://www.lasantepublique.fr/maternites-leur-nombre-juge-insoutenable-par-un-rapport-sur-la-perinatalite/",
+   "summary": "Un rapport officiel remis au gouvernement qualifie d'insoutenable le nombre actuel de maternités en France en raison d'un manque de ressources humaines et d'une mauvaise répartition. Il préconise de réorganiser la carte des structures en s'appuyant sur un référentiel de sécurité, ce qui suscite des critiques sur une vision trop hospitalière de la périnatalité.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Être attentive aux inquiétudes des parents concernant la fermeture ou l'éloignement potentiel de leur maternité de proximité.",
+    "Rappeler aux familles que l'organisation des soins et le choix de la structure relèvent strictement du parcours médical encadré.",
+    "Valoriser l'importance du suivi physiologique global tout en respectant les compétences des différents professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-a7ce6967aa9c",
    "category": "pol",
    "priority": false,
@@ -1485,6 +1589,48 @@
     "Aborde avec les futurs parents l'organisation locale des naissances et l'existence potentielle de déserts médicaux périnataux dans leur secteur.",
     "Soutient l'écoute émotionnelle face à l'anxiété liée à la fermeture ou à l'éloignement des structures de naissance habituelles.",
     "Oriente strictement vers les réseaux de santé locaux pour connaître les solutions de remplacement, sans émettre d'avis sur la gestion des structures."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-472ab6234b54",
+   "category": "pol",
+   "priority": false,
+   "title": "«Des pauses d’allaitement effectives et rémunérées» : Marine Tondelier souhaite réformer l’accompagnement des mères allaitantes",
+   "source": "Le Figaro",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://www.lefigaro.fr/social/des-pauses-d-allaitement-effectives-et-remunerees-marine-tondelier-souhaite-reformer-l-accompagnement-des-meres-allaitantes-20261001",
+   "summary": "Une personnalité politique et jeune maman plaide pour une révision des droits des mères allaitantes en France. Elle réclame notamment la mise en place effective et rémunérée de pauses dédiées à l'allaitement ainsi que la création d'un congé spécifique choisi et indemnisé.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur leurs droits existants en matière de temps de travail et de pauses dédiées à l'alimentation du nourrisson.",
+    "Discuter de l'organisation concrète du retour au travail et de la transition vers le tire-lait lors des accompagnements prénataux.",
+    "Laisser aux parents l'entière responsabilité des choix administratifs et professionnels liés à leur congé et se limiter à une information générale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-5282cb6d5581",
+   "category": "pol",
+   "priority": false,
+   "title": "Marine Tondelier favorable à un congé d’allaitement indemnisé",
+   "source": "RMC",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/video-marine-tondelier-favorable-a-un-conge-d-allaitement-indemnise_VN-202610010504.html",
+   "summary": "Une personnalité politique exprime son soutien en faveur de la mise en place d'un congé d'allaitement indemnisé. Cette prise de position relance le débat public sur l'accompagnement des mères allaitantes en France.",
+   "auto": true,
+   "addedAt": "2026-10-02T05:15:54+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question du retour au travail et de la poursuite de l'allaitement lors des entretiens prénataux pour rassurer les parents.",
+    "Offrir un espace d'écoute neutre où les mères peuvent exprimer leurs préoccupations matérielles et organisationnelles sans pression.",
+    "Rappeler que les choix concernant l'alimentation du nourrisson relèvent strictement des parents, tout en restant informée des débats sociétaux actuels."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1860,6 +2006,27 @@
     "Se renseigner sur les ressources locales d'hébergement d'urgence et les structures médico-sociales pour orienter au mieux les familles en grande précarité.",
     "Adapter son écoute face aux difficultés sociales et administratives des mères isolées sans s'immiscer dans la gestion médicale de leur situation.",
     "Rappeler aux parents que l'accès aux soins de base est un droit fondamental, quelle que soit leur situation administrative."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-358a1c54a978",
+   "category": "pol",
+   "priority": false,
+   "title": "Bientôt le retour de bébés binchois : Le CHU Tivoli inaugure sa Maison de naissance sur la Grand-Place",
+   "source": "L'Avenir",
+   "date": "25 septembre 2026",
+   "sortDate": "2026-09-25",
+   "url": "https://www.lavenir.net/regions/mons-centre/binche/2026/09/25/bientot-le-retour-de-bebes-binchois-le-chu-tivoli-inaugure-sa-maison-de-naissance-sur-la-grand-place-JVPWMAKDWJAHJFBAIGRDLBLMHM/",
+   "summary": "Une nouvelle maison de naissance a ouvert ses portes à Binche pour offrir un suivi global par des sages-femmes et la possibilité d'accoucher dans un cadre intime. Ce lieu est réservé aux grossesses physiologiques sans complications médicales et impose un suivi prénatal de six mois sur place. En cas de besoin, un protocole de transfert sécurisé vers un hôpital est prévu avec un service d'urgence.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez informer les parents sur l'existence de structures alternatives comme les maisons de naissance et les critères médicaux stricts qui y donnent accès.",
+    "Rappelez aux futurs parents que ce type de projet s'inscrit dans un parcours médicalisé encadré par des sages-femmes, où la sécurité et les transferts en milieu hospitalier priment.",
+    "Ne vous positionnez pas sur le choix d'accoucher en maison de naissance ou à l'hôpital, mais aidez les parents à clarifier leurs souhaits pour mieux dialoguer avec l'équipe médicale."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2577,82 +2744,127 @@
    "enriched": true
   },
   {
-   "id": "a-b4a92778c4d1",
-   "category": "pol",
+   "id": "a-2398a392c623",
+   "category": "soc",
    "priority": false,
-   "title": "Congé supplémentaire de naissance : 110 000 demandes déjà déposées, pourquoi certains parents attendent toujours leur paiement",
-   "source": "Parole de mamans",
-   "date": "14 septembre 2026",
-   "sortDate": "2026-09-14",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWmpDZU8yT3BLRC0za3JBUW1TTW43b3JUajZaYy1ueHJGbkZ3bGpLcndCWTZZRmtZelFmVml5NndobndqOC1jWjlPal9DVHZ1YVpCQ1lBZHExb3JneTVWeWpXS0Z6YnNSLTZvT3JjSFlqMjJuZFptNkVmdjFUNm1kY0JkR3F4dXo0aWtmRjlrckNGVVl4b25tb2JCdmhPcWdTVVBySUZHNU1VMmNMb0FTb2JUT3owRXh0UGVXdWJGaWJYRjF6UFh6UlhGV29kX2hKYWdZNUQ5anJaWXlqSmNWaHdicFFXV2NvVDNEWU00QU42cm93TTJNUDJ6Nm1mUWZNRVJRZkNLZ3RkOXlSY2lUTElROVFzd2MxRkxybDdaaXRycllW?oc=5",
-   "summary": "Malgré un nombre important de demandes déposées pour le congé supplémentaire de naissance, de nombreux parents subissent des retards de paiement. Cette situation met en lumière les difficultés de traitement administratif rencontrées par les services payeurs.",
+   "title": "Ashley Tisdale a souffert de dépression post-partum",
+   "source": "20minutes.fr",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://www.20minutes.fr/arts-stars/people/4250817-20261002-ashley-tisdale-essaye-divorcer-mari-tellement-fois-lorsqu-souffrait-depression-post-partum",
+   "summary": "L'actrice Ashley Tisdale a publiquement évoqué la dépression post-partum qu'elle a traversée après la naissance de son premier enfant, mettant en lumière la difficulté de cette transition. Ce témoignage illustre l'impact psychologique que peut avoir l'arrivée d'un nouveau-né sur la santé mentale des parents.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-03T05:14:31+00:00",
    "pageRead": true,
    "points": [
-    "Prendre en compte le stress que l'attente de ces prestations peut représenter pour l'organisation familiale des premiers mois.",
-    "Soutenir moralement les parents confrontés à des tracasseries administratives en période de vulnérabilité post-natale.",
-    "Rester dans son rôle d'accompagnante en évitant toute promesse ou conseil juridique sur les recours administratifs."
+    "Offrir un espace de parole bienveillant et sans tabou pour permettre aux parents d'exprimer la vulnérabilité du post-partum.",
+    "Être vigilante face aux signes de détresse psychologique et orienter vers des professionnels spécialisés dès que nécessaire.",
+    "Rappeler que les difficultés émotionnelles après la naissance sont fréquentes et ne relèvent en aucun cas d'un échec personnel."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-f71da67c43fa",
-   "category": "pol",
+   "id": "a-65ec32c5062e",
+   "category": "soc",
    "priority": false,
-   "title": "Deux mois après l'entrée en vigueur du congé supplémentaire de naissance, des parents peinent à être indemnisés",
+   "title": "Ashley Tisdale a failli divorcer son mari «tant de fois» lors de sa dépression post-partum",
+   "source": "Yahoo Life France",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://fr.style.yahoo.com/ashley-tisdale-failli-divorcer-mari-142300879.html",
+   "summary": "Une personnalité publique évoque l'impact d'une dépression post-partum survenue après la naissance de son premier enfant sur l'équilibre de son couple. Le témoignage met en lumière les tensions conjugales majeures et les difficultés relationnelles que peut traverser le couple durant cette période de vulnérabilité.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Abordez la question de la fatigue et du chamboulement relationnel dans le couple lors des consultations prénatales pour préparer les futurs parents.",
+    "Offrez un espace d'écoute bienveillant et sans jugement aux partenaires qui se sentent submergés par l'arrivée du bébé.",
+    "Orientez rapidement vers des professionnels de santé mentale spécialisés dès que les signes d'une dépression post-partum s'installent."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-6755f9dbc860",
+   "category": "soc",
+   "priority": false,
+   "title": "“Je n'étais pas prête à ça\" : Lola Marois se confie sur la naissance de Jules et Bella, les deux enfants qu’elle a eus avec Jean-Marie Bigard",
+   "source": "Femme Actuelle",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://www.femmeactuelle.fr/actu/news-actu/je-n-etais-pas-prete-a-ca-lola-marois-se-confie-sur-la-naissance-de-jules-et-bella-les-deux-enfants-quelle-a-eus-avec-jean-marie-bigard-2212080",
+   "summary": "Une actrice revient sur sa grossesse gémellaire imprévue vécue à l'âge de 29 ans, confiant n'avoir pas été préparée à cette situation tout en soulignant son attachement à sa liberté. Ses déclarations font écho à la fiction abordant la dépression post-partum qu'elle interprète à l'écran.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Validez le fait qu'une grossesse multiple ou inattendue puisse générer un sentiment de sidération ou d'impréparation chez les futurs parents.",
+    "Soutenez l'expression des sentiments ambivalents face à la maternité et au maintien de l'identité personnelle.",
+    "Rappelez que l'accompagnante écoute le vécu psychologique mais ne se substitue pas à une prise en charge médicale ou thérapeutique pour la dépression."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-32185d3c5b2a",
+   "category": "soc",
+   "priority": false,
+   "title": "\"À la naissance, je n'ai pas eu le coup de foudre pour mon bébé\"",
    "source": "Magicmaman",
-   "date": "14 septembre 2026",
-   "sortDate": "2026-09-14",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRkxHaG9kODBYTDVOVkFGV2NqUFdXUDY4dVBEcVZZSWxtanVKZXpxdGNzeWoxOFlOY281TlAzZmJBa1JmQzU1WE8wa240MWM1WU1wbnZCR0pSLWJPR1gwSlVMVWFtYnRQRnNNdzhPeTNXT1dJdkJyY002Tlc1NWU2dWNERGJoOXhwWE1pUU5lV2kyNXhRd2RBS0x4M29ybWdzTWZBdmNSbHBnLVZteTdtQ3BHbWcxa1VWODk2S2dKTmg0X3liNG5wYTcxZDBSUWVnbUExQ2ZQcE9zSFBMOERSLTk4aw?oc=5",
-   "summary": "Plusieurs semaines après la mise en place d'un congé de naissance supplémentaire, des familles rencontrent des difficultés pour percevoir leurs indemnités. Cette situation administrative complexe peut générer du stress et des préoccupations financières chez les jeunes parents.",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://www.magicmaman.com/a-la-naissance-je-n-ai-pas-eu-le-coup-de-foudre-pour-mon-bebe,3786537.asp",
+   "summary": "L'absence de coup de foudre immédiat entre un parent et son nouveau-né est une situation fréquente qui n'implique ni un manque d'amour ni une défaillance de l'instinct maternel. Ce lien relationnel se construit progressivement au fil du temps et de l'histoire singulière partagée avec l'enfant.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-03T05:14:31+00:00",
    "pageRead": true,
    "points": [
-    "Aborder la question administrative et financière en amont pour rassurer les parents sur ces éventuels retards.",
-    "Orienter les familles vers les organismes compétents ou des services d'assistance sociale en cas de blocage des versements."
+    "Dédramatisez l'absence d'amour immédiat pour le nourrisson afin de libérer les parents de la culpabilité et de la pression sociale.",
+    "Accompagnez la construction progressive du lien en valorisant les petits moments du quotidien et l'écoute des besoins du bébé.",
+    "Sachez repérer les signes d'un blocage psychologique profond et orientez vers un psychologue ou un médecin si la souffrance persiste."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-43d6e42c5eda",
-   "category": "pol",
+   "id": "a-be1ef448c134",
+   "category": "soc",
    "priority": false,
-   "title": "Fermeture de la maternité Navarre : l'hôpital de Pau \"victime de cette situation\" pour le directeur",
-   "source": "ici.fr",
-   "date": "14 septembre 2026",
-   "sortDate": "2026-09-14",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV29VU3J6V0ZlZ19qLVRXa3Brazlya09JM2xJVkJZVlNtT3dZeVVUTDlBUGJVd20yeEM0cm5uTFRCUFU3MHZpRlk4Q2xFWXdIZ2NGdXFwSmJDdGdxdERMUHQtZmZycmxfVHpiSUdTeUUzd011SXhqNnpTMUlqTlZ3Y0kyV0otUlBOcnM1U1hRRVNnNUd3VGlhZlVCT1VfQS1lbGdRWkxiM3NETlY5MkxDYmQ5aWl2VnpYWFhLb18zcGdOVktkSm1PRXY3dGlTSFMtRDlhT3o5SmR3S0RhMWlYUjFieUlwTTBJbDNBM2ppZUJFeE1EdVVtdWIyaHRnR0NJYWNvR2Z5NTZac1V5YVFpMA?oc=5",
-   "summary": "La maternité de Navarre ferme ses portes, plaçant l'hôpital de Pau dans une situation difficile selon sa direction. Cette réorganisation locale modifie l'offre de soins obstétricaux sur le territoire.",
+   "title": "Loulou Kitchen se livre sur le sevrage de l'allaitement : \"Je trouve que cette période du sevrage est difficile\"",
+   "source": "Magicmaman",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://www.magicmaman.com/loulou-kitchen-se-livre-sur-le-sevrage-de-l-allaitement-je-trouve-que-cette-periode-du-sevrage-est-difficile,3786544.asp",
+   "summary": "Une influenceuse partage son expérience sur la fin de l'allaitement au sein de son deuxième enfant, décrivant une étape complexe sur le plan émotionnel. Elle souligne que malgré les bienfaits reconnus, la transition et la logistique du sevrage sont rarement abordées. Elle exprime également le soulagement de retrouver du temps exclusif pour son aîné une fois cette période passée.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-03T05:14:31+00:00",
    "pageRead": true,
    "points": [
-    "Intégrer ces changements de structure dans l'information transmise aux parents sur les lieux de naissance disponibles.",
-    "Soutenir l'anxiété des futures mères confrontées à l'éloignement ou au changement imprévu de leur maternité de rattachement."
+    "Aborder ouvertement avec les parents la question de la fin de l'allaitement et la charge émotionnelle que représente le sevrage.",
+    "Valider le sentiment ambivalent des mères qui jonglent entre la nostalgie du lien unique et le besoin de retrouver de l'autonomie.",
+    "Soutenir la fratrie en proposant des pistes pour intégrer le grand frère ou la grande sœur lors de l'arrivée d'un nouveau bébé."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-1c2558d4b481",
-   "category": "pol",
+   "id": "a-e992fbbe18d9",
+   "category": "soc",
    "priority": false,
-   "title": "Clinique mutualiste du Médoc. Maternité de Lesparre-Médoc : les accouchements suspendus jusqu’au 12 octobre",
-   "source": "lejournaldumedoc.fr",
-   "date": "14 septembre 2026",
-   "sortDate": "2026-09-14",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTXd5b2ExeUMzck5BM2g0VWh5ZjhMQWpUczdEWldtWGdzcjJ3ZGxBd1RtWFEwS2ZsSGtNWWdQS3VxWFM4UXRpSkJQYWR4NG1sMFhwR21pM1FQaXRpRGJxRzNodWVhYUlnWVZGbGxIQUVUcXpCRE1iRF9uMjZaV0pPWWUxYXFWR0lCNG5rVGlsWExZOHc5RGlPRnRzLVFJVTkwYUtnMUJUM09iZVlpaldSX2tlQTB3T3l0YVNYeHBTc09USExVRWh0dFBvdWVSRkl5MVlmUjd6MDB4ZXFHMFVJVjNxUmYxZw?oc=5",
-   "summary": "Les accouchements à la maternité de Lesparre-Médoc au sein de la clinique mutualiste sont temporairement suspendus jusqu'au 12 octobre. Les patientes doivent être orientées vers d'autres établissements pour leur prise en charge.",
+   "title": "Marine Tondelier plaide pour un vrai soutien à l'allaitement : \"On laisse encore trop souvent les mères se débrouiller seules\"",
+   "source": "Magicmaman",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://www.magicmaman.com/marine-tondelier-plaide-pour-un-vrai-soutien-a-l-allaitement-on-laisse-encore-trop-souvent-les-meres-se-debrouiller-seules,3786525.asp",
+   "summary": "Une personnalité politique et jeune mère met en avant la complexité de la mise en place de l'allaitement en s'appuyant sur son vécu récent. Elle rappelle l'importance d'un choix libre et sans culpabilité, tout en regrettant l'isolement souvent ressenti par les femmes face aux difficultés de cette période. Elle insiste sur le fait que le succès de l'allaitement dépend fortement du soutien et de l'environnement matériel et social.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-03T05:14:31+00:00",
    "pageRead": true,
    "points": [
-    "Vérifier régulièrement avec les parents les plans de naissance et les options de repli en cas de modification des structures locales.",
-    "Offrir un espace d'écoute pour exprimer la déception ou l'inquiétude liées à la modification du lieu d'accouchement prévu."
+    "Offrir un espace d'écoute inconditionnel et sans jugement pour libérer la parole sur la fatigue, les doutes et les douleurs liés à l'allaitement.",
+    "R rappeler régulièrement aux parents que la réussite de l'alimentation du nourrisson est liée à la qualité de leur entourage et à leur niveau de soutien.",
+    "Renvoyer systématiquement vers des professionnels de santé qualifiés (conseillères en lactation, sages-femmes) en cas de difficultés médicales ou de douleurs persistantes."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2721,34 +2933,6 @@
    "enriched": true
   },
   {
-   "id": "a-9bc628f1ac95",
-   "category": "soc",
-   "priority": false,
-   "title": "KAFOUNTINE : Deux femmes surprises en train d'enterrer un nouveau-né, l'hypothèse de l'infanticide privilégiée",
-   "source": "dakaractu.com",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.dakaractu.com/KAFOUNTINE-Deux-femmes-surprises-en-train-d-enterrer-un-nouveau-ne-l-hypothese-de-l-infanticide-privilegiee_a276559.html",
-   "summary": "Deux femmes ont été interpellées à Kafountine après avoir été surprises en train d’enterrer le corps d’un nouveau-né, rapporte L’Observateur. Le corps a été exhumé sur instruction du procureur. Si les premières investigations s’orientent vers un possible infanticide, les circonstances du décès...",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-472ab6234b54",
-   "category": "soc",
-   "priority": false,
-   "title": "«Des pauses d’allaitement effectives et rémunérées» : Marine Tondelier souhaite réformer l’accompagnement des mères allaitantes",
-   "source": "Le Figaro",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.lefigaro.fr/social/des-pauses-d-allaitement-effectives-et-remunerees-marine-tondelier-souhaite-reformer-l-accompagnement-des-meres-allaitantes-20261001",
-   "summary": "La candidate des Écologistes à la présidentielle, qui allaite son nourrisson, né le 18 septembre, réclame également la «possibilité d’un congé d’allaitement choisi et indemnisé».",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
-  },
-  {
    "id": "a-90691daa5d5b",
    "category": "soc",
    "priority": false,
@@ -2757,24 +2941,17 @@
    "date": "1 octobre 2026",
    "sortDate": "2026-10-01",
    "url": "https://fr.aleteia.org/2026/10/01/un-delit-dentrave-a-lallaitement/",
-   "summary": "Comment défendre l’allaitement sans le réduire au droit durable à satisfaire un besoin ? L’écrivain Henri Quantin a trouvé : relire Balzac.",
+   "summary": "Un débat émerge autour de la création potentielle d'un délit d'entrave à l'allaitement face aux difficultés rencontrées par certaines mères dans l'espace public. L'article évoque des situations d'incompréhension, d'insultes ou d'agressions subies par des femmes nourrissant leur bébé hors de chez elles. Cette question soulève la place de l'enfant allaité et la liberté des mères dans la société.",
    "auto": true,
    "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-5282cb6d5581",
-   "category": "soc",
-   "priority": false,
-   "title": "Marine Tondelier favorable à un congé d’allaitement indemnisé",
-   "source": "RMC",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/video-marine-tondelier-favorable-a-un-conge-d-allaitement-indemnise_VN-202610010504.html",
-   "summary": "VIDÉO - Marine Tondelier favorable à un congé d’allaitement indemnisé",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Accompagner la confiance des mères dans leur liberté de nourrir leur bébé où elles le souhaitent en dehors du foyer.",
+    "Discuter des éventuelles appréhensions à sortir avec un nouveau-né et de la gestion du regard des autres dans l'espace public.",
+    "Eviter de se positionner sur le terrain juridique ou militant et se concentrer exclusivement sur le soutien émotionnel et pratique aux parents."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-18384eef9d89",
@@ -2785,10 +2962,17 @@
    "date": "1 octobre 2026",
    "sortDate": "2026-10-01",
    "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/je-n-ai-jamais-vu-quelqu-un-autant-instrumentaliser-sa-maternite-marine-tondelier-evoque-un-conge-d-allaitement-indemnise-et-interroge_AV-202610010534.html",
-   "summary": "\"Je n'en peux plus de la grossesse\" de Marine Tondelier, s'agace Joëlle Dago-Serry. La chroniqueuse des Grandes Gueules a été amenée à réagir ce jeudi à la proposition de la candidate des Ecologistes à la présidentielle, se disant favorable à \"congé d'allaitement indemnisé\".",
+   "summary": "Une femme politique partage son expérience récente de la maternité et plaide publiquement pour la création d'un congé d'allaitement indemnisé ainsi que de pauses dédiées. Ses déclarations suscitent de vives réactions médiatiques et politiques sur la visibilité de la parentalité dans l'espace public.",
    "auto": true,
    "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discuter avec les mères de la réalité logistique du post-partum et de la reprise professionnelle pour les soutenir au mieux dans leurs choix.",
+    "Créer un climat de confiance pour recueillir le ressenti des parents sur la pression sociale liée à l'alimentation et aux injonctions parentales.",
+    "Maintenir une posture strictement non médicale et bienveillante face aux débats politiques ou médiatiques rapportés par les familles."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-ec54cb0f3785",
@@ -2925,10 +3109,17 @@
    "date": "30 septembre 2026",
    "sortDate": "2026-09-30",
    "url": "https://www.starmag.com/actu-people/peopolitique/marine-tondelier-jeune-maman-son-message-fort-sur-lallaitement-1055787.html/amp",
-   "summary": "Peopolitique. Quelques jours après la naissance de son deuxième enfant, Marine Tondelier a partagé un long message sur l’allaitement. La candidate à la...",
+   "summary": "Une jeune maman met en avant l'importance d'un choix libre et sans culpabilité concernant l'allaitement, tout en soulignant la complexité des premières semaines. Elle insiste sur le besoin crucial d'un meilleur soutien sociétal et d'un accompagnement adapté pour les familles.",
    "auto": true,
    "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Valoriser l'écoute active et inconditionnelle des doutes et de la fatigue des parents durant les premières semaines à la maison.",
+    "Informer les mères sur leurs droits légaux en matière de temps de travail dédié à l'allaitement tout en les orientant vers des professionnels compétents en cas de difficulté physique.",
+    "Aider les parents à déculpabiliser face aux difficultés de mise en place de l'allaitement en déconstruisant les injonctions à la perfection."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-30fb71afdd84",
@@ -3410,6 +3601,27 @@
    "enriched": true
   },
   {
+   "id": "a-7bb406c82ece",
+   "category": "soc",
+   "priority": false,
+   "title": "Marine Tondelier, candidate des Écologistes, annonce la naissance de son fils Léon",
+   "source": "Gentside",
+   "date": "23 septembre 2026",
+   "sortDate": "2026-09-23",
+   "url": "https://www.gentside.com/news/art121223-presidentielle-2027-marine-tondelier-candidate-des-ecologistes-annonce-la-naissance-de-son.html",
+   "summary": "Une personnalité politique a médiatisé la naissance de son enfant tout en évoquant la difficulté de concilier responsabilités professionnelles et arrivée d'un nouveau-né. Elle souligne l'importance de faire passer la santé et le bien-être de l'enfant en priorité tout en réorganisant son rythme de vie. L'annonce a été partagée publiquement après quelques jours préservés en famille.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Abordez avec les parents la question de la pression professionnelle et de la difficulté de concilier vie publique ou professionnelle et nouveau-né.",
+    "Soutenez le besoin des parents de s'accorder une bulle d'intimité dans les premiers jours suivant le retour à la maison, loin des sollicitations extérieures.",
+    "Rappelez que chaque parent vit le post-partum à son rythme, sans interférer avec les choix professionnels ou personnels qu'ils décident de faire."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-9985b7f7c99c",
    "category": "soc",
    "priority": false,
@@ -3467,6 +3679,27 @@
     "Créer un espace de parole sécurisant pour permettre aux mères d'exprimer leurs craintes du regard des autres.",
     "Conseiller des astuces pratiques et vestimentaires pour faciliter l'allaitement en extérieur en toute sérénité.",
     "Éviter de porter un jugement sur les choix d'alimentation du nourrisson et valider le ressenti de chaque parent."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-4880fbdb70fa",
+   "category": "soc",
+   "priority": false,
+   "title": "Des ateliers parents-enfants \"inspirés des États-Unis\" arrivent à Theux : des cours de danse avec bébé, \"mais pas au sens classique du terme\"",
+   "source": "L'Avenir",
+   "date": "21 septembre 2026",
+   "sortDate": "2026-09-21",
+   "url": "https://www.lavenir.net/regions/verviers/theux/2026/09/21/des-ateliers-parents-enfants-inspires-des-etats-unis-arrivent-a-theux-des-cours-de-danse-avec-bebe-mais-pas-au-sens-classique-du-terme-QTC52CJJMJGKVHWY3SSO6AKJDY/",
+   "summary": "Une intervenante propose des ateliers de danse-portage pour aider les jeunes parents à tisser un lien d'attachement avec leur bébé tout en luttant contre l'isolement du post-partum. Cette démarche s'inspire de son vécu personnel marqué par une dépression post-partum et du besoin d'activités accessibles en dehors des horaires de semaine ou adaptées aux périodes de fragilité immunitaire des nourrissons. L'objectif est d'offrir un espace de soutien et de guidance pour traverser la tempête émotionnelle des premiers mois.",
+   "auto": true,
+   "addedAt": "2026-10-03T05:14:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Utilisez l'exemple du portage et de la danse pour proposer aux parents des outils corporels doux favorisant le lien d'attachement avec leur bébé.",
+    "Soyez attentive aux signes de vulnérabilité émotionnelle et de dépression du post-partum pour orienter si besoin vers des professionnels de santé qualifiés.",
+    "Valorisez l'importance des espaces de soutien et de socialisation pour les jeunes parents, tout en gardant à l'esprit que vous ne posez aucun diagnostic médical."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3761,110 +3994,6 @@
     "Encourager les parents à participer à des groupes de soutien locaux pour briser l'isolement pendant les premiers mois.",
     "Offrir un espace d'écoute et d'information de base sur l'allaitement, en respectant le choix de chaque parent.",
     "Orionter vers des consultantes en lactation certifiées en cas de difficultés médicales ou de douleurs liées à l'allaitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-03de532e29a9",
-   "category": "soc",
-   "priority": false,
-   "title": "Entrepreneuses : 5 conseils pour allier grossesse et business",
-   "source": "Le Point",
-   "date": "15 septembre 2026",
-   "sortDate": "2026-09-15",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWRGNUdHc2NKY1ZUbWJ3LWVIRzlFcG1DVnB5MlEyTWxSeGZkSUFwakpkSXk3Q1ZGVlduSVFnWkc5UlAxZjB0QWFDTm93ZUphM1dXSkxqeGRMVFh6MnNfNFd0aElfdWd6ekt1eUw0dDFqbC1hRFIzZnVBQmpGM2F6ZHVjQ3FjeGRpdmdOV1BPOU42V1BHSWJtU3NDQUFmUzltTlB0eDZzaWI1NEdINVI2OXRTX0hXVFdma0E?oc=5",
-   "summary": "Concilier la grossesse et la gestion d'une entreprise représente un défi majeur pour les femmes indépendantes. Des conseils pratiques sont proposés pour anticiper cette période et mieux s'organiser.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter de la charge mentale et de la conciliation entre vie professionnelle et arrivée de l'enfant avec les travailleuses indépendantes.",
-    "Soutenir la future mère dans l'organisation de son temps de repos et la mise en place de limites professionnelles.",
-    "Éviter toute immixtion dans les choix juridiques ou financiers de l'entreprise, en se concentrant sur le bien-être physique et mental."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3f97d8c24f93",
-   "category": "soc",
-   "priority": false,
-   "title": "À Paris, les jeunes mères en post-partum chantent dans une « chorale de meufs »",
-   "source": "ELLE",
-   "date": "15 septembre 2026",
-   "sortDate": "2026-09-15",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNW9kNHcwdnpTQ3l4NE9NVTl6RXUxNnhCWlFnSWZRTmpZMVMzOW9QVG5DY1ZfZjZxd00xZm5iR1lpVHJtY1NxM3VZYWRoQ1lQTHJLeGJHbTZJRFF1V0hYdkVkTi02cFdZTGpELURONGswSjN4SER4Q0xiaEVYc2Y4alR0SjdDX2lVdmZRRWN5Q3NSMWJOWWJzd05icElMdzZPU1ZUT1BteE13cDZJYTF3S1lDUzVCZw?oc=5",
-   "summary": "Des jeunes mères à Paris se réunissent au sein d'une chorale dédiée pour partager leur expérience du post-partum en chansons. Cette initiative illustre l'importance des espaces de socialisation et de soutien entre femmes après l'arrivée d'un enfant.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager les mères à chercher des espaces de soutien par les pairs pour briser l'isolement du post-partum.",
-    "Valoriser les activités artistiques et corporelles comme outils d'expression émotionnelle pour les jeunes parents.",
-    "Se positionner comme relais pour orienter vers des cercles ou des activités collectives adaptés aux jeunes mères."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d377012022bf",
-   "category": "soc",
-   "priority": false,
-   "title": "\"C’est très stigmatisé\" : l’allaitement maternel au cœur d’une exposition à Thouars, dans les Deux-Sèvres",
-   "source": "lanouvellerepublique.fr",
-   "date": "15 septembre 2026",
-   "sortDate": "2026-09-15",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNkl0eXZ1UTBWRXhHQnl0Y1BZTFYxR3dIeEo1U1o1Ylh6aHc4UXlNN0cwRkRhc2dGanJJRC00VDFjdUkyLTBMS2dzZnl6NTZaYmdBNGY2dURyUFRaVGUxMWI4VXJRMjBpcUJUMkdJN1h4TEY3Q05qcW8wVTB1ejN0SXFta25JbVdoNXk4dzBhaGhQbHBxd3NXMlRGN1NPTFIta2o5N3JoNUFLSGNqT3NlQUxsYVBlUWU1NEgwa1hVNlhPbEZucU9mY05OOGxtM0JlNjVXN2dPLVF2Z0lZb2NONGR2WHF2ZTIwTXVTTg?oc=5",
-   "summary": "Une exposition artistique organisée à Thouars met en avant l'allaitement maternel et aborde la stigmatisation qui y est encore liée. L'événement cherche à libérer la parole autour des difficultés rencontrées par les mères qui choisissent d'allaiter.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder sans tabou les pressions et les jugements que subissent les parents concernant leur choix d'alimentation du nourrisson.",
-    "Offrer un espace d'écoute bienveillant pour valider le vécu émotionnel des mères allaitantes.",
-    "Ne pas se substituer aux conseillères en lactation ou professionnels de santé en cas de difficultés médicales d'allaitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-09236b9a94de",
-   "category": "soc",
-   "priority": false,
-   "title": "\"Nous sommes à fleur de peau, c'est trop dur\", clap de fin à la maternité de la clinique de L'Union, les salariées inquiètes pour leur avenir",
-   "source": "ladepeche.fr",
-   "date": "14 septembre 2026",
-   "sortDate": "2026-09-14",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeDRjOFNZRFhOQWtrNWtrZDBTNEJrT1JpQ28ySTJnaFF0Q0tzUVVRR1J3R3Y4QUV1UkVkWGcxbThJWDBYVlhEWFVLTEZZUWhDYzZ3QmV6Qkw5eGVEVTdnVXE3NnM1RktRMVltQU9sNHd1OHo5Q3NERnFycDBqbVI1X3ZjT0dpMTRiTk1aRmJXelUya1BJa2VQMzZxRkhTUUVaVHJHeGh2am55Nk53cTE0bDFXZkJDaG5wdFZBQm95QUZHWUg0QmlMUFU4eUYyNmdJbmtmZ1JtZjBuaVBuTDZObzc3eW41SFBlczZJQkdJbkpDSWxJQW1MQU8xLUU0NDczekZqNHFVWk9fQ281bWVxZw?oc=5",
-   "summary": "La fermeture de la maternité de la clinique de L'Union suscite une forte émotion et de l'inquiétude parmi le personnel salarié quant à son avenir professionnel. Ce climat témoigne des tensions actuelles qui traversent les structures de soins périnataux.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Prendre conscience du climat d'incertitude qui pèse sur les équipes soignantes et qui peut se répercuter sur la qualité perçue de l'accompagnement à l'hôpital.",
-    "Maintenir une posture de soutien neutre et bienveillant face aux inquiétudes des parents concernant la fragilité du système de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e1293b792a48",
-   "category": "soc",
-   "priority": false,
-   "title": "Leur 4ème bébé naît dans la voiture avec l’aide d’un pompier : les parents choisissent alors un prénom très symbolique",
-   "source": "paroledemamans.com",
-   "date": "12 septembre 2026",
-   "sortDate": "2026-09-12",
-   "url": "https://paroledemamans.com/actualites/actualites-accouchement/leur-4eme-bebe-nait-dans-la-voiture-avec-laide-dun-pompier-les-parents-choisissent-alors-un-prenom-tres-symbolique",
-   "summary": "Une maman a accouché de son quatrième enfant de manière impromptue devant une caserne de pompiers, avec l'aide d'un sapeur-pompier et du futur papa. Le travail s'étant accéléré très rapidement sur la route, le bébé est né avant d'arriver à la maternité de Montpellier. La mère et l'enfant ont ensuite été pris en charge à l'hôpital et se portent bien.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborde la question du départ à la maternité avec les parents pour qu'ils sachent identifier les signes d'un travail rapide, sans céder à la panique.",
-    "Valorise la place du co-parent dans ton discours, en soulignant son rôle précieux de soutien et d'acteur lors de l'accouchement.",
-    "Rappelle que si un accouchement inopiné survient hors de l'hôpital, l'accompagnement par des secouristes ou des professionnels d'urgence est primordial en attendant les secours médicaux."
    ],
    "summaryAI": true,
    "enriched": true
