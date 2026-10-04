@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T05:14:31+00:00",
+ "updatedAt": "2026-10-04T11:02:55+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -11,10 +11,12 @@
   "Franceinfo Santé",
   "Google Actualités (recherches par mots-clés)"
  ],
- "errors": [],
+ "errors": [
+  "CNGOF : Remote end closed connection without response"
+ ],
  "journal": [
-  "27 page(s) d'articles lue(s)",
-  "IA : 27 article(s) résumé(s) et commenté(s)"
+  "10 page(s) d'articles lue(s)",
+  "IA : 10 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -58,7 +60,9 @@
   "a-9bc628f1ac95": "2026-10-01",
   "a-fdcd2ef70494": "2026-09-30",
   "a-bb7b80d9e8f3": "2026-09-25",
-  "a-8be4e4951fdc": "2026-09-21"
+  "a-8be4e4951fdc": "2026-09-21",
+  "a-1c7a1a32846e": "2026-10-01",
+  "a-952247cedea3": "2026-09-25"
  },
  "articles": [
   {
@@ -442,6 +446,48 @@
    "enriched": true
   },
   {
+   "id": "a-79ce8c4038a5",
+   "category": "sci",
+   "priority": false,
+   "title": "Santé publique : l’allaitement mieux expliqué aux mamans à travers des groupes de parole animés par des puéricultrices",
+   "source": "La Gazette des Communes",
+   "date": "4 octobre 2026",
+   "sortDate": "2026-10-04",
+   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUFI5QVgyS3FJclB2LVNYaXdmUUhXNWpQRllMQ2ZRNVEtdVJTUm1SaEhXejJQS1k5WUxDR0dGREtLSGpRRGlvSk9uS1gxcEE3REZwTHJvT1MxblZ4WDBzYUNvZTRZRFdhcXc3cDlid2tBM3p4b2FzSmZIQkhXbVNLSGg3Y1pSTllhS3JnNHl5ZUxXdnB4bzd0V3VsSFhYUFZGX1ZUaE5tSW9ac2hTT1dTMkszLW42UTQtVnJHOHo0emtKYVhmNTR0MXFOcU92WWZ2Y0dGNWJ2MldkYVJvWjZtOE9xT01yejBsRFlLaEhmU25ULUo0ejdEbmdvZTFmMGNrRktJbVhEWm1SMnJUYWR3b0c3NU1OVXdFMzNWSC1jZ3pQSkMxVEhILU5lRUJyRUtiNDMzVkI3cWFQaEZlazRDZzhUT2EtVTQweWsxNnFkNk5HXy1oNkVMVXNuNFVtWk0?oc=5",
+   "summary": "Des initiatives de santé publique mettent en place des groupes de parole animés par des puéricultrices pour améliorer l'accompagnement et l'information des mères concernant l'allaitement. Ces espaces d'échange visent à mieux expliquer la pratique et à soutenir les femmes dans leur démarche. L'encadrement par des professionnelles de santé permet de diffuser des repères fiables.",
+   "auto": true,
+   "addedAt": "2026-10-04T11:02:55+00:00",
+   "pageRead": true,
+   "points": [
+    "S'informer sur l'existence de ces groupes de parole locaux pour pouvoir orienter les mères qui ont besoin d'un soutien entre pairs.",
+    "Valoriser l'importance d'un accompagnement pluridisciplinaire où les conseils pratiques de la doula complètent l'expertise des soignants.",
+    "Rappeler aux parents qu'en cas de difficultés physiques liées à l'allaitement, seuls les professionnels de santé peuvent poser un diagnostic."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7654500df13e",
+   "category": "sci",
+   "priority": false,
+   "title": "Les idées reçues sur l'allaitement",
+   "source": "franceinfo",
+   "date": "3 octobre 2026",
+   "sortDate": "2026-10-03",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONlpVOUswVFlpS2hncF9LbXRvMlBwT2ZZV3pTVmJiWVJkZnZOZzk5MkpjMXZ5YUd1SUFYVEpGelYzMzB1Y0JVOTZnZFphWFI2UWlfdndaZlhMNXJTUXNRbDFibEtEdUQ5NkFjLVlsQmhPTUo5WVdnWkE2ZVBEX3pLTmw1c3IwZjE3alBjdTAxQ25LZngyTHhIWTR3bC1jWHpYVzB2cnBwNFh0Qm02TkJB?oc=5",
+   "summary": "De nombreuses idées reçues persistent autour de l'allaitement, ce qui peut décourager certaines jeunes mères ou les amener à abandonner leur projet. Un partenariat avec l'Assistance Publique - Hôpitaux de Paris permet de clarifier ces aspects. Ces informations visent à déconstruire les mythes pour rassurer les familles.",
+   "auto": true,
+   "addedAt": "2026-10-04T11:02:55+00:00",
+   "pageRead": true,
+   "points": [
+    "Identifier les fausses croyances des parents lors des discussions prénatales pour leur offrir une information factuelle et déculpabilisante.",
+    "Encourager les parents à se tourner vers des sources médicales validées pour toute question technique ou anatomique.",
+    "Soutenir le choix de la mère quel qu'il soit, en évitant d'imposer une vision dogmatique de l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-9c5da45cc3a6",
    "category": "sci",
    "priority": false,
@@ -750,6 +796,27 @@
     "Offrir un espace d'écoute inconditionnel pour valider la complexité des émotions et des douleurs physiques vécues après la naissance.",
     "Proposer des pistes pratiques et un soutien physique léger pour soulager le quotidien des jeunes mères et leur permettre de souffler.",
     "Encourager les parents à consulter des professionnels de santé qualifiés dès que la douleur ou la tristesse devient trop lourde à porter."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ad3b60146d0a",
+   "category": "sci",
+   "priority": false,
+   "title": "A quelle fréquence faut-il faire l'amour pour tomber enceinte plus vite ? Une étude répond à la question",
+   "source": "Magicmaman",
+   "date": "26 septembre 2026",
+   "sortDate": "2026-09-26",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeW5zMWJyZ0pMbVpGMldYWEFEdWVBMVZPdi1acy1tcWRPSnlDZmFEZ1AyOWJEckR5Ylo4M0VmNXZiUy1ZSDVWQWJKM0pqUXJ4ckNVR2ZlWFlVRWJfN2F0NkZ6RTVOVllmTTFkOFFtNXhsLU0xSXY4eDM4MGxJWEkwRzk0cVhlcloya0d2Ql9XWFdQTnhmYUowQmx2Ymh1T19uUWRSUzhaU0EwMFVDcERIc1dIM3VhQ3YxbEctM1JmQmVMNWN3eTNZRW84RGx6ZjVqWDZJQTJhcGw?oc=5",
+   "summary": "Une étude se penche sur la fréquence des rapports sexuels optimale pour accroître les chances de conception rapide. L'article aborde les aspects physiologiques et statistiques liés à la fertilité.",
+   "auto": true,
+   "addedAt": "2026-10-04T11:02:55+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser cette information pour déculpabiliser les couples qui s'interrogent sur la fréquence de leurs rapports lors de projets parentaux.",
+    "Discuter de la gestion du stress et de la pression liés aux calculs de fertilité pour préserver l'intimité du couple.",
+    "Renvoyer vers un professionnel de santé pour toute question médicale approfondie concernant la fertilité ou des difficultés de conception."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1489,6 +1556,27 @@
    "enriched": true
   },
   {
+   "id": "a-0bafe36e346f",
+   "category": "pol",
+   "priority": false,
+   "title": "Toulouse : cette maternité ouvre exceptionnellement ses portes, voici ce que les futurs parents pourront découvrir",
+   "source": "lopinion.com",
+   "date": "3 octobre 2026",
+   "sortDate": "2026-10-03",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFp1MFVBVklRM2p5SHAtdkFWbjkzalpYOHBHM2ZLTHZIeGVybnhfRm92NmY4QXlYTUZTdFZGQldGbWxZRWdxNmdvNHRUZVNDTmIxVGFHeVZPSk5Bai13b1JSSF9JZl9jWGhfRkZLZ3o1bmRtWUNlQWxOb3NrY2UyWTZ1R0c2a001UEYxdW5rWdIBjwFBVV95cUxQRFp1MFVBVklRM2p5SHAtdkFWbjkzalpYOHBHM2ZLTHZIeGVybnhfRm92NmY4QXlYTUZTdFZGQldGbWxZRWdxNmdvNHRUZVNDTmIxVGFHeVZPSk5Bai13b1JSSF9JZl9jWGhfRkZLZ3o1bmRtWUNlQWxOb3NrY2UyWTZ1R0c2a001UEYxdW5rWQ?oc=5",
+   "summary": "Une maternité à Toulouse organise une journée portes ouvertes exceptionnelle pour permettre aux futurs parents de découvrir ses locaux et son fonctionnement. Cet événement offre l'opportunité de se familiariser avec l'environnement de la naissance avant le jour J. Les familles peuvent ainsi mieux appréhender leur prise en charge future.",
+   "auto": true,
+   "addedAt": "2026-10-04T11:02:55+00:00",
+   "pageRead": true,
+   "points": [
+    "Encourager les futurs parents à participer à ces visites de maternité pour réduire leur anxiété face à l'inconnu.",
+    "Discuter avec eux de leur ressenti après la visite pour les aider à formuler leurs souhaits pour le projet de naissance.",
+    "Respecter le rôle de la structure médicale et préparer les parents à dialoguer directement avec l'équipe soignante de la maternité."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-b98003afe2bd",
    "category": "pol",
    "priority": false,
@@ -1631,6 +1719,27 @@
     "Aborder la question du retour au travail et de la poursuite de l'allaitement lors des entretiens prénataux pour rassurer les parents.",
     "Offrir un espace d'écoute neutre où les mères peuvent exprimer leurs préoccupations matérielles et organisationnelles sans pression.",
     "Rappeler que les choix concernant l'alimentation du nourrisson relèvent strictement des parents, tout en restant informée des débats sociétaux actuels."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-fd8c9156b053",
+   "category": "pol",
+   "priority": false,
+   "title": "Le nombre de maternités jugé « insoutenable » : ce que propose le rapport remis au gouvernement",
+   "source": "Parents.fr",
+   "date": "1 octobre 2026",
+   "sortDate": "2026-10-01",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2Mxdi1WYTIwanV0SWMwUXZKdDFYOHFJUXlic244UmtkVUw0NFZkVTJGY0VHXzY4X09wNWhkeU9NUHdINktqV1UxeU5VLVVxZkcyQ0hra2syQ2JNMnpVOGZBQXAyNXZSYWFHZTVBSzFPOVZEQUEzYXo2VDhuUzNQcnp1RWhHMWlaRDBDV1lPVnZYTkhGdGptSHpKNlo2V0hlbmdIUHlubWI1ZmVvT2M3S2g2NGFleE5PU1V4cV9QcWRSaVJBTnhTUzlqZndWRmRsUVAzeHJtVDlETVU?oc=5",
+   "summary": "Un rapport officiel remis au gouvernement qualifie d'insoutenable le nombre actuel de maternités en France. Le document formule des propositions pour réorganiser le paysage des structures de soins périnataux.",
+   "auto": true,
+   "addedAt": "2026-10-04T11:02:55+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'impact potentiel de ces fermetures ou réorganisations sur leur projet de naissance et l'éloignement géographique des structures.",
+    "Aider les familles à identifier en amont les différentes options de prise en charge et les maternités disponibles sur leur territoire.",
+    "Rappeler aux parents que l'organisation des soins et la sécurité médicale relèvent des professionnels et des établissements de santé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2702,43 +2811,22 @@
    "enriched": true
   },
   {
-   "id": "a-af44fa3fb9cb",
-   "category": "pol",
+   "id": "a-10e1074dff4a",
+   "category": "soc",
    "priority": false,
-   "title": "Fermeture de la maternité Navarre à Pau : pas un \"échec\" pour l'Agence régionale de santé qui a tenté de négocier",
-   "source": "ici.fr",
-   "date": "15 septembre 2026",
-   "sortDate": "2026-09-15",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOd1dINzFhdl90cnZDa0plN3JEOVd4QVNiek05SVRzLS0yZ0o0OUpfeGxsaEk3Q2RlT0ppUm1BaFBuWUFMSC15cDVZcnhqOGRxOHZ1YWpXUEJuaTliakp5a0dXb1RRcjYzOXFoby0xaGJTVzcyYm1uQXVXc0UtV25ma2ZnVEliZFJrTnE5MWdPSU5BeUFzV080U2d2VWhsd1FfZkFHQi1Oa2pwRVR3OXU0WWQxZWlXY2xiTmFzcGRxLWMwTGdGQ1N3di1YUkRkbEFfNnp3dGoyYmFvczZ1WHZIQmZKeXZ1dTN1eUZNd0Vhb29zdThuY1ZRWmZNdTVmQzhYUEIyT3BVZk5jRUtaVTJHN3hZbGNUTDVFb21iUw?oc=5",
-   "summary": "L'Agence régionale de santé s'exprime sur la fermeture de la maternité de Navarre à Pau malgré les négociations menées. Cette décision impacte directement l'offre de soins locale et l'organisation des naissances dans la région.",
+   "title": "\"On me dit que mon bébé est mort depuis 48h\": Camille raconte son accouchement non assisté, influencée par les réseaux sociaux",
+   "source": "marieclaire.fr",
+   "date": "4 octobre 2026",
+   "sortDate": "2026-10-04",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDRpQU5GclMwaUNvSk5WWXBhZUZ5MWxtWkp6NzJjdEVRVVFzOHlidmpQR2JDdHc1X2J0a25oTUtVOUtRV3pCLUVxN1RoMEdZamxFdHFQSF9FRVlyTW0tSS1nVzczNEdCQzV2Nlpwd0s3WEdNMnhWMi1PWVhoX3hObnpHLU5LRWw0VmRDZkt4ZXJkYVBWNzFvcUVTNG1GellRWHVCcmQ4ZEtxX1lkbHBJRVZSRDMwLWg0T01RUUkyRmNHVnNWZVl4ME5XTlRnWkZKVktOaWhTZDNCc2VKWjM0VV95d21kbjVSYlhEQjl4NjZBdHc?oc=5",
+   "summary": "Un témoignage aborde le parcours difficile d'une mère ayant vécu un accouchement non assisté sous l'influence des réseaux sociaux et confrontée à un drame fœtal. Ce récit illustre l'impact des informations trouvées en ligne sur les choix des futurs parents en matière de naissance. Le texte met en lumière la détresse psychologique liée à ces situations et les risques d'une autonomie non encadrée.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-04T11:02:55+00:00",
    "pageRead": true,
    "points": [
-    "Être à l'écoute des inquiétudes des parents face aux modifications de la carte des maternités et à l'éloignement des structures.",
-    "Informer les familles sur les options de proximité tout en respectant leur projet de naissance.",
-    "Ne pas prendre position sur les décisions politiques de fermeture, le choix médical et logistique restant du ressort des autorités."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d55974b0b535",
-   "category": "pol",
-   "priority": false,
-   "title": "Vous attendez votre indemnité de congé de naissance ? Voici pourquoi ça bloque",
-   "source": "Capital.fr",
-   "date": "14 septembre 2026",
-   "sortDate": "2026-09-14",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHZ6SThTbm9lcHhhU3MzcnV4c09rT3dEYVNGTnktQjFjNlJ6S1Q0a2dlNE9yVzRLY1ZEYXBTREZrNWdUN3hCSjVLSUcwUXRRbVZmVDl2T3Y0Yjc2d2daZzdzS3hXeFpDeHhaN1VUemNEX0Y5dGRYd0V3eW5oS2ZlckszTWtTWGpFQmJ6b2JRdmlwTWtZVXJ4SkFtMVkwZWtlNU9WTVNyTU02bVBzN2ptSUhzdVNnX2FnZk9PUG9TQQ?oc=5",
-   "summary": "De nombreux parents font face à des retards de versement concernant leur indemnité de congé de naissance. Ces dysfonctionnements administratifs entraînent des difficultés financières pour les familles concernées.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Anticiper avec les parents l'impact potentiel des délais administratifs sur leur budget au moment de l'arrivée de l'enfant.",
-    "Écouter la charge mentale et le stress générés par ces complications financières en début de parentalité.",
-    "Rediriger les familles vers les organismes compétents ou les services sociaux pour les démarches de régularisation sans intervenir dans la gestion administrative."
+    "Aborder avec bienveillance la question des sources d'information des parents et les questionner sur ce qu'ils voient en ligne.",
+    "Réitérer sa posture non médicale en rappelant l'importance du suivi par des professionnels de santé qualifiés tout au long de la grossesse.",
+    "Offrir un espace d'écoute sécurisant pour exprimer les peurs ou les envies de physiologie tout en posant les limites de la sécurité médicale."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2865,6 +2953,27 @@
     "Offrir un espace d'écoute inconditionnel et sans jugement pour libérer la parole sur la fatigue, les doutes et les douleurs liés à l'allaitement.",
     "R rappeler régulièrement aux parents que la réussite de l'alimentation du nourrisson est liée à la qualité de leur entourage et à leur niveau de soutien.",
     "Renvoyer systématiquement vers des professionnels de santé qualifiés (conseillères en lactation, sages-femmes) en cas de difficultés médicales ou de douleurs persistantes."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-876e8bc1de8c",
+   "category": "soc",
+   "priority": false,
+   "title": "1er Café allaitement Lalinde 2026 : date, horaires, programme, tarifs",
+   "source": "jds.fr",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZazI1QTdFU2ZQOWNfNVMtNU5IclduQnRkNTNqU0pQMG1ITTNXcVVxWVFxeXptV2pjV0h2TW5KRGJRRE5TOU1jWXRlQk9LT3VNSHZhempkTExCcFJxcFpzVWRzdkVCcndfRWtXUkF2OW9QQQ?oc=5",
+   "summary": "L'annonce d'un événement local, le premier café allaitement de Lalinde pour l'année 2026, précise les informations pratiques telles que les dates, horaires et tarifs. Ce type de rendez-vous offre un espace de rencontre et de partage d'expériences pour les parents autour de l'alimentation du nourrisson. Il favorise le lien social et le soutien communautaire pendant le post-partum.",
+   "auto": true,
+   "addedAt": "2026-10-04T11:02:55+00:00",
+   "pageRead": true,
+   "points": [
+    "Partager ce type d'événement local avec les parents du secteur pour briser l'isolement fréquent des premières semaines avec un nouveau-né.",
+    "Utiliser ces espaces de socialisation comme des relais complémentaires à l'accompagnement individuel proposé à domicile.",
+    "Maintenir une posture d'écoute et orienter vers les animatrices spécialisées ou le corps médical pour les questions techniques."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3952,48 +4061,6 @@
     "Aborder avec bienveillance les craintes des parents concernant l'accès aux soins et la prise en charge le jour J.",
     "Accompagner la rédaction du projet de naissance en explorant les différentes options et scénarios possibles.",
     "Maintenir une stricte neutralité et rappeler que la doula ne se substitue pas aux équipes médicales d'urgence."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-0472a33d73dc",
-   "category": "soc",
-   "priority": false,
-   "title": "\"J’ai cru que j’allais crever\" : Lucie Mariotti lève le voile sur sa dépression post-partum et comment elle s’en est sortie",
-   "source": "Voici",
-   "date": "16 septembre 2026",
-   "sortDate": "2026-09-16",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTy1uS09VVjk3REg3UjNnNWRyMkttY3lkN1A3OWlxLTNJUVYwNUN4SkRhUUFscS1yQXpHOXdnZzlwU25lZGtWQ3FETU1UNlNuay1WdURxRmhtaXp1SkpVbjF6S09aUmpLNUV1MVJrOGltWGt3eHp5bzdKVWZ5UUhOOEdXQjRQbDNISEcyNlRpUkJ6bW4zNXB5ZmM1QVlaVDhGRXVJRktaUEZOYXUzem9kcFhIMEtxOXZEVnR2eHR6RzVuWUhQdzgwYjlhU2Iwc2xLdjVqaERqdUxFTVZ0cEhObXN5OExJSlE5bXc0?oc=5",
-   "summary": "Une personnalité publique témoigne de son expérience difficile de la dépression post-partum et du parcours pour s'en sortir. Ce récit met en avant la détresse psychologique, souvent taboue, que peuvent traverser les mères après la naissance. La doula peut s'appuyer sur ce type de témoignage pour libérer la parole autour de la santé mentale maternelle.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Normaliser les difficultés émotionnelles du post-partum et valider le ressenti des jeunes mères sans jugement.",
-    "Être attentive aux signes de détresse psychologique et savoir orienter rapidement vers les professionnels de santé compétents.",
-    "Rappeler aux parents que la doula offre un soutien émotionnel mais ne pose aucun diagnostic de trouble psychologique."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-8f015da64d36",
-   "category": "soc",
-   "priority": false,
-   "title": "Un café-causerie pour parler d’allaitement dans le Pontiac",
-   "source": "CHIP FM",
-   "date": "16 septembre 2026",
-   "sortDate": "2026-09-16",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkdwYVUxS1dHWExSa0d3Wm16T1hMa1lQbmswSDhkWVAwZzBraENJZkZWcVJhQVBzNzZhbXBmYmstN3Ewa1BOcEkwRTZaNndjNTlpMmVYUWdiMXVvU3F6b0lkdDV5Mmw4Qjh5MVctdXlIbFhLMXFmb3N5cGVUTC0yckRn?oc=5",
-   "summary": "Un événement local sous forme de café-causerie est organisé pour permettre aux parents de discuter de l'allaitement dans une région spécifique. Ce type d'espace favorise le partage d'expériences et le soutien par les pairs autour de l'alimentation des nourrissons. La doula peut s'inspirer de cette démarche pour proposer ou recommander des cercles de parole locaux.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager les parents à participer à des groupes de soutien locaux pour briser l'isolement pendant les premiers mois.",
-    "Offrir un espace d'écoute et d'information de base sur l'allaitement, en respectant le choix de chaque parent.",
-    "Orionter vers des consultantes en lactation certifiées en cas de difficultés médicales ou de douleurs liées à l'allaitement."
    ],
    "summaryAI": true,
    "enriched": true
