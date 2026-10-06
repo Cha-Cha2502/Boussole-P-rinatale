@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T05:23:46+00:00",
+ "updatedAt": "2026-10-06T05:15:49+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "7 page(s) d'articles lue(s)",
-  "IA : 5 article(s) résumé(s) et commenté(s)"
+  "8 page(s) d'articles lue(s)",
+  "IA : 8 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -449,6 +449,48 @@
    "enriched": true
   },
   {
+   "id": "a-b28f7cf73fd1",
+   "category": "sci",
+   "priority": false,
+   "title": "Naissances prématurées, décès du nouveau-né, malformations… Les chaleurs extrêmes augmentent les risques pendant la grossesse, alerte le chef de l'ONU Climat",
+   "source": "Franceinfo Santé",
+   "date": "5 octobre 2026",
+   "sortDate": "2026-10-05",
+   "url": "https://www.franceinfo.fr/environnement/crise-climatique/naissances-prematurees-deces-du-nouveau-ne-malformations-congenitales-le-chef-de-l-onu-climat-alerte-sur-le-danger-accru-des-chaleurs-extremes-pour-les-femmes-enceintes_8222953.html#xtor=RSS-3-%5Bgeneral%5D",
+   "summary": "Les vagues de chaleur et les températures extrêmes liées au changement climatique augmentent les risques de complications pendant la grossesse, telles que les naissances prématurées ou les faiblesses de poids à la naissance. Des études et des enquêtes auprès de professionnels de santé confirment une hausse de ces incidents au cours des dernières années.",
+   "auto": true,
+   "addedAt": "2026-10-06T05:15:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Sensibiliser les femmes enceintes aux précautions à prendre lors des épisodes de fortes chaleurs pour protéger leur santé et celle du fœtus.",
+    "Intégrer la prévention contre la déshydratation et la surchauffe dans les discussions pratiques de préparation à la maternité estivale.",
+    "Inciter les parents à consulter rapidement un professionnel de santé en cas de symptômes inhabituels liés à la chaleur, sans poser de diagnostic."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-e71eb7a8a29d",
+   "category": "sci",
+   "priority": false,
+   "title": "Semaine mondiale de l’allaitement maternel : une journée d’information et d’échanges le 8 octobre au Centre Hospitalier William Morey",
+   "source": "Info-Chalon.com",
+   "date": "5 octobre 2026",
+   "sortDate": "2026-10-05",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVTFXQ2t1YXA0a0thQi1PdVVtSE1VTEVVMWJuYk8wYl9Xcm11dEhfMm4xeDVSWXY2VXBHSmIxMWdzczFvVnpCVVRZbEpBU0p4N1dmUGNqbDdBOWs4aVY2TUM1d3BjbGpxWGJoaWVNb3EtTzdDSExaWThOMGtfazhGVU9FVjhhd1hWZjVTODJUZWZQVFV4Z29hWlk2ZHlncnc4VzRwZ1IxZHU3c3Q5T3h4OXcxa3NBcFBiX05ST3RMR0hFVkt0UUZYNGlXTDlTMFdvVE51eGg1NkR5OVdGdGhSTW1CTTZoUU1YY2JfcEJndkR4UVlqaV9vUVI4MWxDVUNnaW55Ym15ZkQ5RjFhUXlPS3lRcEVNQQ?oc=5",
+   "summary": "Un centre hospitalier organise une journée d'information et d'échanges à l'occasion de la semaine mondiale de l'allaitement maternel. Cet événement vise à partager des ressources et à favoriser le dialogue autour de l'alimentation des nourrissons.",
+   "auto": true,
+   "addedAt": "2026-10-06T05:15:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Orienter les parents vers ces événements locaux pour qu'ils rencontrent des professionnels et d'autres familles.",
+    "Utiliser cette actualité pour rappeler aux parents les ressources disponibles en matière de soutien à l'allaitement.",
+    "Rappeler que l'information médicale et technique sur l'allaitement relève des professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-79ce8c4038a5",
    "category": "sci",
    "priority": false,
@@ -552,20 +594,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-cf362c353006",
-   "category": "sci",
-   "priority": false,
-   "title": "Périnatalité : les sages-femmes contre le rapport de l’Igas",
-   "source": "Univadis",
-   "date": "2 octobre 2026",
-   "sortDate": "2026-10-02",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUldWc3BBYlQ3NUl0Y0JLa2pNQW1qUkVSNnFoWlo2Ry1EY0NvXzF4cEU0N2RadGYxcmtEWFVKVVpoYVBla0tmYWRpZGxfZnY1U1VKaHJLZWt1c3hsTlNRa3RyQUdiMjUzMGlPc25DMll0bm10dkM1ZDdyeEpVdC1GdzJ0VElKWjQzZmYxSDlhRzBwSVZHenRRbXk4N2dIWUdYOV9zeFFwMk8?oc=5",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-10-05T05:23:46+00:00",
-   "pageRead": true
   },
   {
    "id": "a-b500af1ef3f3",
@@ -1573,6 +1601,48 @@
    "enriched": true
   },
   {
+   "id": "a-d96a752a2f88",
+   "category": "pol",
+   "priority": false,
+   "title": "Périnatalité : le réseau Te Hono Tini réclame des moyens et une enquête",
+   "source": "tahiti-infos.com",
+   "date": "6 octobre 2026",
+   "sortDate": "2026-10-06",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpLYldTUTFrcDFJS2lYLVFFMnBmV1o0REZpSXdUYUZBR2RUN3BnWk1PdGlBVzYwVEh6UVlvWEpBcm5CWmNueExGT2M2Vl9jdS1GaF9zRFh1cnN5TENObnBsNmlSZzZWc0U2ci1xeGVoWjFBSGI3N2tUZFg0aGFhNlEtNGN4M2Q4bFM3WVVRc3pDQkU2OV9wX0JLc0JpN285bGw0VERUb0VDUk1PeHpFak8tQmdvdw?oc=5",
+   "summary": "Le réseau Te Hono Tini demande davantage de moyens et réclame l'ouverture d'une enquête dans le domaine de la périnatalité. L'article ne contient pas d'autres informations détaillées sur le sujet.",
+   "auto": true,
+   "addedAt": "2026-10-06T05:15:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents la question des ressources locales et des difficultés d'accès aux structures de soins périnataux.",
+    "Offrir un espace d'écoute pour rassurer les familles face aux inquiétudes liées au manque de moyens des services de santé.",
+    "Rappeler aux parents que les aspects purement organisationnels et les revendications politiques relèvent des institutions et non du rôle de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7ab931bdc070",
+   "category": "pol",
+   "priority": false,
+   "title": "Mortalité infantile en hausse en France : un nouveau rapport préconise (encore) la fermeture des maternités à \"faible activité\"",
+   "source": "Doctissimo",
+   "date": "5 octobre 2026",
+   "sortDate": "2026-10-05",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZE5iNFloZ0x2eDY5QlVPNkhoNTM3dmQ5aWQ5VHFjUjhyRV9uQVcxTjE5MGVSeThySTJ5ZDRlUk10RXl1Y3p3bHl5NXVxLWNaRDlvSXBad0NqS1I2WlNWVVRERVpGTjV4LTNZa2VWUnIzbUFtZDZBMUVBUHF2b2NLVXFXSDZlRHZaaEpzcEVvVmVoejRpV3FEQUkwbkhMMk1YekxLNTFIVDYwS3hKYUUyRnk2OWdMQ0lCR0FWMVNfeHZ5R3Q1ZTNpdHl2Rk9iOGV0LUpMRkZra2ZyTnZlUDJoVExxaGFzamozc29UMzJCbFV5YmM2QVlJSFlpYWR5NWc4YWRCRFp4cFdXMmoycXJmVQ?oc=5",
+   "summary": "Face à la hausse de la mortalité infantile en France, un nouveau rapport suggère de fermer les maternités qui enregistrent une faible activité. Cette proposition vise à réorganiser l'offre de soins pour améliorer la sécurité sanitaire.",
+   "auto": true,
+   "addedAt": "2026-10-06T05:15:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Échanger avec les futurs parents sur leur lieu de naissance choisi et les informer sur l'organisation des maternités de leur région.",
+    "Accueillir la peur ou l'anxiété des parents face aux actualités concernant la sécurité des naissances en leur offrant une écoute empathique.",
+    "Rappeler clairement que les choix de politique de santé et la fermeture des structures médicales relèvent des autorités sanitaires et non de l'accompagnement de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-0bafe36e346f",
    "category": "pol",
    "priority": false,
@@ -1589,6 +1659,27 @@
     "Encourager les futurs parents à participer à ces visites de maternité pour réduire leur anxiété face à l'inconnu.",
     "Discuter avec eux de leur ressenti après la visite pour les aider à formuler leurs souhaits pour le projet de naissance.",
     "Respecter le rôle de la structure médicale et préparer les parents à dialoguer directement avec l'équipe soignante de la maternité."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-cf362c353006",
+   "category": "pol",
+   "priority": false,
+   "title": "Périnatalité : les sages-femmes contre le rapport de l’Igas",
+   "source": "Univadis",
+   "date": "2 octobre 2026",
+   "sortDate": "2026-10-02",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUldWc3BBYlQ3NUl0Y0JLa2pNQW1qUkVSNnFoWlo2Ry1EY0NvXzF4cEU0N2RadGYxcmtEWFVKVVpoYVBla0tmYWRpZGxfZnY1U1VKaHJLZWt1c3hsTlNRa3RyQUdiMjUzMGlPc25DMll0bm10dkM1ZDdyeEpVdC1GdzJ0VElKWjQzZmYxSDlhRzBwSVZHenRRbXk4N2dIWUdYOV9zeFFwMk8?oc=5",
+   "summary": "Les sages-femmes manifestent leur opposition au rapport de l'Igas concernant leur profession et la périnatalité. Ce désaccord met en lumière des tensions persistantes sur l'organisation des soins et l'exercice de leur métier.",
+   "auto": true,
+   "addedAt": "2026-10-05T05:23:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Prendre conscience du climat de tension actuel chez les professionnels de santé qui entourent la naissance.",
+    "Comprendre les enjeux institutionnels pour mieux écouter les inquiétudes des parents face à la prise en charge médicale.",
+    "Maintenir une posture de neutralité face aux choix politiques et syndicaux des soignants."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2765,64 +2856,43 @@
    "enriched": true
   },
   {
-   "id": "a-c709dc71fd71",
-   "category": "pol",
+   "id": "a-ebed7958b926",
+   "category": "soc",
    "priority": false,
-   "title": "Champagnole. Baisse de la natalité, congé supplémentaire de naissance, les crèches font-elles le plein ?",
-   "source": "Le Progrès",
-   "date": "16 septembre 2026",
-   "sortDate": "2026-09-16",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFV6enlYNlBUMmo0dDVvUjhFMW5TcDdPV2Z1OV9Ua1Y3aE9ZSmI1MkRzajVfWmdYVjZvTUl3Rkt3c1dBOS1kTFVVby12SFJfRFpaTzJKbXg1bk5LQW1PbTdBanVBb1pzWGNZUW02NnQ3Y3VkQnctVWNJZ3NEM2ppTzZKWXBaYl9JbmFYcWdvVVNqQWRNVW9TQ3NvMWxXeGlEcE1TRXF0RDdBaEJiWnQxMFdkYURoQmNRYS03enBaYXRyLXFQcjIweHRB?oc=5",
-   "summary": "Cet article aborde la baisse de la natalité, la mise en place potentielle d'un congé de naissance supplémentaire et la situation de remplissage des structures d'accueil comme les crèches. Ces éléments contextuels influencent directement l'organisation des familles au retour à la maison. La doula peut intégrer ces données pour comprendre le stress logistique et financier des jeunes parents.",
+   "title": "L’allaitement gagne du terrain au Québec",
+   "source": "TVA Gatineau",
+   "date": "6 octobre 2026",
+   "sortDate": "2026-10-06",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nRjFnUUp0cFBmUkJLZkxxNGlQU0hrWW9OaGNxMnFBbUV0NHhjOXJWa2ktMjFpd09jSjJOeFV0c3FvSTNyU2k4dFdlcHQ2Y1g2QnJmVnNwY2NpQlRnaW5mVDNmQmtueGwxWDQ5TkNKa1g?oc=5",
+   "summary": "L'allaitement maternel connaît une progression et gagne du terrain au Québec. Le texte ne fournit pas de chiffres précis ni de détails supplémentaires sur les raisons de cette augmentation.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-06T05:15:49+00:00",
    "pageRead": true,
    "points": [
-    "Discuter avec les parents de leurs solutions de garde et de leur organisation pratique pour les premiers mois.",
-    "Offrir un espace d'écoute sur la charge mentale liée à la reprise du travail et aux congés parentaux.",
-    "Rappeler que l'accompagnement de la doula est complémentaire aux modes de garde et ne remplace pas une structure d'accueil."
+    "Discuter des choix d'alimentation des nourrissons avec bienveillance et sans pression, en respectant le projet de chaque parent.",
+    "Soutenir les parents dans leur décision d'allaiter en valorisant l'écoute de leurs besoins et de ceux de leur bébé.",
+    "Orienter les familles vers des professionnels de santé qualifiés ou des consultantes en lactation en cas de difficultés médicales liées à l'allaitement."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-df649f4f860a",
-   "category": "pol",
+   "id": "a-5c7610e43ee8",
+   "category": "soc",
    "priority": false,
-   "title": "Thur et Doller. Périnatalité : un site internet et des informations locales pour guider les futurs parents",
-   "source": "L'Alsace",
-   "date": "15 septembre 2026",
-   "sortDate": "2026-09-15",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEh3eDFQYXRLWFctSkVZNWtwSUEtQ2FOel9FOUw4aE55NE1XRUVLWEo2Z2U0MW1FSmt6VTlPTVhfeTM5U20tQ09VeFlrZnQ2SFM0eFJBaUFLOHhmSFpfcm02MnRRdDBjZkR3XzJHclRSdjVPTVhSWjZuNHhpalJSMF9Cc2NnLXdhdHRrZGlCMWNyYjBnUW9ENFVMZWViX3lKRjRkZkVDQQ?oc=5",
-   "summary": "Un nouveau site internet a été mis en place pour centraliser les informations locales et orienter les futurs parents sur le territoire. Cet outil vise à faciliter l'accès aux ressources disponibles pendant la période périnatale.",
+   "title": "Un bilan carbone zéro pour un cocon de terre : le projet d’un centre pour parents et bébés à Poitiers",
+   "source": "lanouvellerepublique.fr",
+   "date": "5 octobre 2026",
+   "sortDate": "2026-10-05",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS1pkdDNqZnVmdFRQeUpBY1FoUXVGcnFmWVZiVFNlNXo1MDZqQlZCQWt2b1hNZkhIRkxoZUFTWEFibm8xdjlsRjVtVTFWR2FSR2tOWjc1b3BWNmdjMDU4YmpoUGoyNjZfWVJKNmxzTWRaNWdKb2ZYVjBpb3pzV1dVaDUzdXNQeS1DSUMwenVsU0NWRDg0cmNoMUZCVXpoMTYtbXRxd2RjSUotWmVTRWIyY0M3bGR0NVZHeXU2YmQ2cVJObW9KZjdzZ3lWY0Fua2VqQzBLS1Ryd1AxazJnSUYyb0U2OEJXMTZKbFZZ?oc=5",
+   "summary": "Un projet de centre pour parents et bébés à Poitiers est conçu pour avoir un bilan carbone zéro en utilisant un cocon de terre. Cette initiative met en avant une démarche écologique pour l'accueil des familles.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-06T05:15:49+00:00",
    "pageRead": true,
    "points": [
-    "Utiliser cette ressource locale pour guider les parents vers les acteurs et structures de leur territoire.",
-    "Compléter l'information trouvée en ligne par une écoute attentive des besoins spécifiques de chaque famille.",
-    "Rappeler que l'accompagnante oriente mais ne se substitue pas aux services de santé locaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-7fa0b1396592",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance : pourquoi l’Assurance maladie tarde-t-elle à vous indemniser ?",
-   "source": "boursorama.com",
-   "date": "15 septembre 2026",
-   "sortDate": "2026-09-15",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2JGdHhINmloTnpwdDZTdUxvZzZ6aUhmM00xMEFaV2drMjdpUkZuclRsNnBNWFNjZ3JQbmx1VHViS0x0b0E0bHJYbGU4OEF4aHFYZ1N3anNZaWFnYWs2aVhTODN3MjRSazBtZzM2MW96cmxlTlJnbE0zMWQ4QklCMEJqVmF0MEdraG9fY1lnczg2LXRyYzV4ZEs3TXN4bHM4cEwwejF5SFFFSEhnZkJMUlVYWjVVRlhEV0JxaUNUM1JvQmJ3R2dmTTdBTVhkLTRIWlZWczF0VHJ4dU1OcXNwdHFQVXpZb0NaWWV6dVpaYmxPYUZrTW1VWlZIbEJlM3g5M0dYMnlhaUFVWG43TmZz0gGUAkFVX3lxTE0wa3VWZW52QllGU1V6VFJGQTNhc0tPZmxQWkVvd1Bnb2NqRFVqaG1tS1pIX0l6MG1GSW1KSGh5X3BBWUY5Z24xVDNtbzE1eWlMSU5UN1RkYVlwa0JXTGNMM1FhT3NGV3d2bUJmd21LdnE2dGg1elRGVGI2a3ZoSUthQVdPMmFPWUczcVNubG1KRk5Fd0JXTjh4aVBJVllEcmVmb3dtWWdhSlc4WnYyMkQwMW9QU0NiMjVENVVVdmJCRmN5RzdwellSMThFa3RLdkxqbTB5Z242VHB5MWdyU0RIMTNWT09Fc2RQZUFSTHlwOTAzSW5pcDl0MHB4Y2JxWjVXcG5lQ0pGeXk0S1JUMDFsLWNfZg?oc=5",
-   "summary": "De nombreux retards d'indemnisation par l'Assurance maladie sont constatés concernant le congé supplémentaire de naissance. Cette situation administrative complexe génère des difficultés financières et du stress pour les familles concernées.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la question financière et administrative en amont pour préparer les parents aux éventuels retards de versement.",
-    "Offrir un espace de soutien émotionnel pour déculpabiliser les parents face aux tracas administratifs.",
-    "Rappeler que la gestion des indemnités relève des organismes officiels et non du rôle de l'accompagnante."
+    "Discuter avec les parents de leur sensibilité écologique et de la création d'un environnement sain et naturel pour l'arrivée de leur enfant.",
+    "Partager des conseils pratiques sur le choix d'aménagements respectueux de l'environnement pour la chambre du nouveau-né.",
+    "Éviter de porter un jugement médical sur les choix de structures d'accueil des parents et se limiter à un accompagnement centré sur leur bien-être."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4036,48 +4106,6 @@
     "Discuter avec les parents de la gestion du départ pour la maternité et des signes d'alerte pour anticiper le trajet sans céder à la panique.",
     "Valider l'intensité émotionnelle et le vécu parfois brutal d'un accouchement inopiné lors du suivi en post-partum.",
     "Reconnaître ses limites en orientant les parents vers des professionnels de santé pour la prise en charge médicale des naissances rapides hors structure."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-50baaf9ab9e7",
-   "category": "soc",
-   "priority": false,
-   "title": "Une réalité méconnue et taboue | Deuil périnatal: «Le deuil d'une vie que tu avais imaginée» -Valérie Lebeuf",
-   "source": "98.5 Montréal",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://www.985fm.ca/audio/802683/deuil-perinatal-le-deuil-d-une-vie-que-tu-avais-imaginee-valerie-lebeuf",
-   "summary": "Le témoignage d'une journaliste et l'analyse d'une psychologue mettent en lumière la réalité taboue du deuil périnatal et la perte d'un lien d'attachement. Les intervenantes insistent sur la nécessité de briser le silence et de reconnaître la souffrance spécifique des pères, trop souvent marginalisés dans cette épreuve.",
-   "auto": true,
-   "addedAt": "2026-09-30T05:16:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute sécurisant et sans jugement pour libérer la parole autour du deuil périnatal et de la perte d'un enfant.",
-    "Veiller à inclure systématiquement les pères dans l'accompagnement du deuil et à valider leur souffrance propre.",
-    "Connaître les limites de l'accompagnement non médical et orienter vers des professionnels spécialisés en santé mentale ou des associations de deuil périnatal."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a4daeb763484",
-   "category": "soc",
-   "priority": false,
-   "title": "Des mères accouchent sans professionnels, faute d’accès à une sage-femme",
-   "source": "Le Devoir",
-   "date": "16 septembre 2026",
-   "sortDate": "2026-09-16",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUxhOS1Tc3VyLV96Q2FUZGo5RzBDNDFOTGstTzdDTkNtM1Nxd0diTl9xbG1iLUlROXBvcnhwS2F5d2dWSk1vMEFNX3V1M0ZUTXNucFl3WEFTVUljTGl4YzdZOFNfUmdEVk40eUF0MkpkQ3JpWFlEb2V6bmJadWIzRGpDLUZyekt4RGlPU2hIR2tQdTUwdnBXcUZFb0s?oc=5",
-   "summary": "Le texte met en lumière des situations où des femmes accouchent sans assistance médicale en raison d'un manque d'accès aux professionnels et aux sages-femmes. Cette réalité peut générer une grande anxiété chez les futures mères quant au lieu et aux conditions de leur mise au monde. La doula peut se saisir de ce sujet pour aborder la peur de l'accouchement et l'importance du projet de naissance.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec bienveillance les craintes des parents concernant l'accès aux soins et la prise en charge le jour J.",
-    "Accompagner la rédaction du projet de naissance en explorant les différentes options et scénarios possibles.",
-    "Maintenir une stricte neutralité et rappeler que la doula ne se substitue pas aux équipes médicales d'urgence."
    ],
    "summaryAI": true,
    "enriched": true
