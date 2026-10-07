@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T05:15:49+00:00",
+ "updatedAt": "2026-10-07T05:17:01+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -65,7 +65,12 @@
   "a-9e3967337ddb": "2026-10-04",
   "a-e0343fc3d189": "2026-10-04",
   "a-bb675c938232": "2026-10-04",
-  "a-1e4a4059cb9a": "2026-10-03"
+  "a-1e4a4059cb9a": "2026-10-03",
+  "a-d39a35a9a708": "2026-10-07",
+  "a-6dc6570a67a3": "2026-10-06",
+  "a-8171093a9da3": "2026-10-06",
+  "a-6c7d725b3ea1": "2026-10-06",
+  "a-1c54729f5cc1": "2026-09-23"
  },
  "articles": [
   {
@@ -446,6 +451,48 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-7bb6897bab81",
+   "category": "sci",
+   "priority": false,
+   "title": "La Haute Autorité de santé va évaluer l'intérêt d'un dépistage à la naissance de cinq maladies rares supplémentaires",
+   "source": "Franceinfo Santé",
+   "date": "6 octobre 2026",
+   "sortDate": "2026-10-06",
+   "url": "https://www.franceinfo.fr/sante/enfant-ado/la-haute-autorite-de-sante-va-evaluer-l-interet-d-un-depistage-a-la-naissance-de-cinq-maladies-rares-supplementaires_8225314.html#xtor=RSS-3-%5Bgeneral%5D",
+   "summary": "La Haute Autorité de santé évalue l'opportunité d'ajouter cinq maladies rares au programme national de dépistage néonatal d'ici début 2027. Ces pathologies graves du système nerveux nécessitent une prise en charge très précoce avant l'apparition des premiers symptômes pour être traitées efficacement.",
+   "auto": true,
+   "addedAt": "2026-10-07T05:17:01+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez informer les parents sur l'existence et l'évolution des protocoles de dépistage néonatal en France.",
+    "Rappelez aux familles que les examens médicaux de dépistage relèvent strictement de l'équipe soignante et des pédiatres.",
+    "Accueillez avec empathie l'angoisse des parents face aux maladies rares tout en orientant vos questions vers les professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-047234d2ec25",
+   "category": "sci",
+   "priority": false,
+   "title": "Reportage. \"Mon garçon serait comme les autres\" : médecins et parents réclament le dépistage de cinq maladies rares dès la naissance",
+   "source": "Franceinfo Santé",
+   "date": "6 octobre 2026",
+   "sortDate": "2026-10-06",
+   "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-mon-garcon-serait-comme-les-autres-medecins-et-parents-reclament-le-depistage-de-cinq-maladies-rares-des-la-naissance_8203919.html#xtor=RSS-3-%5Bgeneral%5D",
+   "summary": "Un test fiable a été mis au point pour dépister précocement l'adrénoleucodystrophie, une maladie génétique rare touchant les enfants. Les familles et les médecins réclament son inclusion dans le dépistage néonatal systématique pour éviter des atteintes neurologiques lourdes et irréversibles.",
+   "auto": true,
+   "addedAt": "2026-10-07T05:17:01+00:00",
+   "pageRead": true,
+   "points": [
+    "Écoutez avec beaucoup de bienveillance les témoignages de parents confrontés au handicap ou à la maladie génétique de leur enfant.",
+    "Gardez à l'esprit que la détection précoce des pathologies relève du parcours médical, hors de votre champ de compétence de doula.",
+    "Soutenez l'expression des émotions des parents qui traversent l'épreuve de la maladie grave au sein de la fratrie."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
