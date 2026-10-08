@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T05:17:01+00:00",
+ "updatedAt": "2026-10-08T05:16:51+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "8 page(s) d'articles lue(s)",
-  "IA : 8 article(s) résumé(s) et commenté(s)"
+  "13 page(s) d'articles lue(s)",
+  "IA : 13 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -70,7 +70,12 @@
   "a-6dc6570a67a3": "2026-10-06",
   "a-8171093a9da3": "2026-10-06",
   "a-6c7d725b3ea1": "2026-10-06",
-  "a-1c54729f5cc1": "2026-09-23"
+  "a-1c54729f5cc1": "2026-09-23",
+  "a-bceb350feaa6": "2026-10-07",
+  "a-ad3473cb6d47": "2026-10-07",
+  "a-078f54345c9e": "2026-10-07",
+  "a-eb7bec3a5416": "2026-10-07",
+  "a-0f66204d66be": "2026-10-07"
  },
  "articles": [
   {
@@ -451,6 +456,27 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-8042305265f4",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement: une pédiatre de Gatineau prône la déculpabilisation",
+   "source": "104.7 Outaouais",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazU2a2RVMUoxRTdCUm5NdE5TTi1zMzlyZlNySlpaNURGOHQ5MWF1VVM0Z1RCMVJ0STFZTTdPMVpad0ZGc2RIMzNtYkJXbWlYSkczaF9PMk5EaTExNTFfZEtRNHdNQXRqUjhYRGpPVm9wWldRZXFiZlFRNk42eWVyejFjTWNUZ0t0ZEZXLUxMd1d1RTFHdVJHSUtOTjlrams?oc=5",
+   "summary": "Une pédiatre de Gatineau insiste sur l'importance de déculpabiliser les mères concernant l'allaitement. L'approche met en avant le bien-être maternel et l'absence de jugement face aux difficultés rencontrées.",
+   "auto": true,
+   "addedAt": "2026-10-08T05:16:51+00:00",
+   "pageRead": true,
+   "points": [
+    "Rassurez les parents en difficulté avec l'allaitement en validant leurs ressentis sans pression.",
+    "Encouragez une approche bienveillante où chaque choix alimentaire pour le bébé est valorisé.",
+    "Rappelez que le rôle de la doula est d'offrir un soutien émotionnel inconditionnel, hors de tout impératif de performance."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -2903,6 +2929,132 @@
    "enriched": true
   },
   {
+   "id": "a-1f47fe788c06",
+   "category": "soc",
+   "priority": false,
+   "title": "Conseils, témoignages, infos pratiques… Deux journées d'échanges sur l’allaitement maternel au CHU de Clermont-Ferrand",
+   "source": "La Montagne",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQVlaOUJRR0xfMU1fRmRla1d5ZHlVOXViODVoRUhJZVo3cDQ2M1pyZ3lJUjNNbk1sLTQ1LUgxWXhQR3hKdzZEN2YxWW1wRGRjQXU0MU1iVWxqZFBkTElzUWhZbTN2eHRST21aUkZuODVQdi1BQWRRM2tPVllmN1NVYndTc0dVT3dlVkt5RV80V3FTY1hjWEhtRmVnRXZ3NlM0bnAtcFI2anZVcFljTnQ4Skl2S25rUEJybFAzWVlJUzJTaENLNHlqQmJTUHVwLWpvV0Frd0RIX1llMUZIVXlPdDBQUFZ1bnQ2OWxlM2J4VDJwSDBXVkh3VkNSTXo1U1NGOGpHV2ZqeEFoYVR1MDJsX1RR?oc=5",
+   "summary": "Un centre hospitalier universitaire organise des journées d'échanges autour de l'allaitement maternel. Ces rencontres proposent des conseils, des témoignages et des informations pratiques à destination des parents.",
+   "auto": true,
+   "addedAt": "2026-10-08T05:16:51+00:00",
+   "pageRead": true,
+   "points": [
+    "La doula peut s'informer sur ces événements locaux pour orienter les parents en quête de soutien partagé.",
+    "Ces espaces d'échange rappellent l'importance de valoriser la parole des mères sur leur vécu de l'allaitement.",
+    "Il est important de rappeler que le rôle de la doula est d'offrir un soutien émotionnel, sans se substituer aux professionnelles de la lactation en cas de difficulté technique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3ac4e288ee3e",
+   "category": "soc",
+   "priority": false,
+   "title": "A l’occasion de la semaine de l’allaitement maternelle, le département de la Moselle organise deux manifestations",
+   "source": "Radio Mélodie",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQamEyT0FGcXJtZmJwVWZOOWdqMzdmUkZfbUd4Rkp6Mm9DLWFNaU9UWmQ2cVpLWjJ1X3dRWkV5bDlzTnJlS2RPNG01ZG1SWnFBR0t1MXBiTWc3QnJELVBNcVhlYWE3eC03SWFQMFBrMlgtUWlwYlNVTVdKM2paeUxIUldYdThSTnVKaF85c1ZaOFhXX0Vrd3VFYUM1RFUyZFE4R1YyUHVsMzBPMGNNZVFlZU1GVml5bGRKaTlwNWh1ZnQ1LU9KZUhsbVJoeHVHZUtDcXNwZ3FrdFhEMjRaaUZYX0dZMWdodGtR?oc=5",
+   "summary": "À l'occasion de la semaine de l'allaitement maternel, le département de la Moselle met en place deux manifestations spécifiques. Ces initiatives visent à informer et sensibiliser le public sur ce mode d'alimentation.",
+   "auto": true,
+   "addedAt": "2026-10-08T05:16:51+00:00",
+   "pageRead": true,
+   "points": [
+    "La doula peut relayer ces initiatives auprès des familles qu'elle accompagne pour élargir leur réseau de soutien.",
+    "Participer ou recommander ces événements aide à normaliser la visibilité de l'allaitement dans l'espace public.",
+    "La doula veille à encourager les parents tout en respectant leur libre choix, sans pression quant au mode d'alimentation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-1c442acb034f",
+   "category": "soc",
+   "priority": false,
+   "title": "Matour. Fanny Galerne, nouvelle conseillère en allaitement à la maison médicale de Matour",
+   "source": "larenaissancehebdo.fr",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXZZSUc2WGdVMmNWS1dMQ2ZqUkJySHVRYlRBWldiV1BJcm5OUXBrT1JsZlc3R2VGd1o0N1NMd2ZkR0RRNGJ1cDRwQ2IxcnNQcGxWM29aU2l2WHJqcDZGYVk5a2NIcnpZcjhCRk1ienRweUZ6cjFQQ0Vrckp1LVBNSkRKTUhhTHBCcTJsNXRSeFJjRTBhNFJpVTI2aHJvMEFQNEQtUC1zTlJZOHV4S0pZbzNoYjdEeHcyS0pKOHk4TDROMlNrR2paa3BlSUQ2S0tTLTRj?oc=5",
+   "summary": "Une nouvelle conseillère en lactation a rejoint la maison médicale de Matour pour proposer son accompagnement. Cette arrivée renforce l'offre de proximité pour les familles du territoire.",
+   "auto": true,
+   "addedAt": "2026-10-08T05:16:51+00:00",
+   "pageRead": true,
+   "points": [
+    "La doula peut intégrer cette nouvelle ressource locale dans son carnet d'adresses pour orienter les parents en cas de besoin spécifique.",
+    "Connaître les intervenants du territoire permet d'assurer un relai fluide et complémentaire auprès des familles.",
+    "La doula doit orienter vers cette professionnelle médicale ou spécialisée dès qu'apparaissent des douleurs ou des problématiques d'ordre technique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-380b33ba838a",
+   "category": "soc",
+   "priority": false,
+   "title": "Ces mamans et ces consultantes en lactation partagent leur meilleur conseil sur l'allaitement",
+   "source": "Magicmaman",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHljcEtSUXA0VTNJLUVEelV5MGl6TnZELU03NHJCZEVUcmdaOWZ1UjNGc0t0ZTJ3aEE2REszLV91czNVU1JjdnR1S1lnVXhMZ2ItUjQ4M0NZSnBVUUtKZm1OcjZlM2JOTnNBbEdId2VLeFdKOGR0MVRrMm1WS0JsRHdxalRSelZrdnB2VmlHMlItOGxHbXM1emdjWUZoNVowb2dwT2FvZEF6ZllUMW9vcl9ZV1JJd3JnME81VU9BU2MyOC1XM3hhRE8tS2c?oc=5",
+   "summary": "Des mères et des consultantes en lactation partagent leurs meilleurs conseils concernant l'allaitement. Ces retours d'expérience mettent en avant des astuces vécues pour aborder cette période.",
+   "auto": true,
+   "addedAt": "2026-10-08T05:16:51+00:00",
+   "pageRead": true,
+   "points": [
+    "La doula peut s'appuyer sur ces témoignages pour rassurer les futurs parents sur la diversité des expériences d'allaitement.",
+    "Elle peut écouter les doutes des mères et valider leurs émotions sans imposer de méthode unique.",
+    "En cas de conseils pratiques trop techniques, elle doit rediriger vers des consultantes en lactation certifiées."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-6d8cc7f9ffe5",
+   "category": "soc",
+   "priority": false,
+   "title": "Journée d’information et de prévention sur l’allaitement à Créteil",
+   "source": "Citoyens.com",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk1MZmZkR3ZmdEFHd1ZUN1pqRnUya0FVSnVLTjl3dnlvek1XNUxSanQ0UjlnWlozcWI0WC1LbFVPX2lCNjl6bVozZ0MzblY5dmh4V1I1QjZXMXlDenBUdE53a0NQQVhoM3dxZ0g0X08xUU9ycldJeEdGYmhUakJvNms0eVh3Ti16UDY0TTBKZi1WWUFZWEVYOG1sOA?oc=5",
+   "summary": "Une journée d'information et de prévention dédiée à l'allaitement est organisée à Créteil. L'événement propose des temps d'échange pour sensibiliser le public à cette pratique.",
+   "auto": true,
+   "addedAt": "2026-10-08T05:16:51+00:00",
+   "pageRead": true,
+   "points": [
+    "La doula peut utiliser cet événement pour encourager les parents à s'informer en amont de la naissance.",
+    "Elle peut écouter les représentations des futurs parents sur l'allaitement et déconstruire certaines idées reçues grâce aux informations de prévention.",
+    "Elle rappelle que son soutien est non médical et encourage la participation à ces journées encadrées par des professionnels."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-96a41db77cce",
+   "category": "soc",
+   "priority": false,
+   "title": "Un papa de Gatineau veut sensibiliser les hommes à collaborer à l'allaitement",
+   "source": "104.7 Outaouais",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFQyTGx4d2V6bWxyallGZjBRMm5NMVFRajdBZm9ZaF9TWmxCNmIyU1NnNzFzTnpJSVF5bkVxWk5wVVlWRzVVSnExdnE2QmNaX1NlemtQMkJfdlF1ZFpjb1plbXQ3S21VZTlEMm53SnlxanFYMkQ2alZ2aFlXaTduc0MzMVF3WnZvaDd5Z09pdE1pQ3FZTjNWNGd4MlV5UlVxT0c5VXhrN01CYWtxTjUzemJ3?oc=5",
+   "summary": "Un père de Gatineau souhaite encourager l'implication des hommes dans la période de l'allaitement. L'initiative vise à sensibiliser les co-parents à leur rôle de soutien et de collaboration active au quotidien.",
+   "auto": true,
+   "addedAt": "2026-10-08T05:16:51+00:00",
+   "pageRead": true,
+   "points": [
+    "Intégrez systématiquement le co-parent dans les discussions autour de l'alimentation du nouveau-né.",
+    "Proposez des pistes concrètes pour que le partenaire trouve sa place et soutienne la mère efficacement.",
+    "Veillez à respecter les limites du champ médical en orientant vers des professionnels pour les aspects techniques de l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-ebed7958b926",
    "category": "soc",
    "priority": false,
@@ -4027,132 +4179,6 @@
     "Être particulièrement vigilante aux signaux de grande précarité chez les parents accompagnés pour pouvoir les orienter vers les structures sociales adaptées.",
     "Adapter son accompagnement pratique et émotionnel en tenant compte des conditions de vie précaires des familles sans abri.",
     "Ne pas se substituer aux services sociaux et médicaux spécialisés dans la prise en charge de la grande exclusion."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-644348eaa1fa",
-   "category": "soc",
-   "priority": false,
-   "title": "La psychose post-partum : donner la vie et perdre la raison",
-   "source": "France 24",
-   "date": "18 septembre 2026",
-   "sortDate": "2026-09-18",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXdKOVloZDRRRHFoQ045cnEzLU5fZ3N0bUxXdV9Yb194ako5dGZGMllvU3JNbjA5QVV4cXk2NENFOEI0alBBeU84MHhVVHpmRTNqTUR6a0FGaDNpckllUHlkbThyZnJISzMxUkhkejdlV1cxbFJlcHkySk9LaUZLUVlBTW1kbEJKU25pVDFKaEdoREhIc2RaSTdNMTlfMUdKbTBYRWswRnU?oc=5",
-   "summary": "La psychose post-partum est présentée comme une urgence psychiatrique grave qui survient après la naissance et perturbe profondément l'état mental de la mère. Ce trouble nécessite une prise en charge médicale rapide et adaptée pour assurer la sécurité de la mère et du nouveau-né.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Savoir repérer les signes d'alerte d'une détresse psychologique extrême, comme la confusion ou la perte de contact avec la réalité.",
-    "Soutenir l'entourage en lui expliquant l'importance d'une écoute bienveillante et d'une vigilance accrue.",
-    "Ne jamais banaliser ces symptômes et orienter immédiatement vers une structure médicale d'urgence, car ce domaine relève exclusivement du soin."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-f922986613ce",
-   "category": "soc",
-   "priority": false,
-   "title": "ActuElles - Psychose du post-partum : donner la vie et perdre la raison",
-   "source": "France 24",
-   "date": "18 septembre 2026",
-   "sortDate": "2026-09-18",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXp2dk1SMGNDZ2hNQUVWdzN2WDhWNU1ySXVIYzAxUjEybHlDcWJyQzNKVUxBZDdtYmtZN2lySlpmcGJ3aVJ2ZnFzbUZNLXI0ZXNYeENxQk9YM2dYSXU2ajR4N21BTl90THJNY2hta3A4ODJ5SG9fTWZtRG92SFVZekdkdldlRlRQREJ0S0tBa1JoQ3lEYmZmZ3dFcl81Q0h1M1NHSHlCeFNlMG5nM3ROV21WMGF5MDl4Q0FB?oc=5",
-   "summary": "Ce reportage aborde la psychose du post-partum, une pathologie grave qui touche certaines femmes après l'accouchement et entraîne une perte de la raison. Le texte met en lumière la souffrance psychologique maternelle et la nécessité d'une meilleure information auprès du grand public.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute sécurisant et sans jugement pour libérer la parole des jeunes parents sur leur santé mentale.",
-    "Sensibiliser les partenaires aux changements de comportement inhabituels chez la accouchée pour favoriser un repérage précoce.",
-    "Observer strictement son rôle non médical en évitant toute interprétation psychologique et en passant le relais aux soignants en cas de doute."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d4f3017d1cb9",
-   "category": "soc",
-   "priority": false,
-   "title": "Ceinture après l’accouchement : on a demandé leur avis aux mamans, et c’est celle-ci qu’elles recommandent",
-   "source": "Magicmaman",
-   "date": "18 septembre 2026",
-   "sortDate": "2026-09-18",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFF6NjY5TUYyTFB2U3NhRkxBVG5DRnpTNjhsdG5PckhRakRNdzFEVEJsdGZpb0pQSDNzWnVCNE5aQ04xbDFTZVdlMkg3TFV4SzFXTkJ1YV9YZ0Q5cXZVV2F1ZDlvdVhIYko4UWlqYU9ERnNIcGljZjNBUWQxdlhUSUVIcTVsRnhDZkJaWnZhai1SQl9QVXp3enZJcTlZR0J4Qjk2WHpUa2x0S0UxU1U1MXJOVzYyUHJGVFlIWlFUNjBPNXowNk1SUjlBV0lZSFZZLWx6Rmp1cWN3dw?oc=5",
-   "summary": "Un article s'intéresse aux retours et aux préférences des jeunes mères concernant l'utilisation d'une ceinture de soutien abdominal après la naissance. Il met en avant les choix plébiscités par les femmes interrogées pour cette période spécifique du post-partum.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents la question du confort corporel et des outils de soutien possibles en post-partum.",
-    "Rappeler que l'usage de ce type de dispositif relève du choix personnel et du ressenti physique de chaque mère.",
-    "Ne pas se substituer à un avis médical ou de sage-femme concernant la récupération abdominale et la rééducation."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-30524d398a8d",
-   "category": "soc",
-   "priority": false,
-   "title": "Cognin. Rencontres et animations au Festiv’allaitement",
-   "source": "Le Dauphiné Libéré",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUxMOUs2bzUwOVJ3c0tIZ05Sd3VFUktQcjRuTldxaEZmbnRSZnVJaVZhS2t4Mldhblo5aVJQMHRzZEJQWkN4eDBTZVVtd1pCWDlnLVJvN1g3Ty1oX3NoY25ZcEVjWHdJdkVSQW5JU1NBUFdQMGl3M1ozSHZoM183VEl6S21uZWo0SjZ1QURFWEl6QTF3aEJUUXpJVEFfUDhIX0E?oc=5",
-   "summary": "La ville de Cognin accueille le Festiv'allaitement, un événement proposant des animations et des temps de rencontre. Cette initiative favorise les échanges autour de l'alimentation des nourrissons.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager les parents à participer à des événements locaux de soutien à la parentalité pour briser l'isolement du post-partum.",
-    "Utiliser ces espaces de rencontre pour orienter les mères vers des réseaux de soutien à l'allaitement près de chez elles.",
-    "Ne pas se substituer aux consultantes en lactation certifiées en cas de difficultés médicales d'allaitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-05daddf0edc5",
-   "category": "soc",
-   "priority": false,
-   "title": "Marine Tondelier renonce au début de son congé maternité pour répondre à l’invitation d’Emmanuel Macron",
-   "source": "Le Figaro",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://www.lefigaro.fr/politique/marine-tondelier-renonce-au-debut-de-son-conge-maternite-pour-repondre-a-l-invitation-d-emmanuel-macron-20260917",
-   "summary": "Une personnalité politique a choisi de reporter le début de son congé maternité et de s'éloigner de sa maternité à sept jours du terme pour participer à une réunion officielle urgente. Cet événement illustre la pression exercée par les impératifs professionnels et publics sur la fin de grossesse.",
-   "auto": true,
-   "addedAt": "2026-09-26T05:14:07+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents la difficulté parfois ressentie de s'arrêter à l'approche du terme face aux pressions extérieures.",
-    "Soutenir la future mère dans l'importance de s'écouter et de sécuriser son espace de fin de grossesse face aux sollicitations.",
-    "Rappeler que la doula n'intervient pas sur les choix professionnels mais offre un espace d'écoute sur la gestion du stress en fin de gestation."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-86ae8e6a2804",
-   "category": "soc",
-   "priority": false,
-   "title": "« Le dos-d’âne a été fatal » : près d’Argentan, elle accouche dans sa voiture sur le chemin de la maternité",
-   "source": "Ouest-France",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://www.ouest-france.fr/sante/le-dos-dane-a-ete-fatal-pres-dargentan-elle-accouche-dans-sa-voiture-sur-le-chemin-de-la-maternite-c8c777b8-b271-11f1-978f-b3ea995ed274",
-   "summary": "Une femme a accouché de manière imprévue dans sa voiture en se rendant à la maternité, un événement précipité par les secousses de la route. Ce type de situation illustre l'éloignement géographique de certaines structures de soins et le stress lié au trajet pour accoucher.",
-   "auto": true,
-   "addedAt": "2026-09-28T05:16:25+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les parents de la gestion du départ pour la maternité et des signes d'alerte pour anticiper le trajet sans céder à la panique.",
-    "Valider l'intensité émotionnelle et le vécu parfois brutal d'un accouchement inopiné lors du suivi en post-partum.",
-    "Reconnaître ses limites en orientant les parents vers des professionnels de santé pour la prise en charge médicale des naissances rapides hors structure."
    ],
    "summaryAI": true,
    "enriched": true
