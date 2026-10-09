@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T05:16:51+00:00",
+ "updatedAt": "2026-10-09T05:16:17+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "13 page(s) d'articles lue(s)",
-  "IA : 13 article(s) résumé(s) et commenté(s)"
+  "16 page(s) d'articles lue(s)",
+  "IA : 16 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -75,7 +75,12 @@
   "a-ad3473cb6d47": "2026-10-07",
   "a-078f54345c9e": "2026-10-07",
   "a-eb7bec3a5416": "2026-10-07",
-  "a-0f66204d66be": "2026-10-07"
+  "a-0f66204d66be": "2026-10-07",
+  "a-d54fed5d6128": "2026-10-09",
+  "a-8ca79569dc11": "2026-10-08",
+  "a-023329e2fa76": "2026-10-08",
+  "a-c9a4400a67b3": "2026-10-08",
+  "a-0241b3121e6a": "2026-10-08"
  },
  "articles": [
   {
@@ -459,6 +464,27 @@
    "enriched": true
   },
   {
+   "id": "a-64d00a08e8d7",
+   "category": "sci",
+   "priority": false,
+   "title": "Des ateliers et des rencontres autour de l’allaitement organisés à la clinique du Tertre rouge en octobre",
+   "source": "Ouest-France",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOT1R4Nm56U28ySnR3cGxIWkVKSDRzXzVtV1lYWWlvMGN2SC1PUzNQckFIbHZfb0Vfd1Z6cG9MN1lkMVppX2hVcTdRcjNyYmpQYWFEVTlFdGNqSGtzOUpWbmlrQjZaMEJhX3JWcGgwZHA4b3NhTjQxLWx6MDY5djJCb21LZVNDNlZPYncyV1FIVm55bFhobm9nTXZNQmp6RF94SVdNZ1FQZEtjVWFybTRVbllRd2gtVU5PYU94blhMUVllRDlFRzRra1dBdFJfWUdudEFHNkZfRmZBZDBiVktrWjgxVVZfbFlOcVdOczVOMndYRWotdnFobG0wblZFRVR6dFV4anZuRjZNaXlmMlJFVU83ejhRSDNCbkN0M1FHaVk?oc=5",
+   "summary": "Une clinique propose des ateliers et des temps de rencontre consacrés à l'allaitement à l'occasion d'un mois thématique. Ces rendez-vous visent à informer et à soutenir les familles dans leur projet d'alimentation du nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-10-09T05:16:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Informez les parents accompagnés sur l'existence de ces ressources locales de soutien à la parentalité.",
+    "Soutenez l'information des familles tout en rappelant que les conseils de prise en charge médicale relèvent des professionnels de la clinique.",
+    "Valorisez l'importance de préparer le post-partum en amont de la naissance pour aborder l'alimentation du bébé plus sereinement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-8042305265f4",
    "category": "sci",
    "priority": false,
@@ -475,6 +501,27 @@
     "Rassurez les parents en difficulté avec l'allaitement en validant leurs ressentis sans pression.",
     "Encouragez une approche bienveillante où chaque choix alimentaire pour le bébé est valorisé.",
     "Rappelez que le rôle de la doula est d'offrir un soutien émotionnel inconditionnel, hors de tout impératif de performance."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-30f314dc8829",
+   "category": "sci",
+   "priority": false,
+   "title": "Grossesse : risque accru de maladies cardiaques",
+   "source": "Daily Beirut",
+   "date": "7 octobre 2026",
+   "sortDate": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXhyZmx2Ny15Ykt6dkFJS3c4dmhzdWpIVlc1MFpBYWRGVTBtY1ZvZGhKQ3E3MlE3TW1QSFY1VTVXNERaSnBsSG4wdGxwYW5faldnVXl0M1poVVhfOEczT0hmOVNGZ0ZnbDA3d0tFWWxTUFFKRUkwdUg4U2ZfMXZ2b05NcUV5Q3l4S3Z4MVNuWXRZRWg5UzVKUW5vQ2luZw?oc=5",
+   "summary": "Une information médicale indique un lien possible entre la grossesse et une augmentation du risque de développer des maladies cardiaques. Ces données soulignent l'importance d'une attention particulière portée à la santé cardiovasculaire des femmes.",
+   "auto": true,
+   "addedAt": "2026-10-09T05:16:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Être attentive aux signes de fatigue intense ou de malaise dans le post-partum sans pour autant poser de diagnostic.",
+    "Encourager les parents à maintenir un suivi médical régulier avec leur médecin ou leur sage-femme après l'accouchement.",
+    "Ne formuler aucun avis médical mais orienter rapidement vers les professionnels compétents en cas de doute sur la santé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1674,6 +1721,48 @@
    "enriched": true
   },
   {
+   "id": "a-7fdba0e97213",
+   "category": "pol",
+   "priority": false,
+   "title": "Loi intégrale: les députés inscrivent l'allaitement parmi les motifs de discrimination interdits par la loi",
+   "source": "LCP-Assemblée nationale",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGFHNTYya3Z1X01YNWJnbHNLZ2FLbHVLVlhkMFkyNEt2eDJxUmxWeFVsMkx3LUJRSTE5QjlZbUFnQndndGNSZUxQUmQyYm5mQ0Zmbkp6dmhJcldXcDMyWVRTY3E5LVlyc29FWFVtT0YzWkx0aklTUHE3cWdzYldRX21YWmMyRWp5Y2x5NXJTWmpjMVdFdmdScVN6T2RURXN0eVNGUU1YTU5MVTJtaHdRWA?oc=5",
+   "summary": "Les députés ont adopté une disposition législative qui intègre l'allaitement au sein des motifs de discrimination formellement interdits par la loi. Cette mesure renforce la protection juridique des mères allaitantes dans l'espace public et professionnel.",
+   "auto": true,
+   "addedAt": "2026-10-09T05:16:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez rassurer les parents sur leurs droits fondamentaux en matière d'alimentation de leur enfant dans les lieux publics.",
+    "Rappelez que la doula soutient les choix parentaux mais ne se substitue pas à un accompagnement juridique en cas de litige.",
+    "Invitez les mères à verbaliser leurs craintes ou pressions extérieures concernant l'allaitement au travail ou en société."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-888b7b282640",
+   "category": "pol",
+   "priority": false,
+   "title": "L’allaitement en public désormais défendu par la loi",
+   "source": "Mag'Centre",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU5xODdFSTJNbG5LUVhNQWtLSFUza2ZNajliZ0hsRVRIcTZLcUtwNGJmUVFyd0xkTmM2ajFZQXZRNjZOVnlFRHZIc01aN29tQThvMGZFVUVLMXhZeE5MRGpXTGpHSGZVZEhZS29uREtqVl81eWc4aHpUZUkydWZnYTFPM3Jyd0lfa0VDMg?oc=5",
+   "summary": "Une nouvelle législation protège officiellement la pratique de l'allaitement dans les espaces publics. Cette mesure vise à sécuriser les mères contre les entraves à l'alimentation de leur nourrisson en dehors du domicile.",
+   "auto": true,
+   "addedAt": "2026-10-09T05:16:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Rassurer les parents sur leurs droits légaux d'allaiter à l'extérieur sans crainte du regard ou des remarques extérieures.",
+    "Aborder ce sujet lors des ateliers prénataux pour préparer la mère à nourrir son bébé sereinement en toute situation.",
+    "Rappeler son rôle non médical d'écoute et de soutien moral, sans se substituer au cadre juridique ou sanitaire."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-d96a752a2f88",
    "category": "pol",
    "priority": false,
@@ -1690,6 +1779,27 @@
     "Aborder avec les parents la question des ressources locales et des difficultés d'accès aux structures de soins périnataux.",
     "Offrir un espace d'écoute pour rassurer les familles face aux inquiétudes liées au manque de moyens des services de santé.",
     "Rappeler aux parents que les aspects purement organisationnels et les revendications politiques relèvent des institutions et non du rôle de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-253072f9b2de",
+   "category": "pol",
+   "priority": false,
+   "title": "De nouvelles modalités pour déclarer un congé supplémentaire de naissance",
+   "source": "Entreprendre Service Public",
+   "date": "6 octobre 2026",
+   "sortDate": "2026-10-06",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ldllVNHJsVTkzNkN2M0dZMmV1ZGRpMGNNMHRCRXctdTMzdk11NmxSV2xqdHNUSHVTTU5aRkZpWHV6bXFaX3dFaWxOZ0xtV2Z1c0l2aTBfSGpPbEROa2VjRHNMdEFMOFYwdGRnWHJB?oc=5",
+   "summary": "De nouvelles procédures administratives ont été mises en place pour simplifier la déclaration d'un congé supplémentaire de naissance. Ces directives informent les familles sur les démarches à suivre pour bénéficier de leurs droits.",
+   "auto": true,
+   "addedAt": "2026-10-09T05:16:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les couples sur l'existence de ces démarches administratives pour anticiper l'organisation du foyer après l'arrivée de l'enfant.",
+    "Soutenir l'expression du stress lié aux formalités en offrant un espace d'écoute bienveillant et pratique.",
+    "Se positionner strictement sur l'accompagnement émotionnel et organisationnel, sans se prononcer sur la complexité légale."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2866,64 +2976,106 @@
    "enriched": true
   },
   {
-   "id": "a-9a39842eccd1",
-   "category": "pol",
+   "id": "a-dacab4d25f68",
+   "category": "soc",
    "priority": false,
-   "title": "Près de Toulouse : la maternité ferme ses portes, les futures mères doivent désormais parcourir des dizaines de kilomètres",
-   "source": "L'Opinion Indépendante",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0hGSllUREt1R1hodjBuU3pRY29pTXNVN1dNZGNZUnNubWIyVWF4TVdxdkpaaUxLM09nUEZLVWtyLVBiQUdMam9tanpGam9uZVcxQTNFd1NfZVBEVTNWUS1ndXc5Ym1UM3N5SnJFY3BMOWhaRmN6XzdwTFlGQW4xWDQwX0RuWl820gGOAUFVX3lxTE9ETXFBV091ZFJuZmdUZEFOM1BOaUhpQ2JVWjNtUDNxbDV3YW90OThDdzBUczYzdV80UllpZ1hJaG5RV2E3UHFzMHh5WkZfQ1dJRTFESmY5d0Z1ZHZsWUdrSjNmZUxGYWhXdHd0NXkweFhpWm1wU3B2YkpTcEQ1MldBbS1tMXRYT081S2lzNlE?oc=5",
-   "summary": "La fermeture d'une maternité près de Toulouse contraint les futures mères à effectuer de longs trajets pour accoucher. Cette situation modifie les conditions d'accès aux soins périnataux dans la région.",
+   "title": "De la grossesse à l’accouchement, les pères s’impliquaient déjà dans la naissance des enfants aux XVIIIᵉ et XIXᵉ siècles",
+   "source": "The Conversation France",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://theconversation.com/de-la-grossesse-a-laccouchement-les-peres-simpliquaient-deja-dans-la-naissance-des-enfants-aux-xviii-et-xix-siecles-291741",
+   "summary": "Des recherches historiques montrent que l'investissement des pères dans la grossesse et la préparation à l'arrivée de l'enfant n'est pas un phénomène récent propre à notre époque. Déjà aux XVIIIe et XIXe siècles, certains hommes s'impliquaient activement aux côtés de leur conjointe malgré des contextes sociaux différents. Aujourd'hui, la grande majorité des pères assiste à la naissance, prolongeant une tendance à l'implication précoce qui peut aussi générer des attentes ou des tensions dans le couple.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-09T05:16:17+00:00",
    "pageRead": true,
    "points": [
-    "Aider les parents à anticiper le temps de trajet vers l'hôpital pour réduire l'anxiété liée au départ le jour J.",
-    "Soutenir émotionnellement les femmes enceintes confrontées au stress de la fermeture de leur établissement de proximité.",
-    "Éviter de critiquer la décision de fermeture de l'hôpital, en se concentrant uniquement sur le vécu et le bien-être des parents."
+    "Encouragez la co-parentalité en valorisant la place du co-parent dès la période prénatale lors de vos temps d'échange.",
+    "Ouvrez un espace d'écoute pour aborder les potentielles pressions ou tensions que le futur père peut ressentir dans son implication.",
+    "Rappelez que vous soutenez le couple parental dans sa globalité, tout en respectant le vécu individuel de chacun sans vous substituer au suivi médical."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-241aac8964d8",
-   "category": "pol",
+   "id": "a-e9ead53ff4bc",
+   "category": "soc",
    "priority": false,
-   "title": "Pour son dernier déplacement avant son accouchement, Marine Tondelier veut \"un pays à hauteur d'enfant\"",
-   "source": "franceinfo",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html",
-   "summary": "À quelques jours de donner naissance, une femme politique candidate à l'élection présidentielle a présenté ses propositions en faveur des enfants et de leur place dans la société. Son intervention aborde notamment la question des politiques publiques axées sur l'enfance ainsi que la protection des mineurs contre les violences. Elle plaide pour la création de structures pluridisciplinaires de prise en charge et le renforcement des mesures de prévention.",
+   "title": "Baby blues : ce qu’il faut savoir après la naissance en replay - La minute des Maternelles",
+   "source": "France TV",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb3FRSTdqT2VRdUQxWHNEQVpmOTZSVHJ4MldKcHhDQVBpSV93MjVuaklGa20zSUx0T0tQbHQzZzBWVzNOTkI2QnJjTE1VZnBlakdhVzdycXQyOUNJM1pXbklyQjllZmtkeUJfaUdUZXVmdmw1d3NNdGZaM2tPM1MyNUNxSHpTY0V6MkROaGFkX183YmcyZkgyZzF5MF9LdkM1dWhmag?oc=5",
+   "summary": "Une émission télévisée propose de faire le point sur le baby blues en abordant ce phénomène psychologique fréquent survenant après l'accouchement. Elle offre des repères pour comprendre cette transition émotionnelle délicate chez les jeunes parents.",
    "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
+   "addedAt": "2026-10-09T05:16:17+00:00",
    "pageRead": true,
    "points": [
-    "Ce sujet sociétal te permet d'aborder avec les parents la question de la place de l'enfant dans notre société et de leur posture parentale naissante.",
-    "Tu peux nourrir ton écoute bienveillante sur les préoccupations des futurs parents concernant la sécurité et l'environnement protecteur qu'ils souhaitent offrir à leur nouveau-né.",
-    "Garde à l'esprit que les questions politiques et judiciaires dépassent ton rôle, tout en restant à l'écoute des émotions que ces sujets de société peuvent éveiller chez les futurs parents."
+    "Utilisez ce sujet pour normaliser la vulnérabilité émotionnelle des premiers jours et déculpabiliser les mères.",
+    "Soyez attentive aux signes de bascule vers une dépression post-partum pour orienter si besoin vers un professionnel de santé.",
+    "Proposez un espace d'écoute bienveillant et sans jugement pour libérer la parole autour de la fatigue et du bouleversement identitaire."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-d6423aa8857f",
-   "category": "pol",
+   "id": "a-a60b5aaa29dd",
+   "category": "soc",
    "priority": false,
-   "title": "Congé de naissance : avec 110.000 demandes, certains parents attendent encore leurs indemnités",
-   "source": "epochtimes.fr",
-   "date": "16 septembre 2026",
-   "sortDate": "2026-09-16",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHhTYi1JcFR6UURsM1pIdy1jSFlVWWRVcWN3RVVxZnFLWnB5VldHVlB3R0Rhb3ZrZXBSemZSemtsUmlsbmFIdHlsb01kXzZiYWJXOE5fRnlnWm92bWlRUElvUFdQeHFLM2VCel90bXRVREp5amVzdnNPZVphNWhWUXUzYXdnNXRwQmZqUmpTamlBM094TnVfTTdxdEo5aW1nYU9HYW9oTEZyZG5zeHdXUlBnWVZvLURQd0hMeG1vTy02N1RrZzdVb2Nn?oc=5",
-   "summary": "Malgré un nombre important de demandes concernant le congé de naissance, certains parents subissent des attente pour toucher leurs indemnités. Ces délais de versement pèsent sur l'organisation financière des foyers.",
+   "title": "Ambérieu-en-Bugey. Opération Grande tétée pour célébrer l’allaitement maternel : « Ce n’est pas si facile que ça »",
+   "source": "Le Progrès",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmViSHlQZE9oQm1rYm1DVU1UcEZuTG9aZVhabWkyYXIteWtlbW1UWWl5bnhHMnZibmQ5Nnp1R1JUSGYyemtYMTNJMVJENGxKblR4LTJneXM1TGxOWGNWMmNZRkJMdlp5bmdHNVJBckxFcDgtNGFfY1I3S1o4MjVLcS1Xc1lKcGNXWDBaSzhqN3pYWmZpbDBrM09ISGRwdy02WExObjM1aTJGOHROSGh2NWc3WlJEVVVMd0p2VXBTazIwZkxDTVpvRk9UZw?oc=5",
+   "summary": "Un événement local de type grande tétée a mis en avant la réalité de l'allaitement maternel en soulignant que cette pratique comporte des difficultés. Les participantes ont pu échanger sur la complexité de cette mise en route au quotidien.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-09T05:16:17+00:00",
    "pageRead": true,
    "points": [
-    "Offrir un soutien émotionnel aux parents stressés par des difficultés financières transitoires après l'arrivée du bébé.",
-    "Discuter de l'importance de préparer l'organisation pratique du post-partum en anticipant d'éventuels retards administratifs.",
-    "Rediriger systématiquement les familles vers les caisses d'allocations ou les services sociaux pour les démarches d'indemnisation."
+    "Accueillez la parole des mères sur la complexité réelle de l'allaitement sans jamais banaliser leurs difficultés.",
+    "Encouragez la création de réseaux de soutien par les pairs pour briser l'isolement des jeunes parents.",
+    "Orientez systématiquement vers des consultantes en lactation ou des sages-femmes en cas de douleurs ou de doutes techniques."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-14caad876861",
+   "category": "soc",
+   "priority": false,
+   "title": "La Grande Tétée, un événement original pour parler d’allaitement",
+   "source": "Moselle TV",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWxseERQcTBLSS1UTEpUMElQbkpwbGVoWlFscTRYenIySVd4S0hZc2txTGxNZy01WmJsb0QwLWRWLUxtQlh2dmtoZkhvRzNoeFlSYmV6alVuVkRCQkJCeHJRYS1jaEpTcS1NU01RcG9IYW5tMXphQ0d5VDdaaHc1eVh6UkkyU0FGSHc?oc=5",
+   "summary": "L'événement La Grande Tétée est organisé pour offrir un espace de discussion et d'échange autour de l'allaitement maternel. Cette initiative permet aux familles de se rassembler et de partager leurs expériences en toute convivialité.",
+   "auto": true,
+   "addedAt": "2026-10-09T05:16:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Orienter les parents vers ce type d'événements conviviaux pour briser l'isolement et partager des vécus similaires.",
+    "Utiliser ces espaces collectifs pour encourager l'expression des ressentis autour de l'alimentation du nouveau-né.",
+    "Garder à l'esprit que les difficultés techniques relèvent des professionnels de santé qualifiés comme les consultantes en lactation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-499f40a526a4",
+   "category": "soc",
+   "priority": false,
+   "title": "Lons-le-Saunier. Avec la Grande Tétée, un grand rassemblement pour promouvoir l’allaitement",
+   "source": "Le Progrès",
+   "date": "8 octobre 2026",
+   "sortDate": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzFIX01fd2VkS05vdUVFVHlsekJhQUtMLWFpQlh0dWEwYlg1OXI1ZlU0ajlOVDNlMkM2dWp1Mkh5STlsWDdFUlhhNkdqaTJHdDhpQUI0MXE2a2tMRWhkSlBhb3JfZXJHc2NYOVJRNmx0d21VYUo5bnN4R0VWNHd4Tnk0dTJCa1JkNC02RDgwb1ZyU2hPeElpaHdpTTVMNHhjM3BpMEo4U0RLZjNWbXlkeUp5T0pSYzlQ?oc=5",
+   "summary": "Un rassemblement public nommé La Grande Tétée s'est tenu pour promouvoir activement l'allaitement. Ce type de manifestation offre l'occasion de sensibiliser la société et de soutenir les mères dans leur choix.",
+   "auto": true,
+   "addedAt": "2026-10-09T05:16:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Mentionner ces rendez-vous locaux aux futurs parents pour enrichir leur réseau de soutien périnatal.",
+    "Valoriser l'importance du lien social et du partage d'expériences dans la réussite des premiers mois de parentalité.",
+    "Rester neutre face aux choix d'alimentation du nourrisson, qu'ils soient exclusifs ou mixtes."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4074,111 +4226,6 @@
     "Créer un espace de parole sécurisant pour permettre aux mères d'exprimer leurs craintes du regard des autres.",
     "Conseiller des astuces pratiques et vestimentaires pour faciliter l'allaitement en extérieur en toute sérénité.",
     "Éviter de porter un jugement sur les choix d'alimentation du nourrisson et valider le ressenti de chaque parent."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4880fbdb70fa",
-   "category": "soc",
-   "priority": false,
-   "title": "Des ateliers parents-enfants \"inspirés des États-Unis\" arrivent à Theux : des cours de danse avec bébé, \"mais pas au sens classique du terme\"",
-   "source": "L'Avenir",
-   "date": "21 septembre 2026",
-   "sortDate": "2026-09-21",
-   "url": "https://www.lavenir.net/regions/verviers/theux/2026/09/21/des-ateliers-parents-enfants-inspires-des-etats-unis-arrivent-a-theux-des-cours-de-danse-avec-bebe-mais-pas-au-sens-classique-du-terme-QTC52CJJMJGKVHWY3SSO6AKJDY/",
-   "summary": "Une intervenante propose des ateliers de danse-portage pour aider les jeunes parents à tisser un lien d'attachement avec leur bébé tout en luttant contre l'isolement du post-partum. Cette démarche s'inspire de son vécu personnel marqué par une dépression post-partum et du besoin d'activités accessibles en dehors des horaires de semaine ou adaptées aux périodes de fragilité immunitaire des nourrissons. L'objectif est d'offrir un espace de soutien et de guidance pour traverser la tempête émotionnelle des premiers mois.",
-   "auto": true,
-   "addedAt": "2026-10-03T05:14:31+00:00",
-   "pageRead": true,
-   "points": [
-    "Utilisez l'exemple du portage et de la danse pour proposer aux parents des outils corporels doux favorisant le lien d'attachement avec leur bébé.",
-    "Soyez attentive aux signes de vulnérabilité émotionnelle et de dépression du post-partum pour orienter si besoin vers des professionnels de santé qualifiés.",
-    "Valorisez l'importance des espaces de soutien et de socialisation pour les jeunes parents, tout en gardant à l'esprit que vous ne posez aucun diagnostic médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-88e5106a3d90",
-   "category": "soc",
-   "priority": false,
-   "title": "La Maternité du Tertre Rouge célèbre la Semaine Mondiale de l’Allaitement Maternel avec une journée dédiée à l’écoute, au partage et à l’accompagnement",
-   "source": "Elsan",
-   "date": "20 septembre 2026",
-   "sortDate": "2026-09-20",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0JmbDZhN2xiTXBSczdPdDFfTjhNZXlhYjU3YzhnWXhydkJmQU5JY1UydjFZRU13eUJTeXFuN1VwTUU4S3JscHZiMmI4aTBZSU50NTNzRTJRTnQ5VEtkRHVsUHo2bVlHMHpQaFJWVTl4aW9BYWdIaGcxSEpGc3hlVGNRMi1YMXJrRVpTZFlrRW4wcXpGeXhJbXZfOHhUMWhQck5fRzJyUERXdzFDcTl5ZW53bzJfZ0I2aXpUVHctVUkya3c?oc=5",
-   "summary": "Une maternité organise un événement pour promouvoir l'allaitement maternel en proposant des espaces d'échange et de soutien aux familles. Cette initiative met en avant l'importance de l'écoute et du partage autour de l'alimentation des nourrissons. L'objectif est d'accompagner au mieux les parents dans leur démarche d'allaitement.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "S'inspirer de ces événements pour proposer des cercles de parole ou des temps d'échange entre parents autour de l'allaitement.",
-    "Valoriser l'écoute bienveillante et le soutien émotionnel comme piliers pour accompagner les choix d'alimentation des mères.",
-    "Rappeler aux parents que les aspects techniques ou médicaux de l'allaitement relèvent des professionnels de santé qualifiés."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3a39b9f4da04",
-   "category": "soc",
-   "priority": false,
-   "title": "Les 20 meilleures entreprises du marché mondial des masseurs d\\'allaitement",
-   "source": "Spherical Insights",
-   "date": "20 septembre 2026",
-   "sortDate": "2026-09-20",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQajdwQmg2NndvaFloU2huYW0tODBHZ1hkQjFjakhLckFtQ0NxckJ1YXBJaFlUZDVjS2R0Z3JQY3QydmJZSjFpUG9LNEdWbWZvSF9abEF3VFNmVEstbFJVTWpIUXl1anZBZ1dHMDRRZk1OdV9hem1Sbl9mRms5T2dtalJ3Q2lJU1FobUZZWnpNTEVEdnRsVG5LNE80SHMxeUoxN0JpVk9DZHRWRjFOZWFjdUhEajdLeUtNOVhaZ3FxdVlCZ3RYMjNIT3NkTzM1dlRnenpKNzlR?oc=5",
-   "summary": "Un marché mondial se développe autour de dispositifs de massage conçus pour les personnes qui allaitent. Ces outils commerciaux visent à répondre aux besoins spécifiques liés à la lactation. L'offre s'adresse aux parents cherchant des solutions de confort durant cette période.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Connaître l'existence de ces outils de confort pour orienter les parents vers des solutions de bien-être non médicales en cas de besoin.",
-    "Aborder l'usage de ces accessoires en gardant à l'esprit qu'ils ne remplacent en rien un accompagnement professionnel en cas de difficulté d'allaitement.",
-    "Rester neutre face aux produits commerciaux et aider les parents à évaluer leurs propres besoins de confort physique."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-fe5e72fe044c",
-   "category": "soc",
-   "priority": false,
-   "title": "\"Vous êtes trop grosse\" : enceinte de 7 mois et obèse, Zoé s'est battue pour accoucher près de chez elle",
-   "source": "Actu.fr",
-   "date": "19 septembre 2026",
-   "sortDate": "2026-09-19",
-   "url": "https://actu.fr/societe/vous-etes-trop-grosse-enceinte-de-7-mois-et-obese-zoe-s-est-battue-pour-accoucher-pres-de-chez-elle_64801993.html",
-   "summary": "Une jeune femme enceinte de sept mois a rencontré de grandes difficultés pour pouvoir accoucher dans l'hôpital de sa ville en raison de son obésité. Ce témoignage illustre les pressions et la stigmatisation liées au poids que subissent régulièrement les femmes enceintes dans la sphère médicale. Cette incertitude quant au lieu d'accouchement a généré un stress important tout au long de sa grossesse.",
-   "auto": true,
-   "addedAt": "2026-09-29T05:15:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace de parole bienveillant et sans jugement pour permettre aux parents d'exprimer leurs angoisses liées au regard du corps médical.",
-    "Valoriser l'estime de soi des futurs parents et les encourager à faire valoir leurs droits à une prise en charge respectueuse.",
-    "Observer strictement sa limite non médicale en évitant d'émettre quelque avis que ce soit sur les risques de santé liés au poids."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-774c5fc5a81b",
-   "category": "soc",
-   "priority": false,
-   "title": "Femmes enceintes, mères et nouveau-nés sans domicile : les 1 000 premiers jours à l’épreuve de la précarité",
-   "source": "Enfance & Jeunesse Infos",
-   "date": "18 septembre 2026",
-   "sortDate": "2026-09-18",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRWRPNHhTOVFLeGpXMHVHT2pVNnFpT25qcE5pQWxRTDBFQlV6Rm52QjJiMUljSmw0YXNscU5ZTUF1S2p4M1dJaWRjVDFhS0hjSXN5MmZmanIydktqVjZ3ZzRyekhLaW9wRGM0a2FNTXd6THpwWkMwVUVTSmpTRzk2XzhZS3N4WTg2WGFLYUs2S19QSldsT2I0cVUtVlozUTVJTzh0ZU5PWDFzRlJnakdGZUxpMlQ0eEgtMVZScFlaaS1ydHZXRkI3c1U1dDRLY2cteXNkQTAzSQ?oc=5",
-   "summary": "Ce texte met en lumière la situation particulièrement vulnérable des femmes enceintes, des mères et des nouveau-nés se trouvant sans domicile fixe. Il souligne la complexité de garantir les mille premiers jours de l'enfant dans un contexte de grande précarité.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Être particulièrement vigilante aux signaux de grande précarité chez les parents accompagnés pour pouvoir les orienter vers les structures sociales adaptées.",
-    "Adapter son accompagnement pratique et émotionnel en tenant compte des conditions de vie précaires des familles sans abri.",
-    "Ne pas se substituer aux services sociaux et médicaux spécialisés dans la prise en charge de la grande exclusion."
    ],
    "summaryAI": true,
    "enriched": true
