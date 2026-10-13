@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T05:17:54+00:00",
+ "updatedAt": "2026-10-13T05:18:30+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "18 page(s) d'articles lue(s)",
-  "IA : 18 article(s) résumé(s) et commenté(s)"
+  "22 page(s) d'articles lue(s)",
+  "IA : 22 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -89,7 +89,10 @@
   "a-786f1deab48e": "2026-09-29",
   "a-eb73ffc0a21d": "2026-10-11",
   "a-8d0a9db2a9af": "2026-10-10",
-  "a-b4b266624985": "2026-10-01"
+  "a-b4b266624985": "2026-10-01",
+  "a-36c8f53b8e04": "2026-10-12",
+  "a-428601b17574": "2026-10-12",
+  "a-de2cea4ebe09": "2026-10-03"
  },
  "articles": [
   {
@@ -473,6 +476,27 @@
    "enriched": true
   },
   {
+   "id": "a-33860cd151f3",
+   "category": "sci",
+   "priority": false,
+   "title": "« Suis-je une bonne mère » ? La dépression post-partum à l'étude",
+   "source": "TVA Nouvelles",
+   "date": "13 octobre 2026",
+   "sortDate": "2026-10-13",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHR0U3BGMmtDVjBtUzBwR3VSd0djM0lQbDRlaGU5dkRkWmxSWk9INnVjY01HNlVJRXBpcVMya3hOYzdjZDRWQkFKWnNlc0RocmZvUDZkWXRUYWliSlg1c1VaZXBxbkM1OFUtbF9YM0ZoSlZHaDlfVjFFV1U2UGdTSlFLbTVwdmhvSXlvcm4xZWV5YkVlekRnZUw4TTJBY1N3?oc=5",
+   "summary": "Ce sujet aborde la question de la dépression post-partum et le sentiment de culpabilité exprimé par la célèbre interrogation « Suis-je une bonne mère ? ». L'article met en avant l'importance d'étudier ce phénomène psychologique fréquent chez les jeunes parents. Le texte ne fournit pas de détails cliniques approfondis mais pose la réalité de cette souffrance.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Normaliser le doute parental et la complexité des sentiments éprouvés après l'arrivée d'un nouveau-né lors des temps d'échange.",
+    "Être attentive aux signes de détresse psychologique pour aider les parents à verbaliser leur épuisement sans jugement.",
+    "Rappeler que la doula propose un soutien non médical et orienter rapidement vers les professionnels de santé compétents en cas de suspicion de dépression."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-3b196da4b7a3",
    "category": "sci",
    "priority": false,
@@ -508,6 +532,90 @@
    "points": [
     "Utilisez cette information pour valoriser le choix de l'allaitement si les parents l'évoquent, tout en restant neutre si la mère choisit de ne pas allitert.",
     "Gardez en tête que l'accompagnement de l'allaitement relève du soutien pratique et émotionnel, et redirigez vers une consultante en lactation ou un médecin en cas de difficultés médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-1d252c57c11e",
+   "category": "sci",
+   "priority": false,
+   "title": "Diabète, grossesse et aGLP-1 : premières recommandations",
+   "source": "Medscape",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVldxSy1KTVI0V1RISTc3R1pvbEN3VFJJUkZBMHdSZkdZNHRuT1k5NXIwNHhacGJEbzdoS0toUTFCZFFUeDQ0QkhtdFJIQVNfV2NfWkJMbXp3VWZ5RFc2aTdfeGtyX3lBT3lBSzg3Y0FiT1hUMXpRMjNrZy0wV3IwcnZzVzlTNGh4a2pPbEM1QmV0Z2FkaFJkQ2VkYTVaNnhZbU1fVQ?oc=5",
+   "summary": "L'article annonce la publication de premières recommandations médicales concernant la gestion du diabète pendant la grossesse et l'utilisation des aGLP-1. Le texte indique la parution de repères cliniques actualisés pour cette pathologie spécifique. Aucun détail supplémentaire n'est fourni dans l'extrait.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Prendre connaissance de l'existence de ces recommandations pour mieux comprendre le parcours de suivi médical des futures mères concernées par le diabète.",
+    "Inviter les parents à poser toutes leurs questions sur les traitements directement à leur médecin ou leur sage-femme.",
+    "S'abstenir de tout commentaire ou conseil sur les traitements médicamenteux, qui relèvent exclusivement du diagnostic et de la prescription médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-8837b2b732fb",
+   "category": "sci",
+   "priority": false,
+   "title": "Semaine mondiale de l'allaitement maternel 2026 : « L'allaitement maternel, un tremplin pour la vie »",
+   "source": "chu-toulouse.fr",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOFFFMmRrSlgyV2sxXzVmWnFJU1haeTRvTkkxMFVCVDk4cFdvLUFvNkQwaVhmbkV5bnhFWUZ6SDFZNUFPQmcyYUxhUmdHZElCbG1EdGxGVXFVS3c4SjNUblBudVVUUlpic0g0anp2WldBcGppSHRUZkRUZXlFZDB0NUhseDI3VWh3UllFMFg1N0dud2Z4N3dqd3NzNFR3UUJxYm1xQlY3MHZvUQ?oc=5",
+   "summary": "Le CHU de Toulouse annonce la Semaine mondiale de l'allaitement maternel 2026 autour du thème d'un tremplin pour la vie. L'événement met en avant l'importance de soutenir cette pratique pour la santé des nourrissons.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez utiliser ce type d'événement institutionnel pour ouvrir le dialogue avec les futurs parents sur leurs projets d'alimentation.",
+    "Rappelez que votre rôle est d'offrir un soutien émotionnel et pratique autour de l'allaitement, en complément des professionnels de santé.",
+    "Veillez à ne pas donner d'avis médicaux sur la lactation et à orienter vers les consultantes en lactation ou les sages-femmes en cas de difficulté."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ba14b330f8c1",
+   "category": "sci",
+   "priority": false,
+   "title": "Semaine mondiale de l'allaitement maternel : quels sont les bienfaits?",
+   "source": "Outre-mer La 1ère",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTZSVVZUd2dKNWZqT1I4Zm1yajkyQThqdnJwdThLaERmNEtrQVZVSHFCWW9FS25kdUdvT1ZYRWpvbVNKS0JzejNnUWl1dXJyQW53Szk2Z202QWZmNzh4QnR3WC1jQlBwenNjLTBEMkEtOFZRSnQ4TXFkYkJSbURFN0xBSk1Sem5MeTBYRnNseXJraURnQ2xrUks2dmlSLV9qTGZGY3UtVVNHdk9MR2xEZ2hjLXJuejda?oc=5",
+   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, plusieurs sources rappellent les bienfaits de cette pratique. Les avantages concernent à la fois la santé de l'enfant et celle de la mère.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Partagez des informations factuelles sur les bienfaits de l'allaitement lors de vos ateliers prénataux pour aider les parents à se préparer.",
+    "Offrez un espace d'écoute inconditionnel sur les attentes et les craintes des parents face à l'alimentation de leur futur nouveau-né.",
+    "Rappelez que chaque parcours d'allaitement est unique et que la décision finale revient aux parents, dans le respect de leur bien-être."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-79eb4b4c9f9e",
+   "category": "sci",
+   "priority": false,
+   "title": "Semaine nationale de l’allaitement maternel : le REPEMA poursuit son engagement pour informer et sensibiliser",
+   "source": "Le Journal De Mayotte",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaVYtSFNSSlozenppOG5YdW5fdnFaNXd6OTJ0Y1pBcWt1aVR2bmdFTkNpX2MwUHo5NmplcWIyNnlDdUxWNkhmYmFXTWJyd2pNR3lWVENDeVg4MVl3a2ZGcGtKSFpLdkt0dllTNFE1S1pOdjc2TGFvODA0aDNmNVczUGVfYnlKM0VUdVRRQUhUM3RfSGFmcGZRV0hSR3YwVm53S0JTUmNiUndVVWU1Y3pHQ2IycmlvanI4bTlXMTE5ZFpUZHNfbGtQUHRHSjlkTUtDcWdiU3hialdzZTdCbjhIQnFn?oc=5",
+   "summary": "Le REPEMA renouvelle son engagement à l'occasion de la semaine nationale de l'allaitement maternel en proposant des actions d'information et de sensibilisation. Ces initiatives visent à informer la population sur les bienfaits et l'accompagnement de l'allaitement.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser les supports d'information de ces réseaux de santé pour enrichir ses connaissances sur les recommandations actuelles.",
+    "Transmettre aux parents des repères factuels sur l'allaitement tout en respectant leur projet de naissance.",
+    "Laisser la gestion des aspects cliniques de l'allaitement aux professionnels de santé habilités tout en assurant un soutien émotionnel."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1624,111 +1732,6 @@
    "enriched": true
   },
   {
-   "id": "a-71d8f1c47113",
-   "category": "sci",
-   "priority": false,
-   "title": "L’ anémie pendant la grossesse aurait des conséquences sur le volume du cerveau du bébé",
-   "source": "parents.fr",
-   "date": "18 septembre 2026",
-   "sortDate": "2026-09-18",
-   "url": "https://www.parents.fr/actualites/grossesse/lanemie-pendant-la-grossesse-aurait-des-consequences-sur-le-volume-du-cerveau-du-bebe-1157090",
-   "summary": "Une recherche récente indique que l'anémie vécue pendant la grossesse pourrait être associée à une réduction du volume cérébral global et de certaines structures spécifiques chez le nourrisson. Menée auprès d'une cohorte mère-enfant, cette étude par imagerie montre des écarts mesurables de volume cérébral durant la première et la deuxième année de vie.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder l'importance d'une alimentation équilibrée et du suivi des bilans sanguins avec les parents tout en leur rappelant que le diagnostic et la prescription de suppléments relèvent strictement du médecin ou de la sage-femme.",
-    "Offrir un espace d'écoute bienveillant aux futures mères fatiguées ou anxieuses face aux risques de carence, sans jamais dramatiser ni poser de diagnostic de fatigue lié à l'anémie.",
-    "Garder à l'esprit les limites du rôle de la doula en orientant systématiquement vers le corps médical dès qu'un symptôme physique persistant comme une fatigue inhabituelle est évoqué."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-6acd3d788c61",
-   "category": "sci",
-   "priority": false,
-   "title": "1 grossesse sur 16 exposée aux opioïdes en France",
-   "source": "Univadis",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXR5aUczNlhtMHhzNExBcDU3a0N5Z1ZONnpiZ1ItLTJjVU1zTVJxUkNQaWkyMGJiLXBma2hPbXZmWndQbGFnZFZVZGRodlFWeTRISXByQ0VXV0t1dXR5SmJ2djZTc2ttZTk1Q3dpR1Zya09uekhOaHphZnFNTkdVWXJFaEFLbnFDS3RDZVNwMDNmaExlLWE5WFhUZVZKR1lEOV9z?oc=5",
-   "summary": "Une étude statistique indique qu'une part non négligeable des grossesses en France fait l'objet d'une exposition médicamenteuse aux opioïdes. Cette situation souligne la nécessité d'une attention particulière portée aux traitements pris durant la période prénatale.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter de manière ouverte et sans jugement des consommations de médicaments ou de substances durant la grossesse.",
-    "Inviter les futures mères à aborder systématiquement la question de leurs traitements avec les professionnels de santé habilités.",
-    "Éviter tout commentaire critique ou diagnostic sur les prescriptions reçues et orienter vers le médecin référent."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e97572ccff1a",
-   "category": "sci",
-   "priority": false,
-   "title": "Chikungunya : quels risques pour la femme enceinte et le nouveau-né ? Quelle possibilité de vaccination ?",
-   "source": "Blada.com",
-   "date": "17 septembre 2026",
-   "sortDate": "2026-09-17",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWjU4RVVoc3J1V2ZUYUlQT2puOTk4emNhbXZYc01BNVZqZmZyT0VmYVdqQmlEMmFVWFJWRkZoUXFFUGw3R0pCSURhZE5uQVRzQmZwVU5iejVYM1RDbWQ4cFp1NnV3aThBTzZXc293Q1otZ0g1ZmIxSUx4WENKbERwS0VtS3JWT0syS2EzdEJDTGdpTFJHaU1XTmVWQWRzYThVdmNlTTZPbUJ6elQtekRabW5NQ3hTejBMc1pISkIxekFkQnpoVF9nc1VpTTMzRHc4c1dMOTgzN1RuUjBWcmFOU0hnOVdXVjFGUEpIcjhkLWdpN3A3cUVRYTFJaw?oc=5",
-   "summary": "Des informations sont diffusées concernant l'impact potentiel du chikungunya sur la santé des femmes enceintes et des nouveau-nés. Le sujet aborde également les perspectives de prévention vaccinale face à cette pathologie.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute aux craintes des parents face aux risques infectieux lors de la grossesse.",
-    "Transmettre des informations factuelles issues des recommandations de santé publique tout en incitant à la prudence.",
-    "Orienter strictement les questions sur la vaccination et les risques médicaux vers le médecin traitant ou la sage-femme."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-53eb6edf8c4b",
-   "category": "sci",
-   "priority": false,
-   "title": "Une deuxième grossesse entraîne des changements étonnamment différents au niveau du cerveau.",
-   "source": "Vietnam.vn",
-   "date": "16 septembre 2026",
-   "sortDate": "2026-09-16",
-   "url": "https://www.vietnam.vn/fr/mang-thai-lan-hai-thay-doi-nao-bo-theo-cach-khac-biet-bat-ngo",
-   "summary": "Une étude récente utilisant des IRM cérébrales montre que chaque grossesse laisse une empreinte unique et modifie la structure du cerveau de la mère. Si la première grossesse entraîne des changements majeurs dans le réseau de la conscience de soi et de la pensée sociale, la seconde engendre plutôt des évolutions au niveau de l'attention et du traitement sensoriel. Ces découvertes ouvrent de nouvelles perspectives pour comprendre et identifier les problématiques de santé mentale post-partum.",
-   "auto": true,
-   "addedAt": "2026-09-29T05:15:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Rassurer les mères sur la réalité des modifications psychologiques et cognitives qu'elles traversent, qu'il s'agisse d'une première ou d'une énième grossesse.",
-    "Utiliser ces connaissances scientifiques pour déculpabiliser les parents face aux bouleversements émotionnels et aux difficultés de concentration du post-partum.",
-    "Orienter systématiquement vers des professionnels de santé qualifiés dès l'apparition de signes de détresse psychologique, sans poser de diagnostic."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-04f0ed0140ec",
-   "category": "sci",
-   "priority": false,
-   "title": "S’appuyer sur C4W : Renforcer l’éducation en pratique sage-femme pour la planification familiale et les soins complets en matière d’avortement",
-   "source": "International Confederation of Midwives",
-   "date": "15 septembre 2026",
-   "sortDate": "2026-09-15",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVBNRlFWWWd5N3VmRGZGUXAyWmN2QU1haklJQzIzOE9PYkwtNG5XU3pYdTM1cXVuT2laYzRTUjZWd3loRXN1OGxaR01KYXM2YktWYkNNd2NYZTBjbjJaS0N6cWRBYVk4dks1eGpnNGg4TlFvSkVLMVBITmY1azFHdkowVTFwa3V0MG1pRDhWMWppSTJjdE9lLTROblRWdkhMaV9CV2wwTGhtNWE1YUI3S3FwVFV4T2NKUjhwemZsNUM?oc=5",
-   "summary": "Ce texte aborde le renforcement de la formation des sages-femmes concernant la planification familiale et les soins liés à l'avortement. Il met en avant l'importance d'une éducation pratique solide pour ces professionnels de santé.",
-   "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Sachez orienter les parents vers les sages-femmes pour toute question relative à la contraception et à la planification familiale.",
-    "Rappelez que l'accompagnement de la fertilité et des choix reproductifs relève strictement des professionnels médicaux.",
-    "Valorisez le rôle clé des sages-femmes dans l'accès à une information globale et respectueuse des choix."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-13d3f73de0ac",
    "category": "pol",
    "priority": false,
@@ -1744,6 +1747,48 @@
    "points": [
     "Soyez à l'écoute de l'anxiété que peuvent ressentir les parents face à l'éloignement des structures de naissance ou à la fermeture de maternités locales.",
     "Aidez les familles à identifier les ressources alternatives et les professionnels de santé disponibles près de chez eux, sans vous substituer au réseau médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-0a1f4734f1e8",
+   "category": "pol",
+   "priority": false,
+   "title": "Five Countries Meeting 2026 : de Paris à Londres",
+   "source": "CNGOF",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://cngof.fr/five-countries-meeting-2026-de-paris-a-londres/?utm_source=rss&utm_medium=rss&utm_campaign=five-countries-meeting-2026-de-paris-a-londres",
+   "summary": "La réunion annuelle du Five Countries Meeting à Londres a permis de confronter les organisations de soins en gynécologie-obstétrique entre plusieurs pays européens. Les échanges ont notamment abordé la démographie médicale, l'organisation des parcours de soins et la gestion des situations où les choix des patientes s'écartent des recommandations officielles. Le rapport de l'IGAS sur la périnatalité a également nourri les réflexions sur les ressources humaines dans le secteur.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Comprendre les contraintes actuelles du système de santé et la surcharge des maternités pour mieux informer les parents sur le contexte de leur prise en charge.",
+    "Soutenir les parents dans l'expression de leurs choix de naissance, y compris lorsqu'ils s'éloignent des protocoles habituels, en les encourageant au dialogue avec l'équipe médicale.",
+    "Maintenir une posture de soutien non médical sans jamais interférer ni se substituer aux décisions des professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a8c989595947",
+   "category": "pol",
+   "priority": false,
+   "title": "Un texte reconnaissant la discrimination liée à l'allaitement adopté : \"Ça change beaucoup de choses pour beaucoup de femmes\"",
+   "source": "Magicmaman",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUmxuTlI5MjU4OWJRTlBXYjFzeW4xTUtIZV83Y1VpY2p6NmIxZko3b2dPcE84Qjc1ZFVOUGRZaXAxTW81MkVSM1BTaVlRR0FSaHhseERQd3Y3UkhaT3R2QjNqenh0V09NWnZWcHpNLV9UdTNiUUtLejY2SmZ5bmkyblpzWjgyN3hncnlmTHdKamczclZOOGFxOVVIR3M2S1h3ZGU0WEhnQ3ZoUlVwS2dtSzZicXFBaEJOTUN2NER0MDZvQ1JNWkdlQTB4NjJaRHBJLUhJeEs1QlFRa01FRXVaazhPNllkMWx2a0NodDRXQmt6QQ?oc=5",
+   "summary": "Un texte législatif reconnaissant officiellement la discrimination liée à l'allaitement a été adopté, ce qui représente une avancée importante pour les droits des femmes. Cette mesure vise à protéger les mères qui choisissent d'allaiter leur enfant dans l'espace public ou professionnel.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur leurs droits fondamentaux concernant l'allaitement dans la sphère publique.",
+    "Soutenir la confiance des mères en leur rappelant le cadre légal qui protège leur choix d'allaiter.",
+    "Éviter toute interprétation juridique personnelle et orienter les mères vers les structures adaptées en cas de litige."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2941,43 +2986,232 @@
    "enriched": true
   },
   {
-   "id": "a-4266ecf29527",
-   "category": "pol",
+   "id": "a-3e6d20f50289",
+   "category": "soc",
    "priority": false,
-   "title": "Dépassements d'honoraires : plus d'une femme sur deux débourse en moyenne 300 euros pour son accouchement",
-   "source": "Egora",
-   "date": "21 septembre 2026",
-   "sortDate": "2026-09-21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2JkeGdVNE02UGhKVUdMVDRfcFQ1RVEtajE0Tm5tX2YzN25UaFA4OTIySXhKYkxoWGhGMHFFRDVwc0hNeVhqYUlaYXJqZ0RLM0U0NjRLQzNWMmlQWWQ1S0lfalFHSm5iUnJXUERSVzJjUFltWUlsVmtZTFhHQkIwYVlacEttZHZtUVEyOHRFTXBNenJIcVRNb0Njald2X2ZxazVGUVVRcVdYdWR0Z25EemNjZ2xTeHlxb2cydw?oc=5",
-   "summary": "Plus de la moitié des femmes doivent faire face à des dépassements d'honoraires s'élevant en moyenne à 300 euros pour leur accouchement. Cette réalité financière met en lumière les inégalités d'accès à certains types de structures ou de praticiens. Ce contexte économique pèse sur le choix des futurs parents et leur parcours de naissance.",
+   "title": "« Je voulais partir d’eux, de leur histoire » : Anne-Sophie Bender met en lumière le deuil de la périnatalité",
+   "source": "Dordogne Libre",
+   "date": "13 octobre 2026",
+   "sortDate": "2026-10-13",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbDhFaXNyY0JTYVhkVnJ5MGgtdUZGTWszODEyVnZ5WnhwbUtGWExxZE5SRnFqRjExWGQ5aWVJV0ZnTjYxQ3pvQ0dTemEyVTlzY1dmVkpQN0VpSzVRNG5FRjRINGJQSTUyc04yaWFvWFhXZy0zTEZOajBNZVpITl8wVGYwVVRUc19fN28wVzUyYjl4QWhDOXdzY25XTFNNODlpTmJGb1g3VEZIX2pCQzdRajRleDcwVkh1WTBfT2dnLWpQX192QUxObkRSenZ0dDB4cmstMXoxYm1qWFJ3MU1HRE9lOFU2VkJfS01sSVFHNi1Kc2dIV0E?oc=5",
+   "summary": "Cet article aborde la mise en lumière du deuil périnatal à travers le travail d'Anne-Sophie Bender. Il met l'accent sur l'importance de partir de l'histoire personnelle des parents pour évoquer ces épreuves douloureuses. Le texte reste toutefois très succinct sur le contenu exact de la démarche.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-13T05:18:30+00:00",
    "pageRead": true,
    "points": [
-    "Aborder la question des frais annexes et des choix de structures avec les parents lors des discussions préparatoires.",
-    "Soutenir l'expression des préoccupations financières des familles et les informer sur les options publiques disponibles.",
-    "Garder une stricte neutralité sur les choix de financement tout en restant à l'écoute des contraintes budgétaires des parents."
+    "Offrir un espace d'écoute inconditionnel et sécurisant aux parents traversant un deuil périnatal pour qu'ils puissent exprimer leur histoire.",
+    "Accompagner l'expression des émotions sans chercher à consoler trop vite ni banaliser la perte.",
+    "Orienter si besoin vers des professionnels de santé mentale spécialisés tout en maintenant un soutien émotionnel de proximité."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-989dd578e21f",
-   "category": "pol",
+   "id": "a-1f5d192e180e",
+   "category": "soc",
    "priority": false,
-   "title": "Congé de naissance : l’aide promise aux familles entravée par des retards importants",
-   "source": "Social Mag",
-   "date": "19 septembre 2026",
-   "sortDate": "2026-09-19",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PM2RMY3BDdlFoUEhXRFhZTDdoX2lOODhXeXFQMm44bFlZcWdEY3RuNGJ5VVh5VEQzeXNEQW9JSXhIczhOMVRnR0gxa1lWRnNURmJlYW5aSUtHemg0LUhhY2w5RENJa25fQUVqSU9remlsMk5UbjRuaE1n?oc=5",
-   "summary": "La mise en place du congé de naissance subit d'importants retards administratifs, ce qui pénalise les familles qui devaient en bénéficier. Cette situation crée une incertitude financière et organisationnelle pour les parents de jeunes enfants. Les aides promises se font attendre malgré les annonces initiales.",
+   "title": "L'allaitement boudé en France et en Normandie : \"on a perdu nos racines lactées\" assure cette professionnelle",
+   "source": "France 3 Régions",
+   "date": "13 octobre 2026",
+   "sortDate": "2026-10-13",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMUh4MjVYS1R1QmFLd1ItNTR1Q2lRYkdvVzl2TjlZRG9jUmlwcTJqOHpQenBDeUVtOGl6Wkp5UEt4aWFtelJPX2FOVWRHRXMzWDVzUjFtQTltbjhQQ1hScXREaXJlU2lKbUJ6ZmcweFJ5V3Z0WVNnVlo4T0laT0JtMzZKQlFhWFBucFFYc2dTX2xOa3hYelhCdTNFY1dpV3hqSWpmdHRYTW9FdVVQb0xrblFqMHpfSUVNRDhVWnIwc21HRXZMWEZBNHMwN0VpX2lmdko5aEQtUzFQTUF5UEpTY3NfT2ZPRDVGalJhNllXNXJ0TGQ4QzNLb24wVEFxbkJ0amQ1ZHZB?oc=5",
+   "summary": "L'article traite de la baisse de la pratique de l'allaitement en France et plus particulièrement en Normandie. Une professionnelle du secteur évoque une perte des repères culturels et traditionnels autour de l'alimentation lactée. Le texte met en avant un constat sociétal sur l'accompagnement des jeunes parents dans ce domaine.",
    "auto": true,
-   "addedAt": "2026-09-23T19:25:43+00:00",
+   "addedAt": "2026-10-13T05:18:30+00:00",
    "pageRead": true,
    "points": [
-    "Informer les couples des éventuels retards administratifs liés aux congés pour les aider à anticiper leur budget et leur organisation.",
-    "Offrir un espace d'écoute pour soulager le stress et la frustration des parents face aux incertitudes des démarches administratives.",
-    "Éviter de donner des conseils juridiques précis et orienter les familles vers les organismes officiels ou des spécialistes du droit du travail."
+    "Valoriser les choix des parents concernant l'alimentation de leur bébé, qu'il s'agisse d'allaitement ou de biberon, sans aucune pression.",
+    "Transmettre des informations pratiques et des repères physiologiques simples pour accompagner les premiers jours de l'allaitement si les parents le souhaitent.",
+    "Respecter strictement le champ non médical et rediriger vers une consultante en lactation IBCLC ou une sage-femme en cas de difficultés techniques ou de douleurs."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-e0f8c62166f6",
+   "category": "soc",
+   "priority": false,
+   "title": "La Ricamarie. Une rencontre pour mieux connaître l’allaitement",
+   "source": "Le Progrès",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlR0U3BiSXZ2Qno2cGJ3eTBQa0VKQjZkRWc2QTRYeV85WEt2QU5VeklrRWJfTkRabkZDZXhXSlZ0SWExY1diOEpFanJTUlhNWk1QOGpUc1dLU0xpOWN1R3o3ZENhcGc5S0pUQnBvSVlXNFFEbVE2Tk90RXJwclNqakhjTDBLbE9VUkw5R1p3UmNoanBq?oc=5",
+   "summary": "Une rencontre locale est organisée à La Ricamarie pour informer le public sur l'allaitement. L'objectif est de permettre aux familles de mieux connaître cette pratique et d'échanger sur le sujet.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Incitez les parents que vous accompagnez à participer à des temps d'échange locaux pour briser l'isolement autour de l'arrivée de bébé.",
+    "Soutenez l'expression des ressentis des parents concernant leurs choix d'alimentation sans émettre de jugement.",
+    "Redirigez vers les structures locales ou les professionnels de santé pour toute question d'ordre médical liée à la mise en place de l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-97c28cccb7e0",
+   "category": "soc",
+   "priority": false,
+   "title": "Santé : deux journées de promotion de l’allaitement à la maternité de Chauny",
+   "source": "L'Aisne nouvelle",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDNJV0ZLQWJvRGJoUEJLOFdUMHlMaVFfakNza0Zpb2R2d0xNZlB6NG5DQlR1aU1sTUNMMDcwYW51SjJ2V2pfUldyck8yWGwxQ0VvOWVsUzBjYWt3US1EVUtHcnN4Z3pkM0NSUVBJYzBGdzB3anlrTnc4cUZ5QV9EcU1jMW5mZlhoVUllR1JrbXdrNTg4aGRvYjFLSFo3d2x2MXpyc0RpU2FQOG1hOExuNUc3dERKXzhJX0ZtdmUwdXhidldYUHlZ?oc=5",
+   "summary": "La maternité de Chauny organise deux journées de promotion de l'allaitement pour sensibiliser le public. Ces initiatives permettent d'informer les futurs et jeunes parents sur les ressources disponibles.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "encouragez les parents à visiter les maternités et à se renseigner sur les actions de soutien proposées localement.",
+    "Valorisez le dialogue entre les parents et l'équipe médicale de la maternité pour préparer leur séjour.",
+    "Maintenez votre posture d'accompagnante en valorisant les initiatives des structures de santé sans interférer avec leurs protocoles."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-12ecaa5a60d4",
+   "category": "soc",
+   "priority": false,
+   "title": "Vienne: le CHU de Poitiers se prépare à la semaine consacrée à l'allaitement maternel",
+   "source": "BFM",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEgwUzNWQWtUdkx1X2FHNHAwOTJqU0FvTng2d1FTa0pPcVNZMXEwQm0tZ3RZZXJUc05NRU9nRVlJanA0WmdJaG1MLWJGelRyRkxDeVNqUFJXalQ4WHk2b3VuRzc0OHNCcW1OZlM5bENkT1RRTkFzRl9zX2FBcHNIUnBJYWhEbms0SzBvektkcERLcWR4TXBKSEVTOXlzWjlMMHI0Q21hbVdwdUw3eTZVVy1tU1F0UFZ0aFdkcUhranpwVUV1LXZlTWUwSkY1SjQ?oc=5",
+   "summary": "Le centre hospitalier universitaire de Poitiers organise des événements pour préparer la semaine nationale dédiée à l'allaitement maternel. Ces initiatives visent à sensibiliser le public et à informer les futurs parents sur cette pratique.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur les événements locaux organisés par les hôpitaux pour parler de l'allaitement.",
+    "Encourager l'échange autour du projet d'alimentation du nourrisson lors des séances de préparation.",
+    "Orioter les familles vers les équipes médicales ou les consultantes en lactation en cas de besoin spécifique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a05f76b98269",
+   "category": "soc",
+   "priority": false,
+   "title": "La semaine de l’allaitement à l’hôpital de Montdidier",
+   "source": "Courrier picard",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1p4V1dwVldTWF8zQjFwQzlFZG1uUXl3YmhUaDRmYzhoZ1N3M3dSbGFmN0szcndialpOUFJSOGZ5UFBsYVVaWmpiZFdJQlBxc3ZhUGJQOTd6eWFFUjRkZlpQRnBITk1mUWZ4LWpwc2xlN1ozRTFHUndRRDJYZVg0N3VlSmNPRWktSVNIWFhKLTc4Zjg2MnpUWExrSTJNWkc0YTR5c0VHRE0xLUJp?oc=5",
+   "summary": "L'hôpital de Montdidier participe à la semaine consacrée à l'allaitement à travers des actions de communication et d'information. L'objectif est de valoriser l'allaitement maternel et de soutenir les familles dans leur démarche.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Mentionner les ressources et permanences proposées par les établissements de santé locaux aux parents.",
+    "Offrir un espace d'écoute bienveillant sur le choix d'allaiter ou non, sans pression ni jugement.",
+    "Rappeler que le rôle de la doula est d'accompagner le choix des parents, qu'il soit médicalisé ou non."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-08710a61b1e4",
+   "category": "soc",
+   "priority": false,
+   "title": "Une exposition sur l'allaitement à la Maison des associations de Lille",
+   "source": "l'Essentiel media",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLU9oZ0dOcjVyQnRXUWJrN0FISFpDV2wwWjhsWm1ULXBBMWtjTF80WWJqMlFJaTFZc1BXNHBuRWQxTkMxaW93TUtSeGtsMDhuOWdKbmZiY2ZLdWdMWjNqRWpkd3hRMl9qSl9iN1V1M3h3aVFNNEJnRkVVUUZQNlRrZU9kV3lXazFlZkNRQ2VMYU84N1NLd2kwUWpGYkJDaXJ5WGc3elV2Nl9WRFdOakk4cVNubE9HRXpGTGNXTHN4TGtoUQ?oc=5",
+   "summary": "Une exposition est organisée à la Maison des associations de Lille afin de sensibiliser le grand public à l'allaitement. Cet événement culturel aborde cette thématique sous un angle artistique et informatif.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Suggérer aux parents de visiter des expositions locales pour dédramatiser l'allaitement en public.",
+    "Utiliser des supports culturels pour ouvrir le dialogue sur le corps qui change et l'accueil du nouveau-né.",
+    "Ne pas se substituer aux professionnels de santé pour la gestion des difficultés techniques de l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3196a438b258",
+   "category": "soc",
+   "priority": false,
+   "title": "Une semaine pour parler de l’allaitement maternel",
+   "source": "l'Essentiel media",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNFN2dEdyaW9odV8xNXNHQXJQODJELVI5aVFBUUowUWNReHV6dmVDWkd3V3ZxQk5scTZlbjdvM2wxVVVobDRnRGFvcmE5cTZXRDhzdDIxdUdXTlBqWnRRdy1QcGpveTU0Qk1uNEZQZ01BRlpHV1pNVG5YdUZrMDV4YTNDdXotOUNpUkZyZ2d2T1RqeUwxdGJzeHh2SS1ndUFUNF9uVnBMT292S3Z4?oc=5",
+   "summary": "Plusieurs structures mettent en place des temps forts à l'occasion de la semaine dédiée à l'allaitement maternel. Ces rendez-vous permettent de libérer la parole autour des questionnements des jeunes parents.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Profiter de cette dynamique pour aborder les doutes fréquents des premiers jours avec les futurs parents.",
+    "Proposer un espace de parole sécurisant pour exprimer les craintes liées à la fatigue et à l'alimentation du bébé.",
+    "Rappeler que les aspects médicaux ou pathologiques relèvent exclusivement des sages-femmes et des médecins."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-4f6e26e557ee",
+   "category": "soc",
+   "priority": false,
+   "title": "Des rencontres sur l’allaitement maternel à Clermont-Ferrand",
+   "source": "l'Essentiel media",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUdMZlUtM01GemJCeWRpMXQ0Y0xORTFod0hkaHp0MFpIcXJnWHRLczhoanY3LVNsdzlIZnRxTU9yWHJnOXo1dkY3Y3VtdldwQU0xSWdVay1Cc1FKai1HTTk1SDlHNW94d255end4WVJySExMRjhKalplWWlRWXNHLVo2M2RrSnJ3bFE1VWpBblAyWkpaOGFxUTlVYjlnZGVfQXdrS0V6UllZV0NnYXBlSDlfaWpHWFdXQjJvT0VFX2k?oc=5",
+   "summary": "Des événements locaux sont organisés à Clermont-Ferrand pour échanger autour de l'allaitement maternel. Ces rencontres favorisent le partage d'expériences et le soutien entre parents sur ce sujet.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Orienter les parents vers ces groupes locaux pour qu'ils puissent échanger avec d'autres familles.",
+    "Utiliser ces espaces comme une ressource pour renforcer le soutien émotionnel et informationnel autour de l'alimentation du nourrisson.",
+    "Rappeler son rôle non médical en encourageant les parents à consulter un professionnel de santé en cas de difficultés techniques majeures."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-b7495c562a46",
+   "category": "soc",
+   "priority": false,
+   "title": "Le Molay-Littry. Mathilde Fouace a créé Mama Doula Normandie pour les jeunes parents",
+   "source": "lamanchelibre.fr",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0NidlVzOXFSNXNPaElqVDhCY1lLXzAzemN1RXZHNjFVaDBtU2t0ODFub3lfeWVDZjcwb0FfX3NwaXJUOHl6eHNUd19jMTNLYVljMWtibjluX2JSSjN2VkpvTy1pTWFmM0lXbC1tWlhETzBiak5BVVkxWE42MlZXTzV3SGVmTHJVMmRjcWtwMXZUMjVkV2t2eHF0YklmRHNBMFRJZWl6dEtiZG41VkladHVfbXhfclA0ci1wUTdhekFnR3RSSGJ5enRn?oc=5",
+   "summary": "Une nouvelle professionnelle s'installe en Normandie pour proposer un accompagnement aux jeunes parents sous le nom de Mama Doula. Cette initiative met en lumière le développement des services de soutien périnatal non médical dans la région.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "Observer comment se positionner et communiquer sur son rôle de doula auprès du public et des partenaires locaux.",
+    "Valoriser l'importance du soutien pratique et émotionnel auprès des familles pour légitimer sa pratique.",
+    "Veiller à clarifier les limites de son accompagnement pour ne pas empiéter sur le suivi médical des nouveau-nés et des parents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-46605573b70d",
+   "category": "soc",
+   "priority": false,
+   "title": "Semaine de l’allaitement : une nouvelle édition marquante",
+   "source": "Le Canada Français",
+   "date": "12 octobre 2026",
+   "sortDate": "2026-10-12",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFY1Z1BkSEZBWW1MZkhZSGs2WHlGaUxtSXRWcVJvanVvdzRld1l5ZWNqRUtJdXFSOGZtSlNZbllUSHo5c0wtNVFuaFB0UjVaRkJsNjFwa3V2di16cTJXN2QxQ1RZZlZEbG11SWhFLVBRczctaG4ybjR5OGI0bnUwM0hITS1PdG5VdGFBS2FRSHl1cTJnNXlPRjgxdlk?oc=5",
+   "summary": "Une nouvelle édition de la semaine dédiée à l'allaitement s'est déroulée avec des actions marquantes. L'objectif est de sensibiliser le public et de valoriser l'importance de cette pratique pour les nourrissons.",
+   "auto": true,
+   "addedAt": "2026-10-13T05:18:30+00:00",
+   "pageRead": true,
+   "points": [
+    "S'appuyer sur les temps forts de cette semaine pour ouvrir le dialogue avec les futurs parents sur leurs projets d'alimentation.",
+    "Offrir une écoute bienveillante et sans jugement sur le choix du mode d'alimentation du bébé, qu'il soit maternel ou artificiel.",
+    "Rediriger vers des consultantes en lactation certifiées pour toute question médicale ou problématique technique complexe."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4005,237 +4239,6 @@
     "Discuter avec les mères de la réalité logistique du post-partum et de la reprise professionnelle pour les soutenir au mieux dans leurs choix.",
     "Créer un climat de confiance pour recueillir le ressenti des parents sur la pression sociale liée à l'alimentation et aux injonctions parentales.",
     "Maintenir une posture strictement non médicale et bienveillante face aux débats politiques ou médiatiques rapportés par les familles."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-ec54cb0f3785",
-   "category": "soc",
-   "priority": false,
-   "title": "\"Est-ce que je vais tenir ?\" : Marine Tondelier se confie sur son allaitement 12 jours après la naissance de Léon",
-   "source": "Marie Claire",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.marieclaire.fr/est-ce-que-je-vais-tenir-marine-tondelier-se-confie-sur-son-allaitement-12-jours-apres-la-naissance-de-leon,1521030.asp",
-   "summary": "Une personnalité publique a partagé son expérience récente de l'allaitement maternel, mettant en lumière la fatigue intense, les doutes et les difficultés physiques inhérents aux premiers jours. Elle souligne l'importance cruciale d'un accompagnement adapté pour les mères qui font le choix d'allaiter leur nouveau-né.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Valider la charge émotionnelle et la fatigue intense des premiers temps pour aider les parents à déculpabiliser face aux difficultés.",
-    "Offrir un espace d'écoute bienveillant pour aborder les doutes nocturnes et les questionnements sur la quantité bue par le bébé.",
-    "Orienter vers des professionnels de santé ou des conseillères en lactation en cas de douleurs persistantes, tout en restant hors du champ médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-8fb633531da2",
-   "category": "soc",
-   "priority": false,
-   "title": "Café Allaitement Darmstadt : Offre gratuite le 2 octobre",
-   "source": "da.news",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://da.news/fr/stillcafe-darstadt-semaine-mondiale-de-lallaitement-maternel/",
-   "summary": "Un centre familial organise un événement d'échange autour de l'allaitement animé par une consultante en lactation, ouvert aux futurs et jeunes parents. Cette rencontre aborde les aspects pratiques et émotionnels de l'alimentation du nourrisson, favorisant le partage d'expériences entre pairs.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager les parents à participer à des espaces collectifs locaux pour briser l'isolement et normaliser les vécus de la période post-natale.",
-    "Informer les futurs parents dès la grossesse de l'existence de ces lieux ressource gratuits pour qu'ils puissent anticiper leurs besoins de soutien.",
-    "Rappeler aux parents que les consultations spécialisées en lactation constituent un appui technique de premier plan en cas de difficultés."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-313125a67d16",
-   "category": "soc",
-   "priority": false,
-   "title": "Travail et maternité : une élue veut rémunérer les \"pauses d'allaitement\" en entreprise",
-   "source": "Planet.fr",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.planet.fr/travail-et-maternite-une-elue-veut-remunerer-les-pauses-dallaitement-en-entreprise.2999585.817021.html",
-   "summary": "Face aux difficultés rencontrées lors de la reprise de l'activité professionnelle, des propositions de réformes législatives visent à mieux encadrer et rémunérer les temps dédiés à l'allaitement en entreprise. Le cadre juridique actuel prévoit des temps de pause non rémunérés pour les salariées allaitant ou tirant leur lait jusqu'aux un ans de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter de l'anticipation du retour au travail avec les parents pour aborder sereinement la question de la poursuite de l'allaitement ou du sevrage.",
-    "Informer les mères sur leurs droits légaux en matière de pauses dédiées au tirage de lait sur le temps de travail.",
-    "Soutenir la réflexion pratique autour de l'organisation quotidienne et de l'aménagement des horaires sans se substituer au droit du travail ou aux conseils juridiques."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-5c821a32588f",
-   "category": "soc",
-   "priority": false,
-   "title": "L’allaitement célébré au Centre Manicouagan",
-   "source": "Le Manic",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.lemanic.ca/2026/10/01/lallaitement-celebre-au-centre-manicouagan/",
-   "summary": "Un événement communautaire familial célèbre l'allaitement à travers des activités, une exposition photo et des espaces de rencontre encadrés par des organismes locaux. Des marraines d'allaitement y proposent un soutien personnalisé, du prêt de matériel et des temps d'échange réguliers pour les familles.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Orienter les parents vers les réseaux de marraines d'allaitement et les maisons de la famille pour tisser un réseau de soutien de proximité.",
-    "Valoriser l'importance de l'implication du co-parent et de l'entourage dans la réussite du projet d'alimentation du nourrisson.",
-    "Promouvoir l'accès aux ressources matérielles locales, comme le prêt de tire-lait, pour faciliter l'organisation des premiers mois."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-470639ed3e80",
-   "category": "soc",
-   "priority": false,
-   "title": "Etaules. Un colloque sur la santé mentale et la périnatalité",
-   "source": "le-littoral.com",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://www.le-littoral.com/actualite-30857-etaules-un-colloque-sur-la-sante-mentale-et-la-perinatalite",
-   "summary": "Un colloque est organisé par le centre Résilience à Étaules pour aborder la souffrance psychique en période périnatale. Cet événement s'inscrit dans le cadre du mois d'information sur la santé mentale, soulignant combien la période de la parentalité représente un moment de grande fragilité pour les parents.",
-   "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder ouvertement avec les parents la question de la santé mentale et de la vulnérabilité psychologique pour normaliser le vécu du post-partum.",
-    "Affiner son écoute pour repérer les signes de détresse psychologique et encourager l'expression des émotions sans jugement.",
-    "Connaître le réseau d'acteurs et de structures de soins psychologiques locaux pour orienter rapidement les parents vers des professionnels qualifiés si nécessaire."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-becfdd16c19e",
-   "category": "soc",
-   "priority": false,
-   "title": "\"La société n'aide pas\" : en Seine-et-Marne, des femmes se rassemblent pour défendre l'allaitement dans l'espace public",
-   "source": "actu.fr",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://actu.fr/ile-de-france/serris_77449/la-societe-naide-pas-en-seine-et-marne-des-femmes-se-rassemblent-pour-defendre-lallaitement-dans-lespace-public_64860090.html",
-   "summary": "Des rassemblements ont lieu pour défendre la liberté de nourrir son enfant, au sein ou au biberon, dans l'espace public face aux préjugés persistants. Ces mouvements pro-choix luttent contre les injonctions contradictoires et les jugements que subissent les parents dans leur choix d'alimentation.",
-   "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la question du regard des autres et de la pression sociale avec les parents pour les rassurer sur leur liberté de nourrir leur bébé partout.",
-    "Offrir un espace d'écoute inconditionnel pour déculpabiliser les parents, qu'ils choisissent l'allaitement ou le biberon, face aux injonctions extérieures.",
-    "Ne pas se substituer aux professionnels de santé pour les aspects techniques de l'alimentation, mais soutenir la confiance des parents dans leurs choix."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-03846a2b7141",
-   "category": "soc",
-   "priority": false,
-   "title": "Marine Tondelier jeune maman : son message fort sur l’allaitement... \"C’est aussi à la société de vous soutenir\"",
-   "source": "StarMag",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://www.starmag.com/actu-people/peopolitique/marine-tondelier-jeune-maman-son-message-fort-sur-lallaitement-1055787.html/amp",
-   "summary": "Une jeune maman met en avant l'importance d'un choix libre et sans culpabilité concernant l'allaitement, tout en soulignant la complexité des premières semaines. Elle insiste sur le besoin crucial d'un meilleur soutien sociétal et d'un accompagnement adapté pour les familles.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Valoriser l'écoute active et inconditionnelle des doutes et de la fatigue des parents durant les premières semaines à la maison.",
-    "Informer les mères sur leurs droits légaux en matière de temps de travail dédié à l'allaitement tout en les orientant vers des professionnels compétents en cas de difficulté physique.",
-    "Aider les parents à déculpabiliser face aux difficultés de mise en place de l'allaitement en déconstruisant les injonctions à la perfection."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-30fb71afdd84",
-   "category": "soc",
-   "priority": false,
-   "title": "Arnas. Cette maternité ferme après 32 ans d’existence : « Ce service, c’était une famille »",
-   "source": "Le Progrès",
-   "date": "29 septembre 2026",
-   "sortDate": "2026-09-29",
-   "url": "https://www.leprogres.fr/sante/2026/09/29/cette-maternite-ferme-apres-32-ans-d-existence-ce-service-c-etait-une-famille",
-   "summary": "La maternité de la polyclinique du Beaujolais à Arnas ferme ses portes après trente-deux ans d'activité et des dizaines de milliers de naissances. Ce service historique s'apprête à accueillir ses tout derniers nouveau-nés avant l'arrêt définitif de son activité.",
-   "auto": true,
-   "addedAt": "2026-09-29T05:15:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents l'impact émotionnel et logistique de la fermeture des structures de proximité sur leur projet de naissance.",
-    "Être attentive au sentiment de perte de repères que peuvent ressentir les familles face à la modification de l'offre de soins locale.",
-    "Rappeler que le choix du lieu d'accouchement relève exclusivement de l'équipe médicale et des structures hospitalières disponibles."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b9bc33d57bbd",
-   "category": "soc",
-   "priority": false,
-   "title": "Semaine de l’allaitement maternel : « Un tremplin pour la vie : soutenir et renforcer ce qui fonctionne »",
-   "source": "paris.fr",
-   "date": "29 septembre 2026",
-   "sortDate": "2026-09-29",
-   "url": "https://www.paris.fr/evenements/semaine-de-l-allaitement-maternel-un-tremplin-pour-la-vie-soutenir-et-renforcer-ce-qui-fonctionne-125067",
-   "summary": "La Ville de Paris organise des événements dans le cadre de la Semaine mondiale de l'allaitement maternel pour informer et soutenir les familles. Des ateliers et des espaces d'échange sont proposés pour accompagner le libre choix des parents dans un cadre convivial.",
-   "auto": true,
-   "addedAt": "2026-09-30T05:16:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Fournit des ressources locales concrètes à recommander aux parents qui s'interrogent sur l'allaitement.",
-    "Permet d'ouvrir le dialogue avec bienveillance sur les choix d'alimentation du nourrisson, sans aucune injonction.",
-    "Rappelle que le rôle de la doula est d'offrir un espace d'écoute et d'information pratique, en complément des réseaux de soutien institutionnels."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e23a7a7b604e",
-   "category": "soc",
-   "priority": false,
-   "title": "Bourg-en-Bresse. Allaitement : le mouvement “J’ai faim, je mange” est lancé",
-   "source": "Le Progrès",
-   "date": "29 septembre 2026",
-   "sortDate": "2026-09-29",
-   "url": "https://www.leprogres.fr/sante/2026/09/29/allaitement-le-mouvement-j-ai-faim-je-mange-est-lance",
-   "summary": "Un rassemblement de mamans, de bébés et de papas a eu lieu à Bourg-en-Bresse dans le cadre du mouvement autour de l'allaitement. L'événement a été organisé avec le soutien d'une photographe de maternité qui exerce également comme doula.",
-   "auto": true,
-   "addedAt": "2026-09-30T05:16:42+00:00",
-   "pageRead": true,
-   "points": [
-    "S'inspirer de ces initiatives locales pour encourager la création d'espaces de parole bienveillants autour de l'allaitement et du soutien aux jeunes parents.",
-    "Valoriser l'importance de l'inclusion des pères dans les temps d'échange sur l'arrivée de l'enfant.",
-    "Maintenir une posture d'accompagnement émotionnel et communautaire sans se substituer aux professionnels de santé en cas de difficultés techniques d'allaitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2dab97e5e7a5",
-   "category": "soc",
-   "priority": false,
-   "title": "« C’était magique » : soignante dans la maternité d’Arnas, elle est la dernière maman à y accoucher avant sa fermeture",
-   "source": "Le Progrès",
-   "date": "28 septembre 2026",
-   "sortDate": "2026-09-28",
-   "url": "https://www.leprogres.fr/sante/2026/09/28/c-etait-magique-soignante-dans-la-maternite-d-arnas-elle-est-la-derniere-maman-a-y-accoucher-avant-sa-fermeture",
-   "summary": "Une salariée de la maternité de la polyclinique du Beaujolais a donné naissance au tout dernier bébé de l'établissement avant sa fermeture définitive. Cet événement marque symboliquement la fin de trente-deux ans d'histoire pour ce service de soins.",
-   "auto": true,
-   "addedAt": "2026-09-29T05:15:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute bienveillant aux parents attachés à leur maternité de proximité qui ferment leurs portes.",
-    "Accueillir les émotions ambivalentes des familles confrontées à des bouleversements dans les structures de naissance locales.",
-    "Laisser l'équipe médicale gérer les aspects cliniques de l'accouchement, même dans un contexte de fermeture de service."
    ],
    "summaryAI": true,
    "enriched": true
