@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T05:23:18+00:00",
+ "updatedAt": "2026-10-19T05:29:00+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "24 page(s) d'articles lue(s)",
-  "IA : 24 article(s) résumé(s) et commenté(s)"
+  "21 page(s) d'articles lue(s)",
+  "IA : 16 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -115,7 +115,9 @@
   "a-14caad876861": "2026-10-08",
   "a-499f40a526a4": "2026-10-08",
   "a-2f27f9c073fd": "2026-10-08",
-  "a-bce9674ba3a2": "2026-10-17"
+  "a-bce9674ba3a2": "2026-10-17",
+  "a-8690367b5b24": "2026-10-18",
+  "a-d8c6c858cafd": "2026-10-09"
  },
  "articles": [
   {
@@ -496,6 +498,27 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-460497df248f",
+   "category": "sci",
+   "priority": false,
+   "title": "Montélimar. Octobre Rose : une sensibilisation à l’allaitement au sein de l’hôpital montilien",
+   "source": "Le Dauphiné Libéré",
+   "date": "18 octobre 2026",
+   "sortDate": "2026-10-18",
+   "url": "https://www.ledauphine.com/sante/2026/10/18/octobre-rose-une-sensibilisation-a-l-allaitement-au-sein-de-l-hopital-montilien",
+   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, des professionnels de santé et des associations se sont mobilisés dans un hôpital pour informer et soutenir les futures mères. Les données chiffrées de Santé publique France montrent une baisse significative du taux d'allaitement entre la naissance et deux mois de vie.",
+   "auto": true,
+   "addedAt": "2026-10-19T05:29:00+00:00",
+   "pageRead": true,
+   "points": [
+    "Abordez la baisse fréquente de l'allaitement après les premières semaines pour préparer les parents à anticiper les difficultés potentielles.",
+    "Orientez les mères vers les associations locales de soutien par les pairs pour briser l'isolement face aux défis de l'allaitement.",
+    "Restez dans votre rôle de soutien pratique et émotionnel en évitant tout conseil médical sur la lactation ou la prise de poids du nourrisson."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -979,6 +1002,69 @@
    "enriched": true
   },
   {
+   "id": "a-94c261b25932",
+   "category": "sci",
+   "priority": false,
+   "title": "Côte d’Ivoire-AIP/ Les sages-femmes de Toulepleu lancent une campagne de sensibilisation contre les cancers du sein et du col de l’utérus - AIP - Agence Ivoirienne de Presse",
+   "source": "AIP - Agence Ivoirienne de Presse",
+   "date": "10 octobre 2026",
+   "sortDate": "2026-10-10",
+   "url": "https://www.aip.ci/cote-divoire-aip-les-sages-femmes-de-toulepleu-lancent-une-campagne-de-sensibilisation-contre-les-cancers-du-sein-et-du-col-de-luterus/",
+   "summary": "L'Association des sages-femmes de Côte d'Ivoire a lancé une campagne de sensibilisation dans le cadre d'Octobre Rose pour promouvoir le dépistage des cancers du sein et du col de l'utérus. Les autorités locales et sanitaires saluent l'action des sages-femmes et invitent les femmes à fréquenter les structures de santé pour s'informer sur leur état de santé.",
+   "auto": true,
+   "addedAt": "2026-10-19T05:29:00+00:00",
+   "pageRead": true,
+   "points": [
+    "Rappelez aux femmes l'importance du suivi gynécologique régulier et des examens de dépistage, même pendant ou après la période périnatale.",
+    "Encouragez les parents à poser leurs questions de santé globale aux professionnels médicaux compétents lors de leurs consultations.",
+    "Ne réalisez aucun diagnostic ni aucune palpation médicale, votre rôle se limitant à informer sur l'existence des campagnes de prévention."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-5b5d6db0868c",
+   "category": "sci",
+   "priority": false,
+   "title": "Semaine de l’allaitement : des ateliers pour s’informer à la maternité de Beaumont",
+   "source": "La Montagne",
+   "date": "10 octobre 2026",
+   "sortDate": "2026-10-10",
+   "url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/semaine-de-lallaitement-des-ateliers-pour-sinformer-a-la-maternite-de-beaumont_15061380/",
+   "summary": "La maternité de l'Hôpital privé La Châtaigneraie organise des ateliers d'échanges autour de l'allaitement pour informer, accompagner et rassurer les futurs et jeunes parents. Ces temps de partage ouverts aux bébés permettent aux mères de poser leurs questions et de bénéficier de conseils professionnels dans un cadre convivial.",
+   "auto": true,
+   "addedAt": "2026-10-19T05:29:00+00:00",
+   "pageRead": true,
+   "points": [
+    "Encourage les parents à participer aux réunions d'information en maternité pour tisser un réseau et verbaliser leurs doutes en amont.",
+    "Utilise ces espaces collectifs comme source d'inspiration pour nourrir ton écoute bienveillante sur les questionnements fréquents du post-partum.",
+    "Oriente systématiquement les questions d'ordre clinique ou les difficultés physiologiques d'allaitement vers les sages-femmes ou les consultantes en lactation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-f6093de10a13",
+   "category": "sci",
+   "priority": false,
+   "title": "Vandœuvre-lès-Nancy. Une journée consacrée à l’allaitement maternel",
+   "source": "L'Est Républicain",
+   "date": "10 octobre 2026",
+   "sortDate": "2026-10-10",
+   "url": "https://www.estrepublicain.fr/sante/2026/10/10/une-journee-consacree-a-l-allaitement-maternel",
+   "summary": "Une journée dédiée à l'allaitement maternel est organisée afin de rappeler que ce mode d'alimentation constitue une source nutritionnelle de premier plan pour le nourrisson. L'événement s'inscrit dans le cadre d'une manifestation existant depuis le début des années 1990 pour promouvoir les atouts du lait maternel.",
+   "auto": true,
+   "addedAt": "2026-10-19T05:29:00+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux valoriser le choix de l'allaitement en informant de manière neutre sur ses spécificités, tout en restant dans une posture de soutien inconditionnel du projet des parents.",
+    "Accueille la parole des mères sur leurs choix d'alimentation du nourrisson, qu'elles allaitent ou non, sans émettre de jugement personnel.",
+    "Rappelle que toute question médicale liée à la nutrition du nouveau-né doit être abordée avec le pédiatre ou la sage-femme."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-9b4777547e0d",
    "category": "sci",
    "priority": false,
@@ -1246,6 +1332,27 @@
     "Orienter les parents vers ces événements locaux pour qu'ils rencontrent des professionnels et d'autres familles.",
     "Utiliser cette actualité pour rappeler aux parents les ressources disponibles en matière de soutien à l'allaitement.",
     "Rappeler que l'information médicale et technique sur l'allaitement relève des professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-645c9ac4b7a0",
+   "category": "sci",
+   "priority": false,
+   "title": "Analyse de sang pour les nouvelles mères : guide des examens post-partum",
+   "source": "Kantesti AI Blood Test Analyzer",
+   "date": "5 octobre 2026",
+   "sortDate": "2026-10-05",
+   "url": "https://www.kantesti.net/fr/analyses-de-prise-de-sang-pour-les-nouvelles-meres-apres-laccouchement/",
+   "summary": "Un guide médical détaille les examens biologiques pertinents pour identifier les causes physiologiques de la fatigue post-partum, tels que la numération formule sanguine, la ferritine ou le bilan thyroïdien. L'auteur insiste sur le fait que le suivi post-partum doit être individualisé et s'étaler dans le temps pour s'adapter aux besoins spécifiques de chaque mère. Ces analyses permettent d'objectiver l'impact des pertes sanguines, de l'allaitement ou du manque de sommeil sur l'organisme.",
+   "auto": true,
+   "addedAt": "2026-10-19T05:29:00+00:00",
+   "pageRead": true,
+   "points": [
+    "Aidez les parents à identifier les signes de fatigue intense qui méritent une attention médicale approfondie.",
+    "Soutenez l'importance d'un suivi postnatal prolongé et encouragez les mères à consulter pour leurs symptômes physiques.",
+    "Ne posez aucun diagnostic et renvoyez systématiquement vers un médecin ou une sage-femme pour toute prescription ou analyse de sang."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1641,111 +1748,6 @@
     "Garder à l'esprit que les situations médicales complexes, telles que le VIH, nécessitent un suivi par des équipes spécialisées.",
     "Accueillir la parole des parents sans jugement, tout en s'abstenant de donner des avis médicaux sur les risques de transmission.",
     "S'informer sur les ressources spécialisées existantes pour orienter adéquatement les parents concernés vers le corps médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b51a74f2820f",
-   "category": "sci",
-   "priority": false,
-   "title": "Après l'accouchement, les mères ayant souffert de diabète gestationnel doivent se souvenir de 4 choses.",
-   "source": "Vietnam.vn",
-   "date": "27 septembre 2026",
-   "sortDate": "2026-09-27",
-   "url": "https://www.vietnam.vn/fr/sau-sinh-me-tung-tieu-duong-thai-ky-can-nho-4-dieu",
-   "summary": "Les mères ayant connu un diabète gestationnel présentent un risque accru de développer ultérieurement un diabète de type 2, mais l'allaitement maternel ainsi qu'une bonne hygiène de vie peuvent contribuer à réduire cette probabilité. L'allaitement offre également des bénéfices pour le microbiote et la santé future de l'enfant, qui reste exposé à des risques métaboliques. Un dépistage glycémique est recommandé entre quatre et douze semaines après la naissance pour surveiller la santé de la mère.",
-   "auto": true,
-   "addedAt": "2026-09-27T05:14:25+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur l'importance du suivi glycémique postnatal en cas d'antécédent de diabète gestationnel, sans se substituer au corps médical.",
-    "Valoriser les bienfaits de l'allaitement pour la récupération maternelle et la prévention, tout en restant dans une démarche de soutien émotionnel et non injonctif.",
-    "Orienter systématiquement les mères concernées vers leur sage-femme, leur médecin ou un nutritionniste pour la réalisation des examens de dépistage."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b2822b1ae57e",
-   "category": "sci",
-   "priority": false,
-   "title": "Dépression post-partum : cette étude révèle un risque méconnu pour le bébé",
-   "source": "Yahoo Life France",
-   "date": "27 septembre 2026",
-   "sortDate": "2026-09-27",
-   "url": "https://fr.style.yahoo.com/d%C3%A9pression-post-partum-%C3%A9tude-r%C3%A9v%C3%A8le-050000695.html",
-   "summary": "Une vaste étude américaine met en lumière une association significative entre la présence de symptômes dépressifs maternels post-partum et un risque accru de mortalité infantile au cours de la première année. Les auteurs rappellent la fréquence élevée des troubles dépressifs durant la grossesse et le post-partum.",
-   "auto": true,
-   "addedAt": "2026-09-28T05:16:25+00:00",
-   "pageRead": true,
-   "points": [
-    "Être particulièrement vigilante aux signes de détresse psychologique chez les jeunes mères et oser aborder ce sujet en toute bienveillance.",
-    "Disposer d'une liste de professionnels spécialisés vers qui orienter rapidement les parents en cas de suspicion de dépression post-partum.",
-    "Se rappeler qu'en tant que doula, on offre un soutien émotionnel précieux mais qu'aucun diagnostic ou traitement de la dépression ne relève de notre rôle."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-704daea4d147",
-   "category": "sci",
-   "priority": false,
-   "title": "Rétablissement après l'accouchement : ces deux troubles peuvent l’entraver",
-   "source": "Pourquoi Docteur",
-   "date": "27 septembre 2026",
-   "sortDate": "2026-09-27",
-   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/55848-Retablissement-l-accouchement-troubles-l-entraver",
-   "summary": "Des recherches récentes indiquent que la combinaison de douleurs physiques et de symptômes dépressifs après l'accouchement entrave fortement la récupération des mères. Ces difficultés impactent leur capacité à prendre soin d'elles-mêmes, à nourrir leur bébé et à nouer un lien affectif avec lui.",
-   "auto": true,
-   "addedAt": "2026-09-28T05:16:25+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute inconditionnel pour valider la complexité des émotions et des douleurs physiques vécues après la naissance.",
-    "Proposer des pistes pratiques et un soutien physique léger pour soulager le quotidien des jeunes mères et leur permettre de souffler.",
-    "Encourager les parents à consulter des professionnels de santé qualifiés dès que la douleur ou la tristesse devient trop lourde à porter."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-ad3b60146d0a",
-   "category": "sci",
-   "priority": false,
-   "title": "A quelle fréquence faut-il faire l'amour pour tomber enceinte plus vite ? Une étude répond à la question",
-   "source": "Magicmaman",
-   "date": "26 septembre 2026",
-   "sortDate": "2026-09-26",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeW5zMWJyZ0pMbVpGMldYWEFEdWVBMVZPdi1acy1tcWRPSnlDZmFEZ1AyOWJEckR5Ylo4M0VmNXZiUy1ZSDVWQWJKM0pqUXJ4ckNVR2ZlWFlVRWJfN2F0NkZ6RTVOVllmTTFkOFFtNXhsLU0xSXY4eDM4MGxJWEkwRzk0cVhlcloya0d2Ql9XWFdQTnhmYUowQmx2Ymh1T19uUWRSUzhaU0EwMFVDcERIc1dIM3VhQ3YxbEctM1JmQmVMNWN3eTNZRW84RGx6ZjVqWDZJQTJhcGw?oc=5",
-   "summary": "Une étude se penche sur la fréquence des rapports sexuels optimale pour accroître les chances de conception rapide. L'article aborde les aspects physiologiques et statistiques liés à la fertilité.",
-   "auto": true,
-   "addedAt": "2026-10-04T11:02:55+00:00",
-   "pageRead": true,
-   "points": [
-    "Utiliser cette information pour déculpabiliser les couples qui s'interrogent sur la fréquence de leurs rapports lors de projets parentaux.",
-    "Discuter de la gestion du stress et de la pression liés aux calculs de fertilité pour préserver l'intimité du couple.",
-    "Renvoyer vers un professionnel de santé pour toute question médicale approfondie concernant la fertilité ou des difficultés de conception."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-9dc03f6cc4e0",
-   "category": "sci",
-   "priority": false,
-   "title": "Microbiote intestinal du nourrisson : l’importance des premiers aliments",
-   "source": "Presse Santé",
-   "date": "25 septembre 2026",
-   "sortDate": "2026-09-25",
-   "url": "https://www.pressesante.com/microbiote-intestinal-du-nourrisson-limportance-des-premiers-aliments/",
-   "summary": "Une étude récente montre que l'introduction des premiers aliments modifie non seulement la diversité des espèces du microbiote intestinal du nourrisson, mais aussi ses fonctions et ses capacités à transformer les nutriments. L'évolution de ce microbiote est également liée à la durée de l'allaitement et varie selon le mode d'alimentation, tout en confirmant que les recommandations alimentaires générales restent inchangées.",
-   "auto": true,
-   "addedAt": "2026-09-25T05:14:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Vous pouvez aborder la diversification alimentaire avec les parents en soulignant la transition progressive du lait vers de nouveaux nutriments pour le système digestif de leur bébé.",
-    "Rappelez aux parents que les rythmes de développement digestif diffèrent d'un enfant à l'autre, ce qui déculpabilise face aux variations de selles ou d'appétit.",
-    "Précisez bien que ces observations scientifiques ne modifient en rien les recommandations médicales officielles sur l'âge de début de la diversification."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2356,6 +2358,27 @@
    "enriched": true
   },
   {
+   "id": "a-8d9c554d1615",
+   "category": "pol",
+   "priority": false,
+   "title": "Semaine mondiale allaitement maternel : en Vendée, programme et animations",
+   "source": "Conseil départemental de la Vendée",
+   "date": "10 octobre 2026",
+   "sortDate": "2026-10-10",
+   "url": "https://www.vendee.fr/actualite/semaine-mondiale-de-lallaitement-maternel-programme-et-animations-en-vendee",
+   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, le département de la Vendée propose des animations et des ateliers menés en collaboration avec divers professionnels de santé et de la petite enfance. La collectivité met également à disposition des familles des guides pédagogiques abordant des sujets tels que l'alimentation des nourrissons et le temps d'écran, tout en offrant un livre à chaque nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-10-19T05:29:00+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux informer les parents sur les ressources locales gratuites disponibles en Vendée, comme les ateliers de la PMI et des structures partenaires.",
+    "Il est utile de relayer les supports d'information institutionnels pour guider les familles sur la diversification alimentaire et l'éveil du jeune enfant.",
+    "Rappelle aux parents que tu complètes l'offre publique et associative d'accompagnement, sans te substituer aux professionnels médicaux ou de la petite enfance."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-71a1e609b28d",
    "category": "pol",
    "priority": false,
@@ -2396,6 +2419,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-e7ac687c8e74",
+   "category": "pol",
+   "priority": false,
+   "title": "« Comment ça le bébé est là ?! » : Romane a donné naissance à Swann à la maison",
+   "source": "Le Dauphiné Libéré",
+   "date": "9 octobre 2026",
+   "sortDate": "2026-10-09",
+   "url": "https://www.ledauphine.com/societe/2026/10/09/comment-ca-le-bebe-est-la-romane-a-donne-naissance-a-swann-a-la-maison",
+   "summary": "Lundi 5 octobre, Romane, qui attendait son bébé pour le 8, s’est retrouvée bloquée dans sa maison, incapable de bouger. C’est là que son petit ...",
+   "auto": true,
+   "addedAt": "2026-10-19T05:29:00+00:00",
+   "pageRead": true
   },
   {
    "id": "a-7fdba0e97213",
@@ -2962,41 +2999,43 @@
    "enriched": true
   },
   {
-   "id": "a-9277144d0a0c",
-   "category": "pol",
+   "id": "a-95d09b6f63cd",
+   "category": "soc",
    "priority": false,
-   "title": "Congé parental ou reprise du travail : quel choix vous fera vraiment gagner le plus en 2026 ?",
-   "source": "Madmoizelle",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://www.madmoizelle.com/conge-parental-ou-reprise-du-travail-quel-choix-vous-fera-vraiment-gagner-le-plus-en-2026-1778701",
-   "summary": "L'arbitrage financier entre la reprise du travail et le congé parental dépend de nombreux paramètres au-delà de la simple fiche de paie, incluant les frais professionnels évités et les aides revalorisées comme la PreParE. De plus, un nouveau congé supplémentaire de naissance mis en place en 2026 permet à chaque parent de s'arrêter un à deux mois durant la première année avec une indemnisation spécifique.",
+   "title": "Nunavik: 40 ans de sages-femmes inuites, un modèle devenu une référence mondiale",
+   "source": "Sherbrooke.info",
+   "date": "18 octobre 2026",
+   "sortDate": "2026-10-18",
+   "url": "https://www.sherbrooke.info/nouvelles-nationales/nunavik-40-ans-de-sages-femmes-inuites-un-modele-devenu-une-reference-mondiale/",
+   "summary": "Depuis quarante ans, un modèle de centres de natalité dirigés par des sages-femmes s'est développé au Nunavik pour permettre aux femmes inuites d'accoucher au plus près de chez elles et de leur famille. Cette démarche communautaire intègre les savoirs traditionnels à la médecine moderne et s'appuie sur une reconnaissance progressive par les autorités publiques.",
    "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
+   "addedAt": "2026-10-19T05:29:00+00:00",
    "pageRead": true,
    "points": [
-    "Vous pouvez proposer un espace d'écoute bienveillant pour aider les parents à exprimer leurs choix et leurs doutes face à la reprise du travail ou aux différents types de congés.",
-    "Aidez les familles à lister les aspects pratiques et logistiques du post-partum, tout en les orientant vers les organismes officiels pour leurs démarches administratives et financières."
+    "Discutez avec les parents de l'importance de se sentir entourés et de retrouver un environnement culturellement rassurant pour la naissance.",
+    "Valorisez le rôle clé des sages-femmes et des structures de proximité dans le respect du choix des lieux d'accouchement.",
+    "Rappelez que vous soutenez le projet de naissance des parents sans jamais vous substituer au suivi médical assuré par les sages-femmes."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-c0f90bfe8b45",
-   "category": "pol",
+   "id": "a-ffcd3321d92e",
+   "category": "soc",
    "priority": false,
-   "title": "Le bloc et la maternité réouverts depuis vendredi",
-   "source": "Midi Libre",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://www.midilibre.fr/2026/09/30/le-bloc-et-la-maternite-reouverts-depuis-vendredi-13575534.php",
-   "summary": "Le bloc opératoire et la maternité du centre hospitalier Émile-Borel à Saint-Affrique ont rouvert fin septembre 2026 après une fermeture temporaire causée par un incident technique. Cette réouverture est intervenue après la réalisation de prélèvements et la validation des résultats exigée par l'Agence régionale de santé.",
+   "title": "Orange. La maternité accompagne les parents sur le sujet de l’allaitement",
+   "source": "Le Dauphiné Libéré",
+   "date": "18 octobre 2026",
+   "sortDate": "2026-10-18",
+   "url": "https://www.ledauphine.com/sante/2026/10/18/la-maternite-accompagne-les-parents-sur-le-sujet-de-l-allaitement",
+   "summary": "Une maternité hospitalière a organisé une semaine dédiée à l'allaitement maternel comprenant des ateliers pratiques et des temps d'échange avec des professionnels. Cette initiative vise à aider les futurs et jeunes parents à préparer l'arrivée de leur bébé, à choisir le bon matériel et à anticiper les premières difficultés.",
    "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
+   "addedAt": "2026-10-19T05:29:00+00:00",
    "pageRead": true,
    "points": [
-    "Restez informée des ouvertures et fermetures des structures de proximité pour orienter au mieux les parents vers les maternités fonctionnelles de leur secteur.",
-    "Soulignez auprès des parents que la gestion des équipements techniques et des autorisations d'ouverture est du ressort exclusif des autorités médicales et hospitalières."
+    "Encouragez les parents à participer aux ateliers proposés par les maternités pour se préparer concrètement aux premiers jours avec bébé.",
+    "Soutenez l'écoute et l'échange autour du matériel et des appréhensions, en valorisant l'expression des ressentis des parents.",
+    "Laissez aux professionnels de la maternité le soin d'aborder les aspects techniques ou médicaux de l'alimentation infantile."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4209,48 +4248,6 @@
     "Aborder avec les parents la question de l'allaitement en extérieur et la confiance en soi pour nourrir son bébé partout.",
     "Créer ou recommander des espaces de parole et des cercles de mères pour briser l'isolement dans les premiers mois.",
     "Laisser toute sa liberté au choix des parents concernant l'alimentation du nouveau-né sans porter de jugement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-544b58d188ab",
-   "category": "soc",
-   "priority": false,
-   "title": "Centre Oléa, un espace dédié au bien-être et à la périnatalité",
-   "source": "Ville de Saint-Raphaël",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObHhmWDhKOHRhQXdaSmQzWnNyVmlYYVF6dkVyaVFvTlg1NzZ1U0h5aHRabXpldjRXVFhSOTg3TDl4dzQwWXU0czV1RGtCSzlEZGNpRC1yRE9xQ19EUDNZb1VRbTBLcUpvVmtoYkRzSzVpMGd5b1dOcWgwZHBLb0pJSUNNZXhORFJYdDZKcm1kYnZ5WUdrOUZKaW1oNUVBWHJEVTlvTF9BZi1lSGxPNVhmRHVWUkV1cUhGd1JIaW9sdUtSZm9ZTVY3N09xQ0xxc2Y0LTRvcEtWa2FLb043MHhV?oc=5",
-   "summary": "L'ouverture du Centre Oléa offre un nouvel espace physique entièrement consacré au bien-être autour de la périnatalité. Ce type de lieu favorise l'accueil des familles et le développement de ressources locales pour les parents.",
-   "auto": true,
-   "addedAt": "2026-10-11T05:15:31+00:00",
-   "pageRead": true,
-   "points": [
-    "Repérer les structures locales de soutien et de bien-être pour orienter au mieux les parents de la région.",
-    "S'inspirer de cette démarche pour proposer des espaces d'écoute et de relaxation adaptés aux familles.",
-    "Maintenir une posture d'accompagnement global tout en orientant vers des professionnels aux compétences spécifiques pour les soins."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-18d24b9c0170",
-   "category": "soc",
-   "priority": false,
-   "title": "« Un moment magique » : cette maternité de Rennes propose la césarienne participative pour mieux vivre l’accouchement",
-   "source": "Ouest-France",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbk95UEpiWUVuUjkwMFdZT25mMnIzWUl5Y3Y5Y2ZoU1NpZUk1ZlNFSHFOODM0SkZfSkU1ZGItdjM4VE1ORHo3Y0dBekpXU25qbE9Bc2lrSDRQQlJldThMMTdMcGhaQlF2SHJzMkhZRG1TOU9zS1liU2hIS0xqOTgtNzNTQngxSk9iWjdtZGxJQnA3Z3pZOU5PSGRvNkVhbDdiVkdVMGVvZDZlMEFjbW9vUmhJWjBLSjVfWF9WRWZSa1lHVUtFekZNVEgzU3FqQmF6RUZIM0pjS3plRzZJcjNfSXVFN21iXzFhX3J4Uzd3cmpQX01EY0Y2LXZZSU5Pb3haOV9aRVltblZXZlNoUF9mTWhwYmN5QQ?oc=5",
-   "summary": "Une maternité située à Rennes met en place la césarienne participative afin de permettre aux parents de mieux vivre ce mode de naissance. Cette pratique favorise l'implication des familles et transforme l'expérience de l'intervention chirurgicale.",
-   "auto": true,
-   "addedAt": "2026-10-11T05:15:31+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les parents de leurs souhaits et de leurs craintes concernant une éventuelle césarienne pour préparer leur projet de naissance.",
-    "Les encourager à échanger en amont avec l'équipe médicale sur les protocoles de la maternité choisie.",
-    "Reconnaître le rôle central de l'équipe médicale en bloc opératoire, la doula restant une ressource de soutien émotionnel avant et après."
    ],
    "summaryAI": true,
    "enriched": true
