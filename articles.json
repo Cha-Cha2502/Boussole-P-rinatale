@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T05:29:00+00:00",
+ "updatedAt": "2026-10-20T05:27:57+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -14,7 +14,7 @@
  "errors": [],
  "journal": [
   "21 page(s) d'articles lue(s)",
-  "IA : 16 article(s) résumé(s) et commenté(s)"
+  "IA : 21 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -117,7 +117,12 @@
   "a-2f27f9c073fd": "2026-10-08",
   "a-bce9674ba3a2": "2026-10-17",
   "a-8690367b5b24": "2026-10-18",
-  "a-d8c6c858cafd": "2026-10-09"
+  "a-d8c6c858cafd": "2026-10-09",
+  "a-8774e599e2e8": "2026-10-20",
+  "a-544b58d188ab": "2026-10-10",
+  "a-18d24b9c0170": "2026-10-10",
+  "a-e7ac687c8e74": "2026-10-09",
+  "a-e8e74ef3d374": "2026-10-09"
  },
  "articles": [
   {
@@ -498,6 +503,69 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-5cddbe3f7539",
+   "category": "sci",
+   "priority": true,
+   "title": "L’exposition pendant la grossesse à certains phtalates et phénols pourrait être associée à une diminution du QI des enfants à 3 ans",
+   "source": "Inserm – salle de presse",
+   "date": "20 octobre 2026",
+   "sortDate": "2026-10-20",
+   "url": "https://presse.inserm.fr/lexposition-pendant-la-grossesse-a-certains-phtalates-et-phenols-pourrait-etre-associee-a-une-diminution-du-qi-des-enfants-a-3-ans/73531/",
+   "summary": "Une étude menée par l'Inserm met en lumière une association potentielle entre l'exposition des femmes enceintes à certains phtalates et phénols au cours du troisième trimestre de grossesse et une diminution du quotient intellectuel des enfants à l'âge de trois ans. Ces substances chimiques, agissant comme des perturbateurs endocriniens, se retrouvent couramment dans l'environnement et les objets du quotidien, constituant un enjeu majeur de santé publique. Les recherches s'appuient sur le suivi d'une cohorte de mères et d'enfants ainsi que sur des modélisations scientifiques.",
+   "auto": true,
+   "addedAt": "2026-10-20T05:27:57+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux aborder la question des polluants du quotidien et des perturbateurs endocriniens de manière informative, sans culpabiliser les parents sur leurs choix de consommation.",
+    "Il est utile de partager des conseils pratiques simples pour limiter l'exposition, comme aérer régulièrement son logement ou privilégier des contenants alternatifs au plastique.",
+    "Rappelle toujours que la gestion des risques sanitaires et l'évaluation du développement de l'enfant relèvent strictement des professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-646a993f192c",
+   "category": "sci",
+   "priority": false,
+   "title": "Cancer du sein après une grossesse : une piste inattendue se dessine",
+   "source": "Pourquoi Docteur",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56045-Cancer-sein-grossesse-une-piste-inattendue-dessine",
+   "summary": "Des chercheurs s'intéressent au rôle potentiel de la cabergoline, un médicament agissant sur la production de lait, dans la réduction du risque de cancer du sein survenant dans les années suivant une grossesse. Cette piste thérapeutique vise à cibler l'involution mammaire du post-partum, une période où les risques de développer une forme agressive de cancer sont accrus chez les jeunes mères. Les premiers travaux s'appuient sur des expérimentations animales et l'analyse de vastes registres de données de santé.",
+   "auto": true,
+   "addedAt": "2026-10-20T05:27:57+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux rester informée des pistes de recherche concernant la santé des mères dans le post-partum, tout en gardant à l'esprit qu'il s'agit d'études préliminaires.",
+    "Écoute avec bienveillance les mères qui s'interrogent sur les modifications de leur corps après l'allaitement, sans jamais émettre d'avis sur des traitements médicaux.",
+    "Oriente systématiquement les parents vers un médecin ou un gynécologue pour toute question relative au dépistage ou aux risques de pathologies mammaires."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-05634dae9145",
+   "category": "sci",
+   "priority": false,
+   "title": "Des membres de la SOGC plaident pour un meilleur suivi postpartum dans Le Devoir",
+   "source": "SOGC",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://sogc.org/en/content/featured-news/Des-membres-de-la-SOGC-plaident-pour-un-meilleur-suivi-postpartum-dans-Le-Devoir.aspx",
+   "summary": "Des membres de la Société des obstétriciens et gynécologues du Canada (SOGC) soulignent dans la presse la nécessité d'améliorer l'accompagnement et le suivi des parents durant la période post-partum. Cet appel met en lumière l'importance d'une meilleure prise en charge globale après l'arrivée de l'enfant.",
+   "auto": true,
+   "addedAt": "2026-10-20T05:27:57+00:00",
+   "pageRead": true,
+   "points": [
+    "Valoriser l'importance cruciale du soutien émotionnel et pratique auprès des jeunes parents durant les premières semaines post-natales.",
+    "Aider les familles à identifier leurs besoins de soutien à domicile pour traverser plus sereinement le post-partum.",
+    "Reconnaître la complémentarité de l'accompagnement non médical avec les suivis de santé obligatoires."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1691,63 +1759,64 @@
    "enriched": true
   },
   {
-   "id": "a-35405cf93792",
-   "category": "sci",
+   "id": "a-ac4312549ccc",
+   "category": "pol",
    "priority": false,
-   "title": "Les soins kangourous aident les bébés plus petits. Des chercheurs étudient désormais les bébés nés avec un poids normal",
-   "source": "ma-clinique.fr",
-   "date": "28 septembre 2026",
-   "sortDate": "2026-09-28",
-   "url": "https://ma-clinique.fr/les-soins-kangourous-aident-les-bebes-plus-petits-des-chercheurs-etudient-desormais-les-bebes-nes-avec-un-poids-normal",
-   "summary": "Une étude récente évalue les effets de la prolongation du contact peau à peau au-delà de la première heure chez les nouveau-nés pesant normalement à la naissance. Ce contact prolongé vise à soutenir la stabilisation métabolique et thermorégulatrice ainsi que l'initiation de l'allaitement au cours des premiers jours de vie.",
+   "title": "Droits à la retraite : l'effet du congé supplémentaire de naissance",
+   "source": "CFE-CGC",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://www.cfecgc.org/actualites/droits-a-la-retraite-leffet-du-conge-supplementaire-de-naissance",
+   "summary": "Une circulaire de la Caisse nationale d'assurance vieillesse détaille les modalités d'application du congé supplémentaire de naissance mis en place pour les parents à l'issue de leur premier congé lié à l'arrivée de l'enfant. Ce dispositif entraîne une suspension du contrat de travail d'un ou deux mois qui est prise en compte pour l'ouverture des droits à la retraite de base. Sous certaines conditions de durée d'indemnisation, un trimestre assimilé peut ainsi être validé au titre de cette période.",
    "auto": true,
-   "addedAt": "2026-09-28T05:16:25+00:00",
+   "addedAt": "2026-10-20T05:27:57+00:00",
    "pageRead": true,
    "points": [
-    "Valoriser l'importance du contact peau à peau prolongé auprès des parents, même pour les bébés nés à terme avec un poids standard.",
-    "Rappeler aux familles que la période d'adaptation du nouveau-né s'étend sur plusieurs jours, nécessitant un environnement calme et soutenant.",
-    "Laisser l'équipe médicale juger de la stabilité du nouveau-né tout en encourageant les pratiques favorisant le lien précoce."
+    "Tu peux informer les futurs ou jeunes parents de l'existence de ce congé supplémentaire et des dispositions administratives qui s'y rattachent pour leur organisation familiale.",
+    "Invite les couples à se renseigner auprès de leurs employeurs ou des organismes sociaux pour connaître précisément leurs droits et l'impact sur leur carrière.",
+    "Rappelle que tes informations ont un rôle de repérage et d'orientation, et que les démarches juridiques ou administratives doivent être validées auprès des institutions compétentes."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-0567be6887c4",
-   "category": "sci",
+   "id": "a-4f19500d4064",
+   "category": "pol",
    "priority": false,
-   "title": "\"C’est tabou de dire qu’on est triste quand on a un beau bébé\" : en Loir-et-Cher, le travail actif des sages-femmes pour les mamans",
-   "source": "lanouvellerepublique.fr",
-   "date": "28 septembre 2026",
-   "sortDate": "2026-09-28",
-   "url": "https://www.lanouvellerepublique.fr/blois/c-est-tabou-de-dire-qu-on-est-triste-quand-on-a-un-beau-bebe-en-loir-et-cher-le-travail-actif-des-sages-femmes-pour-les-mamans-1790610973",
-   "summary": "Les équipes de la Protection maternelle et infantile rappellent que la dépression post-partum touche une part importante des jeunes mères et représente un risque majeur pour leur santé. Un travail de terrain est mené pour repérer précocement ces situations de fragilité.",
+   "title": "Congé supplémentaire de naissance : comment il ouvre un trimestre pour la retraite",
+   "source": "https://renseignementeconomique.fr/",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://renseignementeconomique.fr/conge-supplementaire-de-naissance-comment-il-ouvre-un-trimestre-pour-la-retraite",
+   "summary": "Depuis juillet 2026, la CNAV permet de valider un trimestre assimilé pour la retraite de base grâce au congé supplémentaire de naissance. Cette validation est conditionnée à une indemnisation d'au moins 58 jours et se limite à un seul trimestre par congé, sans versement de cotisations.",
    "auto": true,
-   "addedAt": "2026-09-29T05:15:30+00:00",
+   "addedAt": "2026-10-20T05:27:57+00:00",
    "pageRead": true,
    "points": [
-    "Sensibiliser les parents dès la période prénatale à l'existence de la dépression post-partum pour banaliser ces difficultés et libérer la parole.",
-    "Connaître les ressources locales de la PMI pour orienter rapidement les familles vers des structures de soutien adaptées en cas de besoin."
+    "Informer les parents sur les impacts administratifs de l'allongement du congé de naissance pour leur future retraite.",
+    "Aider les couples à anticiper les démarches et conditions liées à l'indemnisation de ce congé spécifique.",
+    "Rappeler que ces informations administratives ne remplacent pas une consultation officielle auprès des organismes sociaux."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-a7a62cc2342d",
-   "category": "sci",
+   "id": "a-bf5b653bcee2",
+   "category": "pol",
    "priority": false,
-   "title": "Une étude examine les attitudes des consultant·e·s en lactation quant à l’allaitement en présence de VIH",
-   "source": "CATIE.ca",
-   "date": "28 septembre 2026",
-   "sortDate": "2026-09-28",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcHgtT01Ncm9nT21CNURzSGlYMkw3S3A3N25ReVhrR3liWlBNR3NwVDdxQV84ZHpkTWlXbkhoTFkzTHVQWVNuU2xUSFF1bnRabUY3c1RpVzZxbmpiek5WOVFSU0JVRkhsUkxYeFZmNjFCSlR1RUxKMGo1WTVoUUdDTjA0N3ZoaG9EXzItYkVXVUM2dVRBTmd3TkVCOThPcFVfREszbVhtM21vNEdCSDNUV2pPM3k2RTRpTXRmZkVvZw?oc=5",
-   "summary": "Une étude s'intéresse aux points de vue des consultant·e·s en lactation concernant la pratique de l'allaitement lorsque les mères vivent avec le VIH. Le résumé disponible ne donne pas de détails sur les conclusions ou la méthodologie de l'enquête.",
+   "title": "Jusqu’à 20 maternités du NHS menacées : ce plan choc qui pourrait bouleverser les accouchements en Angleterre",
+   "source": "Homéophyto",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://homeophyto.topsante.com/mere-enfant/chez-le-tout-petit/laccouchement/jusqua-20-maternites-du-nhs-menacees-ce-plan-choc-qui-pourrait-bouleverser-les-accouchements-en-angleterre-70213.html",
+   "summary": "En Angleterre, la fermeture de plusieurs petites maternités est envisagée pour centraliser les naissances dans des structures mieux équipées. Cette réorganisation vise à pallier le manque de personnel médical permanent, dans un contexte d'augmentation des césariennes et de préoccupations autour de la sécurité des soins.",
    "auto": true,
-   "addedAt": "2026-10-11T05:15:31+00:00",
+   "addedAt": "2026-10-20T05:27:57+00:00",
    "pageRead": true,
    "points": [
-    "Garder à l'esprit que les situations médicales complexes, telles que le VIH, nécessitent un suivi par des équipes spécialisées.",
-    "Accueillir la parole des parents sans jugement, tout en s'abstenant de donner des avis médicaux sur les risques de transmission.",
-    "S'informer sur les ressources spécialisées existantes pour orienter adéquatement les parents concernés vers le corps médical."
+    "Discuter avec les parents de l'éloignement possible des structures de naissance et de l'impact logistique sur leur projet.",
+    "Accompagner l'anxiété liée aux modifications de parcours de soins et aux taux croissants d'interventions chirurgicales.",
+    "Soutenir le choix des parents tout en rappelant que la gestion des risques médicaux relève strictement des professionnels de santé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2421,20 +2490,6 @@
    "enriched": true
   },
   {
-   "id": "a-e7ac687c8e74",
-   "category": "pol",
-   "priority": false,
-   "title": "« Comment ça le bébé est là ?! » : Romane a donné naissance à Swann à la maison",
-   "source": "Le Dauphiné Libéré",
-   "date": "9 octobre 2026",
-   "sortDate": "2026-10-09",
-   "url": "https://www.ledauphine.com/societe/2026/10/09/comment-ca-le-bebe-est-la-romane-a-donne-naissance-a-swann-a-la-maison",
-   "summary": "Lundi 5 octobre, Romane, qui attendait son bébé pour le 8, s’est retrouvée bloquée dans sa maison, incapable de bouger. C’est là que son petit ...",
-   "auto": true,
-   "addedAt": "2026-10-19T05:29:00+00:00",
-   "pageRead": true
-  },
-  {
    "id": "a-7fdba0e97213",
    "category": "pol",
    "priority": false,
@@ -2958,42 +3013,64 @@
    "enriched": true
   },
   {
-   "id": "a-8652f7cc3d89",
-   "category": "pol",
+   "id": "a-bac3675a6e81",
+   "category": "soc",
    "priority": false,
-   "title": "Maternités : trop nombreuses ou déjà trop rares ?",
-   "source": "Pourquoi Docteur",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/55902-Maternites-deja-trop-rares",
-   "summary": "Un rapport remis au gouvernement indique que les maternités à faible activité mobilisent trop de ressources médicales pour une permanence continue, tandis que les fermetures non coordonnées risquent d'aggraver les déserts médicaux. Pour y remédier, les auteurs suggèrent de transformer certaines petites structures en centres de périnatalité sans plateau technique, reliés à des maternités de référence.",
+   "title": "\"J'ai mis mes deux mains et j'ai sorti le bébé\" : avec les sages-femmes au téléphone, il accouche sa femme la nuit sur le périphérique",
+   "source": "Centre Presse Aveyron",
+   "date": "20 octobre 2026",
+   "sortDate": "2026-10-20",
+   "url": "https://www.centrepresseaveyron.fr/2026/10/20/jai-mis-mes-deux-mains-et-jai-sorti-le-bebe-avec-les-sages-femmes-au-telephone-il-accouche-sa-femme-la-nuit-sur-le-peripherique-13609993.php",
+   "summary": "Un couple a traversé une situation d'urgence inattendue lorsqu'un accouchement a débuté sur la route menant à la maternité, contraignant le conjoint à faire naître le bébé guidé par les instructions téléphoniques des sages-femmes. L'intervention rapide des secours arrivés peu après a permis de prendre le relais pour acheminer la mère et l'enfant en toute sécurité vers l'établissement de soins. Cet événement témoigne de la force imprévisible du travail et de la réactivité des parents face à l'urgence.",
    "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
+   "addedAt": "2026-10-20T05:27:57+00:00",
    "pageRead": true,
    "points": [
-    "Aider les parents à se repérer dans l'offre de soins locale et à identifier les maternités de référence qui assureront leur suivi.",
-    "Offrir un espace de parole sécurisant pour que les futurs parents expriment leurs craintes liées à l'éloignement des lieux d'accouchement.",
-    "Rediriger les questions relatives aux choix des structures de naissance et à la sécurité médicale vers les sages-femmes et les médecins référents."
+    "Ce récit peut servir de support pour rassurer les parents sur leur capacité à faire face à l'imprévu grâce au soutien téléphonique des services d'urgence et des sages-femmes.",
+    "Tu peux rappeler aux couples que les projets de naissance peuvent parfois être bousculés par la physiologie, ce qui rend l'écoute des professionnels indispensables en cas de départ précipité.",
+    "Insiste bien sur le fait qu'en cas d'urgence médicale ou d'accouchement imminent hors structure, les doulas ne se substituent jamais aux régulateurs médicaux et aux sages-femmes joignables par téléphone."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-4066706f9a73",
-   "category": "pol",
+   "id": "a-bc510fd7ec38",
+   "category": "soc",
    "priority": false,
-   "title": "Maternités : de nouvelles fermetures en perspective",
-   "source": "ma-sante.news",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://ma-sante.news/maternites-france-rapport-preconise-reduire-nombre/",
-   "summary": "Un rapport gouvernemental publié en septembre 2026 suggère de réorganiser la carte des maternités en France en raison de la baisse de la natalité et du manque de personnel soignant. Cette mesure vise à garantir la sécurité des accouchements, tout en évitant d'éloigner excessivement les futures mères de leur lieu de naissance.",
+   "title": "\"La tête du bébé était en train de sortir\", elle accouche toute seule sur une bande d'arrêt d'urgence, l'histoire se termine bien",
+   "source": "France 3 Régions",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/temoignage-la-tete-du-bebe-etait-en-train-de-sortir-elle-accouche-toute-seule-sur-une-bande-d-arret-d-urgence-l-histoire-se-termine-bien-3435597.html",
+   "summary": "Un couple a dû faire face à un accouchement imprévu en pleine nuit sur la bande d'arrêt d'urgence d'une voie rapide, guidé à distance par des sages-femmes par téléphone. Grâce à cette assistance rapide, la mère et le nouveau-né se portent bien malgré la surprise de la situation.",
    "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
+   "addedAt": "2026-10-20T05:27:57+00:00",
    "pageRead": true,
    "points": [
-    "Vous pouvez échanger avec les parents sur leurs inquiétudes face à l'éloignement potentiel des structures de naissance et les accompagner dans la préparation de leur trajet vers la maternité.",
-    "Rappelez aux familles que les décisions concernant la sécurité médicale et le maintien des plateaux techniques relèvent strictement des équipes de santé et des autorités de tutelle."
+    "Aborder avec les parents la question des naissances inattendues et le rôle crucial des secours téléphoniques en cas d'urgence sur la route.",
+    "Offrir un espace d'écoute pour les parents ayant vécu un accouchement rapide ou atypique, souvent source de fortes émotions.",
+    "Rappeler que face à une expulsion imminente hors d'une structure médicale, contacter immédiatement les services d'urgence reste la priorité absolue."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-d7ae697e500a",
+   "category": "soc",
+   "priority": false,
+   "title": "Allaitement à La Réunion : reconnue par l’État, bannie par le CHU, le cri du cœur d’Ericka Moimba de l’association Sœur de Lait",
+   "source": "Free Dom",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://freedom.fr/allaitement-a-la-reunion-reconnue-par-letat-bannie-par-le-chu-le-cri-du-coeur-dericka-moimba-de-lassociation-soeur-de-lait/",
+   "summary": "À La Réunion, une association reconnue par l'État pour son travail en faveur de l'allaitement maternel se heurte aux difficultés d'accès aux services hospitaliers locaux. Ce contraste met en évidence les obstacles rencontrés par les acteurs de terrain malgré une validation institutionnelle de leurs compétences.",
+   "auto": true,
+   "addedAt": "2026-10-20T05:27:57+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir les parents dans leur projet d'allaitement en valorisant les ressources associatives locales disponibles.",
+    "Offrir une écoute bienveillante sur les difficultés et les pressions que peuvent ressentir les mères autour de l'alimentation de leur nourrisson.",
+    "Éviter de s'immiscer dans les protocoles hospitaliers tout en informant les familles sur leurs droits en matière de soutien à l'allaitement."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4185,69 +4262,6 @@
     "Discutez avec les mères de la question de l'allaitement en extérieur et de la confiance en elles pour nourrir leur bébé partout.",
     "Informez les parents sur l'existence d'événements locaux et de groupes de soutien favorisant le partage d'expériences autour de l'allaitement.",
     "Soutenez le choix de chaque parent concernant l'alimentation de son enfant, qu'il s'agisse d'allaiter en public ou non, sans jamais juger leurs décisions."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b83c0c9c28bb",
-   "category": "soc",
-   "priority": false,
-   "title": "Allaitement : Justine veut aider les mamans à vivre sereinement leur parcours dans le pays de Châteaubriant",
-   "source": "Actu.fr",
-   "date": "11 octobre 2026",
-   "sortDate": "2026-10-11",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNV3F1dUx1ZkRXV0gtWjBGcFlQdUVhT05jWHlZUzN3eGFpMU5qaE5GOXJHLUp4TW42d0lJVC0xQkRiZXdzcmVkZXFLeWp4YWxGUFdzRVplNnFPcjFQOHRncXh5TTJrc2VqMktveGU5OS1UUk5BYVRWZ2xnemtrTTZNSmhuQXFMT1VJZ3ZMM0FmUG9aNWwwZHZhdXlHcGI0MkV0QU1TcXhSOEtqRURORDRHWXhzSkpRYV82WHlkTnZSMzZ3NFExNi1SUFREaWY1bTRmeFctdURNRGIySC03TU1uQkxacWhRY2pwbXVKcGxqaU4yd3RHaF9DanlNbw?oc=5",
-   "summary": "Une intervenante propose un accompagnement autour de l'allaitement dans la région de Châteaubriant afin d'aider les mères à vivre cette période plus sereinement. L'objectif est d'offrir un espace d'écoute et de soutien pour dédramatiser les difficultés rencontrées.",
-   "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Proposez un espace d'écoute sécurisant pour permettre aux mères d'exprimer leurs doutes et leurs difficultés concernant l'alimentation de leur nouveau-né.",
-    "Valorisez les initiatives locales d'accompagnement pour aider les parents à rompre l'isolement dans les premiers mois.",
-    "Orientez systématiquement vers des professionnels de santé qualifiés en lactation (comme des consultantes IBCLC ou des sages-femmes) dès qu'un problème médical ou technique d'allaitement survient."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e861844c8be6",
-   "category": "soc",
-   "priority": false,
-   "title": "Semaine mondiale de l’allaitement : « Parents, nous pouvons vous aider »",
-   "source": "Courrier picard",
-   "date": "11 octobre 2026",
-   "sortDate": "2026-10-11",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTdteGNxU1RxQ0tZQ1BCZG1zMkZ4OExlb2Z2VEtMV3oweG9BV1VpRW9yNUd2NUJIYWtmYy1uQ3BJNS1IZExRcWpOLWdvU0NwVHY1S05oZ0NwcEtieE9NYWZhUTVSbDk0SXI5TEhYSGNNUk5kNVUycURkcGlHeG5oRWFDdkFDU2txLUdReGRGTjNpWUUwMmItYTNRR1hReHRHaDl0aUkySnhtTE5wLUN6d05WenQ3b2Qwc2pJSzU5SHY?oc=5",
-   "summary": "À l'occasion de la Semaine mondiale de l'allaitement, des professionnels et acteurs de terrain rappellent l'importance du soutien apporté aux parents. L'initiative vise à valoriser l'accompagnement autour de cette pratique et à offrir une écoute adaptée aux familles.",
-   "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
-   "pageRead": true,
-   "points": [
-    "S'appuyer sur cet événement pour ouvrir le dialogue avec les parents sur leurs projets d'alimentation et leurs éventuelles craintes.",
-    "R rappeler aux familles que l'accompagnement émotionnel et pratique est précieux pour vivre l'allaitement sereinement.",
-    "Orienter vers des professionnels de santé ou des associations spécialisées en cas de difficultés médicales."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d0c6f4872d2b",
-   "category": "soc",
-   "priority": false,
-   "title": "A Chartres, une vingtaine de mères donnent le sein en même temps pour promouvoir l'allaitement",
-   "source": "L’Écho Républicain",
-   "date": "11 octobre 2026",
-   "sortDate": "2026-10-11",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcnNNZ3BjN1hlZEVqc3Y2aDZzMWd5a1RmZFh6WGNab2NPN3hMamlDbkMtQkttaGZ6dWtFcmI0aHJOeHl6SlpaRFZ5OVhKa3NiRy1POVVMdFFMZUNISzV3Y0xzT2g2d2oxZGhDQ29RaGljRE9FNzV3aS1IRDhIWURtV3N1cW9tdFc2OEE2OFVqckdsUWdsZEVWVmlDeDdDZmE1aktMeGFHMHVzMG9RM2luLUtyWi1hcUNzLUg2T29NdUdJTmpfLVBLdTd2MEZidmdCZW9ZMzZjdmJKSjVzQzlTa0lDRThhbzN6YlJvMk9wdEppT1E?oc=5",
-   "summary": "Plusieurs mères se sont réunies à Chartres pour allaiter ensemble en public afin de promouvoir cette pratique. Cet événement vise à normaliser l'allaitement dans l'espace public et à créer un espace de soutien et de partage entre femmes.",
-   "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents la question de l'allaitement en extérieur et la confiance en soi pour nourrir son bébé partout.",
-    "Créer ou recommander des espaces de parole et des cercles de mères pour briser l'isolement dans les premiers mois.",
-    "Laisser toute sa liberté au choix des parents concernant l'alimentation du nouveau-né sans porter de jugement."
    ],
    "summaryAI": true,
    "enriched": true
