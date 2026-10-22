@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T05:28:09+00:00",
+ "updatedAt": "2026-10-22T05:28:42+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "21 page(s) d'articles lue(s)",
-  "IA : 21 article(s) résumé(s) et commenté(s)"
+  "31 page(s) d'articles lue(s)",
+  "IA : 31 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -127,7 +127,14 @@
   "a-f2b7ff2faffc": "2026-10-20",
   "a-0ad6989d0d2e": "2026-10-17",
   "a-2c6f7cb9e477": "2026-10-14",
-  "a-e861844c8be6": "2026-10-11"
+  "a-e861844c8be6": "2026-10-11",
+  "a-d72595d09c39": "2026-10-21",
+  "a-b1635e7a1672": "2026-10-21",
+  "a-cc2f7439aeae": "2026-10-21",
+  "a-368fac7d71f9": "2026-10-21",
+  "a-c47fc7eecb3f": "2026-10-12",
+  "a-26035126ac8e": "2026-10-11",
+  "a-1ad586461b4c": "2026-10-11"
  },
  "articles": [
   {
@@ -508,6 +515,171 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-2a9aab4fbc00",
+   "category": "sci",
+   "priority": false,
+   "title": "Psychose post-partum : des signaux d’alerte trop souvent négligés",
+   "source": "Pourquoi Docteur",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56082-Psychose-post-partum-signaux-d-alerte-souvent-negliges",
+   "summary": "Une étude met en lumière les difficultés rencontrées par des femmes souffrant de psychose post-partum pour obtenir une prise en charge médicale adaptée et rapide. Leurs symptômes graves, tels que des hallucinations ou des troubles du sommeil majeurs, sont fréquemment minimisés ou confondus avec de simples fatigues ou anxiétés. Les données soulignent la nécessité d'une meilleure reconnaissance des signaux d'alerte afin de protéger les mères et leurs familles.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Être particulièrement vigilante aux signes de fatigue extrême combinés à des troubles du comportement ou de la perception chez les jeunes mères.",
+    "Sensibiliser l'entourage à repérer les changements inhabituels pour aider à briser l'isolement des femmes en souffrance.",
+    "Ne jamais banaliser une souffrance psychique intense en post-partum et orienter immédiatement vers un professionnel de santé ou les urgences psychiatriques si nécessaire."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c6ff81e9f208",
+   "category": "sci",
+   "priority": false,
+   "title": "Traiter la dépression pendant la grossesse a aussi des effets positifs sur le cerveau du bébé, selon une étude",
+   "source": "Parents.fr",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.parents.fr/actualites/grossesse/traiter-la-depression-pendant-la-grossesse-a-des-effets-positifs-sur-le-cerveau-du-bebe-selon-une-etude-1158422",
+   "summary": "Une étude s'est penchée sur l'impact d'une prise en charge de la dépression durant la grossesse, via notamment une psychothérapie, sur le développement cérébral des bébés. Les résultats montrent des différences de volume au niveau de l'hippocampe chez les nourrissons dont les mères ont bénéficié de ce soutien, illustrant les liens entre la santé mentale maternelle et le développement infantile précoce. Les auteurs soulignent que ces variations structurales ne signifient pas un moins bon développement, mais invitent à poursuivre les recherches.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir l'importance de prendre soin de la santé mentale dès la grossesse en normalisant le recours à un accompagnement psychologique.",
+    "Rassurer les parents sur le fait qu'un suivi thérapeutique prénatal profite globalement au bien-être de la dyade parent-bébé, sans poser de diagnostic clinique.",
+    "Laisser aux professionnels de santé le soin d'évaluer les traitements et les prises en charge médicales ou thérapeutiques adaptés à la dépression."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-5e789b707392",
+   "category": "sci",
+   "priority": false,
+   "title": "Grossesse : ces polluants présents dans notre quotidien pourraient être associés à une baisse du QI des enfants",
+   "source": "Parents.fr",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.parents.fr/actualites/grossesse/grossesse-ces-polluants-presents-dans-notre-quotidien-pourraient-etre-associes-a-une-baisse-du-qi-des-enfants-1158416",
+   "summary": "Une étude récente suggère qu'une exposition à certains phtalates et bisphénols pendant le troisième trimestre de grossesse pourrait être associée à une baisse du QI chez les enfants de 3 ans. Ces substances chimiques, agissant comme des perturbateurs endocriniens, se trouvent couramment dans les plastiques, les cosmétiques et divers produits du quotidien. Les chercheurs soulignent ainsi l'importance d'étudier les liens entre l'environnement chimique et le développement cognitif des jeunes enfants.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents avec bienveillance sur la présence de polluants dans les objets du quotidien sans créer de sentiment de culpabilité.",
+    "Suggérer des pistes simples pour réduire l'exposition, comme limiter certains plastiques ou cosmétiques, tout en rappelant qu'il ne s'agit pas d'un avis médical.",
+    "Laisser aux professionnels de santé le soin d'aborder les aspects cliniques de l'exposition aux substances toxiques durant la grossesse."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ef38a9b9590a",
+   "category": "sci",
+   "priority": false,
+   "title": "Hépatite B, retarder le vaccin après la naissance inquiète les médecins",
+   "source": "24matins",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.24matins.fr/hepatite-b-retarder-le-vaccin-apres-la-naissance-inquiete-les-medecins-1422745",
+   "summary": "Une étude américaine modélise l'impact d'un report de la vaccination contre l'hépatite B chez les nouveau-nés et suggère qu'une telle pratique augmenterait significativement les infections chroniques. Alors que certaines institutions recommandent ou discutent d'une flexibilité du calendrier vaccinal selon le profil de la mère, d'autres sociétés savantes plaident pour une première injection dès les premières heures de vie. L'enjeu réside dans le fait qu'un nourrisson infecté très tôt présente un risque accru de développer une forme chronique de la maladie.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Écouter les questionnements des parents sur les calendriers vaccinaux et les orienter vers les professionnels de santé habilités pour toute décision médicale.",
+    "Ne formuler aucun conseil ni avis sur le choix de vacciner ou de retarder un vaccin, le rôle de la doula se limitant à un soutien émotionnel et informationnel neutre.",
+    "Rediriger les familles vers leurs pédiptres ou sages-femmes pour obtenir des informations factuelles sur les recommandations officielles de vaccination."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-6669d7e8968e",
+   "category": "sci",
+   "priority": false,
+   "title": "Accouchements plus sûrs",
+   "source": "République Togolaise",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.republicoftogo.com/toutes-les-rubriques/sante/accouchements-plus-surs",
+   "summary": "L'Organisation mondiale de la santé et le ministère de la Santé du Togo ont lancé un programme de formation destiné aux professionnels de la naissance dans la région Maritime. Cette initiative vise à actualiser les connaissances des sages-femmes, gynécologues et pédiatres pour améliorer la qualité des soins obstétricaux et néonatals. L'objectif principal est de réduire les décès maternels et néonatals évitables en renforçant les compétences pratiques au plus près des communautés.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux t'appuyer sur cette actualité pour rappeler aux parents que la formation continue des équipes médicales est un gage de sécurité lors de l'accouchement.",
+    "Garde en tête que la formation des professionnels concerne le soin médical et l'urgence obstétricale, un domaine qui ne relève pas de ton rôle de soutien non médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-1c73552a972b",
+   "category": "sci",
+   "priority": false,
+   "title": "Le ministère de la Santé lance la campagne nationale de promotion de l'allaitement maternel",
+   "source": "Telquel.ma",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://mobile.telquel.ma/instant-t/2026/10/21/le-ministere-de-la-sante-lance-la-campagne-nationale-de-promotion-de-lallaitement-maternel_2014166/",
+   "summary": "Le ministère de la Santé marocain, en partenariat avec l'INDH, lance la seizième édition de la campagne nationale de promotion de l'allaitement maternel axée sur l'allaitement exclusif pendant les six premiers mois. Cette initiative s'inscrit dans une stratégie globale de valorisation du capital humain durant les mille premiers jours de l'enfant et s'appuie sur des activités de sensibilisation communautaire. Le dispositif prévoit également de renforcer l'initiative des hôpitaux amis des enfants et d'encadrer la commercialisation des substituts du lait maternel.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux aborder ces recommandations officielles avec les futurs parents pour les informer des bienfaits de l'allaitement exclusif et des repères des mille premiers jours.",
+    "Soutiens le projet d'allaitement des parents avec écoute et bienveillance, tout en évitant toute injonction culpabilisante et en les orientant vers des professionnels qualifiés en cas de difficultés techniques ou médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-5151046d9389",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement maternel : le Maroc lance sa 16e campagne nationale",
+   "source": "Lebrief",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.lebrief.ma/allaitement-maternel-le-maroc-lance-sa-16e-campagne-nationale-100170617/",
+   "summary": "Le Maroc organise sa seizième campagne nationale pour encourager l'allaitement maternel exclusif durant les six premiers mois de la vie de l'enfant. Cette action s'intègre dans les politiques de santé publique visant à améliorer la santé de la mère et de l'enfant et à prévenir la malnutrition. Le programme mobilise les professionnels de santé et les acteurs communautaires pour diffuser les recommandations de l'Organisation mondiale de la santé concernant l'initiation précoce et la durée de l'allaitement.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Inspire-toi de ces campagnes de santé publique pour rassurer les mères sur l'importance du démarrage précoce de l'allaitement et sur le rythme des premiers mois.",
+    "Rappelle aux parents que ton rôle d'accompagnante est de les soutenir dans leur choix éclairé, sans jamais te substituer aux professionnels de santé habilités à suivre la croissance et l'alimentation médicale du nourrisson."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-687fa4bd202e",
+   "category": "sci",
+   "priority": false,
+   "title": "Le MSPS lance la 16e campagne nationale de promotion de l’allaitement maternel",
+   "source": "Hespress Français - Actualités du Maroc",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://fr.hespress.com/493391-le-msps-lance-la-16e-campagne-nationale-de-promotion-de-lallaitement-maternel.html",
+   "summary": "Une campagne nationale de promotion de l'allaitement maternel exclusif pendant les six premiers mois est organisée pour souligner son importance dans la santé et le développement de l'enfant. Cette initiative s'inscrit dans les recommandations de l'Organisation mondiale de la santé et les stratégies de santé publique visant les mille premiers jours. Elle rappelle les bienfaits de l'allaitement sur les plans physique, cognitif, affectif et préventif.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser ces recommandations officielles pour informer les parents sur les bienfaits de l'allaitement exclusif durant les six premiers mois sans jamais culpabiliser ceux qui font d'autres choix.",
+    "Offrir un espace d'écoute bienveillant pour aborder les doutes des parents concernant la mise en place de l'allaitement et son retentissement sur le lien affectif.",
+    "R rappeler que la doula soutient le projet d'alimentation choisi par les parents, mais qu'elle doit orienter vers une consultante en lactation ou un médecin en cas de difficultés médicales."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1305,6 +1477,27 @@
    "enriched": true
   },
   {
+   "id": "a-b3b166c3ceb2",
+   "category": "sci",
+   "priority": false,
+   "title": "Semaine de l’allaitement maternel : plusieurs événements",
+   "source": "Radio Mélodie",
+   "date": "9 octobre 2026",
+   "sortDate": "2026-10-09",
+   "url": "https://www.radiomelodie.com/a/flash/19121-semaine-de-lallaitement-maternel-plusieurs-evenements",
+   "summary": "À l'occasion de la semaine mondiale de l'allaitement maternel, des établissements de santé et des structures locales proposent des ateliers et des temps d'information. Le programme inclut des consultations spécialisées, de la réflexologie, du massage bébé et des démonstrations de portage physiologique. Ces initiatives visent à accompagner les jeunes parents et à favoriser le bien-être du nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Relayer auprès des parents les propositions d'ateliers pratiques comme le portage ou le massage pour favoriser le lien avec le bébé.",
+    "Encourager les familles à participer aux permanences et consultations spécialisées des structures hospitalières ou locales.",
+    "S'en tenir à des conseils de confort non médicaux tout en orientant vers les puéricultrices et sages-femmes pour les questions techniques."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-64d00a08e8d7",
    "category": "sci",
    "priority": false,
@@ -1577,188 +1770,85 @@
    "enriched": true
   },
   {
-   "id": "a-a2fc9e331b39",
-   "category": "sci",
+   "id": "a-afd8c9395463",
+   "category": "pol",
    "priority": false,
-   "title": "L’allaitement mieux expliqué aux mamans à travers des groupes de parole animés par des puéricultrices",
-   "source": "La Gazette des Communes",
-   "date": "3 octobre 2026",
-   "sortDate": "2026-10-03",
-   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUFI5QVgyS3FJclB2LVNYaXdmUUhXNWpQRllMQ2ZRNVEtdVJTUm1SaEhXejJQS1k5WUxDR0dGREtLSGpRRGlvSk9uS1gxcEE3REZwTHJvT1MxblZ4WDBzYUNvZTRZRFdhcXc3cDlid2tBM3p4b2FzSmZIQkhXbVNLSGg3Y1pSTllhS3JnNHl5ZUxXdnB4bzd0V3VsSFhYUFZGX1ZUaE5tSW9ac2hTT1dTMkszLW42UTQtVnJHOHo0emtKYVhmNTR0MXFOcU92WWZ2Y0dGNWJ2MldkYVJvWjZtOE9xT01yejBsRFlLaEhmU25ULUo0ejdEbmdvZTFmMGNrRktJbVhEWm1SMnJUYWR3b0c3NU1OVXdFMzNWSC1jZ3pQSkMxVEhILU5lRUJyRUtiNDMzVkI3cWFQaEZlazRDZzhUT2EtVTQweWsxNnFkNk5HXy1oNkVMVXNuNFVtWk0?oc=5",
-   "summary": "Des groupes de parole animés par des puéricultrices sont mis en place pour offrir de meilleures explications aux mères concernant l'allaitement. Ces espaces d'échange visent à informer et à accompagner les femmes dans leur démarche.",
+   "title": "Santé périnatale : le post-partum, angle mort du système de santé",
+   "source": "Presse Agence",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://presseagence.fr/paris-sante-perinatale-le-post-partum-angle-mort-du-systeme-de-sante-francais/",
+   "summary": "Une enquête récente met en évidence une fracture dans le système de santé français en matière de périnatalité, caractérisée par un suivi de grossesse très satisfaisant contrastant avec un délaissement du post-partum. Près d'un tiers des mères rapportent des difficultés majeures après l'accouchement, incluant des problématiques psychologiques et organisationnelles, touchant plus particulièrement les jeunes femmes. Par ailleurs, la proximité des structures de soins devient un critère de choix de plus en plus central pour l'accouchement, notamment en zone rurale.",
    "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
+   "addedAt": "2026-10-22T05:28:42+00:00",
    "pageRead": true,
    "points": [
-    "Tu peux informer les parents de l'existence de ces groupes de parole locaux pour compléter ton soutien émotionnel par du lien social.",
-    "Rappelle aux mères que ces espaces animés par des professionnels de santé offrent un cadre complémentaire à ton accompagnement non médical."
+    "Anticiper dès la grossesse le manque de soutien souvent ressenti après l'accouchement en préparant un réseau de relais locaux avec les parents.",
+    "Offrir un espace d'écoute inconditionnel et bienveillant en post-partum pour pallier l'isolement et libérer la parole sur les difficultés rencontrées.",
+    "Orienter systématiquement vers les professionnels de santé ou les services compétents dès l'apparition de signes de détresse psychologique ou de complications."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-9c5da45cc3a6",
-   "category": "sci",
+   "id": "a-d7f436fdae95",
+   "category": "pol",
    "priority": false,
-   "title": "Les prescriptions post-partum de GLP-1 augmentent fortement chez les femmes américaines",
-   "source": "ma-clinique.fr",
-   "date": "2 octobre 2026",
-   "sortDate": "2026-10-02",
-   "url": "https://ma-clinique.fr/les-prescriptions-post-partum-de-glp-1-augmentent-fortement-chez-les-femmes-americaines",
-   "summary": "Une étude américaine montre une forte augmentation des prescriptions de médicaments GLP-1, tels qu'Ozempic, chez les femmes au cours des six mois suivant l'accouchement entre 2018 et 2025. Cette hausse concerne particulièrement les patientes ayant des antécédents de diabète, de diabète gestationnel ou d'obésité.",
+   "title": "Fermeture de la dernière maternité privée et prix des carburants parmi les infos de la semaine à Pontault-Combault",
+   "source": "La République du Centre",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.larep.fr/pontault-combault-77340/actualites/fermeture-de-la-derniere-maternite-privee-et-prix-des-carburants-parmi-les-infos-de-la-semaine-a-pontault-combault_15067298/",
+   "summary": "La fermeture annoncée de la dernière maternité privée de Seine-et-Marne, située à Pontault-Combault, soulève de nombreuses interrogations locales concernant l'accès aux soins pour les femmes enceintes. Cette situation met en lumière les difficultés d'organisation et l'avenir des services de maternité dans la région. Par ailleurs, des variations sur les prix des carburants dans le département sont également relevées par la presse locale.",
    "auto": true,
-   "addedAt": "2026-10-03T05:14:31+00:00",
+   "addedAt": "2026-10-22T05:28:42+00:00",
    "pageRead": true,
    "points": [
-    "Accueillir la parole des mères qui expriment des préoccupations liées à leur poids ou à leur métabolisme après la naissance sans émettre de jugement.",
-    "Orienter systématiquement les parents vers un médecin ou une sage-femme pour toute question relative aux traitements médicamenteux en post-partum.",
-    "Ne formuler aucun avis ni conseil sur la prise de traitements de perte de poids, qui relèvent exclusivement du champ médical."
+    "Identifier l'anxiété que peut générer l'éloignement des structures de soins pour les parents vivant dans des zones touchées par des fermetures de maternités.",
+    "Aider les familles à anticiper leurs trajets et à identifier les structures de repli en amont de l'accouchement, sans se substituer au corps médical.",
+    "Ne pas intervenir sur les choix de prise en charge hospitalière mais offrir un espace d'écoute pour exprimer les inquiétudes liées à l'organisation des soins."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-65e482f6a1e0",
-   "category": "sci",
+   "id": "a-e68458dcc803",
+   "category": "pol",
    "priority": false,
-   "title": "Post-partum : l'explosion d'Ozempic chez les jeunes mères américaines et ce risque méconnu qui inquiète",
-   "source": "Homéophyto",
-   "date": "2 octobre 2026",
-   "sortDate": "2026-10-02",
-   "url": "https://homeophyto.topsante.com/mere-enfant/le-10eme-mois-de-grossesse-bebe-est-la/post-partum-lexplosion-dozempic-chez-les-jeunes-meres-americaines-et-ce-risque-meconnu-qui-inquiete-69717.html",
-   "summary": "Une étude publiée dans le JAMA met en lumière l'augmentation importante des prescriptions post-partum de traitements contre le diabète et l'obésité aux États-Unis. Ce phénomène soulève des interrogations sur la santé métabolique des mères ainsi que sur les impacts potentiels de ces molécules sur l'allaitement.",
+   "title": "300 accouchements par an, un seul médecin, et plus de maternité : à Longwy, on naîtra au Luxembourg",
+   "source": "Le Courrier des Stratèges",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.lecourrierdesstrateges.fr/300-accouchements-par-an-un-seul-medecin-et-plus-de-maternite-a-longwy-on-naitra-au-luxembourg/",
+   "summary": "La maternité de l'hôpital de Mont-Saint-Martin s'apprête à cesser les accouchements en raison de l'impossibilité de pérenniser une équipe médicale stable, devenant ainsi un simple centre périnatal de proximité. Cette fermeture entraîne le transfert des naissances vers des structures situées au Luxembourg ou en Belgique, tout en menaçant de nombreux postes de soignants. Cette décision illustre les difficultés structurelles de recrutement et la baisse continue de la fréquentation de l'établissement au cours des dernières années.",
    "auto": true,
-   "addedAt": "2026-10-03T05:14:31+00:00",
+   "addedAt": "2026-10-22T05:28:42+00:00",
    "pageRead": true,
    "points": [
-    "Soutenir l'écoute émotionnelle des jeunes mères confrontées à la fatigue et aux changements corporels de la période postnatale.",
-    "Rappeler aux parents que l'évaluation des risques liés aux médicaments pendant l'allaitement appartient exclusivement aux professionnels de santé.",
-    "Maintenir une posture d'information générale sans se prononcer sur l'indication ou l'efficacité de ces thérapies."
+    "Accueillir la charge émotionnelle et le stress des futurs parents confrontés à la modification brutale de leur lieu de naissance prévu.",
+    "Aider les parents à se préparer psychologiquement à un parcours de naissance allongé ou transfrontalier, tout en validant leurs ressentis face à ces incertitudes territoriales.",
+    "Rappeler que la doula ne participe pas à l'organisation sanitaire et orienter les couples vers le réseau de santé ou les sages-femmes pour les aspects logistiques médicaux."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-7a239b301838",
-   "category": "sci",
+   "id": "a-ec3822466dbd",
+   "category": "pol",
    "priority": false,
-   "title": "Allaitement : un temps d’information et d’échange à la",
-   "source": "mairie17.paris.fr",
-   "date": "2 octobre 2026",
-   "sortDate": "2026-10-02",
-   "url": "https://mairie17.paris.fr/pages/allaitement-un-temps-d-information-et-d-echange-a-la-mairie-du-17e-36690",
-   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, une municipalité et les professionnels de la Protection Maternelle et Infantile organisent un temps d'échange et d'information destiné aux futurs et jeunes parents. Cet événement permet aux familles de poser leurs questions et d'obtenir des conseils de prévention en accès direct.",
+   "title": "Fermeture de la dernière maternité privée en Seine‑et‑Marne : quelles conséquences pour l’accès aux soins",
+   "source": "inforadar.fr",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://inforadar.fr/fermeture-de-la-derniere-maternite-privee-en-seine-et-marne-quelles-consequences-pour-l-acces-aux-soins",
+   "summary": "La fermeture de la dernière maternité privée de Seine-et-Marne à Tournan-en-Brie accentue les tensions sur l'offre de soins périnataux et accroît la pression sur les établissements publics de la région. Cette situation complexifie les parcours de soins des femmes enceintes en augmentant les distances à parcourir et les temps de trajet pour les urgences. Les familles se questionnent particulièrement sur les alternatives de suivi et de prise en charge, notamment pour les personnes à mobilité réduite.",
    "auto": true,
-   "addedAt": "2026-10-03T05:14:31+00:00",
+   "addedAt": "2026-10-22T05:28:42+00:00",
    "pageRead": true,
    "points": [
-    "Informez les parents que vous accompagnez sur l'existence des permanences et des ressources locales comme la PMI pour les soutenir dans leur parentalité.",
-    "Encouragez l'accès à l'information pluridisciplinaire pour répondre aux questionnements sur l'alimentation des nourrissons.",
-    "Rappelez que l'accompagnante partage des informations pratiques et de confort, tandis que le suivi médical et l'accompagnement technique de l'allaitement relèvent des professionnels de santé de la PMI."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-1552140623dd",
-   "category": "sci",
-   "priority": false,
-   "title": "Semaine Mondiale de l'allaitement : bien démarrer, bien s'entourer. à (ré)écouter sur Outre-mer La 1ère.",
-   "source": "Outre-mer La 1ère",
-   "date": "2 octobre 2026",
-   "sortDate": "2026-10-02",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQVNxdFhzOEJCUi0yRGY1Zi1oeGNYSDN0WWZGcFdHWUpQQjk1OFppV05YR3hmMGNhY1k1RklpQlF0Z2FtNjFBU3BVZ0tEVV9MQ2JHQnpuLW1TSEI2U1paekx0YTFCN2o0Z0VNSVVLN1pWRGNvb3NmeWd4MWF5UDRpWGxlaC1ZZVZETlJ5YmVsZmp4NFpvVzI0R3dtZnVUMG5xYlhqWVZKa2JkZnBrMlhmY1pxNkJFQ3ZqU3FJel9HSU50eTdzeWlYaDM5aC1wZlZNQzlNTzFsNkhwVmx5eW1Vem80YTgzTTZF?oc=5",
-   "summary": "Une émission radiophonique aborde la Semaine Mondiale de l'Allaitement en insistant sur l'importance d'un bon démarrage et d'un entourage adapté pour les jeunes mères. Le programme propose des clés pour mieux aborder cette période.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les futurs parents de la mise en place de l'allaitement et de l'importance d'anticiper le réseau de soutien autour d'eux.",
-    "Proposer des espaces d'échange pour rassurer les mères sur leurs débuts dans l'alimentation de leur nourrisson.",
-    "Rappeler son rôle d'accompagnement pratique et émotionnel sans se substituer aux consultantes en lactation ou aux professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e992fbbe18d9",
-   "category": "sci",
-   "priority": false,
-   "title": "Marine Tondelier plaide pour un vrai soutien à l'allaitement : \"On laisse encore trop souvent les mères se débrouiller seules\"",
-   "source": "Magicmaman",
-   "date": "2 octobre 2026",
-   "sortDate": "2026-10-02",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVTRGQnB3ZjVPYldYLU94cm1Vak1PZ1l3NW9xZkl1RWZ5aHdSMi01R2xEalNfV0ZndUtXU015VFBST3ExMXBXVmQ3OUE5Ykk5NW1mT0s0UGU2bDlZZHBLaUZTRThUQ2tfMFdRTjByc1pIZmt5TWU1RkxIaVllX1l3MXE3aDg3TWx5VDJDNnN4djdVcUdpWGNpQkxxOGYxSU80RUxTaW1tYkVWMGU5VzAzNzJRRTVyWHlmdlEwRGpXY3dNTEhpRXRwaDNZVzV5c3JkN19PbEp1Q1R2VFhwaFl6c19rQ0I3TlNFdDNrcm9FclhYTkU?oc=5",
-   "summary": "Une femme politique souligne le manque de soutien global envers les mères concernant l'allaitement, estimant qu'elles sont trop souvent laissées seules face à cette période. Elle appelle à une meilleure prise en charge sociétale de cet accompagnement.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Identifier les manques de soutien potentiel dans l'entourage des parents pour les aider à anticiper une bulle de protection en post-partum.",
-    "Valoriser l'importance d'un accompagnement personnalisé et non jugeant pour soutenir le choix des mères, quel qu'il soit.",
-    "Soutenir l'information des parents sans prendre de position dogmatique sur les modes d'alimentation du nourrisson."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b500af1ef3f3",
-   "category": "sci",
-   "priority": false,
-   "title": "Le nombre de maternités jugé « insoutenable » : voici les propositions d’un rapport remis au gouvernement",
-   "source": "parents.fr",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.parents.fr/actualites/etre-parent/le-nombre-de-maternites-juge-insoutenable-ce-que-propose-le-rapport-remis-au-gouvernement-1157706",
-   "summary": "Un rapport officiel rédigé par des spécialistes de la santé recommande de réorganiser la carte des maternités en raison d'un modèle jugé insoutenable dans les structures à faible activité. Les auteurs soulignent que le maintien de ces petits établissements mobilise des ressources humaines importantes pour une activité réduite. Le document suscite toutefois des désaccords au sein même du groupe de travail, notamment de la part d'une sage-femme dénonçant une approche trop hospitalière.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborde avec bienveillance l'anxiété que peut générer l'incertitude autour de la fermeture de structures locales.",
-    "Soutiens les parents dans l'élaboration de leur projet de naissance en tenant compte des temps de trajet actualisés vers les maternités.",
-    "Ne prend pas position sur la pertinence médico-administrative de la fermeture des hôpitaux, mais écoute les ressentis des familles face à ces modifications territoriales."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-ecc424823874",
-   "category": "sci",
-   "priority": false,
-   "title": "Face à la « dégradation profonde » de la PMI, la mission périnatalité mise sur la prévention et le soutien aux parents",
-   "source": "Enfance & Jeunesse Infos",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://www.enfancejeunesseinfos.fr/face-a-la-degradation-profonde-de-la-pmi-la-mission-perinatalite-mise-sur-la-prevention-et-le-soutien-aux-parents/",
-   "summary": "Le rapport sur la périnatalité souligne la dégradation et de fortes disparités territoriales dans le financement des services de Protection Maternelle et Infantile (PMI). Il met en lien ces difficultés avec la remontée de la morbimortalité infantile en France, un indicateur qui dépasse désormais la moyenne européenne, notamment durant le premier mois de vie.",
-   "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur les ressources publiques de prévention existantes comme la PMI pour les encourager à y trouver du soutien en post-partum.",
-    "Accompagner l'écoute des familles en tenant compte de leurs difficultés d'accès aux services de santé locaux et aux structures de la petite enfance.",
-    "Orienter systématiquement vers le corps médical ou les services de la PMI dès qu'une question dépasse le champ du bien-être et de l'accompagnement non médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2d26612a172c",
-   "category": "sci",
-   "priority": false,
-   "title": "Parentalité : l’allaitement, parlons-en ! -",
-   "source": "jura.fr",
-   "date": "30 septembre 2026",
-   "sortDate": "2026-09-30",
-   "url": "https://www.jura.fr/parentalite-lallaitement-parlons-en/",
-   "summary": "La Protection maternelle et infantile du Jura organise des temps d'échange autour de l'allaitement maternel à l'occasion de la Semaine mondiale de l'allaitement et du mois de la parentalité. Ces ateliers gratuits offrent aux futurs et jeunes parents un espace de dialogue avec des professionnels de santé pour poser leurs questions et s'informer sans jugement.",
-   "auto": true,
-   "addedAt": "2026-10-01T05:16:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Encouragez les parents à participer à ces groupes de parole locaux pour rompre l'isolement et partager leurs questionnements sur l'arrivée de bébé.",
-    "Valorisez le rôle des structures publiques comme la PMI tout en clarifiant votre position de soutien non médical et émotionnel."
+    "Offrir un espace de parole aux femmes enceintes inquiettes de l'allongement de leurs temps de trajet vers la maternité.",
+    "Discuter de manière pratique de l'organisation des déplacements en fin de grossesse, tout en orientant les questions médicales vers les sages-femmes et obstétriciens.",
+    "Rester neutre face aux choix politiques et administratifs locaux, en se concentrant exclusivement sur le soutien émotionnel des parents face à ces modifications d'organisation."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1864,6 +1954,26 @@
     "Discuter avec les parents de l'éloignement possible des structures de naissance et de l'impact logistique sur leur projet.",
     "Accompagner l'anxiété liée aux modifications de parcours de soins et aux taux croissants d'interventions chirurgicales.",
     "Soutenir le choix des parents tout en rappelant que la gestion des risques médicaux relève strictement des professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3495bff7c289",
+   "category": "pol",
+   "priority": false,
+   "title": "Actualité : Congé supplémentaire de naissance : une double déclaration désormais incontournable !",
+   "source": "www.weblex.fr",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://www.weblex.fr/weblex-actualite/conge-supplementaire-de-naissance-une-double-declaration-desormais-incontournable",
+   "summary": "Un nouveau dispositif entre en vigueur fin 2026 concernant le congé supplémentaire de naissance, combinant un formulaire et un signalement en DSN par l'employeur pour assurer l'indemnisation par la Sécurité sociale. Ce congé s'adresse aux parents d'enfants nés ou adoptés dès 2026 et offre un ou deux mois additionnels.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez informer les parents sur l'existence de ce congé supplémentaire de naissance pour qu'ils puissent anticiper leurs démarches administratives avec leur employeur.",
+    "Rappelez-vous que les aspects liés aux indemnités journalières et aux déclarations employeurs relèvent strictement du cadre légal et administratif, hors de votre champ de compétence."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2914,106 +3024,22 @@
    "enriched": true
   },
   {
-   "id": "a-78e53f5249d9",
-   "category": "pol",
+   "id": "a-7b7345b6b760",
+   "category": "soc",
    "priority": false,
-   "title": "La Cnav détaille les incidences du congé supplémentaire de naissance sur les droits à retraite",
-   "source": "open.lefebvre-dalloz.fr",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://open.lefebvre-dalloz.fr/actualites/droit-social/cnav-detaille-incidences-conge-supplementaire-naissance-droits-retraite_fe76b381d-bc18-4768-9d32-07cb906059ab",
-   "summary": "Une circulaire de la Cnav précise les modalités de prise en compte du congé supplémentaire de naissance pour le calcul des droits à retraite. L'indemnisation de ce congé permet de valider des trimestres assimilés sous conditions d'une durée minimale de 58 jours d'indemnisation, indépendamment du nombre d'enfants. Ces informations administratives facilitent la compréhension des droits sociaux pour les parents.",
+   "title": "Six semaines après son accouchement, Barbara Palvin défile pour Victoria’s Secret : entre critiques et glorification",
+   "source": "RTBF",
+   "date": "22 octobre 2026",
+   "sortDate": "2026-10-22",
+   "url": "https://www.rtbf.be/article/six-semaines-apres-son-accouchement-barbara-palvin-defile-pour-victoria-s-secret-entre-critiques-et-glorification-11803502",
+   "summary": "Un défilé de mode récent a remis en lumière la question du corps après l'accouchement à travers la participation de mannequins ayant accouché peu de semaines auparavant. Cet événement a suscité des réactions contrastées sur les réseaux sociaux, oscillant entre l'admiration pour leur force et la critique des injonctions contradictoires pesant sur les jeunes mères. Les participantes ont elles-mêmes insisté sur l'importance de la convalescence et du soutien entourant le retour au travail.",
    "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
+   "addedAt": "2026-10-22T05:28:42+00:00",
    "pageRead": true,
    "points": [
-    "Informe les parents sur l'impact de ce congé sur leur future retraite pour les aider dans leurs démarches administratives.",
-    "Aide à orienter les familles vers les organismes compétents comme la Cnav ou la Cnam pour toute question sur leurs droits précis.",
-    "Rappelle qu'en tant que doula, le rôle est d'informer sans se substituer aux institutions administratives ou médicales."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e49c764f8e35",
-   "category": "pol",
-   "priority": false,
-   "title": "Trappes : les élus face à Ramsay pour la maternité",
-   "source": "infosyvelines.fr",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.infosyvelines.fr/articles/trappes-maternite-ramsay-moratoire-elus-8-octobre-2026",
-   "summary": "Des élus locaux de Saint-Quentin-en-Yvelines rencontrent la direction de Ramsay Santé pour demander un moratoire de trois ans sur la fermeture de la maternité de Trappes. Cette structure, qui représente la seule option pour les accouchements dans le secteur, fait face à un projet de fermeture motivé par une baisse de la natalité et des difficultés de recrutement. Les mobilisations locales tentent de préserver l'accès aux soins de proximité pour les habitants.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborde avec les futurs parents l'organisation locale des naissances et l'existence potentielle de déserts médicaux périnataux dans leur secteur.",
-    "Soutient l'écoute émotionnelle face à l'anxiété liée à la fermeture ou à l'éloignement des structures de naissance habituelles.",
-    "Oriente strictement vers les réseaux de santé locaux pour connaître les solutions de remplacement, sans émettre d'avis sur la gestion des structures."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-472ab6234b54",
-   "category": "pol",
-   "priority": false,
-   "title": "«Des pauses d’allaitement effectives et rémunérées» : Marine Tondelier souhaite réformer l’accompagnement des mères allaitantes",
-   "source": "Le Figaro",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://www.lefigaro.fr/social/des-pauses-d-allaitement-effectives-et-remunerees-marine-tondelier-souhaite-reformer-l-accompagnement-des-meres-allaitantes-20261001",
-   "summary": "Une personnalité politique et jeune maman plaide pour une révision des droits des mères allaitantes en France. Elle réclame notamment la mise en place effective et rémunérée de pauses dédiées à l'allaitement ainsi que la création d'un congé spécifique choisi et indemnisé.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur leurs droits existants en matière de temps de travail et de pauses dédiées à l'alimentation du nourrisson.",
-    "Discuter de l'organisation concrète du retour au travail et de la transition vers le tire-lait lors des accompagnements prénataux.",
-    "Laisser aux parents l'entière responsabilité des choix administratifs et professionnels liés à leur congé et se limiter à une information générale."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-5282cb6d5581",
-   "category": "pol",
-   "priority": false,
-   "title": "Marine Tondelier favorable à un congé d’allaitement indemnisé",
-   "source": "RMC",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/video-marine-tondelier-favorable-a-un-conge-d-allaitement-indemnise_VN-202610010504.html",
-   "summary": "Une personnalité politique exprime son soutien en faveur de la mise en place d'un congé d'allaitement indemnisé. Cette prise de position relance le débat public sur l'accompagnement des mères allaitantes en France.",
-   "auto": true,
-   "addedAt": "2026-10-02T05:15:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la question du retour au travail et de la poursuite de l'allaitement lors des entretiens prénataux pour rassurer les parents.",
-    "Offrir un espace d'écoute neutre où les mères peuvent exprimer leurs préoccupations matérielles et organisationnelles sans pression.",
-    "Rappeler que les choix concernant l'alimentation du nourrisson relèvent strictement des parents, tout en restant informée des débats sociétaux actuels."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-fd8c9156b053",
-   "category": "pol",
-   "priority": false,
-   "title": "Le nombre de maternités jugé « insoutenable » : ce que propose le rapport remis au gouvernement",
-   "source": "Parents.fr",
-   "date": "1 octobre 2026",
-   "sortDate": "2026-10-01",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2Mxdi1WYTIwanV0SWMwUXZKdDFYOHFJUXlic244UmtkVUw0NFZkVTJGY0VHXzY4X09wNWhkeU9NUHdINktqV1UxeU5VLVVxZkcyQ0hra2syQ2JNMnpVOGZBQXAyNXZSYWFHZTVBSzFPOVZEQUEzYXo2VDhuUzNQcnp1RWhHMWlaRDBDV1lPVnZYTkhGdGptSHpKNlo2V0hlbmdIUHlubWI1ZmVvT2M3S2g2NGFleE5PU1V4cV9QcWRSaVJBTnhTUzlqZndWRmRsUVAzeHJtVDlETVU?oc=5",
-   "summary": "Un rapport officiel remis au gouvernement qualifie d'insoutenable le nombre actuel de maternités en France. Le document formule des propositions pour réorganiser le paysage des structures de soins périnataux.",
-   "auto": true,
-   "addedAt": "2026-10-04T11:02:55+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents l'impact potentiel de ces fermetures ou réorganisations sur leur projet de naissance et l'éloignement géographique des structures.",
-    "Aider les familles à identifier en amont les différentes options de prise en charge et les maternités disponibles sur leur territoire.",
-    "Rappeler aux parents que l'organisation des soins et la sécurité médicale relèvent des professionnels et des établissements de santé."
+    "Aborder avec les parents la pression sociale et médiatique qui entoure l'apparence des corps après la naissance.",
+    "Valoriser l'écoute des besoins réels de la mère en post-partum, en insistant sur la notion de convalescence au-delà des injonctions à reprendre une activité rapide.",
+    "Rappeler que chaque parcours de récupération est unique, sans jamais se positionner sur l'aptitude physique ou médicale à reprendre le travail."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3035,6 +3061,26 @@
     "Validez l'écoute des parents en reconnaissant leur fatigue face aux tensions hospitalières, tout en valorisant le dévouement des équipes soignantes malgré les difficultés.",
     "Aidez les parents à anticiper un retour à domicile potentiellement plus précoce que prévu en renforçant leur préparation pratique et émotionnelle au post-partum.",
     "Rappelez que les décisions de sortie et la gestion des lits relèvent exclusivement du personnel médical, sans vous immiscer dans ces choix hospitaliers."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-d6cd35d728cc",
+   "category": "soc",
+   "priority": false,
+   "title": "Post-partum : 8 h aux urgences sur une chaise, cette mère alerte sur ces signaux qu’on ne doit jamais minimiser",
+   "source": "Homéophyto",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://homeophyto.topsante.com/sante/a-lhopital/post-partum-8-h-aux-urgences-sur-une-chaise-cette-mere-alerte-sur-ces-signaux-quon-ne-doit-jamais-minimiser-70303.html",
+   "summary": "Une mère de famille partage son long parcours aux urgences à Québec en raison de saignements post-partum importants et inhabituels survenus une semaine après son accouchement. Après plusieurs heures d'attente, les examens médicaux ont révélé la présence de sang résiduel dans l'utérus qui devait s'évacuer naturellement. Ce témoignage met en lumière la détresse psychologique des mères face aux failles du parcours de soins en post-partum et rappelle les critères d'alerte médicale concernant les lochies.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux utiliser cet article pour informer les parents des signes d'alerte précis en post-partum, comme des saignements abondants remplissant une serviette en moins d'une heure ou de la fièvre.",
+    "Encourage les parents à écouter leur instinct et à consulter rapidement en cas de doute, tout en sachant que tu dois immédiatement les orienter vers un médecin ou une sage-femme face à de tels symptômes sans tenter de poser un diagnostic."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3098,6 +3144,48 @@
     "Prendre en compte l'anxiété liée à l'éloignement géographique des maternités lors de la préparation à la naissance avec les couples.",
     "Aider les futurs parents à évaluer sereinement le temps de trajet réel vers la maternité choisie en conditions réelles.",
     "Ne jamais se substituer au corps médical pour évaluer l'urgence d'un départ ou la gestion d'un transport vers l'hôpital."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c9ecb8f35fa6",
+   "category": "soc",
+   "priority": false,
+   "title": "«Cela ne devrait pas être normalisé» : le retour de Barbara Palvin chez Victoria’s Secret, six semaines après son accouchement, fait débat",
+   "source": "Madame Figaro",
+   "date": "20 octobre 2026",
+   "sortDate": "2026-10-20",
+   "url": "https://madame.lefigaro.fr/style/news/cela-ne-devrait-pas-etre-normalise-le-retour-de-barbara-palvin-chez-victoria-s-secret-six-semaines-apres-son-accouchement-fait-debat-20261020",
+   "summary": "Le retour rapide d'un mannequin sur les podiums six semaines après son accouchement ravive le débat sur la normalisation du corps post-partum. Cet événement met en lumière la pression sociale exercée sur les femmes pour retrouver leur apparence physique et questionne la réalité de la période postnatale. Il fait écho aux discussions plus larges sur la durée du congé maternité et l'acceptation des transformations corporelles.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Ouvrir un espace de parole sécurisant pour permettre aux mères d'exprimer leur fatigue et la pression sociale liée à l'image corporelle après la naissance.",
+    "Valoriser le temps de repos et de récupération inhérent au post-partum, en déconstruisant les standards irréalistes véhiculés par les médias.",
+    "Réorienter les parents vers des professionnels de santé ou psychologues si la pression esthétique ou l'anxiété post-natale devient source de souffrance."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-d0693cbcd3a8",
+   "category": "soc",
+   "priority": false,
+   "title": "Une maman de Floride veut monter à bord d’un vol Delta. On lui refuse son tire-lait, car le bébé n’est pas là: «L’allaitement ne s’arrête pas",
+   "source": "TPL Moms",
+   "date": "20 octobre 2026",
+   "sortDate": "2026-10-20",
+   "url": "https://tplmoms.com/2026/10/20/une-maman-de-floride-veut-monter-a-bord-dun-vol-delta-on-lui-refuse-son-tire-lait-car-le-bebe-nest-pas-la-lallaitement-ne-sarrete-pas/",
+   "summary": "Une voyageuse a rencontré des difficultés avec une compagnie aérienne pour transporter son tire-lait en cabine en l'absence de son bébé. Bien que le règlement officiel autorise cet appareil sans la présence du nourrisson, la divergence d'informations a généré du stress. Cet incident illustre les obstacles pratiques que peuvent rencontrer les parents dans l'organisation de leurs déplacements en lien avec l'alimentation lactée.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Conseiller aux parents qui voyagent de vérifier systématiquement les politiques écrites des compagnies de transport concernant le matériel d'allaitement.",
+    "Proposer un soutien pratique et logistique pour anticiper les aspects matériels de l'alimentation du nourrisson lors des déplacements.",
+    "R rappeler que la doula n'a pas de rôle juridique ou réglementaire, mais qu'elle peut aider les parents à préparer sereinement leurs démarches."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3202,6 +3290,26 @@
     "Encouragez les parents à participer aux ateliers proposés par les maternités pour se préparer concrètement aux premiers jours avec bébé.",
     "Soutenez l'écoute et l'échange autour du matériel et des appréhensions, en valorisant l'expression des ressentis des parents.",
     "Laissez aux professionnels de la maternité le soin d'aborder les aspects techniques ou médicaux de l'alimentation infantile."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a8d4b95965b0",
+   "category": "soc",
+   "priority": false,
+   "title": "Montélimar. Une sensibilisation à l’allaitement au sein de l’hôpital montilien",
+   "source": "Le Dauphiné Libéré",
+   "date": "18 octobre 2026",
+   "sortDate": "2026-10-18",
+   "url": "https://www.ledauphine.com/sante/2026/10/18/octobre-rose-une-sensibilisation-a-l-allaitement-au-sein-de-l-hopital-montilien",
+   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, des professionnels de santé et des associations se sont mobilisés à l'hôpital de Montélimar pour soutenir les mères. Les données chiffrées montrent une baisse importante du taux d'allaitement entre la naissance et les deux premiers mois de l'enfant.",
+   "auto": true,
+   "addedAt": "2026-10-22T05:28:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez aborder la question des difficultés de l'allaitement avec bienveillance, en validant le fait que la baisse des taux après quelques semaines montre un réel besoin de soutien pour les mères.",
+    "Orientez les parents vers des associations locales spécialisées ou des professionnels qualifiés dès qu'ils expriment des doutes ou des douleurs, tout en évitant de poser un diagnostic sur des problématiques médicales comme la succion."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4163,111 +4271,6 @@
     "Mentionner les ressources et permanences proposées par les établissements de santé locaux aux parents.",
     "Offrir un espace d'écoute bienveillant sur le choix d'allaiter ou non, sans pression ni jugement.",
     "Rappeler que le rôle de la doula est d'accompagner le choix des parents, qu'il soit médicalisé ou non."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-08710a61b1e4",
-   "category": "soc",
-   "priority": false,
-   "title": "Une exposition sur l'allaitement à la Maison des associations de Lille",
-   "source": "l'Essentiel media",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLU9oZ0dOcjVyQnRXUWJrN0FISFpDV2wwWjhsWm1ULXBBMWtjTF80WWJqMlFJaTFZc1BXNHBuRWQxTkMxaW93TUtSeGtsMDhuOWdKbmZiY2ZLdWdMWjNqRWpkd3hRMl9qSl9iN1V1M3h3aVFNNEJnRkVVUUZQNlRrZU9kV3lXazFlZkNRQ2VMYU84N1NLd2kwUWpGYkJDaXJ5WGc3elV2Nl9WRFdOakk4cVNubE9HRXpGTGNXTHN4TGtoUQ?oc=5",
-   "summary": "Une exposition est organisée à la Maison des associations de Lille afin de sensibiliser le grand public à l'allaitement. Cet événement culturel aborde cette thématique sous un angle artistique et informatif.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Suggérer aux parents de visiter des expositions locales pour dédramatiser l'allaitement en public.",
-    "Utiliser des supports culturels pour ouvrir le dialogue sur le corps qui change et l'accueil du nouveau-né.",
-    "Ne pas se substituer aux professionnels de santé pour la gestion des difficultés techniques de l'allaitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3196a438b258",
-   "category": "soc",
-   "priority": false,
-   "title": "Une semaine pour parler de l’allaitement maternel",
-   "source": "l'Essentiel media",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNFN2dEdyaW9odV8xNXNHQXJQODJELVI5aVFBUUowUWNReHV6dmVDWkd3V3ZxQk5scTZlbjdvM2wxVVVobDRnRGFvcmE5cTZXRDhzdDIxdUdXTlBqWnRRdy1QcGpveTU0Qk1uNEZQZ01BRlpHV1pNVG5YdUZrMDV4YTNDdXotOUNpUkZyZ2d2T1RqeUwxdGJzeHh2SS1ndUFUNF9uVnBMT292S3Z4?oc=5",
-   "summary": "Plusieurs structures mettent en place des temps forts à l'occasion de la semaine dédiée à l'allaitement maternel. Ces rendez-vous permettent de libérer la parole autour des questionnements des jeunes parents.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Profiter de cette dynamique pour aborder les doutes fréquents des premiers jours avec les futurs parents.",
-    "Proposer un espace de parole sécurisant pour exprimer les craintes liées à la fatigue et à l'alimentation du bébé.",
-    "Rappeler que les aspects médicaux ou pathologiques relèvent exclusivement des sages-femmes et des médecins."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4f6e26e557ee",
-   "category": "soc",
-   "priority": false,
-   "title": "Des rencontres sur l’allaitement maternel à Clermont-Ferrand",
-   "source": "l'Essentiel media",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUdMZlUtM01GemJCeWRpMXQ0Y0xORTFod0hkaHp0MFpIcXJnWHRLczhoanY3LVNsdzlIZnRxTU9yWHJnOXo1dkY3Y3VtdldwQU0xSWdVay1Cc1FKai1HTTk1SDlHNW94d255end4WVJySExMRjhKalplWWlRWXNHLVo2M2RrSnJ3bFE1VWpBblAyWkpaOGFxUTlVYjlnZGVfQXdrS0V6UllZV0NnYXBlSDlfaWpHWFdXQjJvT0VFX2k?oc=5",
-   "summary": "Des événements locaux sont organisés à Clermont-Ferrand pour échanger autour de l'allaitement maternel. Ces rencontres favorisent le partage d'expériences et le soutien entre parents sur ce sujet.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Orienter les parents vers ces groupes locaux pour qu'ils puissent échanger avec d'autres familles.",
-    "Utiliser ces espaces comme une ressource pour renforcer le soutien émotionnel et informationnel autour de l'alimentation du nourrisson.",
-    "Rappeler son rôle non médical en encourageant les parents à consulter un professionnel de santé en cas de difficultés techniques majeures."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b7495c562a46",
-   "category": "soc",
-   "priority": false,
-   "title": "Le Molay-Littry. Mathilde Fouace a créé Mama Doula Normandie pour les jeunes parents",
-   "source": "lamanchelibre.fr",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0NidlVzOXFSNXNPaElqVDhCY1lLXzAzemN1RXZHNjFVaDBtU2t0ODFub3lfeWVDZjcwb0FfX3NwaXJUOHl6eHNUd19jMTNLYVljMWtibjluX2JSSjN2VkpvTy1pTWFmM0lXbC1tWlhETzBiak5BVVkxWE42MlZXTzV3SGVmTHJVMmRjcWtwMXZUMjVkV2t2eHF0YklmRHNBMFRJZWl6dEtiZG41VkladHVfbXhfclA0ci1wUTdhekFnR3RSSGJ5enRn?oc=5",
-   "summary": "Une nouvelle professionnelle s'installe en Normandie pour proposer un accompagnement aux jeunes parents sous le nom de Mama Doula. Cette initiative met en lumière le développement des services de soutien périnatal non médical dans la région.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Observer comment se positionner et communiquer sur son rôle de doula auprès du public et des partenaires locaux.",
-    "Valoriser l'importance du soutien pratique et émotionnel auprès des familles pour légitimer sa pratique.",
-    "Veiller à clarifier les limites de son accompagnement pour ne pas empiéter sur le suivi médical des nouveau-nés et des parents."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-46605573b70d",
-   "category": "soc",
-   "priority": false,
-   "title": "Semaine de l’allaitement : une nouvelle édition marquante",
-   "source": "Le Canada Français",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFY1Z1BkSEZBWW1MZkhZSGs2WHlGaUxtSXRWcVJvanVvdzRld1l5ZWNqRUtJdXFSOGZtSlNZbllUSHo5c0wtNVFuaFB0UjVaRkJsNjFwa3V2di16cTJXN2QxQ1RZZlZEbG11SWhFLVBRczctaG4ybjR5OGI0bnUwM0hITS1PdG5VdGFBS2FRSHl1cTJnNXlPRjgxdlk?oc=5",
-   "summary": "Une nouvelle édition de la semaine dédiée à l'allaitement s'est déroulée avec des actions marquantes. L'objectif est de sensibiliser le public et de valoriser l'importance de cette pratique pour les nourrissons.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "S'appuyer sur les temps forts de cette semaine pour ouvrir le dialogue avec les futurs parents sur leurs projets d'alimentation.",
-    "Offrir une écoute bienveillante et sans jugement sur le choix du mode d'alimentation du bébé, qu'il soit maternel ou artificiel.",
-    "Rediriger vers des consultantes en lactation certifiées pour toute question médicale ou problématique technique complexe."
    ],
    "summaryAI": true,
    "enriched": true
