@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T09:40:11+00:00",
+ "updatedAt": "2026-10-26T10:53:39+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "23 page(s) d'articles lue(s)",
-  "IA : 23 article(s) résumé(s) et commenté(s)"
+  "11 page(s) d'articles lue(s)",
+  "IA : 11 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -154,7 +154,11 @@
   "a-a654960f2875": "2026-10-13",
   "a-772624ed3d1d": "2026-10-13",
   "a-0d18f656fa50": "2026-10-13",
-  "a-4dc482a21495": "2026-10-13"
+  "a-4dc482a21495": "2026-10-13",
+  "a-cd743fd63aa6": "2026-10-25",
+  "a-91aabfd356d5": "2026-10-25",
+  "a-bfb7e4d81550": "2026-10-21",
+  "a-3c5ae0f71cd9": "2026-10-13"
  },
  "articles": [
   {
@@ -622,6 +626,27 @@
    "enriched": true
   },
   {
+   "id": "a-cf0820c9c5f1",
+   "category": "sci",
+   "priority": false,
+   "title": "Cancer du sein : un médicament utilisé après l’accouchement pourrait-il réduire le risque ?",
+   "source": "Le Figaro Santé",
+   "date": "24 octobre 2026",
+   "sortDate": "2026-10-24",
+   "url": "https://sante.lefigaro.fr/medecine/cancer-du-sein-un-medicament-utilise-apres-l-accouchement-pourrait-il-reduire-le-risque-20261024",
+   "summary": "Une étude récente s'intéresse au risque de cancer du sein dans les années suivant l'accouchement, une période où les tissus mammaires traversent une phase critique après la lactation. Les chercheurs étudient le rôle potentiel d'un médicament, la cabergoline, habituellement prescrit pour stopper la production de lait, dans la réduction de certaines tumeurs.",
+   "auto": true,
+   "addedAt": "2026-10-26T10:53:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir avec beaucoup d'écoute les questions des mères sur la période délicate du post-partum et du sevrage, qui comporte des bouleversements physiques importants.",
+    "Ne formuler aucun avis médical sur les traitements d'inhibition de la lactation ou les risques oncologiques mentionnés.",
+    "Encourager les parents à aborder toutes leurs questions de santé mammaire avec leur médecin, leur sage-femme ou leur gynécologue."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-f2976b505b90",
    "category": "sci",
    "priority": false,
@@ -887,6 +912,27 @@
     "Utiliser ces recommandations officielles pour informer les parents sur les bienfaits de l'allaitement exclusif durant les six premiers mois sans jamais culpabiliser ceux qui font d'autres choix.",
     "Offrir un espace d'écoute bienveillant pour aborder les doutes des parents concernant la mise en place de l'allaitement et son retentissement sur le lien affectif.",
     "R rappeler que la doula soutient le projet d'alimentation choisi par les parents, mais qu'elle doit orienter vers une consultante en lactation ou un médecin en cas de difficultés médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c518a1569329",
+   "category": "sci",
+   "priority": false,
+   "title": "Dépression pendant la grossesse : la thérapie pourrait aussi agir sur le bébé",
+   "source": "Parents.fr",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://www.parents.fr/actualites/grossesse/traiter-la-depression-pendant-la-grossesse-a-des-effets-positifs-sur-le-cerveau-du-bebe-selon-une-etude-1158422",
+   "summary": "Une étude récente montre que le suivi psychologique de la dépression pendant la grossesse est associé à des modifications du développement cérébral et des réactions émotionnelles du bébé. Les chercheurs suggèrent que ces variations pourraient refléter une maturation plus rapide de certaines zones cérébrales face aux situations de stress prénatal. Toutefois, ces observations nécessitent encore des confirmations scientifiques et ne constituent pas un diagnostic.",
+   "auto": true,
+   "addedAt": "2026-10-26T10:53:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder l'importance de la santé mentale et du bien-être émotionnel pendant la grossesse sans culpabiliser les parents.",
+    "Rappeler que les émotions et le stress de la grossesse font partie de la vie, tout en orientant vers des professionnels de la santé mentale en cas de besoin.",
+    "Ne pas interpréter ces données de recherche comme une certitude médicale ou psychologique pour le développement individuel du bébé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1749,43 +1795,22 @@
    "enriched": true
   },
   {
-   "id": "a-917cab0cb895",
-   "category": "sci",
+   "id": "a-3512ecd2e977",
+   "category": "pol",
    "priority": false,
-   "title": "Une semaine de l’allaitement maternel dans la Nièvre pour soutenir et renforcer cette pratique",
-   "source": "Le Journal du Centre",
-   "date": "9 octobre 2026",
-   "sortDate": "2026-10-09",
-   "url": "https://www.lejdc.fr/nevers-58000/actualites/une-semaine-de-lallaitement-maternel-dans-la-nievre-pour-soutenir-et-renforcer-cette-pratique_15060766/",
-   "summary": "La Semaine mondiale de l'allaitement maternel est organisée dans la Nièvre pour soutenir cette pratique à travers divers ateliers, forums et réunions d'information. Des événements coordonnés par des associations et des professionnels de santé permettent de renforcer le lien et l'accompagnement des familles.",
+   "title": "Pau : l’hôpital est en tension depuis la fermeture de la maternité et des urgences de nuit de la clinique Navarre",
+   "source": "Sud Ouest",
+   "date": "26 octobre 2026",
+   "sortDate": "2026-10-26",
+   "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/pau-l-hopital-est-en-tension-depuis-la-fermeture-de-la-maternite-et-des-urgences-de-nuit-de-la-clinique-navarre-31233674.php",
+   "summary": "La fermeture d'une maternité et la restriction des urgences de nuit dans une clinique locale entraînent un report important de l'activité vers l'hôpital public de Pau. Cette situation provoque des tensions accrues pour les équipes soignantes et des conditions de prise en charge jugées difficiles. Les usagers sont incités à se tourner en priorité vers d'autres structures de soins ambulatoires lorsque cela est possible.",
    "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
+   "addedAt": "2026-10-26T10:53:39+00:00",
    "pageRead": true,
    "points": [
-    "Encouragez les parents à participer aux ateliers locaux et aux semaines thématiques pour briser l'isolement du post-partum.",
-    "Appuyez-vous sur les initiatives de santé publique et les réseaux locaux pour orienter les familles vers des ressources d'information fiables.",
-    "Rappelez aux parents que les questions purement médicales ou les complications de l'allaitement doivent être abordées avec des professionnels de santé qualifiés."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b3b166c3ceb2",
-   "category": "sci",
-   "priority": false,
-   "title": "Semaine de l’allaitement maternel : plusieurs événements",
-   "source": "Radio Mélodie",
-   "date": "9 octobre 2026",
-   "sortDate": "2026-10-09",
-   "url": "https://www.radiomelodie.com/a/flash/19121-semaine-de-lallaitement-maternel-plusieurs-evenements",
-   "summary": "À l'occasion de la semaine mondiale de l'allaitement maternel, des établissements de santé et des structures locales proposent des ateliers et des temps d'information. Le programme inclut des consultations spécialisées, de la réflexologie, du massage bébé et des démonstrations de portage physiologique. Ces initiatives visent à accompagner les jeunes parents et à favoriser le bien-être du nouveau-né.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Relayer auprès des parents les propositions d'ateliers pratiques comme le portage ou le massage pour favoriser le lien avec le bébé.",
-    "Encourager les familles à participer aux permanences et consultations spécialisées des structures hospitalières ou locales.",
-    "S'en tenir à des conseils de confort non médicaux tout en orientant vers les puéricultrices et sages-femmes pour les questions techniques."
+    "Intégrer dans vos échanges avec les parents la réalité des tensions locales dans les services d'urgence et les maternités pour les aider à anticiper leurs déplacements.",
+    "Rappeler aux familles les différents recours possibles en dehors de l'hôpital, comme les centres médicaux de soins immédiats ou les médecins traitants, selon la situation.",
+    "Garder strictement votre rôle de soutien non médical en orientant rapidement vers les professionnels de santé habilités en cas de doute sur l'état de santé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1828,6 +1853,27 @@
     "Comprenez le contexte organisationnel et professionnel dans lequel baignent les parents que vous accompagnez au moment de planifier leur congé.",
     "Invitez les parents à échanger au plus tôt avec leurs employeurs pour sécuriser la pose de ce nouveau congé et éviter le stress administratif.",
     "Restez dans votre rôle d'accompagnement global en évitant toute interprétation ou conseil sur la législation du travail ou la gestion de paie."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-8148ce42dc27",
+   "category": "pol",
+   "priority": false,
+   "title": "Santé : infirmières et sages-femmes expriment leurs inquiétudes",
+   "source": "L'Union Sonapress",
+   "date": "24 octobre 2026",
+   "sortDate": "2026-10-24",
+   "url": "https://www.union.sonapresse.com/fr/sante-infirmieres-et-sages-femmes-expriment-leurs-inquietudes",
+   "summary": "Un collectif de jeunes infirmières et sages-femmes s'est mobilisé pour faire valoir ses revendications concernant l'attente prolongée de leur intégration administrative et de leur recrutement au sein de la fonction publique. Le ministère de la tutelle indique que des régularisations progressives sont en cours de traitement via une commission dédiée, malgré des retards persistants.",
+   "auto": true,
+   "addedAt": "2026-10-26T10:53:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Avoir conscience des difficultés professionnelles et des conditions de travail parfois précaires des sages-femmes qui encadrent les naissances.",
+    "Valoriser auprès des parents le rôle essentiel des sages-femmes tout en comprenant le contexte global d'organisation des soins.",
+    "Maintenir une posture de soutien neutre sans vous prononcer sur les aspects administratifs ou syndicaux du personnel médical."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3003,48 +3049,6 @@
    "enriched": true
   },
   {
-   "id": "a-7ab931bdc070",
-   "category": "pol",
-   "priority": false,
-   "title": "Mortalité infantile en hausse en France : un nouveau rapport préconise (encore) la fermeture des maternités à \"faible activité\"",
-   "source": "Doctissimo",
-   "date": "5 octobre 2026",
-   "sortDate": "2026-10-05",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZE5iNFloZ0x2eDY5QlVPNkhoNTM3dmQ5aWQ5VHFjUjhyRV9uQVcxTjE5MGVSeThySTJ5ZDRlUk10RXl1Y3p3bHl5NXVxLWNaRDlvSXBad0NqS1I2WlNWVVRERVpGTjV4LTNZa2VWUnIzbUFtZDZBMUVBUHF2b2NLVXFXSDZlRHZaaEpzcEVvVmVoejRpV3FEQUkwbkhMMk1YekxLNTFIVDYwS3hKYUUyRnk2OWdMQ0lCR0FWMVNfeHZ5R3Q1ZTNpdHl2Rk9iOGV0LUpMRkZra2ZyTnZlUDJoVExxaGFzamozc29UMzJCbFV5YmM2QVlJSFlpYWR5NWc4YWRCRFp4cFdXMmoycXJmVQ?oc=5",
-   "summary": "Face à la hausse de la mortalité infantile en France, un nouveau rapport suggère de fermer les maternités qui enregistrent une faible activité. Cette proposition vise à réorganiser l'offre de soins pour améliorer la sécurité sanitaire.",
-   "auto": true,
-   "addedAt": "2026-10-06T05:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Échanger avec les futurs parents sur leur lieu de naissance choisi et les informer sur l'organisation des maternités de leur région.",
-    "Accueillir la peur ou l'anxiété des parents face aux actualités concernant la sécurité des naissances en leur offrant une écoute empathique.",
-    "Rappeler clairement que les choix de politique de santé et la fermeture des structures médicales relèvent des autorités sanitaires et non de l'accompagnement de la doula."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4ac80acf5a95",
-   "category": "pol",
-   "priority": false,
-   "title": "Avignon « Il y a eu un avant et un après » : Pont-des-deux-Eaux, quel avenir après la fermeture de la maternité Urbain V ?",
-   "source": "Le Dauphiné Libéré",
-   "date": "5 octobre 2026",
-   "sortDate": "2026-10-05",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHBXTWxHaFdoUmxmeEtadmJJRWJvLW90eGpNSElpQTl3RkxRa081TVBkaEQ2TktwSDVEZWctQlQxd3hRbHdCblFnNFN6SDVDd1FCWjhQN2JKYzAta1JvS0xDWktQRDVxTGFrMVZ6eXB5bkpsSjZaUGxmdk0xS2FOdDZfVkpQazF2VExJSlpqcXJKazlmQVYyalpNV0QyOTRCYjk3SHd5d3JPdw?oc=5",
-   "summary": "La fermeture d'une maternité locale entraîne des changements notables dans l'organisation des soins et le parcours des familles de la région. Cette situation modifie l'accès aux structures de naissance et impacte l'organisation territoriale de la périnatalité.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Abordez avec les parents l'impact de l'éloignement géographique des structures sur leur organisation logistique et leur sérénité.",
-    "Validez l'écoute de leurs inquiétudes face aux modifications des parcours de soins locaux sans prendre position sur les décisions politiques.",
-    "Rappelez que le choix du lieu de naissance doit se doubler d'une anticipation des temps de trajet vers la structure médicale."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-3ec5c0c82e2a",
    "category": "soc",
    "priority": false,
@@ -4050,6 +4054,27 @@
    "enriched": true
   },
   {
+   "id": "a-f69b9f8c87de",
+   "category": "soc",
+   "priority": false,
+   "title": "Deuil périnatal : la Guadeloupe brise le silence",
+   "source": "Outre-mer La 1ère",
+   "date": "15 octobre 2026",
+   "sortDate": "2026-10-15",
+   "url": "https://la1ere.franceinfo.fr/guadeloupe/deuil-perinatal-la-guadeloupe-brise-le-silence-1748520.html",
+   "summary": "À l'occasion de la journée mondiale de sensibilisation au deuil périnatal, des associations et des structures de santé se mobilisent pour briser le tabou de la perte d'un enfant pendant la grossesse ou autour de la naissance. Ces initiatives visent à reconnaître la légitimité de ce deuil invisible, à mieux soutenir les familles endeuillées et à améliorer la formation des professionnels. Les données internationales soulignent par ailleurs l'importance des enjeux de santé publique liés à la mort fœtale.",
+   "auto": true,
+   "addedAt": "2026-10-26T10:53:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute sécurisant et sans jugement pour les parents traversant un deuil périnatal, en reconnaissant pleinement leur douleur.",
+    "Connaître les ressources locales et associatives d'accompagnement du deuil pour pouvoir orienter les familles vers des structures spécialisées.",
+    "Respecter strictement sa posture non médicale en évitant toute interprétation clinique des causes du deuil et en se concentrant sur le soutien émotionnel."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-8c4c254c66dd",
    "category": "soc",
    "priority": false,
@@ -4272,26 +4297,6 @@
    "points": [
     "Valoriser l'importance de la parole autour du deuil périnatal pour aider les parents à briser l'isolement.",
     "Respecter strictement son rôle non médical en orientant vers des associations spécialisées et des thérapeutes qualifiés."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-6ddab9d824db",
-   "category": "soc",
-   "priority": false,
-   "title": "Une trentaine de mamans réunies pour promouvoir l'allaitement maternel",
-   "source": "| LeHavre.fr",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFdqLXU4UXFqUFhRZFZEc0QyamtPZmRWZzVQWE1uMDhBQWU4RzdTNC0zbFpsU0lwcnlueGhaeUNKQU1xb0FMYVA1UDNwaXZodXFWbkU3YW43bW83cFUzSmRFTkxac3V0aTNVZUN5QS03X2p0b0ZWN3l4S01vOU5YZjlMTHlyWkotZlJhM2swNndRd2NEN1o2Yk0zLTFGZXI2X2k0YzBfaWpuNHpPYXY2c1lR?oc=5",
-   "summary": "Un rassemblement d'une trentaine de mères a été organisé pour encourager et promouvoir l'allaitement maternel. Cet événement met en avant le partage d'expériences et le soutien par les pairs autour de l'alimentation des nourrissons.",
-   "auto": true,
-   "addedAt": "2026-10-14T05:27:04+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager la création de réseaux de soutien entre parents pour briser l'isolement autour de l'allaitement.",
-    "Valoriser les initiatives locales favorisant le partage d'expériences pratiques entre mères, sans se substituer aux conseils médicaux en cas de difficultés d'allaitement."
    ],
    "summaryAI": true,
    "enriched": true
