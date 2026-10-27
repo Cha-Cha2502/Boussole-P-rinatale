@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T10:53:39+00:00",
+ "updatedAt": "2026-10-27T10:17:45+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -158,7 +158,9 @@
   "a-cd743fd63aa6": "2026-10-25",
   "a-91aabfd356d5": "2026-10-25",
   "a-bfb7e4d81550": "2026-10-21",
-  "a-3c5ae0f71cd9": "2026-10-13"
+  "a-3c5ae0f71cd9": "2026-10-13",
+  "a-aa6c9acc0cab": "2026-10-26",
+  "a-6b388fa3955e": "2026-10-26"
  },
  "articles": [
   {
@@ -539,6 +541,69 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-e935209988c0",
+   "category": "sci",
+   "priority": false,
+   "title": "GROSSESSE : Ses complications compromettent aussi les artères",
+   "source": "Santé log",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.santelog.com/actualites/grossesse-ses-complications-compromettent-aussi-les-arteres",
+   "summary": "Une vaste étude indique que les femmes ayant rencontré des complications durant leur grossesse s'exposent à un risque plus élevé de souffrir d'artériopathie oblitérante des membres inférieurs (AOMI) à l'avenir. Cette affection, caractérisée par un rétrécissement des artères, s'ajoute aux autres risques cardiovasculaires déjà documentés liés aux grossesses compliquées.",
+   "auto": true,
+   "addedAt": "2026-10-27T10:17:45+00:00",
+   "pageRead": true,
+   "points": [
+    "Garde en tête que les antécédents de grossesse peuvent impacter durablement la santé cardiovasculaire des mères.",
+    "Encourage les parents à maintenir un dialogue ouvert avec leur médecin traitant ou leur sage-femme concernant leur suivi de santé global après l'accouchement.",
+    "Rappelle que ton rôle n'est pas de diagnostiquer ou d'interpréter ces risques médicaux à long terme."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-980bd0d94862",
+   "category": "sci",
+   "priority": false,
+   "title": "Les bébés conçus par FIV présentent des différences dans leur ADN, selon une étude",
+   "source": "Parents.fr",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.parents.fr/actualites/envie-de-bebe/les-bebes-concus-par-fiv-presentent-ils-des-differences-dans-leur-adn-une-etude-revele-une-piste-inattendue-1158625",
+   "summary": "Une recherche récente s'est penchée sur l'ADN d'enfants nés par fécondation in vitro en analysant l'activité de séquences spécifiques nommées LINE-1. Les scientifiques ont relevé de légères différences génétiques par rapport aux enfants conçus spontanément, tout en soulignant qu'il est encore trop tôt pour en mesurer l'impact réel sur la santé future.",
+   "auto": true,
+   "addedAt": "2026-10-27T10:17:45+00:00",
+   "pageRead": true,
+   "points": [
+    "Sois à l'écoute des questionnements ou des éventuelles inquiétudes des parents passés par un parcours de PMA.",
+    "Valorise leur parcours de parentalité sans porter de jugement sur le mode de conception de leur enfant.",
+    "Oriente les familles vers des professionnels de santé qualifiés pour toute question d'ordre génétique ou biologique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-92d1c97a147b",
+   "category": "sci",
+   "priority": false,
+   "title": "Cette étude détecte un effet inattendu du tabac chez les enfants exposés pendant la grossesse et après la naissance",
+   "source": "Magicmaman",
+   "date": "26 octobre 2026",
+   "sortDate": "2026-10-26",
+   "url": "https://www.magicmaman.com/cette-etude-detecte-un-effet-inattendu-du-tabac-chez-les-enfants-exposes-pendant-la-grossesse-et-apres-la-naissance,3787292.asp",
+   "summary": "Une étude récente menée sur des modèles animaux met en lumière les impacts à long terme de l'exposition à la nicotine avant et après la naissance sur les cellules souches du sang. Si les complications immédiates de la grossesse liées au tabac sont bien documentées, ces travaux insistent sur des effets durables potentiels touchant le système immunitaire jusqu'à l'âge adulte.",
+   "auto": true,
+   "addedAt": "2026-10-27T10:17:45+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question du tabagisme et de la nicotine de manière bienveillante et sans jugement lors des entretiens prénataux.",
+    "Soutenir l'information globale sur les risques de l'exposition au tabac, tout en redirigeant vers des professionnels de santé qualifiés pour le sevrage.",
+    "Garder à l'esprit que la doula n'a pas à porter de diagnostic sur les impacts physiologiques à long terme, mais peut offrir un espace d'écoute sur les difficultés du sevrage."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1732,64 +1797,22 @@
    "enriched": true
   },
   {
-   "id": "a-9b4777547e0d",
-   "category": "sci",
+   "id": "a-462ec7400710",
+   "category": "pol",
    "priority": false,
-   "title": "Vingt ans du Pasteurdon : la recherche avance contre les cancers post-partum",
-   "source": "Franceinfo Santé",
-   "date": "9 octobre 2026",
-   "sortDate": "2026-10-09",
-   "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/vingt-ans-du-pasteurdon-la-recherche-avance-contre-les-cancers-post-partum_8230249.html#xtor=RSS-3-%5Bgeneral%5D",
-   "summary": "À l'occasion du Pasteurdon, l'Institut Pasteur met en avant la recherche sur les cancers du sein survenant après un accouchement, dits cancers post-partum. Le témoignage d'une mère illustre le parcours de soin, la récidive et l'importance des progrès thérapeutiques grâce à la recherche.",
+   "title": "Congé supplémentaire de naissance : évolution des modalités déclaratives à compter du 1er novembre 2026",
+   "source": "Éditions Tissot",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conge-supplementaire-de-naissance-evolution-des-modalites-declaratives-a-compter-du-1er-novembre-2026",
+   "summary": "Les modalités déclaratives pour le congé supplémentaire de naissance évoluent avec la mise en place d'un nouveau générateur de formulaire à partir de novembre 2026. Ce dispositif vise à fiabiliser la transmission des données par les employeurs pour le versement des indemnités journalières de Sécurité sociale.",
    "auto": true,
-   "addedAt": "2026-10-10T05:15:18+00:00",
+   "addedAt": "2026-10-27T10:17:45+00:00",
    "pageRead": true,
    "points": [
-    "Aborder délicatement avec les parents l'importance d'une écoute attentive du corps et d'un suivi médical régulier pendant le post-partum, même à distance de l'accouchement.",
-    "Encourager les jeunes mères à consulter un professionnel de santé face à tout symptôme ou doute persistant, en gardant à l'esprit que le diagnostic médical relève strictement des médecins.",
-    "Soutenir émotionnellement les mères touchées par des parcours de santé complexes sans jamais se substituer au corps médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-02694569bf5c",
-   "category": "sci",
-   "priority": false,
-   "title": "Semaine mondiale de l’allaitement maternel : une semaine pour s’informer et échanger",
-   "source": "Département des Alpes-Maritimes",
-   "date": "9 octobre 2026",
-   "sortDate": "2026-10-09",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0I3NlpOYkNybFFYcFRTMVBWb2ZNN1NuNENGVFJ1cndZck9xMnJNaGJ5VlJvcEpaY0cxTkowNmhnVW9ycXYzZUlubWVKZ3RrUnJPZWxDSVcybThVVTMtQmpVc0U2a2ZaMEpZVjJuUmJIWmhnbXJTaUE3SHBGMUZ6V3JldEVGaVVHb0lmZmlSb0NBWFJNQzJFUjVtMWhPcEg4M21sbzdMR0d6Z01MbXRkYjloRnI3QlRrb09WQw?oc=5",
-   "summary": "À l'occasion de la semaine mondiale de l'allaitement maternel, des initiatives locales sont proposées pour informer et permettre aux parents d'échanger sur ce mode d'alimentation. Ces événements visent à soutenir les familles dans leur démarche et à diffuser des informations de prévention.",
-   "auto": true,
-   "addedAt": "2026-10-10T05:15:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager les parents à participer aux temps d'échange locaux dédiés à l'allaitement pour rompre l'isolement et s'informer.",
-    "Soutenir le projet d'allaitement des parents en valorisant l'écoute de leurs besoins et en normalisant leurs questionnements des premiers jours.",
-    "Orienter systématiquement vers des professionnels de santé qualifiés en lactation en cas de difficultés médicales ou de douleurs."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-95fb253b959b",
-   "category": "sci",
-   "priority": false,
-   "title": "Allaitement : \"est-ce que mon bébé boit suffisamment\", une question que vous allez pouvoir poser à l'hôpital de Chartres",
-   "source": "Actu.fr",
-   "date": "9 octobre 2026",
-   "sortDate": "2026-10-09",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWGc4VkF6Q3JkNVducUZhVkNEOHJCclNlTERvekRUX2MydzNWanhBTmtkRERNNVpqUVIxTVluc2UyWk1WOEIweC1SZFNyeUxYUzRMWFdkUVFMOHRMTUlZekFRamY4eDloNzFzRm5OcEdlM2RtdExEbmRBdGdSVjhRR012TTFXLXVyb2ZfeXRrejd5bFVuR3FvUmlxU2U4WVZXNC1yMk14RnVNTmRmbm9mU0FNbWpvbXkyaUdnY1RDOVloTjVxSlZiR2VUa05WLW14U2lrZFFDYXFhMUk3X0luRnBXM09Ld2RzOUxzSlR5RzdHbzh2MEtyb08zOG43WUpabFYtQk9QbTRhbWFq?oc=5",
-   "summary": "L'hôpital de Chartres met en place des temps d'échange spécifiques pour répondre aux inquiétudes des jeunes parents concernant les apports nutritionnels et la quantité de lait bu par le nouveau-né. Cette initiative permet d'apaiser les doutes fréquents sur la satiété du nourrisson pendant le séjour à l'hôpital ou après le retour à domicile.",
-   "auto": true,
-   "addedAt": "2026-10-10T05:15:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Utiliser ces questionnements fréquents sur les quantités bues pour rassurer les parents sur les signes physiologiques de la faim et de la satiété chez le nouveau-né.",
-    "Proposer une écoute attentive aux doutes maternels concernant la mise en place de l'alimentation, qu'elle soit au sein ou au biberon.",
-    "Rappeler que l'évaluation médicale de la prise de poids relève des professionnels de santé et ne doit pas faire l'objet de diagnostics par la doula."
+    "Tiens-toi informée des évolutions législatives concernant les congés pour mieux orienter administrativement les futurs parents.",
+    "Aide les couples à anticiper leurs démarches et leurs droits sociaux en amont de l'arrivée de l'enfant.",
+    "Évite de donner des conseils juridiques précis ou administratifs contraignants, et invite-les à vérifier auprès de leur employeur ou des organismes officiels."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1811,6 +1834,27 @@
     "Intégrer dans vos échanges avec les parents la réalité des tensions locales dans les services d'urgence et les maternités pour les aider à anticiper leurs déplacements.",
     "Rappeler aux familles les différents recours possibles en dehors de l'hôpital, comme les centres médicaux de soins immédiats ou les médecins traitants, selon la situation.",
     "Garder strictement votre rôle de soutien non médical en orientant rapidement vers les professionnels de santé habilités en cas de doute sur l'état de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-58cc4ba47d87",
+   "category": "pol",
+   "priority": false,
+   "title": "Alignement tarifaire des sages-femmes : la CSMF refuse de sacrifier l'expertise médicale",
+   "source": "Egora",
+   "date": "26 octobre 2026",
+   "sortDate": "2026-10-26",
+   "url": "https://www.egora.fr/actus-pro/remuneration/alignement-tarifaire-des-sages-femmes-la-csmf-refuse-de-sacrifier-lexpertise",
+   "summary": "De nouvelles négociations conventionnelles doivent s'ouvrir entre l'Assurance maladie et les syndicats de sages-femmes afin de revaloriser certains de leurs actes et de s'aligner sur les tarifs médicaux. Parallèlement, des syndicats de médecins expriment des réserves sur la reconnaissance de compétences partagées, insistant sur la distinction entre leurs expertises respectives.",
+   "auto": true,
+   "addedAt": "2026-10-27T10:17:45+00:00",
+   "pageRead": true,
+   "points": [
+    "Suivre l'évolution de l'organisation des soins et des parcours périnataux pour mieux orienter les parents vers les professionnels adaptés.",
+    "Comprendre la place et le rôle des sages-femmes dans le système de santé pour valoriser leur rôle médical indispensable auprès des familles.",
+    "Veiller à ne jamais se substituer aux compétences des sages-femmes ou des médecins dans l'accompagnement des actes cliniques."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3007,43 +3051,43 @@
    "enriched": true
   },
   {
-   "id": "a-e3ff3cb46705",
-   "category": "pol",
+   "id": "a-c5de351a5d30",
+   "category": "soc",
    "priority": false,
-   "title": "Obligations de l’employeur -De nouvelles modalités pour déclarer un congé supplémentaire de naissance",
-   "source": "Entreprendre Service Public",
-   "date": "6 octobre 2026",
-   "sortDate": "2026-10-06",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ldllVNHJsVTkzNkN2M0dZMmV1ZGRpMGNNMHRCRXctdTMzdk11NmxSV2xqdHNUSHVTTU5aRkZpWHV6bXFaX3dFaWxOZ0xtV2Z1c0l2aTBfSGpPbEROa2VjRHNMdEFMOFYwdGRnWHJB?oc=5",
-   "summary": "De nouvelles modalités administratives sont mises en place pour les employeurs concernant la déclaration d'un congé supplémentaire de naissance. Ces changements modifient les démarches que les familles doivent anticiper auprès de leur lieu de travail.",
+   "title": "«Il n'y avait pas de lits» : une femme enceinte dénonce avoir passé la nuit sur des chaises en aluminium dans un hôpital de Camagüey",
+   "source": "CiberCuba",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://fr.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343907-habia-camas-embarazada-denuncia-paso-noche-sillas",
+   "summary": "Un témoignage met en lumière des conditions d'accueil précaires dans une maternité, où une femme enceinte a dû passer la nuit sur des sièges en raison d'un manque de lits. Cette situation s'inscrit dans une série de signalements récurrents concernant des difficultés matérielles et des prises en charge dégradées dans cet établissement.",
    "auto": true,
-   "addedAt": "2026-10-10T05:15:18+00:00",
+   "addedAt": "2026-10-27T10:17:45+00:00",
    "pageRead": true,
    "points": [
-    "Informer de manière générale les parents sur l'existence de ces démarches administratives liées à l'arrivée de l'enfant.",
-    "Encourager les couples à se renseigner en amont auprès de leur employeur pour éviter les confusions.",
-    "Laisser la gestion administrative aux organismes compétents tout en soutenant les parents dans leur organisation pratique."
+    "Offre un espace d'écoute bienveillant et sécurisant pour libérer la parole des parents sur leurs craintes liées à l'accouchement en milieu hospitalier.",
+    "Aide les couples à préparer leur projet de naissance en abordant la question du choix de la structure et de leurs attentes en matière de confort.",
+    "Ne prends pas position contre le personnel médical, mais aide les parents à formuler leurs besoins de sécurité et de respect."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-d75398afd7fe",
-   "category": "pol",
+   "id": "a-9b01eb88ff8b",
+   "category": "soc",
    "priority": false,
-   "title": "CHIMM : la maternité des Mureaux en sursis avant octobre",
-   "source": "InfosYvelines",
-   "date": "6 octobre 2026",
-   "sortDate": "2026-10-06",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlRrQmVta1FPUkN2MHhPTFBuYW4weGQ5ZkJPd2dZSHhuNTZkc3hsbGZhSk54djlHMmUyWExKTkpqMlhySlRLbmU3SHRCWmZ3SVp6anBqeWhwQUdRclZiSzdldWZIc0Npd2VRV3VDZXB4RkowQ0stMjZWeGJXSEp2TGRCallTWENUU3c?oc=5",
-   "summary": "La maternité des Mureaux fait face à une menace de fermeture imminente prévue avant le mois d'octobre. Cette situation met en lumière les difficultés d'organisation et le maintien de l'offre de soins périnataux sur le territoire.",
+   "title": "Marine Tondelier, maman de Léon : elle partage un enregistrement de son allaitement en pleine nuit pour faire passer un message politique",
+   "source": "Closer",
+   "date": "26 octobre 2026",
+   "sortDate": "2026-10-26",
+   "url": "https://www.closermag.fr/politique/marine-tondelier-maman-de-leon-elle-partage-un-enregistrement-de-son-allaitement-en-pleine-nuit-pour-faire-passer-un-message-politique-3665725",
+   "summary": "Une personnalité publique a récemment partagé son expérience intime de l'allaitement nocturne et de la fatigue parentale sur les réseaux sociaux. Cette prise de parole met en lumière la réalité complexe des premiers mois, oscillant entre moments de connexion avec le nouveau-né et épuisement physique.",
    "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
+   "addedAt": "2026-10-27T10:17:45+00:00",
    "pageRead": true,
    "points": [
-    "Aborder avec les parents l'impact de ces fermetures de maternités sur leur plan de naissance et leur sentiment de sécurité.",
-    "Aider les familles à identifier des solutions de repli et à anticiper les trajets vers d'autres structures de soins.",
-    "Ne pas émettre d'avis sur la gestion hospitalière et réorienter vers les réseaux de santé pour les questions d'organisation médicale."
+    "Valider la fatigue intense et les sentiments ambivalents des parents durant le post-partum sans culpabilisation.",
+    "Offrir un espace de parole sécurisant autour du choix d'allaiter ou non, en respectant les décisions de chaque mère.",
+    "Rappeler que la doula soutient l'organisation pratique et émotionnelle des nuits, tout en orientant vers des professionnels en cas de difficultés médicales d'allaitement."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4075,6 +4119,27 @@
    "enriched": true
   },
   {
+   "id": "a-934179f4852b",
+   "category": "soc",
+   "priority": false,
+   "title": "Deuil périnatal : la \"double peine\" des grands-parents",
+   "source": "Radio France",
+   "date": "15 octobre 2026",
+   "sortDate": "2026-10-15",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/deuil-perinatal-la-double-peine-des-grands-parents-8967120",
+   "summary": "Le deuil périnatal englobe la perte d'un bébé pendant la grossesse, l'accouchement ou au début de la vie, un événement douloureux qui touche l'ensemble de la cellule familiale. Les associations spécialisées rappellent l'importance de ne pas rester isolé face à cette épreuve, qui impacte également beaucoup les grands-parents.",
+   "auto": true,
+   "addedAt": "2026-10-27T10:17:45+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir la souffrance globale de la famille élargie avec empathie et sans minimiser la perte vécue.",
+    "Connaître les coordonnées des associations spécialisées en deuil périnatal pour pouvoir orienter efficacement les parents endeuillés.",
+    "Maintenir une posture de soutien non médical, en laissant aux professionnels et aux structures spécialisées la prise en charge psychologique et thérapeutique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-8c4c254c66dd",
    "category": "soc",
    "priority": false,
@@ -4236,67 +4301,6 @@
     "Offrir un espace d'écoute inconditionnel et sécurisant aux parents traversant un deuil périnatal pour qu'ils puissent exprimer leur histoire.",
     "Accompagner l'expression des émotions sans chercher à consoler trop vite ni banaliser la perte.",
     "Orienter si besoin vers des professionnels de santé mentale spécialisés tout en maintenant un soutien émotionnel de proximité."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-1f5d192e180e",
-   "category": "soc",
-   "priority": false,
-   "title": "L'allaitement boudé en France et en Normandie : \"on a perdu nos racines lactées\" assure cette professionnelle",
-   "source": "France 3 Régions",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMUh4MjVYS1R1QmFLd1ItNTR1Q2lRYkdvVzl2TjlZRG9jUmlwcTJqOHpQenBDeUVtOGl6Wkp5UEt4aWFtelJPX2FOVWRHRXMzWDVzUjFtQTltbjhQQ1hScXREaXJlU2lKbUJ6ZmcweFJ5V3Z0WVNnVlo4T0laT0JtMzZKQlFhWFBucFFYc2dTX2xOa3hYelhCdTNFY1dpV3hqSWpmdHRYTW9FdVVQb0xrblFqMHpfSUVNRDhVWnIwc21HRXZMWEZBNHMwN0VpX2lmdko5aEQtUzFQTUF5UEpTY3NfT2ZPRDVGalJhNllXNXJ0TGQ4QzNLb24wVEFxbkJ0amQ1ZHZB?oc=5",
-   "summary": "L'article traite de la baisse de la pratique de l'allaitement en France et plus particulièrement en Normandie. Une professionnelle du secteur évoque une perte des repères culturels et traditionnels autour de l'alimentation lactée. Le texte met en avant un constat sociétal sur l'accompagnement des jeunes parents dans ce domaine.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Valoriser les choix des parents concernant l'alimentation de leur bébé, qu'il s'agisse d'allaitement ou de biberon, sans aucune pression.",
-    "Transmettre des informations pratiques et des repères physiologiques simples pour accompagner les premiers jours de l'allaitement si les parents le souhaitent.",
-    "Respecter strictement le champ non médical et rediriger vers une consultante en lactation IBCLC ou une sage-femme en cas de difficultés techniques ou de douleurs."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-1f179d561304",
-   "category": "soc",
-   "priority": false,
-   "title": "« Je voulais partir d’eux, de leur histoire » : cette exposition en Dordogne met en lumière le deuil de la périnatalité",
-   "source": "Dordogne Libre",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbDhFaXNyY0JTYVhkVnJ5MGgtdUZGTWszODEyVnZ5WnhwbUtGWExxZE5SRnFqRjExWGQ5aWVJV0ZnTjYxQ3pvQ0dTemEyVTlzY1dmVkpQN0VpSzVRNG5FRjRINGJQSTUyc04yaWFvWFhXZy0zTEZOajBNZVpITl8wVGYwVVRUc19fN28wVzUyYjl4QWhDOXdzY25XTFNNODlpTmJGb1g3VEZIX2pCQzdRajRleDcwVkh1WTBfT2dnLWpQX192QUxObkRSenZ0dDB4cmstMXoxYm1qWFJ3MU1HRE9lOFU2VkJfS01sSVFHNi1Kc2dIV0E?oc=5",
-   "summary": "Une exposition artistique en Dordogne met en avant la question délicate du deuil périnatal en partant de l'histoire intime des familles touchées. Cette initiative illustre l'importance d'offrir des espaces d'expression pour traverser cette épreuve.",
-   "auto": true,
-   "addedAt": "2026-10-14T05:27:04+00:00",
-   "pageRead": true,
-   "points": [
-    "Intégrer la réalité du deuil périnatal dans sa posture d'accompagnement pour offrir un espace sécurisant aux parents endeuillés.",
-    "Soutenir l'expression émotionnelle des familles sans chercher à remplacer un suivi psychologique ou médical spécialisé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b690899b47ed",
-   "category": "soc",
-   "priority": false,
-   "title": "Journée de la sensibilisation du deuil périnatal soulignée à l’UMCE",
-   "source": "TVA - CIMT-CHAU",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGEtb2NZMjh2TkdlVjZsa19nTmcta24wQmZiQkdZRktTZ2pGQlFxMngwRHVSS2tHZVBHZmU5aGhlSWUzemg5cTN6RlhJYnRxTFRiSjNWVlU3QTdxMkxSWE5mbTlVSmY3WE80TUZwc0o2R0dsT3JvcFlVVHB0NVB2RXc3RGlGOTJBd2h0R0NyMXphNGEwVmp2N3ZwY0NEUQ?oc=5",
-   "summary": "Une journée de sensibilisation au deuil périnatal a été organisée pour lever le tabou autour de la perte d'un enfant pendant la grossesse ou après la naissance. Cet événement souligne le besoin crucial de reconnaissance et de soutien pour les parents concernés.",
-   "auto": true,
-   "addedAt": "2026-10-14T05:27:04+00:00",
-   "pageRead": true,
-   "points": [
-    "Valoriser l'importance de la parole autour du deuil périnatal pour aider les parents à briser l'isolement.",
-    "Respecter strictement son rôle non médical en orientant vers des associations spécialisées et des thérapeutes qualifiés."
    ],
    "summaryAI": true,
    "enriched": true
