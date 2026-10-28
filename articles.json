@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T10:17:45+00:00",
+ "updatedAt": "2026-10-28T11:10:42+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "11 page(s) d'articles lue(s)",
-  "IA : 11 article(s) résumé(s) et commenté(s)"
+  "12 page(s) d'articles lue(s)",
+  "IA : 12 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -160,7 +160,8 @@
   "a-bfb7e4d81550": "2026-10-21",
   "a-3c5ae0f71cd9": "2026-10-13",
   "a-aa6c9acc0cab": "2026-10-26",
-  "a-6b388fa3955e": "2026-10-26"
+  "a-6b388fa3955e": "2026-10-26",
+  "a-fbc099088c98": "2026-10-28"
  },
  "articles": [
   {
@@ -586,6 +587,27 @@
    "enriched": true
   },
   {
+   "id": "a-bf1d3e73548f",
+   "category": "sci",
+   "priority": false,
+   "title": "30 % des mamans ont connu au moins une difficulté en post-partum, selon une étude de l'Ifop",
+   "source": "Magicmaman",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.magicmaman.com/30-des-mamans-ont-connu-au-moins-une-difficulte-en-post-partum-selon-une-etude-de-l-ifop,3787320.asp",
+   "summary": "Une étude de l'Ifop menée pour l'Ordre des sages-femmes montre que les femmes sont globalement satisfaites du suivi de leur grossesse tout en soulignant la nécessité d'améliorer l'accompagnement après l'accouchement. Elle révèle également que les professionnels de santé et l'entourage constituent les principales sources d'information des parents, loin devant Internet et les réseaux sociaux.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Valide l'importance d'un soutien renforcé et d'une présence attentive auprès des parents durant la période délicate du post-partum.",
+    "Utilise ce constat sur la valeur de l'entourage pour valoriser le rôle de soutien informel et de transmission d'informations pratiques de la doula.",
+    "Oriente systématiquement les parents vers le corps médical pour toute question de santé, tout en offrant un espace d'écoute et de parole bienveillant."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-92d1c97a147b",
    "category": "sci",
    "priority": false,
@@ -602,6 +624,27 @@
     "Aborder la question du tabagisme et de la nicotine de manière bienveillante et sans jugement lors des entretiens prénataux.",
     "Soutenir l'information globale sur les risques de l'exposition au tabac, tout en redirigeant vers des professionnels de santé qualifiés pour le sevrage.",
     "Garder à l'esprit que la doula n'a pas à porter de diagnostic sur les impacts physiologiques à long terme, mais peut offrir un espace d'écoute sur les difficultés du sevrage."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-26da88bb8d6f",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement maternel : pourquoi les seins semblent-ils savoir que bébé a faim ?",
+   "source": "La Nation Bénin",
+   "date": "25 octobre 2026",
+   "sortDate": "2026-10-25",
+   "url": "https://lanation.bj/sante/allaitement-maternel-pourquoi-les-seins-semblent-ils-savoir-que-bebe-a-faim",
+   "summary": "Cet article explique la physiologie derrière le réflexe d'éjection du lait maternel, qui est stimulé non seulement par la succion du bébé, mais aussi par des facteurs émotionnels et sensoriels comme la vue, les pleurs ou les pensées envers l'enfant. Il met en lumière le rôle des hormones telles que la prolactine et l'ocytocine dans ces réactions corporelles.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux rassurer les mères en leur expliquant que ressentir des picotements ou des montées de lait en pensant à leur bébé est une réaction physiologique normale et naturelle.",
+    "Utilise cette information pour encourager les parents à cultiver le lien émotionnel avec leur nourrisson, ce qui favorise l'allaitement sans forcer le contact physique permanent.",
+    "Rappelle aux parents que si des difficultés d'allaitement ou des douleurs surviennent, seule une consultante en lactation certifiée ou un professionnel de santé qualifié doit intervenir."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1150,6 +1193,27 @@
    "enriched": true
   },
   {
+   "id": "a-c9ac836a44f8",
+   "category": "sci",
+   "priority": false,
+   "title": "L’Hôpital de maternité et de pédiatrie d’Abha obtient l’accréditation internationale « Hôpital ami des bébés »",
+   "source": "وكالة الأنباء السعودية",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://www.spa.gov.sa/fr/N2704825",
+   "summary": "L'Hôpital de maternité et de pédiatrie d'Abha a obtenu l'accréditation internationale « Hôpital ami des bébés » délivrée par l'OMS et l'UNICEF pour la période 2026-2029. Cette reconnaissance valorise le respect des critères favorisant la qualité des soins maternels, infantiles et la promotion de l'allaitement maternel.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux mentionner l'existence de ce label international aux parents pour les aider à choisir une structure de naissance engagée dans le soutien actif à l'allaitement et au respect du lien mère-enfant.",
+    "Utilise cette information pour valoriser l'importance d'un environnement de naissance sécurisant et respectueux des premières heures de vie lors de tes échanges sur le projet de naissance.",
+    "N'interviens jamais dans le choix médical de l'établissement de santé, ton rôle se limitant à informer les parents sur les existences de labels et de pratiques reconnues."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-460497df248f",
    "category": "sci",
    "priority": false,
@@ -1166,6 +1230,27 @@
     "Abordez la baisse fréquente de l'allaitement après les premières semaines pour préparer les parents à anticiper les difficultés potentielles.",
     "Orientez les mères vers les associations locales de soutien par les pairs pour briser l'isolement face aux défis de l'allaitement.",
     "Restez dans votre rôle de soutien pratique et émotionnel en évitant tout conseil médical sur la lactation ou la prise de poids du nourrisson."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-0be4f4bcc03c",
+   "category": "sci",
+   "priority": false,
+   "title": "Luzech. Une nouvelle sage-femme rejoint la maison médicale",
+   "source": "ladepeche.fr",
+   "date": "18 octobre 2026",
+   "sortDate": "2026-10-18",
+   "url": "https://www.ladepeche.fr/2026/10/18/une-nouvelle-sage-femme-rejoint-la-maison-medicale-13607957.php",
+   "summary": "Une nouvelle sage-femme libérale a intégré la maison médicale de Luzech afin de renforcer l'offre de soins de proximité en gynécologie, prévention et suivi de santé sexuelle. Cette installation répond aux enjeux d'accès aux professionnels de santé dans les zones rurales.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Encourage les parents et les futures mères à constituer rapidement leur réseau de professionnels de santé de proximité dès le début de la grossesse.",
+    "Tu peux intégrer cette nouvelle ressource locale dans ton carnet d'adresses pour orienter facilement les femmes vers un suivi gynécologique et périnatal adapté.",
+    "Ne te substitue jamais au suivi médical assuré par cette sage-femme et rappelle toujours aux parents que les consultations cliniques relèvent exclusivement de sa compétence."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1713,85 +1798,22 @@
    "enriched": true
   },
   {
-   "id": "a-81985b4346c5",
-   "category": "sci",
+   "id": "a-087cdc32e7fa",
+   "category": "pol",
    "priority": false,
-   "title": "Sarreguemines. Semaine de l’allaitement : des ateliers de portage, d’initiation au massage, au bain enveloppé…",
-   "source": "Le Republicain Lorrain",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMU5uMkVrTVJud0pZeWIyeUNSX2Q4Zk1GMlNYbVgtbzBRVWppRUpkZkpUeW04NzhTc0hVRlFzamJPZDZfY0hzZnlTSFVOa3ZKdk9rcFZGV0stRE43SXpVeW81U0huRjhYY2FfQXVxZG45OWx2OXNkZnhXVnFoUHZoUTZSTG5EU2FMLWJXMDJBSnNubnd3VDAyVk5TQ1ByclVpd2NWWkRfcThXTUNxWDJZZmVoYWkyRzlkX2hsN3ByYldyRjBfQ0hIaXZ5VXV1Q1h3aURHbmJTWDB1dw?oc=5",
-   "summary": "Dans le cadre de la semaine de l'allaitement, plusieurs ateliers pratiques sont proposés aux familles, incluant le portage, le massage et le bain enveloppé. Ces activités visent à favoriser le bien-être du nouveau-né et à renforcer le lien parent-enfant.",
+   "title": "Congé supplémentaire de naissance : l’employeur doit-il continuer à payer la mutuelle ? On vous répond",
+   "source": "maville.com",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://guingamp.maville.com/actu/actudet_-conge-supplementaire-de-naissance-l-employeur-doit-il-continuer-a-payer-la-mutuelle-on-vous-repond_54135-7546967_actu.Htm",
+   "summary": "Prévu pour juillet 2026, le congé supplémentaire de naissance permet aux parents salariés de prolonger leur absence d'un ou deux mois après l'arrivée de l'enfant pour soutenir la natalité. Ce dispositif s'ajoute aux congés déjà existants pour offrir un temps d'accueil élargi au sein de la famille.",
    "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
+   "addedAt": "2026-10-28T11:10:42+00:00",
    "pageRead": true,
    "points": [
-    "Intégrez ces outils pratiques dans vos discussions ou propositions d'ateliers pour aider les parents à créer du lien avec leur bébé.",
-    "Encouragez les parents à tester différentes techniques de portage et de relaxation pour observer ce qui convient le mieux à leur nouveau-né.",
-    "Rappelez que ces pratiques de bien-être complètent l'accompagnement mais ne se substituent pas aux recommandations des professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-94c261b25932",
-   "category": "sci",
-   "priority": false,
-   "title": "Côte d’Ivoire-AIP/ Les sages-femmes de Toulepleu lancent une campagne de sensibilisation contre les cancers du sein et du col de l’utérus - AIP - Agence Ivoirienne de Presse",
-   "source": "AIP - Agence Ivoirienne de Presse",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://www.aip.ci/cote-divoire-aip-les-sages-femmes-de-toulepleu-lancent-une-campagne-de-sensibilisation-contre-les-cancers-du-sein-et-du-col-de-luterus/",
-   "summary": "L'Association des sages-femmes de Côte d'Ivoire a lancé une campagne de sensibilisation dans le cadre d'Octobre Rose pour promouvoir le dépistage des cancers du sein et du col de l'utérus. Les autorités locales et sanitaires saluent l'action des sages-femmes et invitent les femmes à fréquenter les structures de santé pour s'informer sur leur état de santé.",
-   "auto": true,
-   "addedAt": "2026-10-19T05:29:00+00:00",
-   "pageRead": true,
-   "points": [
-    "Rappelez aux femmes l'importance du suivi gynécologique régulier et des examens de dépistage, même pendant ou après la période périnatale.",
-    "Encouragez les parents à poser leurs questions de santé globale aux professionnels médicaux compétents lors de leurs consultations.",
-    "Ne réalisez aucun diagnostic ni aucune palpation médicale, votre rôle se limitant à informer sur l'existence des campagnes de prévention."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-5b5d6db0868c",
-   "category": "sci",
-   "priority": false,
-   "title": "Semaine de l’allaitement : des ateliers pour s’informer à la maternité de Beaumont",
-   "source": "La Montagne",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/semaine-de-lallaitement-des-ateliers-pour-sinformer-a-la-maternite-de-beaumont_15061380/",
-   "summary": "La maternité de l'Hôpital privé La Châtaigneraie organise des ateliers d'échanges autour de l'allaitement pour informer, accompagner et rassurer les futurs et jeunes parents. Ces temps de partage ouverts aux bébés permettent aux mères de poser leurs questions et de bénéficier de conseils professionnels dans un cadre convivial.",
-   "auto": true,
-   "addedAt": "2026-10-19T05:29:00+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourage les parents à participer aux réunions d'information en maternité pour tisser un réseau et verbaliser leurs doutes en amont.",
-    "Utilise ces espaces collectifs comme source d'inspiration pour nourrir ton écoute bienveillante sur les questionnements fréquents du post-partum.",
-    "Oriente systématiquement les questions d'ordre clinique ou les difficultés physiologiques d'allaitement vers les sages-femmes ou les consultantes en lactation."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-f6093de10a13",
-   "category": "sci",
-   "priority": false,
-   "title": "Vandœuvre-lès-Nancy. Une journée consacrée à l’allaitement maternel",
-   "source": "L'Est Républicain",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://www.estrepublicain.fr/sante/2026/10/10/une-journee-consacree-a-l-allaitement-maternel",
-   "summary": "Une journée dédiée à l'allaitement maternel est organisée afin de rappeler que ce mode d'alimentation constitue une source nutritionnelle de premier plan pour le nourrisson. L'événement s'inscrit dans le cadre d'une manifestation existant depuis le début des années 1990 pour promouvoir les atouts du lait maternel.",
-   "auto": true,
-   "addedAt": "2026-10-19T05:29:00+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux valoriser le choix de l'allaitement en informant de manière neutre sur ses spécificités, tout en restant dans une posture de soutien inconditionnel du projet des parents.",
-    "Accueille la parole des mères sur leurs choix d'alimentation du nourrisson, qu'elles allaitent ou non, sans émettre de jugement personnel.",
-    "Rappelle que toute question médicale liée à la nutrition du nouveau-né doit être abordée avec le pédiatre ou la sage-femme."
+    "Informe les parents sur l'existence de ce nouveau congé pour qu'ils puissent anticiper leur organisation administrative et financière.",
+    "Oriente les familles vers les employeurs ou les services RH pour vérifier les conditions exactes d'application et de maintien de la mutuelle.",
+    "Rappelle que la doula n'a pas vocation à interpréter les textes juridiques ou sociaux mais peut encourager les parents à se renseigner auprès des organismes compétents."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1813,6 +1835,27 @@
     "Tiens-toi informée des évolutions législatives concernant les congés pour mieux orienter administrativement les futurs parents.",
     "Aide les couples à anticiper leurs démarches et leurs droits sociaux en amont de l'arrivée de l'enfant.",
     "Évite de donner des conseils juridiques précis ou administratifs contraignants, et invite-les à vérifier auprès de leur employeur ou des organismes officiels."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2b7e54f0b0ce",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé supplémentaire de naissance : Erratum sur la mutuelle",
+   "source": "News Assurances Pro",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.newsassurancespro.com/conge-supplementaire-de-naissance-erratum-sur-la-mutuelle/01691690835",
+   "summary": "Le ministère du Travail a publié un erratum au Journal officiel modifiant sa position concernant le financement de la mutuelle d'entreprise pendant le congé supplémentaire de naissance. La contribution de l'employeur à la complémentaire santé n'est finalement pas systématiquement due lors de cette période de suspension du contrat de travail.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Avertis les parents salariés de la complexité des règles liées au congé supplémentaire de naissance afin qu'ils vérifient leur situation auprès de leur employeur.",
+    "Maintiens ton rôle d'écoute sans te substituer à un conseiller juridique ou aux ressources humaines de leur entreprise.",
+    "Encourage les familles à anticiper la gestion de leur budget et de leur protection sociale avant l'arrivée du bébé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1981,6 +2024,27 @@
     "Informe les parents sur l'évolution de la carte des maternités de leur région pour les aider à anticiper leurs choix de lieu de naissance.",
     "Comprends que la raréfaction des structures peut générer de l'anxiété chez les futurs parents quant à la prise en charge de leur accouchement.",
     "Rappelle ton rôle non médical : tu ne peux pas influencer les décisions d'implantation ou de fermeture des établissements de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-cc9be758d02a",
+   "category": "pol",
+   "priority": false,
+   "title": "Un député du parti Chega propose la création d'une salle d'allaitement au Parlement",
+   "source": "The Portugal News",
+   "date": "23 octobre 2026",
+   "sortDate": "2026-10-23",
+   "url": "https://www.theportugalnews.com/fr/nouvelles/2026-10-23/chega-mp-propose-la-creation-dune-salle-dallaitement-au-parlement/1104762",
+   "summary": "Une députée portugaise a soumis une proposition officielle pour aménager une salle d'allaitement et de recueil de lait au sein du Parlement. Cette initiative vise à garantir un environnement adapté pour permettre aux femmes de concourir à la vie politique tout en poursuivant l'alimentation de leur enfant.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux t'appuyer sur cette actualité pour discuter avec les parents de la difficulté de concilier reprise professionnelle et poursuite de l'allaitement dans les lieux publics ou de travail.",
+    "Aide les parents à identifier leurs droits en matière d'aménagement du temps de travail ou d'espaces dédiés pour l'expression du lait lorsqu'ils préparent leur reprise.",
+    "Garde à l'esprit que ton rôle n'est pas de faire du militantisme politique ou institutionnel, mais d'écouter les difficultés vécues par les mères et de les orienter vers les textes légaux ou les associations de défense des droits des parents."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2989,68 +3053,6 @@
    "enriched": true
   },
   {
-   "id": "a-4af715b15b88",
-   "category": "pol",
-   "priority": false,
-   "title": "Marie Leroy, sage-femme libérale dans l'Eure",
-   "source": "Radio France",
-   "date": "7 octobre 2026",
-   "sortDate": "2026-10-07",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDhuSjNyQ3dJN01mT20tUXdtVEFHVTd1dTM1WHdlOElUSGR6UVctdDUtTDl6N0tvQlU2UUhYclFNZG13Um9kXzlZX2E5RU9OTjBtaFdRQ0NQNHBfU3E1NzFDSkktaFNVazZ4YkFqdnVMbzZrd3JzQ2ZrdlVydVB5U3JmYUZLNVZMbXpUalpwSFdQc2s3TkFLMDFBcVJBYTJYdFI0WXpUem5NcGJjMEZsQWtKdkJ1TmhZWHNR?oc=5",
-   "summary": "Un reportage met en avant l'activité d'une sage-femme libérale exerçant dans le département de l'Eure. Le rôle et la présence de cette professionnelle de santé sur le terrain sont ainsi mis en valeur.",
-   "auto": true,
-   "addedAt": "2026-10-14T05:27:04+00:00",
-   "pageRead": true,
-   "points": [
-    "Encouragez les parents à nouer un lien privilégié avec leur sage-femme dès le début de la grossesse pour leur suivi médical.",
-    "Rappelez régulièrement aux familles que la sage-femme est l'interlocutrice médicale de référence pour la mère et le bébé, tandis que vous intervenez en complémentarité sur le plan pratique et émotionnel."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d96a752a2f88",
-   "category": "pol",
-   "priority": false,
-   "title": "Périnatalité : le réseau Te Hono Tini réclame des moyens et une enquête",
-   "source": "tahiti-infos.com",
-   "date": "6 octobre 2026",
-   "sortDate": "2026-10-06",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpLYldTUTFrcDFJS2lYLVFFMnBmV1o0REZpSXdUYUZBR2RUN3BnWk1PdGlBVzYwVEh6UVlvWEpBcm5CWmNueExGT2M2Vl9jdS1GaF9zRFh1cnN5TENObnBsNmlSZzZWc0U2ci1xeGVoWjFBSGI3N2tUZFg0aGFhNlEtNGN4M2Q4bFM3WVVRc3pDQkU2OV9wX0JLc0JpN285bGw0VERUb0VDUk1PeHpFak8tQmdvdw?oc=5",
-   "summary": "Le réseau Te Hono Tini demande davantage de moyens et réclame l'ouverture d'une enquête dans le domaine de la périnatalité. L'article ne contient pas d'autres informations détaillées sur le sujet.",
-   "auto": true,
-   "addedAt": "2026-10-06T05:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents la question des ressources locales et des difficultés d'accès aux structures de soins périnataux.",
-    "Offrir un espace d'écoute pour rassurer les familles face aux inquiétudes liées au manque de moyens des services de santé.",
-    "Rappeler aux parents que les aspects purement organisationnels et les revendications politiques relèvent des institutions et non du rôle de la doula."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-253072f9b2de",
-   "category": "pol",
-   "priority": false,
-   "title": "De nouvelles modalités pour déclarer un congé supplémentaire de naissance",
-   "source": "Entreprendre Service Public",
-   "date": "6 octobre 2026",
-   "sortDate": "2026-10-06",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ldllVNHJsVTkzNkN2M0dZMmV1ZGRpMGNNMHRCRXctdTMzdk11NmxSV2xqdHNUSHVTTU5aRkZpWHV6bXFaX3dFaWxOZ0xtV2Z1c0l2aTBfSGpPbEROa2VjRHNMdEFMOFYwdGRnWHJB?oc=5",
-   "summary": "De nouvelles procédures administratives ont été mises en place pour simplifier la déclaration d'un congé supplémentaire de naissance. Ces directives informent les familles sur les démarches à suivre pour bénéficier de leurs droits.",
-   "auto": true,
-   "addedAt": "2026-10-09T05:16:17+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les couples sur l'existence de ces démarches administratives pour anticiper l'organisation du foyer après l'arrivée de l'enfant.",
-    "Soutenir l'expression du stress lié aux formalités en offrant un espace d'écoute bienveillant et pratique.",
-    "Se positionner strictement sur l'accompagnement émotionnel et organisationnel, sans se prononcer sur la complexité légale."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-c5de351a5d30",
    "category": "soc",
    "priority": false,
@@ -3067,6 +3069,27 @@
     "Offre un espace d'écoute bienveillant et sécurisant pour libérer la parole des parents sur leurs craintes liées à l'accouchement en milieu hospitalier.",
     "Aide les couples à préparer leur projet de naissance en abordant la question du choix de la structure et de leurs attentes en matière de confort.",
     "Ne prends pas position contre le personnel médical, mais aide les parents à formuler leurs besoins de sécurité et de respect."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-b64541528822",
+   "category": "soc",
+   "priority": false,
+   "title": "Ce mail reçu en plein accouchement : comment cette maman a appris son cancer du sein et vu sa maternité basculer",
+   "source": "Astro NextPlz",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://astro.nextplz.fr/mise-en-avant/ce-mail-recu-en-plein-accouchement-comment-cette-maman-a-appris-son-cancer-du-sein-et-vu-sa-maternite-basculer-41201.html",
+   "summary": "Une femme enceinte de trente-huit ans a découvert qu'elle était atteinte d'un cancer du sein en plein accouchement, à la suite de la réception des résultats d'une biopsie réalisée en fin de grossesse. Ce témoignage illustre comment un événement médical lourd peut surgir et bousculer brutalement la venue au monde d'un enfant.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueille avec beaucoup de sensibilité les peurs ou les traumatismes liés à des complications de santé survenant de manière inattendue pendant la grossesse ou l'accouchement.",
+    "Rappelle l'importance d'écouter les modifications de son corps et d'oser consulter des professionnels de santé face au moindre doute, même en fin de gestation.",
+    "Garde à l'esprit que la doula offre un soutien émotionnel mais ne peut en aucun cas poser de diagnostic ni se substituer au suivi médical en cas de pathologie."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3553,6 +3576,27 @@
    "enriched": true
   },
   {
+   "id": "a-aead210b169e",
+   "category": "soc",
+   "priority": false,
+   "title": "Une nuit avec une nounou spécialisée : entre soins aux nouveau-nés et succès en ligne",
+   "source": "Il Mattino",
+   "date": "19 octobre 2026",
+   "sortDate": "2026-10-19",
+   "url": "https://www.ilmattino.it/fr/une_nuit_avec_une_nounou_specialisee_entre_soins_aux_nouveau_nes_et_succes_en_ligne-9834488.html",
+   "summary": "Cet article évoque l'activité d'une jeune professionnelle proposant des services d'assistance nocturne spécialisée pour les nouveau-nés, rencontrant un succès important notamment grâce à sa visibilité en ligne. Il illustre le développement de nouvelles formes d'accompagnement privé à destination des jeunes parents épuisés.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborde avec les parents l'importance de anticiper la fatigue des premières semaines et de réfléchir au réseau de soutien disponible à la maison en post-partum.",
+    "Aide les couples à exprimer leurs besoins d'aide pratique à domicile pour qu'ils puissent solliciter leur entourage ou des professionnels adaptés à leurs attentes.",
+    "Rappelle que si le manque de sommeil devient pathologique ou source de détresse psychologique majeure, il est indispensable de rediriger les parents vers des professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-95d09b6f63cd",
    "category": "soc",
    "priority": false,
@@ -3883,6 +3927,27 @@
     "Valoriser l'importance du soutien communautaire et du partage d'expérience entre parents autour de l'allaitement.",
     "Identifier les ressources locales et associatives vers lesquelles orienter les familles en cas de besoin spécifique.",
     "Maintenir une posture d'accompagnement non médicale en s'appuyant sur l'écoute et le relais vers des réseaux spécialisés."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-d5a5b53a65f5",
+   "category": "soc",
+   "priority": false,
+   "title": "Accouchement, post partum… « Maison des doulas » accompagne les femmes et les familles de Lille",
+   "source": "Actu.fr",
+   "date": "16 octobre 2026",
+   "sortDate": "2026-10-16",
+   "url": "https://actu.fr/hauts-de-france/lille_59350/accouchement-post-partum-maison-des-doulas-accompagne-les-femmes-et-les-familles-de-lille_64934245.html",
+   "summary": "L'association « Maison des doulas » à Lille propose des ateliers, des cercles de parole et un soutien pratique et émotionnel personnalisé pour les familles avant et après la naissance. Les fondatrices rappellent que le métier de doula, bien que non réglementé en France, vise à offrir un accompagnement continu et à prévenir l'isolement des parents. L'association élargit également ses actions à la sensibilisation des jeunes filles et à la prévention des violences intrafamiliales.",
+   "auto": true,
+   "addedAt": "2026-10-28T11:10:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser l'exemple de cette association pour expliquer aux parents la valeur d'un soutien communautaire et d'espaces de parole partagés pendant le post-partum.",
+    "Rappeler aux familles le rôle non médical de la doula, axé sur l'écoute, le bien-être et la logistique quotidienne, en complément des professionnels de santé.",
+    "S'inspirer de leur approche pour proposer des cercles de parole sécurisants qui libèrent la parole sur le vécu de la parentalité et préviennent l'épuisement."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4239,68 +4304,6 @@
     "Parlez de ces rendez-vous communautaires aux parents qui s'interrogent sur l'alimentation de leur nouveau-né.",
     "Offrez un espace d'écoute pour recueillir leurs doutes et leurs attentes concernant l'allaitement, en complément des actions de promotion locale.",
     "Réorientez systématiquement vers un médecin ou une consultante en lactation certifiée en cas de difficultés physiologiques ou de douleur."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-27ca53953250",
-   "category": "soc",
-   "priority": false,
-   "title": "Des cours sur l'allaitement aux Petites Pousses des Arceaux",
-   "source": "l'Essentiel media",
-   "date": "14 octobre 2026",
-   "sortDate": "2026-10-14",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYUdiM2U1ZVpRcWJ6SzJGemFPM0lrUFdzZDBOUHBJNjZTVXNYV2JGUEtXQzBhQXRyMWd6SVlsOW4zWHBsaU02ejdKWXUzbG1yVGZGRGdYVmN2aVV2N1hpdldWTUcxblJZcy1vM1dha0xjZWt6UG1rWUIyQ1JWeUdWeUxWc2VTNkVpa2tGZ1VKNi1WaUh4Z2NsT0s2RmI3dk5BQnNRZ3JtZ0dYTXp1Smc2NXgwSVMwdDdSdTdUSFp2NkNfRkU?oc=5",
-   "summary": "Cet article mentionne la mise en place d'ateliers d'information dédiés à l'allaitement au sein d'une structure locale. Ces rendez-vous visent à offrir un espace d'échange et de préparation pour les futurs ou jeunes parents. Le texte ne fournit pas de détails approfondis sur le contenu pédagogique de ces sessions.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Vous pouvez vous inspirer de cette initiative pour proposer des temps d'échange collectifs autour de l'alimentation des nourrissons.",
-    "Rappelez aux parents que ces ateliers complètent, mais ne remplacent pas, l'accompagnement médical ou par une consultante en lactation."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2a1956690594",
-   "category": "soc",
-   "priority": false,
-   "title": "Loulou Kitchen témoigne de l'évolution de son corps plus d'un an après son dernier accouchement",
-   "source": "Yahoo Actualités",
-   "date": "14 octobre 2026",
-   "sortDate": "2026-10-14",
-   "url": "https://fr.news.yahoo.com/loulou-kitchen-temoigne-l-evolution-053403917.html",
-   "summary": "Quinze mois après son accouchement, une créatrice de contenu partage son vécu du post-partum, marqué par la fatigue, le manque de sommeil et l'évolution de son corps. Elle insiste sur l'importance de s'écouter et de prendre le temps d'apprivoiser sa nouvelle silhouette sans céder aux injonctions extérieures.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Utiliser ce type de témoignage pour valider le vécu émotionnel et physique des jeunes mères lors des consultations en post-partum.",
-    "Offrir un espace d'écoute bienveillant et déculpabilisant face à la fatigue intense et aux changements corporels de la période postnatale.",
-    "Rapporter toute souffrance psychologique trop intense vers un professionnel de santé, la doula restant dans un soutien d'écoute sans prise en charge thérapeutique."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3e6d20f50289",
-   "category": "soc",
-   "priority": false,
-   "title": "« Je voulais partir d’eux, de leur histoire » : Anne-Sophie Bender met en lumière le deuil de la périnatalité",
-   "source": "Dordogne Libre",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbDhFaXNyY0JTYVhkVnJ5MGgtdUZGTWszODEyVnZ5WnhwbUtGWExxZE5SRnFqRjExWGQ5aWVJV0ZnTjYxQ3pvQ0dTemEyVTlzY1dmVkpQN0VpSzVRNG5FRjRINGJQSTUyc04yaWFvWFhXZy0zTEZOajBNZVpITl8wVGYwVVRUc19fN28wVzUyYjl4QWhDOXdzY25XTFNNODlpTmJGb1g3VEZIX2pCQzdRajRleDcwVkh1WTBfT2dnLWpQX192QUxObkRSenZ0dDB4cmstMXoxYm1qWFJ3MU1HRE9lOFU2VkJfS01sSVFHNi1Kc2dIV0E?oc=5",
-   "summary": "Cet article aborde la mise en lumière du deuil périnatal à travers le travail d'Anne-Sophie Bender. Il met l'accent sur l'importance de partir de l'histoire personnelle des parents pour évoquer ces épreuves douloureuses. Le texte reste toutefois très succinct sur le contenu exact de la démarche.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute inconditionnel et sécurisant aux parents traversant un deuil périnatal pour qu'ils puissent exprimer leur histoire.",
-    "Accompagner l'expression des émotions sans chercher à consoler trop vite ni banaliser la perte.",
-    "Orienter si besoin vers des professionnels de santé mentale spécialisés tout en maintenant un soutien émotionnel de proximité."
    ],
    "summaryAI": true,
    "enriched": true
