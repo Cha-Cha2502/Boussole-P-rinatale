@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T11:10:42+00:00",
+ "updatedAt": "2026-10-29T11:23:27+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "12 page(s) d'articles lue(s)",
-  "IA : 12 article(s) résumé(s) et commenté(s)"
+  "11 page(s) d'articles lue(s)",
+  "IA : 11 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -161,7 +161,8 @@
   "a-3c5ae0f71cd9": "2026-10-13",
   "a-aa6c9acc0cab": "2026-10-26",
   "a-6b388fa3955e": "2026-10-26",
-  "a-fbc099088c98": "2026-10-28"
+  "a-fbc099088c98": "2026-10-28",
+  "a-9185ceca2851": "2026-10-29"
  },
  "articles": [
   {
@@ -542,6 +543,48 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-0f9008209831",
+   "category": "sci",
+   "priority": false,
+   "title": "Incontinence fécale: le grand tabou du suivi de grossesse",
+   "source": "Medinside",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://www.medinside.ch/fr/incontinence-fecale-le-grand-tabou-du-suivi-de-grossesse-20261028",
+   "summary": "Un article évoque des directives médicales concernant les premiers accouchements et aborde brièvement, via une étude, le tabou de l'incontinence fécale pendant le suivi de grossesse ainsi que la difficulté pour les professionnels de l'aborder. Les autres sujets abordés concernent l'organisation générale du système de santé, la pédiatrie ou la prise en charge de pathologies sans lien direct avec la périnatalité.",
+   "auto": true,
+   "addedAt": "2026-10-29T11:23:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Ouvrir un espace de parole sécurisant autour des inconforts intimes du post-partum, comme les difficultés de continence, qui sont souvent tus par gêne.",
+    "Rappeler aux parents que les professionnels de santé peuvent parfois passer à côté de ces sujets par manque de temps, les encourageant à oser poser leurs questions lors des consultations.",
+    "Ne jamais poser de diagnostic ni minimiser ces symptômes, et orienter systématiquement vers une sage-femme ou un kinésithérapeute spécialisé en périnéo-sphinctérienne."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-43eff44e24be",
+   "category": "sci",
+   "priority": false,
+   "title": "Actualité | Cancer du sein : l’allaitement maternel et l’arrêt du tabac et de l’alcool parmi les facteurs de prévention",
+   "source": "mediacongo.net",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://www.mediacongo.net/article-actualite-168780_cancer_du_sein_l_allaitement_maternel_et_l_arret_du_tabac_et_de_l_alcool_parmi_les_facteurs_de_prevention.html",
+   "summary": "Une journée de sensibilisation au cancer du sein met en avant plusieurs facteurs de prévention liés au mode de vie, incluant l'allaitement maternel prolongé, l'arrêt du tabac et de l'alcool ainsi que l'activité physique. Les spécialistes rappellent toutefois que ces mesures réduisent les risques sans garantir une protection absolue, et insistent sur l'importance du dépistage et du suivi médical.",
+   "auto": true,
+   "addedAt": "2026-10-29T11:23:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Valoriser les bienfaits de l'allaitement maternel sur la santé globale des parents tout en restant à l'écoute des choix de chacun, sans culpabilisation.",
+    "Aborder la prévention et l'hygiène de vie sous un angle informatif lors des discussions autour du post-partum et de la santé des femmes.",
+    "Rappeler que ces conseils de prévention ne remplacent en aucun cas un suivi médical régulier et encourager à consulter en cas de doute ou de signes inhabituels."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1256,6 +1299,27 @@
    "enriched": true
   },
   {
+   "id": "a-bf9470e0f40a",
+   "category": "sci",
+   "priority": false,
+   "title": "CANNES : Santé publique - Le Forum Européen de l'Allaitement quitte Nice et s'installe sur la Croisette",
+   "source": "Presse Agence",
+   "date": "17 octobre 2026",
+   "sortDate": "2026-10-17",
+   "url": "https://presseagence.fr/cannes-sante-publique-le-forum-europeen-de-lallaitement-quitte-nice-et-sinstalle-sur-la-croisette/",
+   "summary": "Le Forum Européen de l'Allaitement déménage de Nice à Cannes pour continuer à rassembler professionnels et grand public autour de la périnatalité. Cet événement vise notamment à répondre aux difficultés de la France en matière d'encouragement et d'accompagnement de l'allaitement maternel.",
+   "auto": true,
+   "addedAt": "2026-10-29T11:23:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Se tenir informée des nouvelles dates de cet événement pour proposer des ressources actualisées aux parents intéressés par l'allaitement.",
+    "Constater les difficultés nationales en matière d'allaitement pour offrir un espace de soutien renforcé, bienveillant et sans jugement aux mères qui font ce choix.",
+    "Rappeler aux parents que l'accompagnement médical de l'allaitement relève des professionnels de santé qualifiés, tandis que la doula offre un soutien pratique et émotionnel au quotidien."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-2638b8514743",
    "category": "sci",
    "priority": false,
@@ -1735,64 +1799,22 @@
    "enriched": true
   },
   {
-   "id": "a-12ecaa5a60d4",
-   "category": "sci",
+   "id": "a-0d980d84c180",
+   "category": "pol",
    "priority": false,
-   "title": "Vienne: le CHU de Poitiers se prépare à la semaine consacrée à l'allaitement maternel",
-   "source": "BFM",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://www.bfmtv.com/vienne/vienne-le-chu-de-poitiers-se-prepare-a-la-semaine-consacree-a-l-allaitement-maternel_AN-202610120668.html",
-   "summary": "À l'occasion de la semaine mondiale de l'allaitement maternel, de nombreux établissements de santé et structures locales organisent des actions d'information et des cafés d'allaitement. Ces initiatives visent à valoriser le soutien aux familles, à informer sur les bienfaits de l'allaitement et à renforcer les réseaux de professionnels formés.",
+   "title": "Marine Tondelier, maman en campagne : « Pour un message sur l'allaitement, je reçois des remerciements sur Insta et des insultes sur X »",
+   "source": "Paris Match",
+   "date": "29 octobre 2026",
+   "sortDate": "2026-10-29",
+   "url": "https://www.parismatch.com/marine-tondelier-maman-en-campagne-pour-message-sur-lallaitement-je-recois-remerciements-sur-insta-insultes-sur-x-7mZEXoYrjLnPKOuBQ9YSiU",
+   "summary": "Une personnalité politique revient sur sa reprise rapide d'activité professionnelle peu de temps après la fin de son congé maternité. Le témoignage illustre l'organisation logistique et le rôle central du coparent, ainsi que le soutien familial, pour articuler vie publique, reprise des responsabilités et premiers mois de vie d'un nouveau-né.",
    "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
+   "addedAt": "2026-10-29T11:23:27+00:00",
    "pageRead": true,
    "points": [
-    "Informer les parents accompagnés sur les événements et permanences locales organisés pendant cette semaine dédiée pour enrichir leurs ressources.",
-    "Valoriser l'importance d'un environnement bienveillant et du soutien des réseaux locaux pour la réussite du projet d'allaitement des parents.",
-    "Veiller à rediriger systématiquement les questions d'ordre médical ou pathologique vers les professionnels de santé habilités des structures hospitalières."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3a5b805abfd1",
-   "category": "sci",
-   "priority": false,
-   "title": "Les femmes obèses post-partum sont confrontées à de nombreux risques pour la santé",
-   "source": "Laodong.vn",
-   "date": "11 octobre 2026",
-   "sortDate": "2026-10-11",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2pNdU5vdWNsSWZYMHVrX2RsNmlhZHFRZVB0N0VQOElOTUM2clFFVDZ1MnIzQlRuMGktcHlZbTRTcHpnQ1VKYzJLRW5LVDE0MnY4UWp4Vl9nZjFsTUtLeEtlNUVPbGNOaWoyRDF0UG8tNjhLUDBPb3B0cEU2SHVJYnd6bnlEekNkUTZXVVE2cldBN05wYUx2TW9iTG9vQQ?oc=5",
-   "summary": "Les femmes en situation d'obésité durant la période post-partum font face à divers risques de santé accrus. Ces difficultés nécessitent une attention particulière durant les premiers mois suivant la naissance.",
-   "auto": true,
-   "addedAt": "2026-10-11T05:15:31+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la question du bien-être corporel et du poids avec beaucoup de tact et sans jugement lors des discussions post-natales.",
-    "Encourager les parents à maintenir un dialogue ouvert avec leurs professionnels de santé pour le suivi médical.",
-    "Rappeler que la doula offre un soutien émotionnel et pratique, mais ne se substitue en aucun cas à un avis médical spécialisé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4e5eea07da28",
-   "category": "sci",
-   "priority": false,
-   "title": "L'entraînement prénatal peut réduire le risque de dépression post-partum chez les femmes ayant déjà accouché",
-   "source": "Ma Clinique",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM010NXY3UFpTZ0dIcGl3YmFlcXFHdk9DVGl2X3RIRXVaNksyTTFXa3BWNUZHU2IyMkRZZE5pUDNpWGN3bEVDVy1PVWc3RElzbnoydzJXSFlacl83SWp5aUhBcnl4X2c0QVVMdElZRVBUcGlUN0loMEhKSUROR2pEc3BFYTExazRtS2tfa0R0cXFfRjMxc1ctMmdhZ3FUc3Z5MExLTFNSc1pNT3ZqZjhmNlBGdU5sT01NN2JTRVRiOVZGR2RvREJvMW1n?oc=5",
-   "summary": "La pratique d'un entraînement physique adapté pendant la grossesse pourrait diminuer la probabilité de développer une dépression du post-partum chez les femmes ayant déjà connu une maternité. Cette approche préventive met en avant l'importance de l'activité physique prénatale.",
-   "auto": true,
-   "addedAt": "2026-10-11T05:15:31+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les futures mères de l'importance de bouger en douceur selon leurs envies et leurs capacités.",
-    "Inviter les parents à valider toute reprise ou pratique d'exercice avec leur médecin ou sage-femme.",
-    "Ne pas poser de diagnostic de dépression mais observer les signes de mal-être pour orienter vers le corps médical."
+    "Discuter avec les couples de l'importance de l'organisation pratique et du rôle du coparent dans la répartition des tâches dès le retour à la maison.",
+    "Soutenir la réflexion des parents sur la reprise du travail et la conciliation avec l'accueil du nourrisson, dans le respect de leurs choix de vie.",
+    "Éviter de porter un jugement sur les choix de calendrier professionnel ou de mode de garde des parents, en restant neutre et à l'écoute de leurs contraintes."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1814,6 +1836,27 @@
     "Informe les parents sur l'existence de ce nouveau congé pour qu'ils puissent anticiper leur organisation administrative et financière.",
     "Oriente les familles vers les employeurs ou les services RH pour vérifier les conditions exactes d'application et de maintien de la mutuelle.",
     "Rappelle que la doula n'a pas vocation à interpréter les textes juridiques ou sociaux mais peut encourager les parents à se renseigner auprès des organismes compétents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-cfc15a6e9370",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé supplémentaire de naissance : pour les employeurs, un nouveau formulaire déclaratif à partir du 1er novembre 2026",
+   "source": "Revue Fiduciaire",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://www.revue-fiduciaire.com/actualite/article/conge-supplementaire-de-naissance-pour-les-employeurs-un-nouveau-formulaire-declaratif-a-partir-du-1er-novembre-2026-0d8c112e-9168-4103-8cc0-77803f00892a",
+   "summary": "L'Assurance maladie annonce la mise en place d'un nouveau formulaire déclaratif destiné aux employeurs à partir du 1er novembre 2026 dans le cadre du congé supplémentaire de naissance. Le texte se limite à cette annonce administrative sans fournir d'autres détails.",
+   "auto": true,
+   "addedAt": "2026-10-29T11:23:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Se tenir informée des évolutions administratives et des démarches liées aux congés parentaux pour mieux orienter les familles dans leurs préparatifs pratiques.",
+    "Encourager les parents à anticiper dès la grossesse les aspects administratifs et les discussions avec leurs employeurs respectifs.",
+    "Garder à l'esprit que l'accompagnante ne se substitue pas aux organismes officiels pour les démarches et doit se limiter à une écoute et une orientation générale."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1856,6 +1899,48 @@
     "Avertis les parents salariés de la complexité des règles liées au congé supplémentaire de naissance afin qu'ils vérifient leur situation auprès de leur employeur.",
     "Maintiens ton rôle d'écoute sans te substituer à un conseiller juridique ou aux ressources humaines de leur entreprise.",
     "Encourage les familles à anticiper la gestion de leur budget et de leur protection sociale avant l'arrivée du bébé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ca8333bbf88f",
+   "category": "pol",
+   "priority": false,
+   "title": "Un congé supplémentaire de naissance pour les nouveaux pères et mères",
+   "source": "Tout Sur Mes Finances",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.toutsurmesfinances.com/actualites/a/un-conge-supplementaire-de-naissance-pour-les-nouveaux-peres-et-meres",
+   "summary": "À partir de juillet 2026, un congé supplémentaire de naissance indemnisé d'un ou deux mois est instauré pour les parents en activité, s'ajoutant aux congés légaux existants. Ce dispositif facultatif peut être pris de manière simultanée ou séparée dans les neuf suivant l'arrivée de l'enfant.",
+   "auto": true,
+   "addedAt": "2026-10-29T11:23:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les futurs parents de l'existence de ce nouveau droit pour les aider à anticiper l'organisation de leur retour à la maison et le partage des rôles.",
+    "Offrir un espace de dialogue pour discuter de la manière dont ils envisagent de vivre ces premiers mois ensemble et de planifier ce temps de pause supplémentaire.",
+    "Préciser que ce dispositif comporte des conditions administratives strictes et les inviter à se renseigner auprès de l'Assurance maladie pour valider leurs droits précis."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-253072f9b2de",
+   "category": "pol",
+   "priority": false,
+   "title": "De nouvelles modalités pour déclarer un congé supplémentaire de naissance",
+   "source": "TV83",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.tv83.info/de-nouvelles-modalites-pour-declarer-un-conge-supplementaire-de-naissance/",
+   "summary": "Les modalités déclaratives pour le congé supplémentaire de naissance évoluent pour les employeurs à partir d'octobre 2026, combinant l'envoi d'un fichier Excel spécifique et un signalement via la déclaration sociale nominative. Ce congé indemnisé s'adresse aux parents d'enfants nés ou adoptés depuis le début de l'année 2026.",
+   "auto": true,
+   "addedAt": "2026-10-29T11:23:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Noter ces évolutions réglementaires pour pouvoir orienter de manière globale les parents qui s'interrogent sur les démarches administratives du post-partum.",
+    "Soutenir les parents dans la gestion du stress organisationnel lié aux formalités administratives avec les employeurs pendant la période de l'arrivée de l'enfant.",
+    "Rappeler aux familles que l'accompagnante ne gère pas les aspects administratifs ou juridiques et les inviter à contacter les services RH ou l'Assurance maladie pour leurs démarches."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2969,85 +3054,64 @@
    "enriched": true
   },
   {
-   "id": "a-83e6d0d77775",
-   "category": "pol",
+   "id": "a-8acb4f6b8ed6",
+   "category": "soc",
    "priority": false,
-   "title": "\"Ça peut paraître juste du symbole mais ça change beaucoup de choses pour beaucoup de femmes\", l'allaitement en public bientôt protégé par la loi",
-   "source": "France 3 Régions",
-   "date": "9 octobre 2026",
-   "sortDate": "2026-10-09",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV08tWjUwWXJNUUxJVV84dFNGY3dVdDFMblhSVVJFRnpOZW9HUlVvbUpELU5DYm1UR1hJSVZ1ZHBiTjJIWDRTQndXNmhVb0FPOXFldTRVSFdXVUIzeURxRzlmMGpTTXhEVHAwRmU3MG1fcG9HTFRHTFhoN0xLZGQzZGY4SUdzeGFNaWtBMEEtQUJRVHJWMnUtR0h2eHJjSjA0TmxXUkpWdXRvRXJwQXg5cFN4X0dhRTBaenZqWF9iQlVUOXluY3ZIZURuM3drb2E0ZFJENlpCN0dDVVEtdk1XQ1dTcGE0YnY3Vk9BT3ZXZw?oc=5",
-   "summary": "Une proposition législative vise à protéger spécifiquement l'allaitement en public afin de sécuriser les femmes dans l'espace public. Cette mesure symbolique et concrète modifie la perception sociale de l'allaitement et renforce les droits des mères.",
+   "title": "« J’en peux plus » : ces créatrices de contenus qui brisent le tabou d’une maternité loin d’être parfaite",
+   "source": "Magicmaman",
+   "date": "29 octobre 2026",
+   "sortDate": "2026-10-29",
+   "url": "https://www.magicmaman.com/j-en-peux-plus-ces-creatrices-de-contenus-qui-brisent-le-tabou-d-une-maternite-loin-d-etre-parfaite,3787360.asp",
+   "summary": "Des créatrices de contenus utilisent les réseaux sociaux pour déconstruire l'image idéalisée de la maternité en évoquant ouvertement la fatigue, la charge mentale et les difficultés du quotidien. À travers l'humour et le partage de leur vécu, elles permettent aux parents de se sentir moins isolés face aux aspects éprouvants de l'arrivée d'un enfant.",
    "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
+   "addedAt": "2026-10-29T11:23:27+00:00",
    "pageRead": true,
    "points": [
-    "Informer les mères de l'évolution du cadre légal pour les conforter dans leur droit d'allaiter en dehors de chez elles.",
-    "Discuter des obstacles psychologiques ou du regard des autres lors des consultations à domicile ou en cabinet.",
-    "Rappeler que le choix du mode d'alimentation appartient entièrement aux parents, dans le respect de leur cadre personnel."
+    "Utiliser ces témoignages pour rassurer les parents sur le fait que la fatigue et les doutes sont normaux, afin de déculpabiliser le vécu du post-partum.",
+    "Encourager l'expression des émotions complexes et ambivalentes sans jugement lors des temps d'échange.",
+    "Rappeler sa posture d'écoute bienveillante, tout en orientant vers des professionnels de la santé mentale si la détresse psychologique devient trop importante."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-7fdba0e97213",
-   "category": "pol",
+   "id": "a-5c7f4e7c930c",
+   "category": "soc",
    "priority": false,
-   "title": "Loi intégrale: les députés inscrivent l'allaitement parmi les motifs de discrimination interdits par la loi",
-   "source": "LCP-Assemblée nationale",
-   "date": "8 octobre 2026",
-   "sortDate": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGFHNTYya3Z1X01YNWJnbHNLZ2FLbHVLVlhkMFkyNEt2eDJxUmxWeFVsMkx3LUJRSTE5QjlZbUFnQndndGNSZUxQUmQyYm5mQ0Zmbkp6dmhJcldXcDMyWVRTY3E5LVlyc29FWFVtT0YzWkx0aklTUHE3cWdzYldRX21YWmMyRWp5Y2x5NXJTWmpjMVdFdmdScVN6T2RURXN0eVNGUU1YTU5MVTJtaHdRWA?oc=5",
-   "summary": "Les députés ont adopté une disposition législative qui intègre l'allaitement au sein des motifs de discrimination formellement interdits par la loi. Cette mesure renforce la protection juridique des mères allaitantes dans l'espace public et professionnel.",
+   "title": "\"Je n'étais pas préparée aux conséquences physiques de la maternité\"",
+   "source": "Marie France, magazine féminin",
+   "date": "29 octobre 2026",
+   "sortDate": "2026-10-29",
+   "url": "https://www.mariefrance.fr/equilibre/psycho/etais-pas-preparee-consequences-physiques-maternite-1311057.html",
+   "summary": "Une mère témoigne des difficultés physiques intenses et souvent sous-estimées rencontrées après l'accouchement, au-delà de la grossesse elle-même. Son récit met en lumière la dureté du post-partum, incluant les douleurs liées à l'allaitement, les troubles musculosquelettiques dus aux ports répétés du bébé et la fatigue chronique.",
    "auto": true,
-   "addedAt": "2026-10-09T05:16:17+00:00",
+   "addedAt": "2026-10-29T11:23:27+00:00",
    "pageRead": true,
    "points": [
-    "Vous pouvez rassurer les parents sur leurs droits fondamentaux en matière d'alimentation de leur enfant dans les lieux publics.",
-    "Rappelez que la doula soutient les choix parentaux mais ne se substitue pas à un accompagnement juridique en cas de litige.",
-    "Invitez les mères à verbaliser leurs craintes ou pressions extérieures concernant l'allaitement au travail ou en société."
+    "Aborder ouvertement la réalité physique du post-partum pour préparer les parents à ces éventuels désagréments dès la période prénatale.",
+    "Conseiller des postures ergonomiques pour l'allaitement et le portage afin de limiter les tensions musculaires et articulaires, tout en validant leur inconfort.",
+    "Recommander systématiquement une consultation médicale ou avec une sage-femme / kinésithérapeute en cas de douleurs persistantes, les problèmes physiques relevant strictement du soin."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-888b7b282640",
-   "category": "pol",
+   "id": "a-10976eea9205",
+   "category": "soc",
    "priority": false,
-   "title": "L’allaitement en public désormais défendu par la loi",
-   "source": "Mag'Centre",
-   "date": "8 octobre 2026",
-   "sortDate": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU5xODdFSTJNbG5LUVhNQWtLSFUza2ZNajliZ0hsRVRIcTZLcUtwNGJmUVFyd0xkTmM2ajFZQXZRNjZOVnlFRHZIc01aN29tQThvMGZFVUVLMXhZeE5MRGpXTGpHSGZVZEhZS29uREtqVl81eWc4aHpUZUkydWZnYTFPM3Jyd0lfa0VDMg?oc=5",
-   "summary": "Une nouvelle législation protège officiellement la pratique de l'allaitement dans les espaces publics. Cette mesure vise à sécuriser les mères contre les entraves à l'alimentation de leur nourrisson en dehors du domicile.",
+   "title": "Deuil périnatal. « Il est possible d’aller mieux » : pour se soutenir entre parents, un groupe de parole naît à Caen",
+   "source": "Ouest-France",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://www.ouest-france.fr/societe/deuil-perinatal-il-est-possible-daller-mieux-pour-se-soutenir-entre-parents-un-groupe-de-parole-nait-a-caen-1dba8062-cc6c-11f1-bf87-17eca79cb13c",
+   "summary": "Un nouveau groupe de parole destiné aux parents traversant un deuil périnatal voit le jour à Caen afin de leur offrir un espace de soutien mutuel. Cette initiative vise à briser l'isolement des familles confrontées à la perte d'un enfant et à leur permettre d'échanger sur le chemin vers la reconstruction.",
    "auto": true,
-   "addedAt": "2026-10-09T05:16:17+00:00",
+   "addedAt": "2026-10-29T11:23:27+00:00",
    "pageRead": true,
    "points": [
-    "Rassurer les parents sur leurs droits légaux d'allaiter à l'extérieur sans crainte du regard ou des remarques extérieures.",
-    "Aborder ce sujet lors des ateliers prénataux pour préparer la mère à nourrir son bébé sereinement en toute situation.",
-    "Rappeler son rôle non médical d'écoute et de soutien moral, sans se substituer au cadre juridique ou sanitaire."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a1f5c5574b58",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé de naissance : \"Toujours rien sur le compte\", la douche froide pour les premiers parents bénéficiaires face aux retards de paiement",
-   "source": "aufeminin.com",
-   "date": "8 octobre 2026",
-   "sortDate": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaC02WEFCU25tM0RfZlRRTy1iMkY4RHhJeDNfMjZfdFZZcXBZYm5QRHVBcGstV3h1NzZoY1paaE03RWttTG5acDNJdU9YdEF5Wk04TU94eXMtMEt0TmZRZFVHQkJTdFZjeThEZjZWTkE5SDg5cFFxUmZmaGxseDI5MWY2WVVJRWY4ZXBqYTVSaV9hb2d5cS1KM2d2V1lkNFBuREttUmNsNFQ1eUVZZFNmMVoxY19wV1VlVndSaDFQaTBWVGI1V05BU19MZVZFQnFjV0ttTUhITjd0RURPSmtNMlI4emtZTEJGakdzUXFfZUtvRmtOcUYycEU2QXBKVkRuaC1UMDRibF9NZXZ5UHJ4SGt0dUtWODhIdE1GdzJDYmFWbGFtMG5ZRFp3?oc=5",
-   "summary": "De nouveaux parents bénéficiaires du congé de naissance rencontrent des retards de versement, entraînant des difficultés financières. Cette situation engendre une source de stress importante au moment de l'arrivée de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-10-10T05:15:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la question financière et administrative du congé de naissance pour anticiper le stress matériel des parents.",
-    "Offrir un espace d'écoute pour accueillir l'anxiété liée aux difficultés administratives et aux imprévus budgétaires.",
-    "R rappeler que la gestion des prestations sociales relève des organismes administratifs et non du rôle de la doula."
+    "Connaître l'existence de ces structures de soutien local pour pouvoir orienter les parents endeuillés vers des espaces adaptés.",
+    "Offrir une écoute particulièrement délicate et empathique, empreinte d'une grande prudence face à la douleur de la perte d'un enfant.",
+    "S'abstenir de tout conseil psychologique ou médical spécialisé, le deuil périnatal nécessitant un accompagnement par des professionnels formés ou des groupes dédiés."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4241,69 +4305,6 @@
     "Discuter avec les parents des pressions sociales et des injonctions contradictoires qui pèsent sur les jeunes mères après l'accouchement.",
     "Valoriser l'intuition parentale et déculpabiliser les choix de chacun, qu'il s'agisse de reprise d'activité ou de repos.",
     "Maintenir une posture d'écoute bienveillante et neutre sans jamais émettre de jugement sur l'organisation familiale choisie."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-983a786b697c",
-   "category": "soc",
-   "priority": false,
-   "title": "La dépression post-partum, un trouble encore trop tabou",
-   "source": "La Télé",
-   "date": "14 octobre 2026",
-   "sortDate": "2026-10-14",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21KMEQ1OHZHVVd5My1PUzZqVzl2YWlPdXM2ZGwxUkFHaExFZ2NKS3M0ODhkM1hpek5NYkZsLTkwcFRKcWw1QWVpaWhOb05PbG9TV3pkRHhMNGRmY3oxRkc5YWlrNWQzSkJXY3Y3MTZteUhZbG5NUVIybEM4QzZxamRKM3dUVV91WHVQZzU2TFExOVdtTVE?oc=5",
-   "summary": "La dépression post-partum reste un sujet tabou qui touche de nombreux parents après la naissance. Le texte souligne la nécessité d'une meilleure libération de la parole autour de cette souffrance psychologique.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Ouvrez un espace d'écoute bienveillant et sans jugement pour permettre aux parents d'exprimer leurs difficultés émotionnelles dans les premiers mois.",
-    "Apprenez à repérer les signes de détresse psychologique pour orienter rapidement les familles vers des professionnels de santé qualifiés.",
-    "Rappelez-vous que votre rôle est d'accompagner et d'écouter, sans jamais poser de diagnostic médical de dépression."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-11b6722c1616",
-   "category": "soc",
-   "priority": false,
-   "title": "Allaitement : un après-midi d’échanges organisé ce jeudi 15 octobre à l’hôpital d’Auch",
-   "source": "ladepeche.fr",
-   "date": "14 octobre 2026",
-   "sortDate": "2026-10-14",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZkxDb2VTX3czMnpSWEdTMk9GVG1KbmhwbzF2anhzMEI4bzM1S1NSMElXM0Q4VzZYS0t1ZXFKREZaQmoyb0hlUnp0b0F2c2hQR1VHdUNoRTNpeTdPbURSeWdfOWRLTlJmaEhzWExnUGw0LWxoT3pFQ1BOYVdxeTl4N0M2dVhJYnJyYjFVSmlBVU1NZGx3WGk5T3R1YUs5SGw0QXNQZFVpX2dfakFMczdtWWl0V1k4OTlrRXFBd0tnSDVocFBMY2dtRXVB?oc=5",
-   "summary": "Un hôpital organise un après-midi d'échanges dédié à l'allaitement afin de réunir les parents et les professionnels. Cet événement vise à favoriser le partage d'expériences et d'informations autour de la nutrition infantile.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Encouragez les parents à participer à des groupes de soutien locaux pour rompre l'isolement autour de l'allaitement.",
-    "Utilisez ces initiatives locales pour orienter les familles vers des lieux d'échange adaptés à leurs besoins.",
-    "Soutenez le projet d'allaitement des parents en valorisant leur écoute, tout en laissant les aspects médicaux aux professionnels de santé de l'hôpital."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b01c91bc727a",
-   "category": "soc",
-   "priority": false,
-   "title": "Ambérieu-en-Bugey. Une rencontre pour promouvoir l’allaitement maternel",
-   "source": "Le Progrès",
-   "date": "14 octobre 2026",
-   "sortDate": "2026-10-14",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdl9GQ3gzQ0k1MnNHUjZETE8wa3d5VG1lcEJHdWlyN2hPOXkzVnJYQ3dBbG10Tks1WmhCODNjQ1JiU3VPZ0ZkRnFEUHJFMGY1Zlk1Umpwal9WMm5tU1hWVlM2dFNtM3pEdEk3YVNVS3dXU0N6TTlWaGhzd09lakNRN0RjZDc2UDh3a1NQbW1KaWZSeGF5SFQtOXNHV2s?oc=5",
-   "summary": "Une rencontre locale est organisée pour promouvoir l'allaitement maternel et informer les futurs ou jeunes parents. L'objectif est de sensibiliser le public à cette pratique et de faciliter le dialogue autour des premiers mois de vie.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Parlez de ces rendez-vous communautaires aux parents qui s'interrogent sur l'alimentation de leur nouveau-né.",
-    "Offrez un espace d'écoute pour recueillir leurs doutes et leurs attentes concernant l'allaitement, en complément des actions de promotion locale.",
-    "Réorientez systématiquement vers un médecin ou une consultante en lactation certifiée en cas de difficultés physiologiques ou de douleur."
    ],
    "summaryAI": true,
    "enriched": true
