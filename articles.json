@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T11:15:49+00:00",
+ "updatedAt": "2026-10-31T10:48:36+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "16 page(s) d'articles lue(s)",
-  "IA : 16 article(s) résumé(s) et commenté(s)"
+  "9 page(s) d'articles lue(s)",
+  "IA : 9 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -166,7 +166,12 @@
   "a-ce16422a0e84": "2026-10-30",
   "a-31ff08076997": "2026-10-29",
   "a-3ab5a3a7716c": "2026-10-28",
-  "a-35eb7f1eeb1e": "2026-10-22"
+  "a-35eb7f1eeb1e": "2026-10-22",
+  "a-776600518355": "2026-10-31",
+  "a-35ee3a38da28": "2026-10-30",
+  "a-536e54a18acd": "2026-10-30",
+  "a-b4067b70207b": "2026-10-30",
+  "a-e65ff1dd484e": "2026-10-28"
  },
  "articles": [
   {
@@ -1803,6 +1808,27 @@
    "enriched": true
   },
   {
+   "id": "a-528057b37d94",
+   "category": "pol",
+   "priority": false,
+   "title": "« À la maternité, un ordinateur sur les genoux pour faire des actes de procédure » : pourquoi les avocats ont encore du mal à prendre (vraiment) leur congé paternité",
+   "source": "JSS.fr",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://jss.fr/post/a-la-maternite-un-ordinateur-sur-les-genoux-pour-faire-des-actes-de-procedure-pourquoi-les-avocats-ont-encore-du-mal-a-prendre-vraiment-leur-conge-paternite",
+   "summary": "Dans la profession d'avocat, les pères peinent à prendre l'intégralité de leur congé paternité en raison de freins financiers, hiérarchiques et culturels. Les femmes subissent également des discriminations et des difficultés professionnelles liées à la maternité, malgré l'existence de dispositifs de protection juridique souvent difficiles à faire valoir.",
+   "auto": true,
+   "addedAt": "2026-10-31T10:48:36+00:00",
+   "pageRead": true,
+   "points": [
+    "Discutez avec les co-parents de la place du père et de l'importance de s'impliquer dès le retour à la maison malgré les pressions professionnelles.",
+    "Offrez un espace d'écoute aux couples sur la charge mentale et l'organisation pratique du post-partum face aux contraintes du travail.",
+    "Orientez les parents vers des juristes ou des permanences spécialisées en cas de difficultés ou de discrimination liée à la parentalité au travail, sans se substituer aux professionnels du droit."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-0d980d84c180",
    "category": "pol",
    "priority": false,
@@ -2323,6 +2349,27 @@
     "Offrir un espace de parole aux femmes enceintes inquiettes de l'allongement de leurs temps de trajet vers la maternité.",
     "Discuter de manière pratique de l'organisation des déplacements en fin de grossesse, tout en orientant les questions médicales vers les sages-femmes et obstétriciens.",
     "Rester neutre face aux choix politiques et administratifs locaux, en se concentrant exclusivement sur le soutien émotionnel des parents face à ces modifications d'organisation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-542342522f3c",
+   "category": "pol",
+   "priority": false,
+   "title": "Une femme percute un orignal en allant accoucher à Bathurst",
+   "source": "Radio-Canada",
+   "date": "21 octobre 2026",
+   "sortDate": "2026-10-21",
+   "url": "https://ici.radio-canada.ca/nouvelle/2294486/accident-orignal-accouchement-campbellton-bathurst",
+   "summary": "Un couple en route pour accoucher dans un hôpital éloigné en raison de la fermeture de la maternité locale a percuté un orignal avec leur véhicule. Cet incident met en lumière les risques et les difficultés logistiques liés aux longs déplacements des femmes enceintes pour se rendre sur leur lieu d'accouchement.",
+   "auto": true,
+   "addedAt": "2026-10-31T10:48:36+00:00",
+   "pageRead": true,
+   "points": [
+    "Abordez avec les parents la question de la logistique du départ à la maternité, notamment en cas d'éloignement géographique important.",
+    "Aidez les futurs parents à anticiper le temps de trajet et à prévoir un plan B en cas d'imprévu sur la route, tout en restant neutre face aux choix d'organisation des services de santé.",
+    "Rappelez que la gestion du travail et de la sécurité routière en urgence relève des compétences des services de secours et du corps médical."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3016,43 +3063,22 @@
    "enriched": true
   },
   {
-   "id": "a-06283dede8b8",
-   "category": "pol",
+   "id": "a-92bcc15a0668",
+   "category": "soc",
    "priority": false,
-   "title": "États-Unis : ce changement brutal de Medicaid transforme des régions entières en déserts de maternité alarmants",
-   "source": "Homéophyto",
-   "date": "11 octobre 2026",
-   "sortDate": "2026-10-11",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUUdYTkxZVERKNC14MG9pSldTVUNQVEhtdndlMllsQjVpSVJtTWtPeTAxLWFpM3g4b2wzOUl1MG5CQjlIb2IyelhOa0JGTXB6OGtENkQwa08waGRKc2lRQnFJY1ctYnNnRGJuX2JTanpSN0psYmRlOC1NWHZTV1BZaWo1N2dDWnJOYmRIOUJXNHFZZWxLNzQ1a3VYWEhsVmNSaVRUenBFTUw5bWpUMDRtLVFEbVNIRXFxMVZseU00M3hmSjQxUGF5MVdfMlQxMTBiZnBrV0JlWG5tbUF4d1JyeGdzbGNJQUVWSnJ5RHpnVWtMVHc0Q2c?oc=5",
-   "summary": "Des modifications des politiques de santé publique liées à Medicaid aux États-Unis entraînent la fermeture de services de maternité dans plusieurs régions. Cette situation crée des zones géographiques dépourvues de structures adaptées pour le suivi des naissances, fragilisant l'accès aux soins périnataux.",
+   "title": "Quarante jours pour arriver, quarante jours pour partir : comment la culture arménienne accompagne les morts et les naissances",
+   "source": "The Conversation France",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://theconversation.com/quarante-jours-pour-arriver-quarante-jours-pour-partir-comment-la-culture-armenienne-accompagne-les-morts-et-les-naissances-295512",
+   "summary": "En Arménie, la période du karasunk marque les quarante premiers jours suivant la naissance, durant lesquels la mère et le nouveau-né restent protégés du monde extérieur. Ce temps de transition partagé avec les rites de deuil illustre des traditions culturelles et religieuses anciennes marquant les grands passages de la vie.",
    "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
+   "addedAt": "2026-10-31T10:48:36+00:00",
    "pageRead": true,
    "points": [
-    "Abordez avec les parents l'importance d'anticiper le trajet et le choix de la maternité, surtout en zone rurale ou isolée.",
-    "Soyez attentive aux craintes que l'éloignement des structures de soin peut générer chez les futurs parents sur le plan de la sécurité.",
-    "Rappelez que votre rôle est de soutien émotionnel et pratique, sans vous substituer aux urgences médicales en cas de distance importante."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-f1b6134831c7",
-   "category": "pol",
-   "priority": false,
-   "title": "Un rassemblement de la dernière chance pour la maternité de Mont-Saint-Martin, menacée de fermeture",
-   "source": "Radio France",
-   "date": "10 octobre 2026",
-   "sortDate": "2026-10-10",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOaGhXSWczN25rTGJEb2s3Z051MGlkdEdWRG5heHpXWVVtR2hnZjVUbWQ4TjlLT2gwekNTQTFRZDhGZGQ1SHZzMXpuam9Ya0pzRTBzWk5uS1MtNlFkSHRBel84cE9NUUFVX0xzTko1YTJVZnE2RUpKZ29LQVYyUkg3TnV0M2Q4cDZnUEYzREI3UWN6YThzV3VHS2xLLWxZNXBCU05rTV9aSkJBTlhjMWkzeEFWcjRyTXgzN1dLVDlrU0owclM5Sk5mbHNHVzAxWlp2TnZmRWZkbC1VNDhIanpUVFdXc0IycWJtM0RoejBwM2VPN1lpb1ZiRWY1dG52QkF4RDN3blR3WUdkYm5vS1l0cUpTVXdrNDVQaklNcjhLcjZPTXpGNG9V?oc=5",
-   "summary": "Un rassemblement a été organisé pour tenter de sauver la maternité de Mont-Saint-Martin menacée de fermeture. Les participants mobilisés soulignent l'importance de maintenir un accès de proximité aux soins périnataux pour les familles.",
-   "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Être attentive aux inquiétudes des parents face à l'éloignement des structures de naissance et à la diminution des services locaux.",
-    "Aider les familles à anticiper leur parcours de fin de grossesse en identifiant les options de repli en cas de fermeture de maternité.",
-    "S'abstenir de tout commentaire politique ou médical, tout en offrant un espace d'écoute bienveillant face au stress généré par ces incertitudes."
+    "Abordez avec les parents la notion de bulle post-natal et le besoin de protection des premiers temps, en vous inspirant de traditions culturelles variées.",
+    "Soutenez le besoin de calme et de mise en retrait des jeunes mères et de leur nouveau-né pour faciliter cette transition de vie.",
+    "Rappelez que ces temps de repos relèvent du bien-être et de l'accompagnement social, sans interférer avec le suivi médical."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3368,6 +3394,27 @@
     "Valoriser le partage d'expériences entre parents comme outil puissant de soutien émotionnel.",
     "Identifier les ressources locales de soutien à l'allaitement pour orienter efficacement les familles.",
     "Maintenir une posture d'accompagnement non médicale en orientant vers des conseillères spécialisées ou des professionnels de santé en cas de difficulté."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-8439bc95f984",
+   "category": "soc",
+   "priority": false,
+   "title": "\"Il m'a volé mon enfance\" : à 13 ans, Lola accouchait après un déni de grossesse près de Dijon",
+   "source": "Actu.fr",
+   "date": "23 octobre 2026",
+   "sortDate": "2026-10-23",
+   "url": "https://actu.fr/bourgogne-franche-comte/talant_21617/il-m-a-vole-mon-enfance-a-13-ans-lola-accouchait-apres-un-deni-de-grossesse-pres-de-dijon_64967448.html",
+   "summary": "Une jeune femme témoigne de son parcours après avoir accouché à l'âge de 13 ans à la suite d'un déni de grossesse ignoré. Elle revient sur les violences sexuelles subies et la découverte tardive de sa grossesse au sein de son établissement scolaire.",
+   "auto": true,
+   "addedAt": "2026-10-31T10:48:36+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez intégrer la notion de déni de grossesse dans vos discussions pour rassurer sur sa réalité physique et psychologique, tout en restant à l'écoute des signaux de détresse.",
+    "Rappelez aux parents que vous offrez un espace d'écoute bienveillant et sécurisant, tout en orientant immédiatement vers des professionnels de santé ou du droit en cas de soupçon de violences.",
+    "Gardez à l'esprit que la prise en charge médicale et judiciaire des violences relève strictement des professionnels habilités et des autorités compétentes."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4268,48 +4315,6 @@
     "Orienter les parents intéressés vers ces événements locaux ou associatifs pour qu'ils puissent enrichir leurs informations et rencontrer d'autres familles.",
     "Utiliser ces initiatives pour encourager la discussion au sein du couple sur leurs attentes et leurs besoins en matière de soutien périnatal.",
     "Garder à l'esprit que les informations générales trouvées lors de salons ne remplacent pas un suivi médical individualisé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-964571e190d0",
-   "category": "soc",
-   "priority": false,
-   "title": "Charente-Maritime. « Je ne me suis jamais posée la question » : Mallaury raconte deux ans d’allaitement",
-   "source": "hautesaintonge.fr",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLVhYWFRlcV9rVWZseFJ3S2NXQXR0ZHcxdFlFa2VZMWZuUEtxNWVtTE1QMk5sRUpKQnlyeS1OcFp4OE8yX0ZacGRGOTM2VmlRVnlZTTc3Y3BVR0xjdDNFU2puU3VzWDFtYmZQUTN6RGt1aGRwV0N1T2JTRF9pbmI4c1JKV0I5bFgyckRhTWdhOUxWQVJERi1SYW1lVk9Wdi1EUk1Ld1BsVlFydHNKa1IxeFlLRVRaRjlERk1xS2JkQUNwMzRkOVVvdVVtSTdBdjNlRUlaa3F4azBwUQ?oc=5",
-   "summary": "Le témoignage d'une mère partageant une expérience d'allaitement de longue durée met en avant le vécu personnel et le cheminement intime lié à cette pratique. Ce type de récit illustre la diversité des parcours parentaux au fil des mois.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Accueillir les récits d'expériences longues pour montrer aux parents qu'il existe une grande variété de manières de vivre le post-partum.",
-    "Aider les parents à exprimer leurs propres envies pour les premiers mois de vie de l'enfant sans se comparer aux autres.",
-    "Veiller à ne pas ériger un témoignage personnel en modèle unique, chaque situation familiale étant singulière."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-f69b9f8c87de",
-   "category": "soc",
-   "priority": false,
-   "title": "Deuil périnatal : la Guadeloupe brise le silence",
-   "source": "Outre-mer La 1ère",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://la1ere.franceinfo.fr/guadeloupe/deuil-perinatal-la-guadeloupe-brise-le-silence-1748520.html",
-   "summary": "À l'occasion de la journée mondiale de sensibilisation au deuil périnatal, des associations et des structures de santé se mobilisent pour briser le tabou de la perte d'un enfant pendant la grossesse ou autour de la naissance. Ces initiatives visent à reconnaître la légitimité de ce deuil invisible, à mieux soutenir les familles endeuillées et à améliorer la formation des professionnels. Les données internationales soulignent par ailleurs l'importance des enjeux de santé publique liés à la mort fœtale.",
-   "auto": true,
-   "addedAt": "2026-10-26T10:53:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute sécurisant et sans jugement pour les parents traversant un deuil périnatal, en reconnaissant pleinement leur douleur.",
-    "Connaître les ressources locales et associatives d'accompagnement du deuil pour pouvoir orienter les familles vers des structures spécialisées.",
-    "Respecter strictement sa posture non médicale en évitant toute interprétation clinique des causes du deuil et en se concentrant sur le soutien émotionnel."
    ],
    "summaryAI": true,
    "enriched": true
