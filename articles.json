@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T10:48:36+00:00",
+ "updatedAt": "2026-11-01T11:44:59+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "9 page(s) d'articles lue(s)",
-  "IA : 9 article(s) résumé(s) et commenté(s)"
+  "13 page(s) d'articles lue(s)",
+  "IA : 13 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -171,7 +171,10 @@
   "a-35ee3a38da28": "2026-10-30",
   "a-536e54a18acd": "2026-10-30",
   "a-b4067b70207b": "2026-10-30",
-  "a-e65ff1dd484e": "2026-10-28"
+  "a-e65ff1dd484e": "2026-10-28",
+  "a-fcd21d791d31": "2026-11-01",
+  "a-c59703c8e2cc": "2026-10-31",
+  "a-6e6a960d62ee": "2026-10-31"
  },
  "articles": [
   {
@@ -555,6 +558,48 @@
    "enriched": true
   },
   {
+   "id": "a-12aeee444c1b",
+   "category": "sci",
+   "priority": false,
+   "title": "La réduction des médicaments opioïdes pendant la grossesse pourrait ne pas atténuer le syndrome de sevrage néonatal aux opioïdes",
+   "source": "Ma Clinique",
+   "date": "31 octobre 2026",
+   "sortDate": "2026-10-31",
+   "url": "https://ma-clinique.fr/la-reduction-des-medicaments-opioides-pendant-la-grossesse-pourrait-ne-pas-attenuer-le-syndrome-de-sevrage-neonatal-aux-opioides",
+   "summary": "Une étude récente indique que la réduction des doses de traitements aux opioïdes chez les femmes enceintes ne diminue pas la gravité du syndrome de sevrage néonatal. Maintenir un traitement stable est essentiel pour protéger la mère contre les risques de rechute et de surdose, qui représentent une cause majeure de mortalité périnatale. Les professionnels de santé rappellent l'importance de ne pas baisser les doses par crainte du sevrage du nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Soyez particulièrement vigilante et bienveillante face aux inquiétudes des futures mères suivant un traitement médical, en évitant tout jugement moral.",
+    "Soutenez l'importance du dialogue entre les parents et l'équipe médicale pour toute question relative aux traitements suivis pendant la grossesse.",
+    "Rappelez fermement que le suivi et l'ajustement de tout traitement médicamenteux relèvent exclusivement du champ médical et des médecins référents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2cde0008e95e",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement maternel : le manque de sensibilisation freine sa poursuite au-delà de six mois",
+   "source": "Webmanagercenter",
+   "date": "31 octobre 2026",
+   "sortDate": "2026-10-31",
+   "url": "https://directinfo.webmanagercenter.com/2026/10/31/allaitement-maternel-le-manque-de-sensibilisation-freine-sa-poursuite-au-dela-de-six-mois/",
+   "summary": "Le manque de sensibilisation et l'influence de l'entourage ou de certains professionnels freinent la poursuite de l'allaitement maternel au-delà de six mois. L'allaitement prolongé présente pourtant des bénéfices avérés pour la santé physique et mentale de la mère ainsi que pour le développement de l'enfant.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de parole bienveillant aux mères qui souhaitent allaiter au long cours malgré les pressions extérieures.",
+    "Fournir des informations informatives et pratiques sur le maintien de la lactation, tout en orientant vers des consultantes en lactation en cas de difficultés techniques.",
+    "Rester neutre et soutenir chaque parent dans son choix d'alimentation pour son bébé, qu'il s'agisse d'allaitement ou de lait artificiel."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-bc230f3832eb",
    "category": "sci",
    "priority": false,
@@ -592,6 +637,69 @@
     "Valider auprès des jeunes mères la lenteur et la complexité de la récupération physique et psychologique après l'accouchement.",
     "Proposer une écoute attentive sur la fatigue, le sommeil et le vécu corporel en post-partum, en valorisant l'importance du repos.",
     "Rappeler que la doula soutient le bien-être au quotidien mais ne remplace pas un suivi médical pour évaluer la santé globale ou biologique de la mère."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3adc18de9a3a",
+   "category": "sci",
+   "priority": false,
+   "title": "Les vagues d’extrême chaleur mettent en danger la femme enceinte et son bébé",
+   "source": "SciDev.Net",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://www.scidev.net/afrique-sub-saharienne/news/les-vagues-dextreme-chaleur-mettent-en-danger-la-femme-enceinte-et-son-bebe/",
+   "summary": "Une enquête internationale menée auprès de professionnels de santé met en évidence une hausse des complications de grossesse liées aux vagues de chaleur extrême. Des organisations appellent à renforcer la protection des femmes enceintes et des nouveau-nés face aux impacts du changement climatique.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question du confort et de l'hydratation avec les futures mères lors des périodes de fortes chaleurs estivales.",
+    "Conseiller des mesures pratiques de prévention contre la surchauffe, adaptées au quotidien des femmes enceintes.",
+    "Encourager à consulter rapidement un médecin dès l'apparition de symptômes inhabites liés à la chaleur."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-36d0344c98be",
+   "category": "sci",
+   "priority": false,
+   "title": "Grossesse : l’exposition à la nicotine laisserait des traces durables sur l’immunité du bébé, selon une étude",
+   "source": "Parents.fr",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://www.parents.fr/actualites/grossesse/grossesse-lexposition-a-la-nicotine-laisserait-des-traces-durables-sur-limmunite-du-bebe-selon-une-etude-1158812",
+   "summary": "Une étude menée sur des modèles animaux suggère que l'exposition prénatale et périnatale à la nicotine perturbe la formation des cellules immunitaires du nouveau-né. Ces modifications biologiques persisteraient à l'âge adulte et pourraient altérer durablement la résistance aux infections respiratoires.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question du tabac et de la nicotine pendant la grossesse avec bienveillance et sans jugement pour informer les parents de l'impact sur le fœtus.",
+    "Soutenir les parents dans leurs démarches de sevrage en les orientant vers des professionnels de santé qualifiés.",
+    "Rappeler son rôle non médical en évitant d'interpréter les risques de santé tout en valorisant la prévention."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2f0e6c0143a1",
+   "category": "sci",
+   "priority": false,
+   "title": "Le lait d'une mère déprimée fatigue le cerveau de son bébé, selon une étude chinoise",
+   "source": "Chine Informations",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://chine.in/actualite/lait-une-mere-deprimee-fatigue-cerveau_177965.html",
+   "summary": "Des travaux de recherche récents, réalisés sur des souris et comparant des échantillons de lait maternel, indiquent que la dépression post-partum modifie la composition du lait. Ces changements biologiques pourraient influencer négativement les capacités cognitives et émotionnelles du nourrisson.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir la parole des mères sur leur santé mentale avec beaucoup de douceur et sans culpabilisation.",
+    "Rappeler aux parents que la détresse psychologique se soigne et encourager à consulter rapidement en cas de symptômes dépressifs.",
+    "Maintenir sa limite en s'abstenant de tout diagnostic ou analyse biologique, tout en restant une présence soutenante au quotidien."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1706,103 +1814,22 @@
    "enriched": true
   },
   {
-   "id": "a-8ad4b7d8b0e1",
-   "category": "sci",
+   "id": "a-ecb7af3cb9dc",
+   "category": "pol",
    "priority": false,
-   "title": "Post-partum:une dépression difficile à repérer",
-   "source": "La Télé",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BM2wxNHg5RFBLaU5TeS1HT1JlX1oyZDdMYkNUQm9pYllKVFh1eFVuOE5KdWloRzRDeVJpYTU2TzRyLUVNYWEzX2dmeTZNVGdaeHc0Q3AzeEZnNVBvc2pySVNPOFBETUVqV29kVGx6RVRxZw?oc=5",
-   "summary": "Ce sujet aborde la difficulté à identifier les symptômes de la dépression du post-partum chez les jeunes parents. Il met en avant le fait que ce trouble psychologique reste complexe à repérer au quotidien. La prise de conscience de cette difficulté est essentielle pour améliorer le soutien aux familles.",
+   "title": "« On a le sentiment que tout a été fait pour fermer » : la bataille pour le maintien de la maternité a débuté",
+   "source": "Le Republicain Lorrain",
+   "date": "31 octobre 2026",
+   "sortDate": "2026-10-31",
+   "url": "https://www.republicain-lorrain.fr/sante/2026/10/31/la-bataille-pour-le-maintien-de-la-maternite-a-debute",
+   "summary": "Des professionnels et des usagers se mobilisent pour contester la fermeture de la maternité de Mont-Saint-Martin, redoutant des délais d'intervention trop longs en cas d'urgence obstétricale vitale. Le texte souligne les risques accrus pour la sécurité des mères et des nouveau-nés en zone rurale ou éloignée des structures de soins adaptés.",
    "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
+   "addedAt": "2026-11-01T11:44:59+00:00",
    "pageRead": true,
    "points": [
-    "Soyez particulièrement attentive aux signaux faibles de détresse psychologique lors de vos visites à domicile en post-partum.",
-    "Libérez la parole autour de la santé mentale des parents en normalisant le fait que le post-partum peut être une période sombre.",
-    "Ne posez jamais de diagnostic de dépression et orientez rapidement vers un professionnel de santé ou un réseau spécialisé dès que vous percevez un risque."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3909ff9ffce9",
-   "category": "sci",
-   "priority": false,
-   "title": "Semaine Mondiale de l'Allaitement Maternel",
-   "source": "Nord, le Département",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://info.lenord.fr/semaine-mondiale-de-lallaitement-maternel",
-   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, des actions d'information et des temps d'échange sont organisés par les maternités et la Protection Maternelle et Infantile. Ces initiatives visent à soutenir les familles et à répondre à leurs interrogations sur l'alimentation des nourrissons.",
-   "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Oriente les parents vers ces événements locaux et institutionnels pour leur offrir des espaces de rencontre avec des spécialistes de santé.",
-    "Rappelle aux parents que le soutien autour de l'allaitement est partagé par différents acteurs de terrain, incluant la PMI."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3000e2bc322e",
-   "category": "sci",
-   "priority": false,
-   "title": "Semaine Mondiale de l'Allaitement Maternel 2026 aux Hôpitaux Civils de Colmar, Conférences : date, horaires, tarifs",
-   "source": "jds.fr",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://www.jds.fr/colmar/manifestations/conferences/semaine-mondiale-de-l-allaitement-maternel-2026-aux-hopitaux-civils-de-colmar-1712331_A",
-   "summary": "La maternité des Hôpitaux Civils de Colmar annonce une journée d'ateliers et d'échanges à l'occasion de la Semaine mondiale de l'allaitement maternel. Le programme vise à informer les parents sur l'allaitement, la relation parent-bébé et le bien-être des nouveau-nés.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Utiliser les thématiques de la Semaine mondiale de l'allaitement pour ouvrir le dialogue sur les projets d'alimentation des futurs parents.",
-    "Encourager les parents à participer aux ateliers en présentiel proposés par les structures hospitalières locales.",
-    "Maintenir une posture d'accompagnement global du bien-estar familial sans se substituer aux équipes de la maternité."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3b196da4b7a3",
-   "category": "sci",
-   "priority": false,
-   "title": "Grippe pendant la grossesse : voici pourquoi la vaccination protège aussi le bébé, selon une étude",
-   "source": "Parents.fr",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQndDaDIxN2JoaG1OWWhDTTNuem5Bekw1OU1SVTRkd1ZqeEZ2Zks4VWJ2Q3l0YTJGZDBCY09NWEZGaGNrYm9jY3dlbTlqMlFyaHpxc3dSQU11U1I4VGp5Y1lMdGdsT1BoM1RyTVNtSmJIekVieGNxZDBmelFjNVpZWlRhejFGRVQ4V1lja3loY1VxaW9NSmpvclpkZ00zSWpfcFZYRGpuYlhFQUpWWVoxNnlhb2ptMXhGRWVaVGhaSFg4em8?oc=5",
-   "summary": "Une étude met en avant l'importance de la vaccination contre la grippe durant la grossesse pour assurer une protection indirecte au nouveau-né. Cet acte de prévention médicale permet de réduire les risques de complications pour le bébé dans ses premiers mois de vie.",
-   "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Vous pouvez aborder la question de la vaccination de manière informative en écoutant les doutes des parents, tout en les orientant vers leur médecin ou sage-femme pour toute décision médicale.",
-    "Rappelez que votre rôle est de soutenir leur réflexion sans jamais recommander ni déconseiller un traitement ou un vaccin."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-20042ecb0dfd",
-   "category": "sci",
-   "priority": false,
-   "title": "Octobre rose : \"L'allaitement peut diminuer le risque de cancer du sein\"",
-   "source": "France 3 Régions",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTzlXS1hndXlDTVU5T1lqVXVSMjc3a2R0eGtUMldPOEl6QkxVTy1vbGIxT25aeWlkU0pKUDVwY3RqTWlEemNURW5NaTZ4WGgwSE54TGtVelNWZ0NkUDVUbWhacDBFaC0wbXF1U29YeWtTVDh1akhQNUZrZFo5ZlRQQ2NtMGFZT2h2NUVUTHI2eG9tM3AwbDdRdGozRUhPN1hGVFo0ZmZKRUxaWlRSQUNoSllaT3FXczlVd04wU3IxT2pyX2FnQ1BqdS16TlZRQ1ZmdzI1X2lRNmthUi1EaERUejZoRW9pbVhXRk1zbUNwbk9vN00yNC1lODlXTU50dw?oc=5",
-   "summary": "À l'occasion d'Octobre rose, des professionnels rappellent que la pratique de l'allaitement peut contribuer à réduire le risque de développer un cancer du sein. Cette information offre une perspective de santé publique sur les bienfaits à long terme de l'allaitement pour la santé des mères.",
-   "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Utilisez cette information pour valoriser le choix de l'allaitement si les parents l'évoquent, tout en restant neutre si la mère choisit de ne pas allitert.",
-    "Gardez en tête que l'accompagnement de l'allaitement relève du soutien pratique et émotionnel, et redirigez vers une consultante en lactation ou un médecin en cas de difficultés médicales."
+    "Discuter avec les parents de leur projet de naissance et de l'organisation logistique en cas de départ en urgence vers la maternité.",
+    "Reconnaître l'anxiété que peut générer l'éloignement des structures de soins périnataux sans nourrir de panique.",
+    "Rappeler que la gestion des urgences médicales graves relève strictement de l'équipe médicale et des services de secours."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3043,21 +3070,64 @@
    "enriched": true
   },
   {
-   "id": "a-227aba487560",
-   "category": "pol",
+   "id": "a-81495cb41b59",
+   "category": "soc",
    "priority": false,
-   "title": "Un salarié part en congé de naissance ? Cette double déclaration s’impose depuis le 1er octobre",
-   "source": "NGC France",
-   "date": "11 octobre 2026",
-   "sortDate": "2026-10-11",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSkZaZDdfb3ZudEtOOENUeWZrd2ZpUk1JNVVIU1FyNC10WVFBWFVKalJ3WUptN1R5U291SFhzT0NJTzF1R1ZHTE9zSjhzOHVRYmI0M3RQSExLWW5QdUE?oc=5",
-   "summary": "Depuis le 1er octobre, les salariés prenant un congé de naissance doivent effectuer une double déclaration spécifique. Cette modification administrative encadre les démarches des co-parents pour l'organisation de leur arrêt de travail au moment de l'arrivée de l'enfant.",
+   "title": "Hollywood nous a-t-il menti sur l'accouchement ? Ces scènes de films sont loin de la vraie vie",
+   "source": "Magicmaman",
+   "date": "1 novembre 2026",
+   "sortDate": "2026-11-01",
+   "url": "https://www.magicmaman.com/hollywood-nous-a-t-il-menti-sur-l-accouchement-ces-scenes-de-films-sont-loin-de-la-vraie-vie,3787384.asp",
+   "summary": "Les fictions hollywoodiennes dépeignent souvent l'accouchement comme un événement soudain, ultra-rapide et chaotique marqué par la panique. En réalité, le travail est généralement plus progressif et dure plusieurs heures, tandis que la perte des eaux n'annonce pas toujours un départ imminent en maternité. Ces représentations médiatiques peuvent générer des attentes erronées et de l'anxiété chez les futurs parents.",
    "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
+   "addedAt": "2026-11-01T11:44:59+00:00",
    "pageRead": true,
    "points": [
-    "Informez les futurs co-parents de l'existence de cette double déclaration administrative afin qu'ils anticipent leurs démarches le plus tôt possible.",
-    "Aidez les familles à libérer un espace de discussion sur l'organisation pratique du post-partum, tout en précisant que vous ne dispensez pas de conseil juridique ou administratif officiel."
+    "Abordez les représentations des films avec les parents pour les aider à verbaliser leurs peurs et à déconstruire les mythes liés à la vitesse ou à la douleur de l'accouchement.",
+    "Rappelez aux parents que la physiologie du travail demande du temps et que chaque naissance suit son propre rythme, loin des urgences cinématographiques.",
+    "Renvoyez systématiquement les parents vers leur sage-femme ou leur obstétricien pour toute question médicale concernant la gestion de la perte des eaux et le début réel du travail."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-39bd58ece7bc",
+   "category": "soc",
+   "priority": false,
+   "title": "Morbihan : cette commune accueillera prochainement un salon entièrement dédié à la parentalité et à la périnatalité",
+   "source": "Actu.fr",
+   "date": "31 octobre 2026",
+   "sortDate": "2026-10-31",
+   "url": "https://actu.fr/bretagne/vannes_56260/morbihan-cette-commune-accueillera-prochainement-un-salon-entierement-dedie-a-la-parentalite-et-a-la-perinatalite_64996257.html",
+   "summary": "Une commune du Morbihan accueillera prochainement un salon dédié à la parentalité et à la périnatalité, organisé par des associations locales. Cet évènement gratuit proposera aux familles des conférences, des ateliers pratiques et des temps d'échange autour de thématiques variées comme le sommeil, le portage ou l'accouchement. Il vise à rassembler les parents et les professionnels de terrain pour favoriser le lien et l'information.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Repérez ce type d'événement local pour tisser un réseau avec d'autres professionnels de la périnatalité et orienter les parents vers des ressources de proximité.",
+    "Suggérez aux parents accompagnés de participer à des ateliers pratiques pour consolider leur confiance dans les gestes du quotidien avec leur nouveau-né.",
+    "Rappelez que ces salons proposent des espaces d'information et de soutien, tout en maintenant une distinction claire avec les consultations et les suivis de santé obligatoires."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2bc934f6a6b0",
+   "category": "soc",
+   "priority": false,
+   "title": "Psychose post-partum : des femmes touchées racontent le cauchemar qui a suivi leur accouchement",
+   "source": "blue News",
+   "date": "31 octobre 2026",
+   "sortDate": "2026-10-31",
+   "url": "https://www.bluewin.ch/fr/lifestyle-et-tendances/j-avais-l-impression-d-etre-prisonniere-d-un-cauchemar-li.3655999",
+   "summary": "Une mère témoigne de son expérience de la psychose post-partum, un trouble grave et méconnu survenant après l'accouchement, qui a tardé à être diagnostiqué. Des organisations spécialisées proposent désormais des outils d'information et un soutien par les pairs pour aider les familles concernées.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Sensibiliser les parents, dès le prénatal, à l'existence de troubles psychiques post-partum allant au-delà du baby-blues classique.",
+    "Être attentive aux signes de fatigue extrême ou de rupture avec la réalité chez les jeunes mères pour orienter rapidement vers des professionnels de santé mentale.",
+    "Connaître les réseaux d'accompagnement par les pairs pour briser l'isolement des familles, tout en gardant à l'esprit qu'un diagnostic médical est indispensable."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3079,6 +3149,27 @@
     "Abordez avec les parents la notion de bulle post-natal et le besoin de protection des premiers temps, en vous inspirant de traditions culturelles variées.",
     "Soutenez le besoin de calme et de mise en retrait des jeunes mères et de leur nouveau-né pour faciliter cette transition de vie.",
     "Rappelez que ces temps de repos relèvent du bien-être et de l'accompagnement social, sans interférer avec le suivi médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-41cd1bce3152",
+   "category": "soc",
+   "priority": false,
+   "title": "Le MummyPhone de Gallia : pour se libérer du tabou de la dépression post-partum",
+   "source": "INfluencia",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://www.influencia.net/articles/le-mummyphone-de-gallia-pour-se-liberer-du-tabou-de-la-depression-post-partum",
+   "summary": "Une campagne de sensibilisation récente met en avant le tabou persistant autour de la dépression post-partum et de la difficulté d'être parent. Les statistiques montrent qu'une grande majorité des familles ressentent de l'épuisement et expriment un fort besoin d'écoute et de soutien après l'arrivée d'un enfant.",
+   "auto": true,
+   "addedAt": "2026-11-01T11:44:59+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de parole sécurisant et sans injonction au bonheur parfait pour permettre aux parents d'exprimer leur fatigue.",
+    "Normaliser le tourbillon émotionnel du post-partum lors des discussions informelles à domicile.",
+    "Connaître les limites de son accompagnement non médical et orienter vers le réseau de santé adapté dès que la souffrance psychologique devient trop intense."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4231,90 +4322,6 @@
     "Aborder la grossesse suivante après un deuil avec beaucoup de douceur et de validation des peurs persistantes.",
     "Soutenir les parents dans l'acceptation de leurs émotions ambivalentes, entre espoir et souvenir du bébé décédé.",
     "Ne pas se substituer à un suivi psychologique spécialisé tout en restant une présence bienveillante et disponible."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a67b4ca5cd78",
-   "category": "soc",
-   "priority": false,
-   "title": "Journée du deuil périnatal: Marie-Josée Gauvin livre un témoignage lumineux",
-   "source": "Noovo Moi",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3VtWkJISXZUS281dF9TanQ2QTdldHhRWElsT3dhaThjcHZQajdXQlhFNWpFMTdyV3ByMm92dkQ3YUJuLVBxcUlXSnpsVVp1NHI4ZkJ1TTMzbVQzZGhhRzNpYUItemVzcVp5eFE3cjEwVFhJSDNmNXA4Q3hVd1pFc0VYYlRfamc4TXk4OThNZ1U1bkZFd2NGTGJpNXpRVFpDVHFlbHVySExUREVKQTJEOTdITkhYNi1xV1V2Nk9IelBKOFZLUGVZUUJRODNJem1vYmc?oc=5",
-   "summary": "À l'occasion d'une journée dédiée, une personnalité partage son expérience personnelle du deuil périnatal pour sensibiliser le public. Ce récit met en avant l'importance de briser le tabou autour de la perte d'un enfant avant ou autour de la naissance.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Utiliser ces prises de parole publiques pour légitimer la parole des parents endeuillés et valider leur douleur.",
-    "Proposer un espace d'écoute adapté pour permettre aux familles d'évoquer leur enfant disparu sans tabou.",
-    "Connaître les limites de son rôle non médical en orientant vers des associations spécialisées dans le deuil périnatal."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-33c3e3ef03be",
-   "category": "soc",
-   "priority": false,
-   "title": "Journée du deuil périnatal : « Je l’avais sur moi dans mes bras » : Lolita Chammah, la fille d'Isabelle Huppert, raconte les 12 jours de vie de son fils Kolia",
-   "source": "Parole de mamans",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOYXlWc2dOYnNjY2x5VzF5YVhlcE1INnV6NVlReWtCTHZRcmk0Ui04R3BOYjE3aUVOVUM2dWVHNU1XNkVGUkI5SmtxUG1zc2V2OHRLMlZxSEZrc1dwY3J1WGo1ajFtdDFZZE1WNjUyZ20tZHp5V3pVUmppcVFtWUdXbUR6QUhzY1NYUnNhbVhVUVZYRHp6bVo4MXRWVloxOFZIalN6akRUWlRRX2RzOU0zS1JIeWstMWI3VzRpbF9kOGZyZDNIR25fSkl0SWlERExCcWlmMEp2SmlwOUY0R3J0Y2lYdlQwRU9sWUFCbEhSNFhSdC1EdjYzamw1ajFlR3lEbEg5Z0xDWXdmeXR2UEwweWJrdmtCQk9oVlNkRi11UkhJZkNINHcxclp3?oc=5",
-   "summary": "Une mère partage son expérience intime d'avoir pu tenir son bébé dans ses bras pendant les quelques jours de vie de celui-ci. Le récit met en lumière le temps précieux passé avec l'enfant malgré une issue fatale.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Valoriser l'importance des souvenirs et des moments partagés entre les parents et leur bébé, quelle que soit la durée de vie de ce dernier.",
-    "Accompagner les familles dans la création de souvenirs tangibles si elles le demandent, dans le respect de leurs choix.",
-    "Respecter strictement le cadre non médical en se concentrant uniquement sur le soutien émotionnel et l'accompagnement humain du deuil."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-0396a561f2dc",
-   "category": "soc",
-   "priority": false,
-   "title": "Allaitement maternel : « Une femme qui allaite est encore soumise à beaucoup d’injonctions »",
-   "source": "Radio France",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaXVBS1N5MlBQMUVsZnBRWFlVSlM4aUFCZE5DTUtXbklFcjFYWGpubWdzNU5FRHJqeEhCWEhLblFxeG9IQ1l5MjgxUzhPQ2ZjUjJ1b1RESzFTcGJUMlBlTUZTdHNZLWg4eHBZTVFiREhiVlpnLVZGSUpQR0l3Q0g3YjZVMGJGNlpRRkJ5cjYyT05QdHNEeWNJTHZaeTdNXzk4Q1JyZVc2M1NtY2JDek9aSVB5Z3dWWHlMQW13cTdZcnBDQkMyVVpTTFIyc2ZXUG1iYTgxRGpjXzJjRGVkdWdGb25lWkRicmlVNm1zYnJqekdkMVN6WHY1Y2VrWQ?oc=5",
-   "summary": "L'allaitement maternel expose fréquemment les mères à de nombreuses pressions et injonctions contradictoires de la part de leur entourage ou de la société. Ce contexte met en lumière la nécessité d'un soutien bienveillant pour accompagner les femmes dans leurs choix.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute inconditionnel pour libérer la parole des mères sur la pression qu'elles ressentent autour de l'alimentation de leur bébé.",
-    "Valider les choix parentaux sans jugement, qu'il s'agisse d'allaiter ou non, pour renforcer la confiance des parents.",
-    "Rappeler aux parents que les décisions médicales et les conseils techniques relèvent des professionnels de santé qualifiés."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-c47267521183",
-   "category": "soc",
-   "priority": false,
-   "title": "Conférences, défilé, tables rondes… Le Forum européen de l’allaitement s’installe à Cannes",
-   "source": "Nice-Matin",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZW5ZQ05FSWNHekFkSnpBdlpNQnB6UFk0dThXMTZ3N0duN1dLcFFodXZvNXVQZFo2YkRVSk0ycGF4M0FzZngzdGpSc2xzOHRlelNJMUp2cDFGdHVPa0M5V09UdWJlWURHSER0RTVpNTBmelZyWGZZS0ZqMjItYlhaTTBYQXJXSWhZWm1XcW83LWY0OTFWcmNGa05MSUNFS3lMR2lFZlVlbmU2WXJ3TjB6bTlsR0k4aTJMenM4U2RPSzhOZ25OSjBkeG93?oc=5",
-   "summary": "L'organisation d'événements dédiés à l'allaitement, tels que des forums et des tables rondes, favorise les échanges d'informations et la sensibilisation du grand public. Ces manifestations offrent des espaces de rencontre pour aborder les différentes facettes de l'alimentation infantile.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Orienter les parents intéressés vers ces événements locaux ou associatifs pour qu'ils puissent enrichir leurs informations et rencontrer d'autres familles.",
-    "Utiliser ces initiatives pour encourager la discussion au sein du couple sur leurs attentes et leurs besoins en matière de soutien périnatal.",
-    "Garder à l'esprit que les informations générales trouvées lors de salons ne remplacent pas un suivi médical individualisé."
    ],
    "summaryAI": true,
    "enriched": true
