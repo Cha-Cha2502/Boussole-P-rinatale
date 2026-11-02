@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T11:44:59+00:00",
+ "updatedAt": "2026-11-02T13:17:15+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "13 page(s) d'articles lue(s)",
-  "IA : 13 article(s) résumé(s) et commenté(s)"
+  "4 page(s) d'articles lue(s)",
+  "IA : 4 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -1814,6 +1814,48 @@
    "enriched": true
   },
   {
+   "id": "a-705b550df0cb",
+   "category": "pol",
+   "priority": false,
+   "title": "Mont-Saint-Martin : un rassemblement citoyen prévu le 7 novembre contre la fermeture de la maternité",
+   "source": "ici.fr",
+   "date": "2 novembre 2026",
+   "sortDate": "2026-11-02",
+   "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-lorraine-moselle-et-pays-haut/un-rassemblement-prevu-contre-la-fermeture-de-la-maternite-de-mont-saint-martin-alors-que-la-transformation-se-prepare-2707920",
+   "summary": "La maternité de l'hôpital de Mont-Saint-Martin doit fermer ses portes en décembre 2026 en raison d'un manque de personnel médical. Face à cette situation, un collectif local et des élus organisent un rassemblement citoyen pour contester cette décision. Cette fermeture s'inscrit dans un contexte plus large de réduction de l'offre de soins périnataux dans la région.",
+   "auto": true,
+   "addedAt": "2026-11-02T13:17:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Sois attentive à l'anxiété que la fermeture des structures locales peut générer chez les parents, en ouvrant un espace d'écoute bienveillant sur leurs craintes d'éloignement des lieux de naissance.",
+    "Informe-toi sur les maternités alternatives et les réseaux de santé disponibles aux alentours pour orienter au mieux les familles en quête de solutions de repli.",
+    "Rappelle toujours que la gestion des urgences et de la sécurité médicale relève strictement des professionnels de santé et des structures hospitalières."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-26e289097910",
+   "category": "pol",
+   "priority": false,
+   "title": "TOULON : Droit du travail - Un webinaire pour décrypter le nouveau congé de naissance",
+   "source": "Presse Agence",
+   "date": "1 novembre 2026",
+   "sortDate": "2026-11-01",
+   "url": "https://presseagence.fr/toulon-droit-du-travail-un-webinaire-pour-decrypter-le-nouveau-conge-de-naissance/",
+   "summary": "Un webinaire est organisé à Toulon par l'Union Patronale et l'Assurance Maladie pour présenter aux entreprises le nouveau congé supplémentaire de naissance. En vigueur depuis le 1er juillet 2026, ce dispositif modifie la gestion des ressources humaines et l'indemnisation des salariés. L'événement vise à clarifier les règles juridiques et déclaratives auprès des employeurs et des services RH.",
+   "auto": true,
+   "addedAt": "2026-11-02T13:17:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Tiens-toi informée des évolutions législatives comme le congé supplémentaire de naissance pour pouvoir orienter globalement les parents vers les interlocuteurs administratifs adaptés.",
+    "Encourage les co-parents à anticiper le dialogue avec leur employeur en amont de l'arrivée de l'enfant pour aborder sereinement l'organisation de ces nouveaux temps de pause.",
+    "Garde à l'esprit que tu ne peux pas te substituer à l'administration ou aux services RH pour calculer ou valider les droits aux indemnités des familles."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-ecb7af3cb9dc",
    "category": "pol",
    "priority": false,
@@ -1851,6 +1893,27 @@
     "Discutez avec les co-parents de la place du père et de l'importance de s'impliquer dès le retour à la maison malgré les pressions professionnelles.",
     "Offrez un espace d'écoute aux couples sur la charge mentale et l'organisation pratique du post-partum face aux contraintes du travail.",
     "Orientez les parents vers des juristes ou des permanences spécialisées en cas de difficultés ou de discrimination liée à la parentalité au travail, sans se substituer aux professionnels du droit."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-38e687cb946b",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé supplémentaire de naissance : le ministère du Travail rectifie sa position sur le maintien de la complémentaire santé",
+   "source": "Editions Tissot",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://www.editions-tissot.fr/actualite/sante-securite/conge-supplementaire-de-naissance-quel-sort-pour-les-avantages-des-salaries",
+   "summary": "Le ministère du Travail a clarifié les règles concernant le maintien de la complémentaire santé pendant le congé supplémentaire de naissance, indiquant que celui-ci n'est pas automatique mais soumis à conditions. Accessible depuis juillet 2026 pour les enfants nés ou adoptés cette même année, ce congé permet de prendre un à deux mois supplémentaires après les congés initiaux. Pendant cette suspension du contrat de travail, les salariés perçoivent des indemnités journalières dégressives de la Sécurité sociale.",
+   "auto": true,
+   "addedAt": "2026-11-02T13:17:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Utilise ces informations factuelles pour informer les familles sur l'existence de ce congé et de ses modalités d'indemnisation dégressive sur un ou deux mois.",
+    "Aide les parents à verbaliser leurs choix d'organisation temporelle, qu'ils décident de prendre ce congé simultanément, en alternance ou de le fractionner.",
+    "Rappelle aux parents que les aspects contractuels et le maintien des garanties de santé doivent être vérifiés directement auprès de leur employeur ou de leur service RH."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3008,68 +3071,6 @@
    "enriched": true
   },
   {
-   "id": "a-13d3f73de0ac",
-   "category": "pol",
-   "priority": false,
-   "title": "Les défenseurs de la maternité du Blanc à Paris pour se faire entendre",
-   "source": "Orange Actualités",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzVmSnc2ZDdKTjVzTE5xVFRweG1ScVRmcnoxaDVqUDNuaW1BaV92dWM2aU84R1VPN0xnLVFmcHVRakNBcmgyaUwxWmw0Q0ZRY200cGVZUHp3RVI2WWcxOFpBcmZRRG9vLW1iUUhpNS15cWpWZUU3d1JaYU1xWGYzQkRLcElqTzM5SF91WUpwU292cXoxNEVjRnJLYmhQdmZMQ255VFB1blRHcFV6Z3pJSlJESGZqc056aHNub0c4SEFNSExsZ0NkOW1B?oc=5",
-   "summary": "Des collectifs et défenseurs de la maternité du Blanc se mobilisent à Paris pour faire entendre leurs revendications face aux menaces pesant sur leur structure. Cette action met en lumière les difficultés d'accès aux soins périnataux en zones rurales et la mobilisation citoyenne qui en découle.",
-   "auto": true,
-   "addedAt": "2026-10-12T05:17:54+00:00",
-   "pageRead": true,
-   "points": [
-    "Soyez à l'écoute de l'anxiété que peuvent ressentir les parents face à l'éloignement des structures de naissance ou à la fermeture de maternités locales.",
-    "Aidez les familles à identifier les ressources alternatives et les professionnels de santé disponibles près de chez eux, sans vous substituer au réseau médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-0a1f4734f1e8",
-   "category": "pol",
-   "priority": false,
-   "title": "Five Countries Meeting 2026 : de Paris à Londres",
-   "source": "CNGOF",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://cngof.fr/five-countries-meeting-2026-de-paris-a-londres/?utm_source=rss&utm_medium=rss&utm_campaign=five-countries-meeting-2026-de-paris-a-londres",
-   "summary": "La réunion annuelle du Five Countries Meeting à Londres a permis de confronter les organisations de soins en gynécologie-obstétrique entre plusieurs pays européens. Les échanges ont notamment abordé la démographie médicale, l'organisation des parcours de soins et la gestion des situations où les choix des patientes s'écartent des recommandations officielles. Le rapport de l'IGAS sur la périnatalité a également nourri les réflexions sur les ressources humaines dans le secteur.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Comprendre les contraintes actuelles du système de santé et la surcharge des maternités pour mieux informer les parents sur le contexte de leur prise en charge.",
-    "Soutenir les parents dans l'expression de leurs choix de naissance, y compris lorsqu'ils s'éloignent des protocoles habituels, en les encourageant au dialogue avec l'équipe médicale.",
-    "Maintenir une posture de soutien non médical sans jamais interférer ni se substituer aux décisions des professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a8c989595947",
-   "category": "pol",
-   "priority": false,
-   "title": "Un texte reconnaissant la discrimination liée à l'allaitement adopté : \"Ça change beaucoup de choses pour beaucoup de femmes\"",
-   "source": "Magicmaman",
-   "date": "12 octobre 2026",
-   "sortDate": "2026-10-12",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUmxuTlI5MjU4OWJRTlBXYjFzeW4xTUtIZV83Y1VpY2p6NmIxZko3b2dPcE84Qjc1ZFVOUGRZaXAxTW81MkVSM1BTaVlRR0FSaHhseERQd3Y3UkhaT3R2QjNqenh0V09NWnZWcHpNLV9UdTNiUUtLejY2SmZ5bmkyblpzWjgyN3hncnlmTHdKamczclZOOGFxOVVIR3M2S1h3ZGU0WEhnQ3ZoUlVwS2dtSzZicXFBaEJOTUN2NER0MDZvQ1JNWkdlQTB4NjJaRHBJLUhJeEs1QlFRa01FRXVaazhPNllkMWx2a0NodDRXQmt6QQ?oc=5",
-   "summary": "Un texte législatif reconnaissant officiellement la discrimination liée à l'allaitement a été adopté, ce qui représente une avancée importante pour les droits des femmes. Cette mesure vise à protéger les mères qui choisissent d'allaiter leur enfant dans l'espace public ou professionnel.",
-   "auto": true,
-   "addedAt": "2026-10-13T05:18:30+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur leurs droits fondamentaux concernant l'allaitement dans la sphère publique.",
-    "Soutenir la confiance des mères en leur rappelant le cadre légal qui protège leur choix d'allaiter.",
-    "Éviter toute interprétation juridique personnelle et orienter les mères vers les structures adaptées en cas de litige."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-81495cb41b59",
    "category": "soc",
    "priority": false,
@@ -3317,6 +3318,27 @@
     "Accueille avec beaucoup de sensibilité les peurs ou les traumatismes liés à des complications de santé survenant de manière inattendue pendant la grossesse ou l'accouchement.",
     "Rappelle l'importance d'écouter les modifications de son corps et d'oser consulter des professionnels de santé face au moindre doute, même en fin de gestation.",
     "Garde à l'esprit que la doula offre un soutien émotionnel mais ne peut en aucun cas poser de diagnostic ni se substituer au suivi médical en cas de pathologie."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ad56f3f50ad1",
+   "category": "soc",
+   "priority": false,
+   "title": "PORTRAIT. \"C’était pour moi une aubaine…\" : après 20 ans d'exercice dans le Var, cette sage-femme de 56 ans pose ses valises dans un village du Lot - ladepeche.fr",
+   "source": "ladepeche.fr",
+   "date": "27 octobre 2026",
+   "sortDate": "2026-10-27",
+   "url": "https://www.ladepeche.fr/2026/10/27/portrait-cetait-pour-moi-une-aubaine-apres-20-ans-dexercice-dans-le-var-cette-sage-femme-de-56-ans-pose-ses-valises-dans-un-village-du-lot-13622576.php",
+   "summary": "Une sage-femme expérimentée s'est installée dans le Lot au sein d'une maison de santé pluriprofessionnelle pour y exercer son activité et son expertise en échographie. Ce parcours met en lumière l'installation de professionnels de santé dans les zones rurales touchées par la désertification médicale. Cette relocalisation répond à un double objectif personnel de rapprochement familial et professionnel au sein d'un territoire dynamique.",
+   "auto": true,
+   "addedAt": "2026-11-02T13:17:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Repère les nouvelles ressources médicales et paramédicales locales, comme cette sage-femme en MSP, pour enrichir ton carnet d'adresses et orienter les parents du secteur.",
+    "Comprends l'impact de l'éloignement des professionnels de santé sur le vécu des familles rurales pour adapter ton soutien pratique et émotionnel à domicile.",
+    "Maintien une collaboration respectueuse et transparente avec les sages-femmes locales sans jamais interférer dans leur suivi clinique ou leurs actes médicaux."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4301,27 +4323,6 @@
     "Veiller à inclure activement le co-parent dans l'écoute et le soutien face au deuil périnatal.",
     "Offrir un espace sécurisant et sans jugement pour libérer la parole des pères souvent isolés dans leur chagrin.",
     "Rappeler que la doula écoute et soutient émotionnellement, tout en orientant vers des professionnels de la santé mentale en cas de besoin."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-f964a8e45de3",
-   "category": "soc",
-   "priority": false,
-   "title": "« Même après un deuil périnatal, la lumière et l’amour peuvent revenir » - TÉMOIGNAGE",
-   "source": "Le HuffPost",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnI3WmFpMi01VEYtYk45elNqQmxIaFYycFVqQXN6dEdOVTVUS1hmQUdxbXZDbjBXWlB3UVROcmFpTFVPY3hReFVkbndHMGFuWXVuOURLVjlpNldkWGs4dVVEMXA1ZzU4OTdqblI5SU1Ka0NQTnFxQkNsUUxmNnpBZjZHd3lLZTFsU0FLOExkTXlxaGgtWktTSkw3dFhMOHR2Um9kUENXWDNNMW12Vnp6eThaVEE3dDluX2cxQXhUb1VqWTdoNFRQRUpVTHlfZw?oc=5",
-   "summary": "Ce témoignage aborde la possibilité de retrouver un équilibre et d'accueillir à nouveau la vie après avoir traversé un deuil périnatal. Il met en avant le cheminement émotionnel des parents confrontés à une telle tragédie.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la grossesse suivante après un deuil avec beaucoup de douceur et de validation des peurs persistantes.",
-    "Soutenir les parents dans l'acceptation de leurs émotions ambivalentes, entre espoir et souvenir du bébé décédé.",
-    "Ne pas se substituer à un suivi psychologique spécialisé tout en restant une présence bienveillante et disponible."
    ],
    "summaryAI": true,
    "enriched": true
