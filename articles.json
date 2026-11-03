@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T13:17:15+00:00",
+ "updatedAt": "2026-11-03T12:41:27+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "4 page(s) d'articles lue(s)",
-  "IA : 4 article(s) résumé(s) et commenté(s)"
+  "15 page(s) d'articles lue(s)",
+  "IA : 15 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -174,7 +174,16 @@
   "a-e65ff1dd484e": "2026-10-28",
   "a-fcd21d791d31": "2026-11-01",
   "a-c59703c8e2cc": "2026-10-31",
-  "a-6e6a960d62ee": "2026-10-31"
+  "a-6e6a960d62ee": "2026-10-31",
+  "a-01aa60f0459c": "2026-11-03",
+  "a-1c24a2251bfd": "2026-11-03",
+  "a-d7f2690b0177": "2026-11-03",
+  "a-c581a58c75e2": "2026-11-02",
+  "a-150444707eac": "2026-11-02",
+  "a-690fa9c6035e": "2026-11-02",
+  "a-881c48943e46": "2026-10-31",
+  "a-c004d5a649f4": "2026-10-29",
+  "a-110e3b2bff1d": "2026-10-29"
  },
  "articles": [
   {
@@ -555,6 +564,27 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-4545bf36b5b9",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement maternel: un bouclier pour la croissance des nourrissons",
+   "source": "Gabon Media Time",
+   "date": "1 novembre 2026",
+   "sortDate": "2026-11-01",
+   "url": "https://gabonmediatime.com/allaitement-maternel-un-bouclier-pour-la-croissance-des-nourrissons/",
+   "summary": "Un centre de santé a organisé une campagne de sensibilisation pour rappeler l'importance de l'allaitement maternel et ses bienfaits sur la croissance du nourrisson. Les professionnels de santé et les mères soulignent que cette alimentation naturelle favorise le lien d'attachement et apporte les nutriments nécessaires tout en évitant les risques liés aux produits de substitution.",
+   "auto": true,
+   "addedAt": "2026-11-03T12:41:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Valoriser l'allaitement maternel dans ton discours en soulignant son rôle dans le lien parent-bébé et son apport nutritionnel.",
+    "Offrir une écoute bienveillante aux mères qui s'interrogent sur les modes d'alimentation de leur nourrisson sans jamais porter de jugement.",
+    "Orienter les parents vers des professionnels de santé qualifiés en cas de difficultés techniques ou de doutes médicaux sur l'alimentation."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1793,22 +1823,43 @@
    "enriched": true
   },
   {
-   "id": "a-d366276efe5e",
-   "category": "sci",
+   "id": "a-8d82f387176e",
+   "category": "pol",
    "priority": false,
-   "title": "Semaine mondiale de l’allaitement : une journée d’information à la Polyclinique de l’Ormeau",
-   "source": "Tarbes Infos",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KT0xFb0l4bGN6MjZ1T25DOEZ6d2RLUWF6enVBams0M3FnLVByeHNPbk55blluZHI4Szg2YkVoYmpWUW1TLVBGZVlmVklSejhBSFF3b1ZrQjJvUU1nXzdJ?oc=5",
-   "summary": "La Polyclinique de l'Ormeau met en place une journée d'information dédiée à l'allaitement maternel. Cette initiative s'inscrit dans la Semaine mondiale de l'allaitement pour sensibiliser le public. Elle permet d'informer les futurs parents sur les aspects pratiques et les bienfaits de cette pratique.",
+   "title": "Congé de naissance 2026 : ce qu’il faut retenir !",
+   "source": "Culture RH",
+   "date": "3 novembre 2026",
+   "sortDate": "2026-11-03",
+   "url": "https://culture-rh.com/conge-naissance-2026-premiers-enseignements/",
+   "summary": "Un nouveau congé de naissance entré en vigueur en 2026 permet aux parents de prolonger leur présence auprès de leur enfant avec des mois supplémentaires indemnisés de manière dégressive. Cette mesure implique une baisse de revenus pour les familles et nécessite des démarches administratives spécifiques auprès des employeurs et de l'Assurance maladie.",
    "auto": true,
-   "addedAt": "2026-10-14T05:27:04+00:00",
+   "addedAt": "2026-11-03T12:41:27+00:00",
    "pageRead": true,
    "points": [
-    "Relayer ce type d'information institutionnelle pour rassurer les parents sur les ressources disponibles sur leur territoire.",
-    "Discuter avec les futurs parents de leurs attentes concernant l'alimentation de leur nouveau-né lors des séances de préparation.",
-    "Laisser l'équipe médicale de la polyclinique répondre aux questions techniques et pathologiques."
+    "Informez les parents sur l'existence de ce congé de naissance et l'importance d'anticiper son impact financier dans leur budget.",
+    "Encouragez les couples à discuter en amont de l'organisation de ce temps partagé pour mieux vivre la transition du post-partum.",
+    "Rappelez que la gestion de ce congé relève du droit du travail et de l'administration, hors de votre champ de compétence non médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-28668b6d5814",
+   "category": "pol",
+   "priority": false,
+   "title": "Rassemblement pour dire \"Non\" à la fermeture de la maternité de Mont-Saint-Martin",
+   "source": "Lor'FM",
+   "date": "3 novembre 2026",
+   "sortDate": "2026-11-03",
+   "url": "https://www.lorfm.com/rassemblement-pour-dire-non-a-la-fermeture-de-la-maternite-de-mont-saint-martin",
+   "summary": "Un collectif et des élus locaux se mobilisent pour s'opposer à la transformation de la maternité de Mont-Saint-Martin en centre de suivi périnatal. Cette contestation vise à alerter sur les besoins de soins de la population locale et à préserver l'offre de santé sur le secteur.",
+   "auto": true,
+   "addedAt": "2026-11-03T12:41:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Soyez à l'écoute des inquiétudes des parents face à la modification ou la fermeture des services de maternité locaux.",
+    "Aidez les familles à identifier les structures de soins alternatives et les professionnels de santé disponibles près de chez elles.",
+    "Évitez de prendre position sur les choix politiques de gestion des structures médicales, tout en validant les émotions des parents."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1830,6 +1881,27 @@
     "Sois attentive à l'anxiété que la fermeture des structures locales peut générer chez les parents, en ouvrant un espace d'écoute bienveillant sur leurs craintes d'éloignement des lieux de naissance.",
     "Informe-toi sur les maternités alternatives et les réseaux de santé disponibles aux alentours pour orienter au mieux les familles en quête de solutions de repli.",
     "Rappelle toujours que la gestion des urgences et de la sécurité médicale relève strictement des professionnels de santé et des structures hospitalières."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-0d1359fee6bf",
+   "category": "pol",
+   "priority": false,
+   "title": "Le clesrovimab désormais inscrit sur la liste de prescription des sages-femmes",
+   "source": "Conseil national de l'Ordre des sages-femmes",
+   "date": "2 novembre 2026",
+   "sortDate": "2026-11-02",
+   "url": "https://www.ordre-sages-femmes.fr/2026/le-clesrovimab-desormais-inscrit-sur-la-liste-de-prescription-des-sages-femmes/",
+   "summary": "Un décret récent autorise les sages-femmes à prescrire le clesrovimab, un anticorps monoclonal destiné à prévenir les infections graves à VRS chez les nourrissons. Cette décision s'inscrit dans les stratégies de prévention de la bronchiolite, bien que l'Ordre des sages-femmes regrette la lourdeur du cadre réglementaire limitatif des prescriptions.",
+   "auto": true,
+   "addedAt": "2026-11-03T12:41:27+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents des différentes options de prévention contre la bronchiolite proposées par le corps médical.",
+    "Rappeler aux familles que la prescription de ces traitements préventifs relève exclusivement des compétences médicales des sages-femmes et des médecins.",
+    "Observer comment l'évolution des réglementations de santé publique élargit l'accès aux soins de prévention pour les nouveau-nés."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3010,62 +3082,22 @@
    "enriched": true
   },
   {
-   "id": "a-5fef0acdb02a",
-   "category": "pol",
+   "id": "a-ef8297c87a83",
+   "category": "soc",
    "priority": false,
-   "title": "Pas de sursis : la maternité de l'hôpital de Trappes devrait bien fermer en fin d'année",
-   "source": "Actu.fr",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQkUta08wd1VzYWNCSm5UVEFMV3Z6VHZYOWFZNnFRTEpNVVdaVlhGZ3NDNDdtdGU3cTVvalYxYThPb2toY2VtSnRVbEM5QmRYaF9hVWxjd3ZTNDJ4c0Y4VGNOdGpjSHpJNWFzOGJzVHZEN2xFUXI1b2dmZGtCM3pzSjlTTzJUT0N5QTItQUpZU3pxclkxRzRKNWFkUHJkbGkybzM0WGZFYnd6TWNMeG44d3VrUDJFdWRSQVVyZEVmQlg0YlVSbXlzRVcyT3A3dm5WTlI1ajVpaXQ?oc=5",
-   "summary": "La maternité de l'hôpital de Trappes fait face à une fermeture définitive programmée pour la fin de l'année, sans sursis. Cette décision modifie l'offre de soins locale et l'organisation des naissances pour les futures familles du territoire.",
+   "title": "Marathon de New York : elle s’arrête au 27e km pour allaiter son bébé de 6 mois",
+   "source": "u-Trail",
+   "date": "2 novembre 2026",
+   "sortDate": "2026-11-02",
+   "url": "https://www2.u-trail.com/marathon-de-new-york-elle-sarrete-au-27e-km-pour-allaiter-son-bebe-de-6-mois/",
+   "summary": "Une jeune mère de famille a choisi d'allaiter son bébé de six mois au cours du marathon de New York, mettant en lumière la conciliation entre sport, objectifs personnels et allaitement. L'événement proposait des espaces adaptés pour tirer son lait, tout en soulignant les défis physiques et logistiques de cette période post-natale.",
    "auto": true,
-   "addedAt": "2026-10-14T05:27:04+00:00",
+   "addedAt": "2026-11-03T12:41:27+00:00",
    "pageRead": true,
    "points": [
-    "Discuter avec les parents des impacts de la fermeture des maternités locales sur leur projet de naissance et leur logistique.",
-    "Aider les familles à anticiper les trajets et les plans de secours tout en restant neutre face aux décisions institutionnelles."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-23a768f2d074",
-   "category": "pol",
-   "priority": false,
-   "title": "Fermeture temporaire du service d’accouchement à La Sarre",
-   "source": "Radio-Canada",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFp4d3p5UVFGZlF6ZnF0cmFjdnBRWFBYVXB3ZjBVTU5FLW54SVQwbHZKTzVpTGtiMjRKeldBSldiZGF1eE1ZTXZZXzJ6X0dodmx6NTRVU3dyUGZ4WlJWQjlyWi1mN1ZHXzEyNnBnRWJBcVZuV3o4bW1YZko1Z0JDeVdwS3VXbWVTZFFBRDZ0QldfVF85?oc=5",
-   "summary": "Le service d'accouchement de La Sarre annonce une fermeture temporaire, modifiant l'accès aux soins de proximité pour les femmes enceintes de la région. Cette situation de rupture de service nécessite une réorganisation des parcours de soins locaux.",
-   "auto": true,
-   "addedAt": "2026-10-14T05:27:04+00:00",
-   "pageRead": true,
-   "points": [
-    "Accompagner l'anxiété des futurs parents face aux modifications de leur lieu d'accouchement habituel.",
-    "Rappeler aux familles l'importance de valider leur plan de naissance alternatif directement avec l'équipe médicale référente."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a74ecaa345b1",
-   "category": "pol",
-   "priority": false,
-   "title": "Périnatalité : le collectif No FakeMed alerte sur la montée en puissance de \"dérives pseudothérapeutiques\"",
-   "source": "Actusoins",
-   "date": "13 octobre 2026",
-   "sortDate": "2026-10-13",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdFlVVDNZOU0zYTJvLWtZTmJrUW5EYjdiZnphcWtPaHUwTzNKdjVZM0tzZXZkZ2pLVnd1WFpwUzlQZnAwOUpPdkRURk02blBMQ2h0Sll1SUliNzYxcnRLME9BYWp1MlVaYTNBR0xxYkdkNGcyQWpNUG5ybzlySXY1aVZSZGxlRDRoeWFaUWtoTlV1VG93OGxUYjIwTTY2Z0dpRjZzQ3B2cUdGaHBMRndxZFdCWUhFMDNCWjdkWjJQT05BRHFCVmdqTzJSTk51dw?oc=5",
-   "summary": "Un collectif de professionnels de santé met en garde contre la recrudescence de pratiques de soins non conventionnelles et potentiellement dangereuses dans le domaine de la périnatalité. Cet appel souligne la nécessité d'une vigilance accrue face aux discours non validés scientifiquement adressés aux futurs et jeunes parents.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Maintenir une posture éthique rigoureuse en distinguant clairement l'accompagnement non médical des pratiques thérapeutiques.",
-    "Encourager les parents à consulter des professionnels de santé qualifiés pour tout problème de santé ou de bien-être médical.",
-    "Observer une grande prudence dans les conseils prodigués pour ne jamais interférer avec le parcours de soin médical."
+    "Aborder avec les mères la question de la reprise sportive en post-partum et l'importance d'écouter les besoins de leur corps.",
+    "Soutenir les choix d'allaitement des parents en valorisant l'écoute de leur propre rythme et de leurs projets personnels.",
+    "Reconnaître qu'aucun conseil médical sur la récupération physique ne relève du rôle de la doula, qui offre un soutien purement émotionnel et pratique."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4302,27 +4334,6 @@
     "Accueillir la colère et l'inquiétude des parents face aux difficultés d'accès aux soins dans leur région.",
     "Aider les familles à verbaliser leurs craintes concernant le trajet et le lieu de naissance de leur enfant.",
     "Se positionner comme un soutien émotionnel solide sans alimenter les polémiques politiques locales."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e18222b8c7c2",
-   "category": "soc",
-   "priority": false,
-   "title": "« On était trois, puis on n’était plus que deux » : le témoignage bouleversant de Kévin après la mort de son bébé",
-   "source": "Parole de mamans",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaHg0NDZtaEZYZ2U4Mk5TTzJQN0dwRmJFT1hrZDA1V015VTdSYTBGcE9ZdHloVnk4V21HZWt3VXphXzlZcVhXbl9IbGlYVGo5VkJWU2FacGhQQzNNSnB1UlVkTlprSWFsWk15MmdqLV9nRi1OejA1ZVpCdkRjQTE3SWEwLUxweGc3aVNxNXoxT3dKdDNPZE9iTlZHMUswMDVqVkxzTmRMdjhJTTctSnViX2h4eTlYZTZ3YmRxemRwVjF6amtfMnkwVE13N2RJejVnRVdnRjdBR1dmSWRtU2tRbXlpWHBPMWxnZ0x5N1BXUGF1OW8?oc=5",
-   "summary": "Un père partage sa douleur et son vécu suite à la perte de son enfant, mettant en lumière la souffrance paternelle dans le deuil périnatal. Ce témoignage illustre les répercussions psychologiques majeures de cette épreuve au sein du couple.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Veiller à inclure activement le co-parent dans l'écoute et le soutien face au deuil périnatal.",
-    "Offrir un espace sécurisant et sans jugement pour libérer la parole des pères souvent isolés dans leur chagrin.",
-    "Rappeler que la doula écoute et soutient émotionnellement, tout en orientant vers des professionnels de la santé mentale en cas de besoin."
    ],
    "summaryAI": true,
    "enriched": true
