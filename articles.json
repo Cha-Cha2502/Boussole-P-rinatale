@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T12:59:33+00:00",
+ "updatedAt": "2026-11-06T12:48:04+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "12 page(s) d'articles lue(s)",
-  "IA : 0 article(s) résumé(s) et commenté(s)"
+  "29 page(s) d'articles lue(s)",
+  "IA : 29 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -191,7 +191,16 @@
   "a-264d6fa63024": "2026-11-03",
   "a-2ab455ca5e7b": "2026-11-03",
   "a-1497fb5022b1": "2026-10-31",
-  "a-0a1f4734f1e8": "2026-10-12"
+  "a-0a1f4734f1e8": "2026-10-12",
+  "a-3abbfa2d4316": "2026-11-06",
+  "a-612b6896711b": "2026-11-06",
+  "a-b60f9cb67858": "2026-11-05",
+  "a-d8992fd8eaa8": "2026-11-05",
+  "a-bf5a1af9c10e": "2026-11-05",
+  "a-17b996119496": "2026-11-04",
+  "a-f1f6b0c6dfb0": "2026-11-03",
+  "a-d5b6ade30212": "2026-10-29",
+  "a-c92e8df5a628": "2026-10-28"
  },
  "articles": [
   {
@@ -583,10 +592,17 @@
    "date": "5 novembre 2026",
    "sortDate": "2026-11-05",
    "url": "https://www.mayottehebdo.com/actualite/sante/accouchements-hors-maternite-evacuations-sanitaires-les-defis-de-la-perinatalite-a-mayotte/",
-   "summary": "Avec 9 070 naissances enregistrées en 2025, dont 710 en dehors des structures hospitalières, Mayotte fait face à d'importantes difficultés en matière de santé périnatale. Réunis ce mercredi 4 novembre à la Technopole de Dembéni, pour les 13es Journées périnatales de Mayotte, les professionnels de santé ont dressé un état…",
+   "summary": "Mayotte enregistre un taux important d'accouchements hors structures hospitalières ainsi qu'une mortalité maternelle et infantile supérieure à la moyenne nationale, en lien avec la précarité et un suivi de grossesse parfois insuffisant. Les autorités locales soulignent l'importance de renforcer le suivi prénatal, de sécuriser les transports et d'améliorer les structures de proximité et de prise en charge.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Soyez particulièrement attentive aux signaux de précarité ou d'isolement chez les parents pour faciliter leur accès aux réseaux de soins et d'accompagnement adaptés.",
+    "Écoutez les craintes liées à l'éloignement des structures de naissance et aidez les parents à formaliser leur plan de naissance en intégrant la question du transport.",
+    "Rappelez que l'accompagnement d'une doula ne remplace en aucun cas un suivi médical régulier, indispensable dès le début de la grossesse."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-7d197b303b06",
@@ -597,10 +613,122 @@
    "date": "5 novembre 2026",
    "sortDate": "2026-11-05",
    "url": "https://www.parents.fr/actualites/grossesse/grossesse-cette-vitamine-pourrait-jouer-un-role-dans-le-temperament-de-votre-bebe-selon-une-etude-1159060",
-   "summary": "Une étude américaine suggère qu'un apport de cette vitamine pourrait être associé à son tempérament dès l'âge de 6 mois.",
+   "summary": "Une étude américaine menée auprès de 302 femmes enceintes suggère que la détresse psychologique durant la grossesse est liée à davantage de réactions émotionnelles négatives chez le nourrisson à 6 mois. Toutefois, les bébés dont les mères ont consommé des suppléments de vitamine C présentaient moins de ces réactions. Ce lien n'a pas été observé avec les apports de vitamine C provenant uniquement de l'alimentation.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborde l'importance du bien-être émotionnel pendant la grossesse de manière bienveillante sans culpabiliser les parents.",
+    "Rappelle aux parents que toute supplémentation en vitamines relève strictement du domaine médical ou de la prescription par un professionnel de santé habilité.",
+    "Aide les parents à relativiser le tempérament de leur bébé à 6 mois en tenant compte de multiples facteurs environnementaux et émotionnels."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-60ea84b04e04",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement maternel : l’association HANEN formule six recommandations pour mieux protéger les mères et les enfants",
+   "source": "La Presse de Tunisie",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.lapresse.tn/2026/11/05/allaitement-maternel-lassociation-hanen-formule-six-recommandations-pour-mieux-proteger-les-meres-et-les-enfants/",
+   "summary": "À l'occasion de sa 7e Journée nationale, l'Association HANEN a formulé six recommandations pour promouvoir l'allaitement maternel en Tunisie. Celles-ci insistent notamment sur la collaboration intersectorielle, la sensibilisation du grand public aux bienfaits du lait maternel et le renforcement de l'application du Code international de commercialisation des substituts du lait maternel.",
+   "auto": true,
+   "addedAt": "2026-11-05T12:59:33+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutiens les mères dans leur projet d'allaitement en valorisant des pratiques fondées sur l'information et le contact peau à peau précoce.",
+    "Respecte scrupuleusement le Code international de l'OMS en ne recommandant aucune marque de substitut de lait maternel et en orientant vers des professionnels en cas de difficultés.",
+    "Offre une écoute attentive et inconditionnelle aux mères, quel que soit leur choix d'alimentation pour leur nourrisson."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a439aecc8dcc",
+   "category": "sci",
+   "priority": false,
+   "title": "Cette vitamine pourrait atténuer les effets du stress pendant la grossesse sur le bébé, selon une étude",
+   "source": "Magicmaman",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.magicmaman.com/cette-vitamine-pourrait-attenuer-les-effets-du-stress-pendant-la-grossesse-sur-le-bebe-selon-une-etude,3787543.asp",
+   "summary": "Une étude menée par l'université de l'Oregon s'est intéressée aux liens entre le stress maternel pendant la grossesse, les apports en vitamine C et le tempérament du bébé. Les chercheurs ont analysé les données de 300 femmes enceintes concernant leur niveau de stress et leur alimentation, puis ont évalué le comportement des bébés à l'âge de 6 mois.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Valide les émotions et le stress des futures mères avec empathie, en créant un espace de parole sécurisant pour libérer la charge émotionnelle.",
+    "Encourage une alimentation variée tout en rappelant aux parents que les choix de compléments alimentaires se discuttent avec le médecin ou la sage-femme.",
+    "Évite toute interprétation médicale des liens entre nutriments et développement, en te concentrant uniquement sur le soutien émotionnel et pratique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-df07a300456a",
+   "category": "sci",
+   "priority": false,
+   "title": "Approfondir le rôle des sages-femmes",
+   "source": "TVA - CIMT-CHAU",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://cimtchau.ca/nouvelles/approfondir-le-role-des-sages-femmes/",
+   "summary": "Une conférence récente présentée par une sage-femme au Nouveau-Brunswick a mis en lumière le rôle et l'autonomie de cette profession introduite en 2017 dans la province. L'exposé a rappelé les exigences de formation universitaire ainsi que la diversité des lieux de pratique possibles, qu'il s'agisse du domicile, de centres de naissance ou d'hôpitaux. Cette approche de soin se caractérise par une vision humaniste et centrée sur la famille.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur les compétences et le champ d'intervention légal des sages-femmes pour les accompagner dans leur choix de suivi périnatal.",
+    "Valoriser l'approche globale et physiologique portée par les sages-femmes lors des discussions sur le projet de naissance avec les couples.",
+    "Rappeler la distinction claire entre le suivi médical assuré par les sages-femmes et l'accompagnement non médical et émotionnel propre à la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-be2c4241b822",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement maternel : la Tunisie appelée à renforcer son dispositif de protection",
+   "source": "Espacemanager",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://espacemanager.com/allaitement-maternel-tunisie-renforcer-dispositif-protection/",
+   "summary": "Lors de sa septième Journée nationale, l'Association HANEN a souligné l'importance de l'allaitement maternel en tant qu'enjeu de santé publique majeur en Tunisie. Les participants ont formulé plusieurs recommandations, insistant notamment sur la nécessité d'une collaboration multisectorielle et d'une meilleure sensibilisation du public. L'association préconise également la diffusion de messages simples valorisant le contact peau à peau et la mise au sein précoce.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir les jeunes mères dans leur projet d'allaitement en valorisant des pratiques simples comme le peau à peau et la mise au sein précoce.",
+    "Partager des informations factuelles et bienveillantes sur les bienfaits de l'allaitement tout en restant à l'écoute des difficultés et des choix de chaque parent.",
+    "Orienter les parents vers des professionnels de santé qualifiés ou des associations spécialisées en lactation en cas de difficultés médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c35955e516d0",
+   "category": "sci",
+   "priority": false,
+   "title": "Biogen Canada annonce une large couverture par les régimes privés d’assurance médicaments pour ZURZUVAE, élargissant l’accès pour les patients admissibles souffrant de dépression post-partum chez les adultes après l’accouchement",
+   "source": "Benzinga France",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://fr.benzinga.com/news/france/general/biogen-canada-annonce-une-large-couverture-par-les-regimes-prives-dassurance-medicaments-pour-zurzuvae-elargissant-lacces-pour-les-patients-admissibles-souffrant-de-depression-post/",
+   "summary": "Un traitement médicamenteux ciblant la dépression post-partum, le Zurzuvae, bénéficie désormais d'une large couverture par les régimes d'assurance privés au Canada. Cette mesure vise à faciliter l'accès à ce médicament pour les adultes concernés après la naissance.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Informe-toi sur l'existence de nouveaux traitements pour la dépression post-partum afin de comprendre les options disponibles pour les parents, tout en orientant vers le corps médical pour toute prescription.",
+    "Rappelle aux parents que le soutien psychologique et émotionnel de la doula complète les thérapies médicales, mais ne s'y substitue pas.",
+    "Sois attentive aux signes de détresse psychologique sévère dans le post-partum pour encourager un accompagnement spécialisé sans poser de diagnostic."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-7d41afd241e3",
@@ -661,6 +789,27 @@
     "Informe les parents sur l'existence de ces labels hospitaliers pour les aider à choisir une maternité alignée avec leurs souhaits d'allaitement.",
     "Valorise les bienfaits d'un environnement de soins bienveillant et formé pour sécuriser la mise en route de l'alimentation du nouveau-né.",
     "Rappelle ton rôle non médical en valorisant le choix des parents, sans interférer dans les protocoles de l'établissement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-e4de62edfcd3",
+   "category": "sci",
+   "priority": false,
+   "title": "Dépression post-partum : un enjeu de santé publique au cœur des priorités régionales",
+   "source": "Agence régionale de santé Ile-de-France",
+   "date": "2 novembre 2026",
+   "sortDate": "2026-11-02",
+   "url": "https://www.iledefrance.ars.sante.fr/depression-post-partum-un-enjeu-de-sante-publique-au-coeur-des-priorites-regionales",
+   "summary": "La dépression post-partum touche une part importante des jeunes mères et représente un enjeu majeur de santé publique soutenu par des plans de prévention régionaux. Elle se manifeste par une tristesse persistante, de l'anxiété, des phobies d'impulsion ou un sentiment d'incapacité à nouer un lien avec le bébé, nécessitant un repérage précoce. Les autorités sanitaires renforcent activement l'accompagnement et la prise en charge de ces troubles psychiques.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Être particulièrement attentive aux signes de détresse psychologique, d'isolement ou d'anxiété excessive chez les jeunes parents lors des visites à domicile.",
+    "Offrir un espace de parole sécurisant et libéré de la culpabilité pour exprimer la complexité des émotions du post-partum.",
+    "Orienter sans délai vers les professionnels de santé ou les réseaux spécialisés dès l'apparition de signaux d'alerte psychologiques."
    ],
    "summaryAI": true,
    "enriched": true
@@ -934,6 +1083,27 @@
     "Valoriser les bienfaits de l'allaitement maternel sur la santé globale des parents tout en restant à l'écoute des choix de chacun, sans culpabilisation.",
     "Aborder la prévention et l'hygiène de vie sous un angle informatif lors des discussions autour du post-partum et de la santé des femmes.",
     "Rappeler que ces conseils de prévention ne remplacent en aucun cas un suivi médical régulier et encourager à consulter en cas de doute ou de signes inhabituels."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-78d3622515ca",
+   "category": "sci",
+   "priority": false,
+   "title": "Photos. Allaitement, coaching parental, portage... Une journée d'information pour les parents et futurs parents au centre hospitalier de Lunéville",
+   "source": "L'Est Républicain",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://www.estrepublicain.fr/sante/2026/10/16/allaitement-coaching-parental-portage-une-journee-d-information-pour-les-parents-et-futurs-parents-au-centre-hospitalier-de-luneville",
+   "summary": "Une journée d'information hospitalière a permis d'aborder la contraception post-partum, le coaching parental à domicile et la prévention de la mort inattendue du nourrisson. Les professionnels ont notamment rappelé l'importance de respecter le rythme de chaque couple et de sécuriser l'environnement de sommeil de bébé.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "S'appuyer sur ces thématiques de prévention pour rassurer les parents sur la normalité du post-partum et du retour à l'intimité.",
+    "Partager des repères pratiques et bienveillants sur l'aménagement sécurisé de l'espace de sommeil du nouveau-né.",
+    "Respecter la limite médicale en orientant vers les sages-femmes ou médecins pour toutes les questions relatives à la contraception et aux risques médicamenteux."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1671,148 +1841,22 @@
    "enriched": true
   },
   {
-   "id": "a-bf9470e0f40a",
-   "category": "sci",
+   "id": "a-f92ae6fa9171",
+   "category": "pol",
    "priority": false,
-   "title": "CANNES : Santé publique - Le Forum Européen de l'Allaitement quitte Nice et s'installe sur la Croisette",
-   "source": "Presse Agence",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://presseagence.fr/cannes-sante-publique-le-forum-europeen-de-lallaitement-quitte-nice-et-sinstalle-sur-la-croisette/",
-   "summary": "Le Forum Européen de l'Allaitement déménage de Nice à Cannes pour continuer à rassembler professionnels et grand public autour de la périnatalité. Cet événement vise notamment à répondre aux difficultés de la France en matière d'encouragement et d'accompagnement de l'allaitement maternel.",
+   "title": "\"Il ne faut pas la sauver mais la développer\" : un collectif mobilisé pour la maternité d'Ancenis, menacée de fermeture",
+   "source": "France 3 Régions",
+   "date": "6 novembre 2026",
+   "sortDate": "2026-11-06",
+   "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/il-ne-faut-pas-la-sauver-mais-la-developper-un-collectif-mobilise-pour-la-maternite-d-ancenis-menacee-de-fermeture-3444726.html",
+   "summary": "La maternité d'Ancenis est menacée de fermeture et pourrait être transformée en centre de périnatalité sans possibilité d'accoucher, ce qui inquiète les soignants et les familles. Ce projet s'inscrit dans un rapport gouvernemental préconisant la fermeture des petites maternités, imposant aux parents des temps de trajet accrus vers des structures éloignées.",
    "auto": true,
-   "addedAt": "2026-10-29T11:23:27+00:00",
+   "addedAt": "2026-11-06T12:48:04+00:00",
    "pageRead": true,
    "points": [
-    "Se tenir informée des nouvelles dates de cet événement pour proposer des ressources actualisées aux parents intéressés par l'allaitement.",
-    "Constater les difficultés nationales en matière d'allaitement pour offrir un espace de soutien renforcé, bienveillant et sans jugement aux mères qui font ce choix.",
-    "Rappeler aux parents que l'accompagnement médical de l'allaitement relève des professionnels de santé qualifiés, tandis que la doula offre un soutien pratique et émotionnel au quotidien."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2638b8514743",
-   "category": "sci",
-   "priority": false,
-   "title": "Les médecins alertent : votre nouveau-né en a besoin, pourtant des parents le refusent",
-   "source": "Futura Santé",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://www.futura-sciences.com/sante/actualites/bebe-medecins-alertent-votre-nouveau-ne-besoin-pourtant-parents-refusent-k2m6-138510/#xtor%3DRSS-8",
-   "summary": "Le texte met en garde contre la recrudescence du refus de la vitamine K pour les nouveau-nés, une prévention essentielle contre les hémorragies rares mais graves. Il rappelle que ce traitement est un apport vitaminique indispensable à la coagulation et non un vaccin.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Transmettre aux parents des informations factuelles sur le rôle de la vitamine K et son importance médicale pour le nouveau-né.",
-    "Aider les parents à formuler leurs questions pour qu'ils puissent en discuter sereinement avec la sage-femme ou le pédiatre.",
-    "Ne jamais se substituer au corps médical pour valider ou déconseiller un protocole de soin tel que l'administration de vitamines."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-f1f5377f81da",
-   "category": "sci",
-   "priority": false,
-   "title": "Pourquoi les cancers du sein après une grossesse sont-ils plus agressifs ? L'Institut Pasteur livre une réponse inédite",
-   "source": "Doctissimo",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNVFDOV9Ldjl5LTdjNnhSVFk3YjZ5VkJZbTZUaUZHbzloaTZPbmxIWlJra211NWtyRG96RGVscTVkbHlmVUZVbzcxSXR2b3pLWlQ3QzFMbjRFLUU2UU56X0gzMHhzSWpmT1RtQTZqM0lfYXZNS1hWMmc5NHppVzUwRjhRYnJDOHo3cnB2MHYxQnNycFJhai1oX2l1U0E5SWNxaDF4V21hX3l2dUNiNEY1NlJWSnBzTDViME9ZYkhNd1kyS29NbEVQZkNWNTIxX1hVQzYxLWY4aTI5THcwUTNlakZub0FSR2pSTFVpb0NR?oc=5",
-   "summary": "L'Institut Pasteur a publié une étude inédite expliquant les raisons pour lesquelles les cancers du sein diagnostiqués après une grossesse présentent une plus grande agressivité. Cette découverte apporte un éclairage scientifique nouveau sur l'impact de la période post-partum sur la santé des femmes. C'est une information utile pour comprendre les bouleversements corporels après la naissance.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec bienveillance la question du suivi de santé global des mères, au-delà du seul nouveau-né.",
-    "Encourager les femmes à consulter un professionnel de santé en cas de doute persistant sur leur corps en post-partum.",
-    "Rappeler que la doula n'établit aucun diagnostic et oriente toujours vers le corps médical pour les questions de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-afcb792ec7c5",
-   "category": "sci",
-   "priority": false,
-   "title": "Un médicament pour arrêter l'allaitement après l'accouchement pourrait diminuer le risque de cancer du sein, selon une étude internationale.",
-   "source": "Demócrata",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOUZlSE12S0syMFAwV2gzREZnTmxtb25wRG5VeWZjeWt6YmdjUGNYRE9QalpBUE5pUjV3Q1FtREc0Z3J3YVNUZ0JOTElubHozdlZVX2cwcmEyeVN0d3hkSGROa255MWpZRXdmbGxtUWtPeHNOLTRLcFRJb0FKRUFrZ19LR2owWVg3R0wzXzdQRThMX2hacUZHMGVERFp1QVhfbFAxRTQ1dGJMTVlta09JV2lwQVZhV2J3bmxjQ0RjR3FSZS0yX2drSjRya0pFaFNIS3BmamdoMThpa1lmbkw4OEhkc0F6YkZFcXVmMWl3c3hvQU55SVk0QmtuNFh0ckJLM3JZ0gGIAkFVX3lxTFBWZXk1Z0pQaXcxOUMwcngzeFZLS0NkS2FFMm9iSUo5WVBuUnJZMHZSQlRtYzlsaHFZb2VrNUdab2dMRjZocnI1LXF3cWNFejlRLTNyZDJ2Z09ETjRkdUFTb09SaXR1Z0tDR0ZNZVczNXZOUldKNjU2bHNEVU5ka0IwU29GbUpjN0hFNFNjQXFWVmNVUXhqbHhjU3ZiVUxpTmprRVlJdF9XT2JmUXZoLVNqbHBFd09iemYzUjFjcjhMQ0VkU0VmVkVXRmFmYlRscldoV0NfV181THZEd05INklVTlFsWDhSTjh3OVllQTlQT29hZlNGQW9MWEdVNjh4eTBkVUloMlZFLQ?oc=5",
-   "summary": "Une étude internationale suggère qu'un traitement médicamenteux destiné à stopper la lactation après l'accouchement pourrait être associé à une réduction du risque de cancer du sein. Cette découverte ouvre de nouvelles perspectives de recherche dans le domaine de la santé des femmes.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Transmettre cette information de manière prudente en soulignant qu'il s'agit d'une recherche scientifique et non d'une consigne générale.",
-    "Inviter les parents à échanger directement avec leur médecin ou leur sage-femme pour toute question concernant l'utilisation de médicaments en post-partum.",
-    "Rappeler clairement aux parents que la doula ne pose aucun diagnostic et ne peut évaluer les risques médicaux individuels."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a86fab763366",
-   "category": "sci",
-   "priority": false,
-   "title": "L'allaitement maternel à six mois a augmenté de plus de 70 % en Espagne depuis 2006",
-   "source": "Demócrata",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVNKUHo4UHFQSTJQRTdYemx3Nk5PVjFUM2FEaHdOVklhcndYOTUyUzhVQzc2Nl9CRXNnSmMxZDMyNVdWeDltZGpYbEJKNk5zd1h2TGVfZDNyenljVktUV3QtRk11WF9IU1JwUWxEQlVuaFRVVDdYbDQtLUE5RWJXSXpmNVZsazlHZk5qdVFCbmVuYjJsOWEzV1lTNVVPRWtpXzNhWDBBeUVjOHFlZWdMU3FSVGtpQjTSAbwBQVVfeXFMTVJVVGFXNmhIUFI4dldTU0xLb1ZRaENOT0tsSFE1MExnRExXRk02R29sMDNYaXhkZHphM1kya1lPTW15YUk4ZDQwNkdzd0JCRlFTOVY2T2h2cGZJaFdaVGo5aE5jNzJFckFMczBYbWJTWGlNYVpaZmI2QUNDaXY3N21kYTB6X0RxMVRlZVM5cW9PVjRZdnoydWNCeHhSa2xUTmN4eTkwTEFGWGlXSU5FWURhcWNwMG4tSXR5aFg?oc=5",
-   "summary": "Les données statistiques montrent une forte progression de la pratique de l'allaitement maternel exclusif ou partiel à l'âge de six mois en Espagne au cours des dernières décennies. Cette évolution reflète des changements sociétaux et des tendances de fond en matière de santé infantile dans la région.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la durée de l'allaitement avec les parents en s'appuyant sur l'évolution positive des normes sociales et sanitaires.",
-    "Soutenir les mères dans leur choix de prolonger l'allaitement en valorisant les ressources disponibles.",
-    "R rappeler que l'accompagnement de la lactation relève du soutien pratique et émotionnel, sans pression excessive."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-edc1b9834984",
-   "category": "sci",
-   "priority": false,
-   "title": "Cancer du sein : « ‘’la tétée’’ des hommes ne protège pas, seul l’allaitement diminue les risques » spécialiste",
-   "source": "Linfodrome",
-   "date": "15 octobre 2026",
-   "sortDate": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZElGN1V3UDBZV1BDNTA1WW9KS1FPdzgyQkMzbllPVjZ1MXVJTkozdGxUYldPeGxOSHVaaHg4UjZuMFMxN0dObjQ2eVlUa2R4Qk1jWTBGRU9lUmc2ZHB3VVR1SXBKT1FGUmFoTW9ibXRVYWoxYXVOZDBOUXpKV0g0Q1MxU2R5VzBWaEh4di1vZG5nRkRRWDJUZURKVW9oRElNdzBGMGRJQUh4WjdTdUZhRWJ2NzBtbGRocnQtZmtYazk1SzF1RmYyZEUwTkoweVpDQXZ3djA1bw?oc=5",
-   "summary": "Des spécialistes en cancérologie rappellent que les croyances populaires concernant les bienfaits de la tétée par les adultes manquent de fondement scientifique. Seul l'allaitement maternel dispensé aux nourrissons est reconnu pour son impact protecteur sur la santé des femmes contre le cancer du sein.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Faire preuve de vigilance face aux fausses informations ou aux mythes circulant autour de la santé des femmes et de l'allaitement.",
-    "Informer les parents avec des données factuelles tout en orientant vers des professionnels de santé pour les questions médicales.",
-    "Garder une stricte neutralité et ne pas se substituer au corps médical lors de discussions sur la prévention des pathologies."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-58e9f8c09737",
-   "category": "sci",
-   "priority": false,
-   "title": "13 oct 2026 – Lancement de la campagne de vaccination contre la grippe et le Covid-19 : les sages-femmes peuvent désormais constituer un stock de vaccins dans leur cabinet.",
-   "source": "UNSSF (sages-femmes)",
-   "date": "14 octobre 2026",
-   "sortDate": "2026-10-14",
-   "url": "https://unssf.org/2026/10/14/13-oct-2026-lancement-de-la-campagne-de-vaccination-contre-la-grippe-et-le-covid-19-les-sages-femmes-peuvent-desormais-constituer-un-stock-de-vaccins-dans-leur-cabinet/?utm_source=rss&utm_medium=rss&utm_campaign=13-oct-2026-lancement-de-la-campagne-de-vaccination-contre-la-grippe-et-le-covid-19-les-sages-femmes-peuvent-desormais-constituer-un-stock-de-vaccins-dans-leur-cabinet",
-   "summary": "De nouveaux textes réglementaires permettent aux sages-femmes de constituer un stock de vaccins contre la grippe et le Covid-19 dans leur cabinet. Cette mesure s'inscrit dans le cadre de la campagne de vaccination lancée en octobre 2026.",
-   "auto": true,
-   "addedAt": "2026-10-15T05:26:06+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents que les sages-femmes peuvent désormais gérer directement les stocks de certains vaccins au cabinet.",
-    "Encourager les familles à poser leurs questions médicales sur la vaccination directement aux professionnels de santé habilités.",
-    "Rappeler que la doula ne donne pas d'avis médical sur la vaccination mais peut orienter vers le parcours de soins officiel."
+    "Discutez avec les parents de leurs projets de naissance en tenant compte de l'éloignement géographique des structures et des temps de trajet pour anticiper le jour J.",
+    "Aidez les futurs parents à exprimer leurs inquiétudes face aux fermetures de maternités locales tout en rappelant que le suivi prénatal et postnatal reste assuré par les centres de périnatalité.",
+    "Ne prenez pas position sur les décisions politiques de fermeture, mais informez les familles sur l'organisation concrète des soins de proximité dans leur secteur."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1826,10 +1870,59 @@
    "date": "5 novembre 2026",
    "sortDate": "2026-11-05",
    "url": "https://www.lemoniteurdespharmacies.fr/profession/socio-professionnel/vaccination-du-voyageur-feu-vert-politique-pour-les-pharmaciens-infirmiers-et-sages-femmes",
-   "summary": "Adressée aux officinaux par la ministre de la Santé Stéphanie Rist, une lettre de cadrage jette les bases d’une vaccination du voyageur en officine. Des recommandations de la Haute autorité de santé (HAS) seront publiées courant 2027 pour préciser les modalités possibles de cette prise en charge.",
+   "summary": "Une lettre de cadrage ministérielle invite la Haute Autorité de santé à émettre d'ici fin 2027 des recommandations pour encadrer la vaccination du voyageur en officine, ainsi que dans les cabinets infirmiers et de sages-femmes. L'objectif est de simplifier l'accès à ces vaccins, actuellement administrés principalement dans des centres spécialisés.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Tiens-toi informée des évolutions de l'organisation des soins et des compétences vaccinales des sages-femmes pour mieux orienter les familles.",
+    "Oriente systématiquement les parents vers les professionnels de santé compétents pour toutes les questions relatives aux vaccins des voyageurs.",
+    "Garde à l'esprit que tu ne donnes aucun avis médical sur la nécessité d'un vaccin, mais tu peux soutenir les parents dans leurs démarches administratives et logistiques."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-41e57729e24e",
+   "category": "pol",
+   "priority": false,
+   "title": "La maternité d'Ancenis en sursis",
+   "source": "Alouette",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.alouette.fr/maternite-ancenis-sursis",
+   "summary": "La maternité d'Ancenis fait face à des menaces de fermeture et pourrait être transformée en simple centre de périnatalité ne pratiquant plus d'accouchements. Cette situation inquiète les soignants locaux qui redoutent une aggravation de l'accès aux soins et une saturation des structures environnantes. L'incertitude pèse lourdement sur le moral des équipes médicales et sages-femmes de l'établissement.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'impact de la fermeture des petites maternités de proximité sur leur projet de naissance et anticiper leurs inquiétudes quant aux trajets vers les structures de recours.",
+    "Aider les familles à repérer en amont les alternatives et les différents lieux de consultation prénatale et post-natale disponibles sur leur territoire.",
+    "Rappeler aux parents que la doula offre un soutien émotionnel mais ne se substitue en aucun cas à l'organisation médicale des naissances."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-018a4f495423",
+   "category": "pol",
+   "priority": false,
+   "title": "Maternité de Saint-Affrique : les accouchements suspendus",
+   "source": "Totem Radio",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.radiototem.net/maternite-de-saint-affrique-les-accouchements-suspendus",
+   "summary": "La maternité de Saint-Affrique a suspendu la réalisation des accouchements jusqu'à nouvel ordre à la suite du décès d'un nouveau-né survenu peu de temps après sa naissance. Une enquête interne a été ouverte afin de faire la lumière sur les circonstances exactes de ce drame. Aucune date de reprise n'a pour l'instant été communiquée.",
+   "auto": true,
+   "addedAt": "2026-11-06T12:48:04+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute sécurisant aux parents anxieux face aux risques et aux dysfonctionnements potentiels dans les maternités de leur région.",
+    "Respecter la douleur et l'inquiétude des familles tout en maintenant une posture neutre, sans émettre de jugement sur l'événement médical en cours d'investigation.",
+    "Orienter systématiquement les parents vers le corps médical pour toute question relative aux protocoles de sécurité et aux incidents survenant dans les établissements."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-a7038400caf4",
@@ -1861,10 +1954,17 @@
    "date": "4 novembre 2026",
    "sortDate": "2026-11-04",
    "url": "https://www.echoancenis.fr/actualite-13545-ancenis-saint-gereon-la-maternite-menacee-de-fermeture",
-   "summary": "Les soignants de l'hôpital d'Ancenis alertent sur un projet de fermeture du service des naissances au profit d'un simple centre de consultations.",
+   "summary": "Les soignants du centre hospitalier d'Ancenis alertent sur un projet de transformation du service des naissances en simple centre de consultations, menaçant la poursuite des accouchements sur place. Les patientes devraient alors être orientées vers d'autres maternités de la région.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Tiens-toi informée des évolutions de l'offre de soins locale pour aider les parents à anticiper leur lieu de naissance et à adapter leur projet de naissance en conséquence.",
+    "Offre un espace d'écoute sécurisant pour exprimer l'anxiété liée à l'éloignement des structures de naissance et aux incertitudes territoriales.",
+    "Rappelle aux familles que le choix médical du lieu d'accouchement dépend des disponibilités des équipes, tout en validant leurs émotions face à ces incertitudes."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-f9943501fe44",
@@ -1875,10 +1975,17 @@
    "date": "4 novembre 2026",
    "sortDate": "2026-11-04",
    "url": "https://www.whatsupdoc-lemag.fr/article/maternite-de-guingamp-les-accouchements-nouveau-suspendus-pour-six-mois-ca-nen-finit-pas",
-   "summary": "Maternité de Guingamp : les accouchements à nouveau suspendus pour six mois, ça n'en finit pas - L’ARS Bretagne a annoncé une neuvième prolongation de la suspension des accouchements à la maternité du centre hospitalier de Guingamp (Côtes-d’Armor), en vigueur depuis avril 2023. En cause notamment : des difficultés persistantes de recrutement de gynécologues-obstétriciens.",
+   "summary": "L'Agence régionale de santé a prolongé pour la neuvième fois la suspension des accouchements à la maternité de Guingamp en raison de difficultés persistantes de recrutement de médecins. Seuls le suivi de grossesse et les consultations prénatales restent assurés sur place.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aide les parents du secteur à identifier rapidement les maternités de repli pour sécuriser leur parcours de fin de grossesse et d'accouchement.",
+    "Accueille la frustration et l'inquiétude des femmes enceintes face aux fermetures de services en leur offrant un espace de parole bienveillant.",
+    "Oriente systématiquement les couples vers les sages-femmes et les obstétriciens pour toute question relative à la sécurité médicale du suivi et de la naissance."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-64e79f4d024c",
@@ -1889,24 +1996,17 @@
    "date": "4 novembre 2026",
    "sortDate": "2026-11-04",
    "url": "https://infos-media-nantes.fr/maternite-ancenis-centre-perinatalite-projet-inquietudes-novembre-2026/",
-   "summary": "L’avenir de la maternité d’Ancenis inquiète les soignants après des orientations présentées le 2 novembre. Centre de périnatalité, soins et décisions.",
+   "summary": "Des discussions sont en cours concernant une possible transformation de la maternité d'Ancenis en centre périnatal de proximité, ce qui suscite l'inquiétude des soignants locaux. Un tel changement modifierait l'organisation des soins et les trajets des familles pour les accouchements, bien qu'aucune décision définitive n'ait encore été officialisée. Le centre périnatal propose un accompagnement global mais ne réalise généralement pas d'accouchements sur place.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-17b996119496",
-   "category": "pol",
-   "priority": false,
-   "title": "Quel bac pour devenir sage-femme ? Études, accès, durée",
-   "source": "digiSchool France",
-   "date": "4 novembre 2026",
-   "sortDate": "2026-11-04",
-   "url": "https://www.digischool.fr/articles/lycee/apres-le-bac/quel-bac-pour-devenir-sage-femme/",
-   "summary": "Quel bac pour devenir sage-femme ? Aucune série n'est imposée : l'accès se fait par le PASS ou une LAS. Voici le parcours, les spécialités utiles et la durée des études.",
-   "auto": true,
-   "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur l'existence et le rôle des centres périnataux de proximité si l'offre de soins locale venait à évoluer.",
+    "Discuter avec les couples de leur plan de naissance et des temps de trajet actualisés vers la maternité de recours.",
+    "Rappeler que la gestion des urgences obstétricales relève strictement du parcours hospitalier et des équipes médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-8d82f387176e",
@@ -3000,74 +3100,45 @@
    "enriched": true
   },
   {
-   "id": "a-e2f59a0929eb",
-   "category": "pol",
+   "id": "a-3479f53824ec",
+   "category": "soc",
    "priority": false,
-   "title": "Tournan-en-Brie : la dernière maternité privée de Seine-et-Marne va fermer",
-   "source": "mesinfos",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUp0WlFYQ3dueHdwVk1waUJQS3Y2LVk5WjZaNDFMMFZ2ZFBEZnpIQ201N2c1M2l3Si1QR21WakgyUnBQN3l0ampxZS0zZ2RwUVZCN0hqdnY3TlVSbFdYcEx5bjZqWFdmUW9vSWk3ajU3Sy13VjNqR0lWQnF0UnhQWDE0MXlvWE1SeXg3VE1iYU82TEdYMk9ybWgxZVFaZXFvNnloS0tZQU1PRkpxdVdvTlBuNFNYWEtSdEoteHZTMnJva3Bp?oc=5",
-   "summary": "La dernière maternité privée située en Seine-et-Marne, à Tournan-en-Brie, s'apprête à fermer ses portes. Le texte ne fournit pas de précisions chiffrées ni de calendrier exact sur cet événement.",
+   "title": "Soutien à l’allaitement Maison des Familles Aire-sur-l’Adour",
+   "source": "Unidivers",
+   "date": "6 novembre 2026",
+   "sortDate": "2026-11-06",
+   "url": "https://unidivers.fr/event/soutien-a-lallaitement-aire-sur-ladour-landes-2026-11-06/",
+   "summary": "Un événement de soutien à l'allaitement est programmé à la Maison des Familles d'Aire-sur-l'Adour dans les Landes. Cette rencontre s'adresse aux parents et familles pour aborder la thématique de l'allaitement.",
    "auto": true,
-   "addedAt": "2026-10-17T05:22:59+00:00",
+   "addedAt": "2026-11-06T12:48:04+00:00",
    "pageRead": true,
    "points": [
-    "Prendre en compte l'anxiété que peut générer la fermeture des structures de soins locales dans le choix du lieu de naissance des parents.",
-    "Offrir un espace d'écoute bienveillant pour permettre aux familles d'exprimer leurs craintes face à l'allongement des trajets vers la maternité.",
-    "Rappeler aux parents l'importance de valider leur plan de naissance et leurs options de recours en cas de modification de l'offre de soins."
+    "Orientez les parents vers ces espaces de parole locaux pour qu'ils puissent échanger avec d'autres familles et rompre l'isolement autour de l'allaitement.",
+    "Rappelez aux parents que ces groupes d'échange complètent votre accompagnement émotionnel mais ne remplacent pas un suivi médical ou des conseils de lactation spécialisés."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-7f064680f668",
-   "category": "pol",
+   "id": "a-24a7e5a93dfc",
+   "category": "soc",
    "priority": false,
-   "title": "La dernière maternité privée de Seine-et-Marne va fermer",
-   "source": "20 Minutes",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTU8wR1JEc1REQ0pkbk1mRWFkVzhnMzRtZjFGbzYxZUgzbXNjdHhnLWJBYkMtS1FMYlM2cXdUX1BMSXMtTXZ5MTR5SzFVQVU2ek15ODlaZzhlVWIwUEtvMGd1Snc5QU1BOWFpcmVuX0p2LUZ6MmtmZWhySjdBZGQwMUNRTC1OWWxuTHlkMVItb0JCS2pTU0R3Qzh5blpYVGVMVW85VGhRTGpZYi1ER21FMHlicTJWcnZZTWdZQXAxRHYwaFRzakE?oc=5",
-   "summary": "La fermeture de l'ultime maternité privée du département de la Seine-et-Marne a été relayée par la presse. Aucune information complémentaire n'est détaillée dans le contenu textuel fourni.",
+   "title": "L’Association Hanen, Feryel Lakhdar et la Poste tunisienne célèbrent l’allaitement maternel",
+   "source": "Leaders.com.tn",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://leaders.com.tn/article/38606-l-association-hanen-feryel-lakhdar-et-la-poste-tunisienne-celebrent-l-allaitement-maternel",
+   "summary": "La Poste tunisienne a émis un nouveau timbre-poste illustrant l'allaitement maternel, conçu à partir d'une œuvre artistique. Cette initiative s'inscrit dans le cadre de la semaine nationale de l'allaitement maternel et résulte d'un partenariat avec une association locale.",
    "auto": true,
-   "addedAt": "2026-10-17T05:22:59+00:00",
+   "addedAt": "2026-11-06T12:48:04+00:00",
    "pageRead": true,
    "points": [
-    "Identifier l'impact de la raréfaction des structures périnatales sur l'organisation logistique et psychologique des futurs parents.",
-    "Soutenir les parents dans la recherche de solutions alternatives pour leur suivi et leur accouchement au sein du territoire.",
-    "Maintenir une stricte neutralité et ne pas émettre de jugement critique sur les décisions de fermeture des structures médicales."
+    "Utilise des supports culturels ou artistiques pour ouvrir la discussion sur l'allaitement et normaliser sa représentation dans l'espace public.",
+    "Valorise les initiatives associatives et locales qui soutiennent les parents dans leur choix d'alimentation pour le nouveau-né.",
+    "Rappelle que ton rôle d'accompagnante est de soutenir le choix des parents, qu'ils optent pour l'allaitement ou l'alimentation au biberon, sans jugement."
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-b60f9cb67858",
-   "category": "soc",
-   "priority": false,
-   "title": "Les sages-femmes luxembourgeoises réclament un centre spécialisé dans les soins périnataux pour les mères",
-   "source": "Virgule.lu",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://www.virgule.lu/lifestyle/santebienetre/les-sages-femmes-luxembourgeoises-reclament-un-centre-specialise-dans-les-soins-perinataux-pour-les-meres/163604697.html",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-60ea84b04e04",
-   "category": "soc",
-   "priority": false,
-   "title": "Allaitement maternel : l’association HANEN formule six recommandations pour mieux protéger les mères et les enfants",
-   "source": "La Presse de Tunisie",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://www.lapresse.tn/2026/11/05/allaitement-maternel-lassociation-hanen-formule-six-recommandations-pour-mieux-proteger-les-meres-et-les-enfants/",
-   "summary": "L’allaitement maternel constitue un enjeu majeur de santé publique. Si ses bienfaits pour la mère et l’enfant sont largement reconnus, sa promotion relève",
-   "auto": true,
-   "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
   },
   {
    "id": "a-8344ae2d2943",
@@ -3098,10 +3169,16 @@
    "date": "4 novembre 2026",
    "sortDate": "2026-11-04",
    "url": "https://letemps.news/2026/11/04/allaitement-maternel-la-poste-tunisienne-emet-un-nouveau-timbre-poste/",
-   "summary": "La Poste Tunisienne émet, jeudi 5 novembre 2026, un timbre-poste consacré au thème de «L’allaitement maternel», à l’occasion de la semaine mondiale de l’allaitement maternel, qui se déroulera du 1er au 7 novembre. L’objectif est de sensibiliser le public à l’importance de l’allaitement maternel et à ses bienfaits pour la santé de la mère et de l’enfant,",
+   "summary": "La Poste tunisienne émet un nouveau timbre-poste à l'occasion de la semaine mondiale de l'allaitement maternel. Cette initiative vise à sensibiliser le grand public aux bienfaits de l'allaitement pour la santé de la mère et de l'enfant.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "S'appuyer sur des initiatives culturelles ou symboliques pour ouvrir le dialogue sur l'alimentation des nourrissons sans pression.",
+    "Offrir une écoute bienveillante et non jugeante sur les choix d'alimentation des parents, qu'ils optent pour l'allaitement ou non."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-65efcb28d4fb",
@@ -3259,10 +3336,17 @@
    "date": "31 octobre 2026",
    "sortDate": "2026-10-31",
    "url": "https://france3-regions.franceinfo.fr/grand-est/marne/reims/temoignage-on-devait-choisir-un-berceau-on-a-choisi-un-cercueil-une-mere-et-un-pere-evoquent-leur-deuil-perinatal-3441513.html",
-   "summary": "Marion et Léo ont vécu l'impensable. Leur premier enfant Jules est décédé in utero peu avant l'accouchement en février 2025. Une épreuve dont ils souhaitent parler pour lever le tabou qui entoure ce deuil.",
+   "summary": "Un couple partage le drame de la perte de leur premier enfant, décédé in utero juste avant le déclenchement de l'accouchement en février 2025. Ils témoignent de la violence de l'annonce médicale et de la difficulté psychologique d'avoir à accoucher d'un bébé sans vie.",
    "auto": true,
    "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Se positionner comme un soutien émotionnel indéfectible face au deuil périnatal en créant un espace sécurisant pour libérer la parole des parents endeuillés.",
+    "Comprendre la violence du choc pour adapter son écoute aux vécus traumatiques sans jamais banaliser la douleur de la perte.",
+    "Orienter systématiquement vers des professionnels spécialisés pour le soutien psychologique tout en maintenant son rôle d'accompagnement non médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-92bcc15a0668",
@@ -3389,20 +3473,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-d5b6ade30212",
-   "category": "soc",
-   "priority": false,
-   "title": "La maternité propose un temps d'échange convivial sur l'allaitement maternel",
-   "source": "Creusot Infos",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://www.creusot-infos.com/news/vie-locale/le-creusot/le-creusot-la-maternite-propose-un-temps-d-echange-convivial-sur-l-allaitement-maternel-1793142000.html",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true
   },
   {
    "id": "a-10976eea9205",
