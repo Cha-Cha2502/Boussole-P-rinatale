@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T12:48:04+00:00",
+ "updatedAt": "2026-11-07T11:36:32+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "29 page(s) d'articles lue(s)",
-  "IA : 29 article(s) résumé(s) et commenté(s)"
+  "9 page(s) d'articles lue(s)",
+  "IA : 9 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -200,7 +200,9 @@
   "a-17b996119496": "2026-11-04",
   "a-f1f6b0c6dfb0": "2026-11-03",
   "a-d5b6ade30212": "2026-10-29",
-  "a-c92e8df5a628": "2026-10-28"
+  "a-c92e8df5a628": "2026-10-28",
+  "a-a95855f6e291": "2026-11-07",
+  "a-c89485c49c49": "2026-10-29"
  },
  "articles": [
   {
@@ -726,6 +728,27 @@
     "Informe-toi sur l'existence de nouveaux traitements pour la dépression post-partum afin de comprendre les options disponibles pour les parents, tout en orientant vers le corps médical pour toute prescription.",
     "Rappelle aux parents que le soutien psychologique et émotionnel de la doula complète les thérapies médicales, mais ne s'y substitue pas.",
     "Sois attentive aux signes de détresse psychologique sévère dans le post-partum pour encourager un accompagnement spécialisé sans poser de diagnostic."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-85ddb1d85d76",
+   "category": "sci",
+   "priority": false,
+   "title": "À Kousséri, l’allaitement maternel, un bouclier indispensable contre le choléra",
+   "source": "Unicef",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.unicef.org/cameroon/fr/recits/%C3%A0-kouss%C3%A9ri-lallaitement-maternel-un-bouclier-indispensable-contre-le-chol%C3%A9ra",
+   "summary": "Des agents de santé communautaire mènent une campagne de sensibilisation auprès des mères pour maintenir l'allaitement maternel malgré les épidémies de choléra et les rumeurs persistantes. Les recommandations indiquent qu'une mère atteinte du choléra peut continuer d'allaiter tant qu'elle est consciente et en mesure de le faire. Une prise en charge médicale adaptée est nécessaire, et une séparation temporaire ne s'impose qu'en cas d'affaiblissement extrême de la part de la mère.",
+   "auto": true,
+   "addedAt": "2026-11-07T11:36:32+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur l'importance de s'appuyer sur des recommandations de santé publique fiables face aux fausses croyances en période d'épidémie.",
+    "Valoriser l'écoute des besoins de la mère et du bébé tout en respectant les impératifs de sécurité dictés par l'état de santé global.",
+    "Orienter systématiquement vers le corps médical pour tout diagnostic, protocole de soin ou gestion de pathologie infectieuse."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1820,22 +1843,22 @@
    "enriched": true
   },
   {
-   "id": "a-0be4f4bcc03c",
-   "category": "sci",
+   "id": "a-08d3139e56a2",
+   "category": "pol",
    "priority": false,
-   "title": "Luzech. Une nouvelle sage-femme rejoint la maison médicale",
-   "source": "ladepeche.fr",
-   "date": "18 octobre 2026",
-   "sortDate": "2026-10-18",
-   "url": "https://www.ladepeche.fr/2026/10/18/une-nouvelle-sage-femme-rejoint-la-maison-medicale-13607957.php",
-   "summary": "Une nouvelle sage-femme libérale a intégré la maison médicale de Luzech afin de renforcer l'offre de soins de proximité en gynécologie, prévention et suivi de santé sexuelle. Cette installation répond aux enjeux d'accès aux professionnels de santé dans les zones rurales.",
+   "title": "\"C'est quand même là qu'on en a le plus besoin\": pas de mutuelle ni de prévoyance maintenues pendant le congé de naissance... Sauf si l'entreprise verse un complément de salaire",
+   "source": "BFM",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://www.bfmtv.com/economie/economie-social/c-est-quand-meme-la-qu-on-en-a-le-plus-besoin-pas-de-mutuelle-ni-de-prevoyance-maintenues-pendant-le-conge-de-naissance-sauf-si-l-entreprise-verse-un-complement-de-salaire_AV-202611070156.html",
+   "summary": "L'application du congé supplémentaire de naissance ne garantit pas automatiquement le maintien de la protection sociale complémentaire ou de la mutuelle d'entreprise pour les parents, sauf si l'employeur prend en charge tout ou partie du maintien de salaire. En l'absence de cotisation patronale et salariale pendant cette période de suspension du contrat de travail, certains parents se retrouvent sans couverture ni remboursement pour les dépenses de santé de leur nouveau-né. Ce vide juridique fait l'objet de discussions et de interpellations politiques pour faire évoluer la législation.",
    "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
+   "addedAt": "2026-11-07T11:36:32+00:00",
    "pageRead": true,
    "points": [
-    "Encourage les parents et les futures mères à constituer rapidement leur réseau de professionnels de santé de proximité dès le début de la grossesse.",
-    "Tu peux intégrer cette nouvelle ressource locale dans ton carnet d'adresses pour orienter facilement les femmes vers un suivi gynécologique et périnatal adapté.",
-    "Ne te substitue jamais au suivi médical assuré par cette sage-femme et rappelle toujours aux parents que les consultations cliniques relèvent exclusivement de sa compétence."
+    "Informer les futurs parents sur l'importance de vérifier en amont auprès de leur employeur et de leur mutuelle les conditions exactes de leur couverture santé pendant leurs congés.",
+    "Accompagner les familles dans la prise de recul face aux complexités administratives et financières qui peuvent générer du stress en période post-natale.",
+    "Rappeler que les questions relatives aux indemnités, aux contrats de travail et aux remboursements de soins relèvent des instances administratives ou juridiques, hors de ton champ d'intervention."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1925,6 +1948,48 @@
    "enriched": true
   },
   {
+   "id": "a-c359fad1b38f",
+   "category": "pol",
+   "priority": false,
+   "title": "Les accouchements suspendus après le décès d’un nouveau-né à la maternité du centre hospitalier Émile-Borel de Saint-Affrique",
+   "source": "Midi Libre",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.midilibre.fr/2026/11/05/les-accouchements-suspendus-apres-le-deces-dun-nouveau-ne-a-la-maternite-du-centre-hospitalier-emile-borel-de-saint-affrique-13638330.php",
+   "summary": "La maternité du centre hospitalier de Saint-Affrique a suspendu temporairement son activité d'accouchements à la suite du décès d'un nouveau-né. Cette décision conservatoire, prise avec l'Agence régionale de santé et le CHU de Montpellier, vise à analyser les causes de l'événement et à vérifier la sécurité de la prise en charge. Pendant cette fermeture du plateau technique, les consultations et le suivi périnatal sont maintenus tandis que les futures mères sont orientées vers d'autres établissements.",
+   "auto": true,
+   "addedAt": "2026-11-07T11:36:32+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de la réalité des fermetures ou des modifications de parcours de soins dans certaines maternités locales pour les aider à anticiper leur plan de naissance.",
+    "Offrir un espace d'écoute bienveillant pour apaiser l'anxiété que ces actualités territoriales peuvent susciter chez les femmes enceintes.",
+    "Rappeler que l'évaluation de la sécurité des soins et la gestion des structures hospitalières relèvent strictement des équipes médicales et des autorités de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-be13da9d7e0d",
+   "category": "pol",
+   "priority": false,
+   "title": "\"Nos femmes ne sont pas des citoyennes de seconde zone\" : 400 personnes défilent pour défendre la maternité d'Ussel menacée",
+   "source": "La Montagne",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.lamontagne.fr/ussel-19200/actualites/nos-femmes-ne-sont-pas-des-citoyennes-de-seconde-zone-400-personnes-defilent-pour-defendre-la-maternite-d-ussel-menacee_15075723/",
+   "summary": "Environ 400 personnes, incluant des habitants, des professionnels de santé et des élus, ont manifesté pour défendre la maternité d'Ussel menacée de fermeture. Ce rassemblement témoigne des inquiétudes locales face à la désertification médicale et à l'accès aux soins de proximité dans les zones rurales. Des délations ont été menées auprès des représentants locaux pour exiger le maintien de la structure hospitalière.",
+   "auto": true,
+   "addedAt": "2026-11-07T11:36:32+00:00",
+   "pageRead": true,
+   "points": [
+    "Échanger avec les parents sur leurs sentiments d'isolement ou d'inquiétude concernant l'éloignement des structures de naissance dans les zones rurales.",
+    "Soutenir l'expression des émotions des couples face aux incertitudes territoriales liées à l'organisation des maternités.",
+    "Éviter de prendre position sur les arbitrages politiques ou budgétaires des hôpitaux, qui ne relèvent pas de ton rôle d'accompagnante."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-a7038400caf4",
    "category": "pol",
    "priority": false,
@@ -2004,6 +2069,27 @@
     "Informer les parents sur l'existence et le rôle des centres périnataux de proximité si l'offre de soins locale venait à évoluer.",
     "Discuter avec les couples de leur plan de naissance et des temps de trajet actualisés vers la maternité de recours.",
     "Rappeler que la gestion des urgences obstétricales relève strictement du parcours hospitalier et des équipes médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a9999e74fbd1",
+   "category": "pol",
+   "priority": false,
+   "title": "Trappes : maternité HPOP menacée, 3 200 pétitionnaires",
+   "source": "InfosYvelines",
+   "date": "4 novembre 2026",
+   "sortDate": "2026-11-04",
+   "url": "https://www.infosyvelines.fr/articles/trappes-maternite-hpop-fermeture-ramsay-sante-2026",
+   "summary": "La fermeture programmée de la maternité de l'Hôpital Privé de l'Ouest Parisien à Trappes d'ici fin 2026 inquiète les élus et les habitants du bassin de Saint-Quentin-en-Yvelines. Cette décision, liée à une baisse d'activité et des difficultés de recrutement selon le groupe Ramsay Santé, va allonger significativement les temps de trajet pour rejoindre les structures de soins environnantes. Une telle réorganisation territoriale interroge sur l'accès aux soins d'urgence et la prise en charge des femmes enceintes dans la région.",
+   "auto": true,
+   "addedAt": "2026-11-07T11:36:32+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'anticipation des trajets vers la maternité et l'importance d'avoir un plan B en cas d'éloignement des structures de soins.",
+    "Rester neutre et bienveillante face aux inquiétudes liées aux fermetures d'établissements, sans émettre d'avis médical sur le choix des maternités de recours.",
+    "Rappeler aux familles que le suivi médical de la grossesse et les urgences obstétricales relèvent exclusivement des professionnels de santé et des hôpitaux."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3016,90 +3102,6 @@
    "enriched": true
   },
   {
-   "id": "a-e32bd0ec285d",
-   "category": "pol",
-   "priority": false,
-   "title": "Forte inquiétude, forte mobilisation : y a-t-il encore un espoir pour la maternité de l’hôpital de Meulan-Les Mureaux ?",
-   "source": "Actu.fr",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaFBfRHVCYy12d3ZLVmtRdWxZN2JkQTlnNUdNOGptSU42VkQtVDRPa21yd29kbmhoX1hGc2YwbkRQc0lWWTNSZnc4YUVDa01HZF9UalRObVhRMVZiUm85WnRUZy1TUDJ2cnA0cVhjUEZ1a2pHRTV1eDc3N29HUl9sakxXZ1lRVEVBd2hnUVJHSFJXWkx3N2RwUW9DYlRQLUJxUGwtQ01UdW1pWjBTQmdieHhwYVJCbXZRanMwWGtJb1BUY0RkNEVnLUVfbW1rSi1ydXJQdzJhSTVIdnU5WGlQdTNIZ2RmcW9CU2RnWFdIQ2JVdkRtdkxIX0tIdUkxMXV4RGowaXZtakc2QzVKV213?oc=5",
-   "summary": "L'article évoque de fortes inquiétudes et une mobilisation autour de la maternité de l'hôpital de Meulan-Les Mureaux. Ce type de situation illustre les difficultés d'accès aux soins et la fragilité des structures de proximité pour les familles.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents leurs craintes face à la fermeture potentielle des maternités locales et les aider à anticiper leur trajet vers la naissance.",
-    "Soutenir l'expression de leur stress et de leur anxiété concernant le lieu d'accouchement en proposant un espace d'écoute sécurisant.",
-    "R rappeler aux parents que le choix de l'équipe médicale et de la structure d'accouchement relève strictement du parcours de soins."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-072f81619316",
-   "category": "pol",
-   "priority": false,
-   "title": "Les droits sociaux des salariés perdus pendant le congé supplémentaire de naissance",
-   "source": "20 Minutes",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHc3NmNOcEliQW1qbXhTMWdJZG1QMHVWeG1RWmV6UzZRZXRtQ1hMYi1fQ0ZCenVkVzhZYkdyUFV5V1BQa3FqVTh6aFo1eDZybVg1cExLUDd3ajM3QWxjM0llY1pwS0pLcFNBNXVjZWNwclh2Z0o2RjhmeDZnTjBmNTNjVTNTNnVDVVdFRnRGLUItLUxoUEg1MGxwcUI1Y09kUlFaWDNrZWs4eGd6Wl9DM1FIMm03aDAtTUZCMWJJRFJQNWlsTEM4YlUyUkRDOWFSSkJMblRB?oc=5",
-   "summary": "Cet article aborde la perte de certains droits sociaux pour les salariés qui prennent un congé supplémentaire de naissance. Cette question financière et administrative pèse souvent sur l'organisation des familles après l'arrivée de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer de manière générale sur l'existence des congés tout en orientant les parents vers les organismes compétents pour leurs démarches administratives.",
-    "Offrir un espace de discussion sur la charge mentale et l'impact financier de l'arrivée du bébé au sein du couple.",
-    "Rester neutre face aux choix professionnels des parents sans donner de conseil juridique ou financier."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-989f0c71cfb2",
-   "category": "pol",
-   "priority": false,
-   "title": "Annonce d’ouverture de négociations conventionnelles et Point d’étape sur les avancées et les travaux de l’UNSSF",
-   "source": "UNSSF (sages-femmes)",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://unssf.org/2026/10/16/annonce-douverture-de-negociations-conventionnelles-et-point-detape-sur-les-avancees-et-les-travaux-de-lunssf/?utm_source=rss&utm_medium=rss&utm_campaign=annonce-douverture-de-negociations-conventionnelles-et-point-detape-sur-les-avancees-et-les-travaux-de-lunssf",
-   "summary": "L'Union nationale et syndicale des sages-femmes a communiqué sur l'ouverture de négociations conventionnelles lors des Assises de la Ménopause. L'accès intégral au contenu de cette annonce est toutefois réservé aux membres du site professionnel.",
-   "auto": true,
-   "addedAt": "2026-10-17T05:22:59+00:00",
-   "pageRead": true,
-   "points": [
-    "Se tenir informée des évolutions syndicales et des négociations concernant la profession de sage-femme pour mieux orienter les parents.",
-    "Comprendre le contexte de travail des sages-femmes aide à valoriser leur rôle médical complémentaire auprès des familles.",
-    "Ne pas se substituer aux sages-femmes dans l'accès aux soins ou aux discussions sur le parcours médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b8c5d482cac0",
-   "category": "pol",
-   "priority": false,
-   "title": "Congés payés, RTT, mutuelle : les droits que vous risquez de perdre avec le nouveau congé de naissance",
-   "source": "Econostrum.info",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEeG5fekFRX0dCT1U2ODBHTElaWm9OemdBNXJxbnp5dUlZbV9xMkZVSzg3Yl9EYzh2c19xak5LWjRmUmJzZlNUNEc1R2xwOVB6MjFaVnNpTmxtY0FVc2JVQzlHdnBKM3ZXX0pua2ItOGpHN3NPYkh0MktiUWxURms?oc=5",
-   "summary": "Un article aborde l'impact potentiel du nouveau congé de naissance sur certains droits sociaux et professionnels tels que les congés payés, les RTT et la mutuelle. Le texte disponible ne contient toutefois pas de détails développés sur ces modifications.",
-   "auto": true,
-   "addedAt": "2026-10-17T05:22:59+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec prudence la question des congés parentaux et des droits sociaux en informant les parents des changements potentiels sans donner d'avis juridique.",
-    "Inviter les couples à se renseigner auprès de leur employeur ou des organismes compétents pour sécuriser leurs démarches administratives.",
-    "Respecter strictement son rôle non médical et non juridique en orientant vers des professionnels spécialisés pour les questions de droit du travail."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-3479f53824ec",
    "category": "soc",
    "priority": false,
@@ -3260,6 +3262,27 @@
     "Aborder avec les mères la question de la reprise sportive en post-partum et l'importance d'écouter les besoins de leur corps.",
     "Soutenir les choix d'allaitement des parents en valorisant l'écoute de leur propre rythme et de leurs projets personnels.",
     "Reconnaître qu'aucun conseil médical sur la récupération physique ne relève du rôle de la doula, qui offre un soutien purement émotionnel et pratique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c48802ca2db8",
+   "category": "soc",
+   "priority": false,
+   "title": "\"On finit par s’abîmer en silence\" : les conseils impertinents de la sage-femme Anna Roy pour enfin prendre du temps pour soi",
+   "source": "La Montagne",
+   "date": "2 novembre 2026",
+   "sortDate": "2026-11-02",
+   "url": "https://www.lamontagne.fr/paris-75000/actualites/on-finit-par-sabimer-en-silence-les-conseils-impertinents-de-la-sage-femme-anna-roy-pour-enfin-prendre-du-temps-pour-soi_15069885/",
+   "summary": "La sage-femme et autrice Anna Roy publie un ouvrage pour encourager les femmes à ne plus banaliser leur fatigue et à cesser de s'effacer au quotidien. Elle y aborde la difficulté de prendre réellement soin de soi face aux nombreuses responsabilités et aux injonctions culpabilisantes de la société.",
+   "auto": true,
+   "addedAt": "2026-11-07T11:36:32+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir la parole des mères dans le post-partum en validant leur épuisement physique et émotionnel sans jugement.",
+    "Proposer un espace d'écoute sécurisant pour aider les parents à verbaliser leur charge mentale et leurs besoins de répit.",
+    "Éviter toute injonction paradoxale au bien-être qui ajouterait de la pression, et orienter vers des professionnels de santé si la fatigue devient pathologique."
    ],
    "summaryAI": true,
    "enriched": true
