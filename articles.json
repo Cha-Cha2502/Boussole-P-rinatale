@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T11:36:32+00:00",
+ "updatedAt": "2026-11-08T11:48:42+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "9 page(s) d'articles lue(s)",
-  "IA : 9 article(s) résumé(s) et commenté(s)"
+  "14 page(s) d'articles lue(s)",
+  "IA : 14 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -202,7 +202,11 @@
   "a-d5b6ade30212": "2026-10-29",
   "a-c92e8df5a628": "2026-10-28",
   "a-a95855f6e291": "2026-11-07",
-  "a-c89485c49c49": "2026-10-29"
+  "a-c89485c49c49": "2026-10-29",
+  "a-eb09295b75e2": "2026-11-08",
+  "a-bdc021ae456e": "2026-11-07",
+  "a-9273fd688d7b": "2026-11-06",
+  "a-989f0c71cfb2": "2026-10-16"
  },
  "articles": [
   {
@@ -586,6 +590,69 @@
    "enriched": true
   },
   {
+   "id": "a-4a4c5557bbbd",
+   "category": "sci",
+   "priority": false,
+   "title": "Soigner la dépression pendant la grossesse pourrait favoriser le développement cérébral du bébé",
+   "source": "The Conversation France",
+   "date": "8 novembre 2026",
+   "sortDate": "2026-11-08",
+   "url": "https://theconversation.com/soigner-la-depression-pendant-la-grossesse-pourrait-favoriser-le-developpement-cerebral-du-bebe-296078",
+   "summary": "Une étude récente montre qu'une prise en charge psychothérapeutique brève, telle que le protocole MOMCare, peut aider les femmes enceintes souffrant de dépression tout en influençant potentiellement le développement cérébral du fœtus. Les recherches comparent ce type d'accompagnement psychologique ciblé à des conseils standards de santé mentale et au suivi médical habituel.",
+   "auto": true,
+   "addedAt": "2026-11-08T11:48:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la santé mentale sans tabou dès la grossesse pour rassurer les futures mères sur la fréquence de la dépression prénatale.",
+    "Soutenir l'expression des émotions et orienter vers des professionnels spécialisés tout en maintenant une stricte limite non médicale.",
+    "Valoriser l'importance du réseau de soutien et des relations sociales pour accompagner le bien-être psychologique des parents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-179493a9bb15",
+   "category": "sci",
+   "priority": false,
+   "title": "ALLAITEMENT : Des changements encore, à opérer dans les maternités",
+   "source": "Santé log",
+   "date": "8 novembre 2026",
+   "sortDate": "2026-11-08",
+   "url": "https://www.santelog.com/actualites/allaitement-des-changements-encore-operer-dans-les-maternites",
+   "summary": "Une étude menée par des pédiatres italiens souligne que certaines pratiques et idées reçues appliquées dans les maternités juste après la naissance ne reposent sur aucune preuve scientifique et peuvent nuire à l'allaitement. Ces croyances non fondées impactent l'établissement des premiers jours de mise en route de l'alimentation du nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-11-08T11:48:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Aider les parents à se documenter en amont sur la physiologie de l'allaitement pour traverser sereinement les premiers jours.",
+    "Offrir un espace d'écoute bienveillant pour renforcer la confiance des parents face aux consignes parfois contradictoires reçues en structure.",
+    "Rappeler qu'en tant que doula, le rôle est d'informer et de soutenir, sans jamais remettre en cause directement l'équipe médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-218f0461f49d",
+   "category": "sci",
+   "priority": false,
+   "title": "Le phénomène du post-partum, ou pourquoi faudrait-il parler de \"12 mois de grossesse\" : \"Il y a une immense charge mentale\"",
+   "source": "DHnet",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://www.dhnet.be/lifestyle/magazine/2026/11/07/le-phenomene-du-post-partum-ou-pourquoi-faudrait-il-parler-de-12-mois-de-grossesse-il-y-a-une-immense-charge-mentale-GTPUGYRICNF4XHD3BBSG3WHRFQ/",
+   "summary": "La période du post-partum, parfois qualifiée de quatrième trimestre, expose les jeunes mères à une grande fatigue et à des difficultés physiques durables. La charge mentale est particulièrement lourde, notamment en raison de l'allaitement et de la nécessité de décoder les besoins d'un nourrisson. L'article met également en lumière la pression sociale exercée sur les femmes pour qu'elles récupèrent rapidement après l'accouchement.",
+   "auto": true,
+   "addedAt": "2026-11-08T11:48:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Normaliser la lenteur de la récupération physique et psychologique auprès des mères pour déculpabiliser le manque d'énergie.",
+    "Proposer des pistes d'organisation concrètes et un soutien pratique pour alléger la charge mentale au quotidien dans les premiers mois.",
+    "Veiller à ne jamais banaliser les symptômes physiques ou psychologiques et encourager à consulter un professionnel de santé en cas de besoin."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-0e03ab267c5e",
    "category": "sci",
    "priority": false,
@@ -749,6 +816,27 @@
     "Informer les parents sur l'importance de s'appuyer sur des recommandations de santé publique fiables face aux fausses croyances en période d'épidémie.",
     "Valoriser l'écoute des besoins de la mère et du bébé tout en respectant les impératifs de sécurité dictés par l'état de santé global.",
     "Orienter systématiquement vers le corps médical pour tout diagnostic, protocole de soin ou gestion de pathologie infectieuse."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-53c95068c622",
+   "category": "sci",
+   "priority": false,
+   "title": "Décès d'un nouveau-né à la maternité de Saint-Affrique : le centre hospitalier suspend ses accouchements, les futures mamans vont être contactées",
+   "source": "Centre Presse Aveyron",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://www.centrepresseaveyron.fr/2026/11/05/deces-dun-nouveau-ne-a-la-maternite-de-saint-affrique-le-centre-hospitalier-suspend-ses-accouchements-les-futures-mamans-vont-etre-contactees-13638566.php",
+   "summary": "La maternité de Saint-Affrique a suspendu temporairement ses accouchements suite au décès d'un nouveau-né survenu début novembre 2026. Une analyse approfondie des pratiques est menée en lien avec l'Agence régionale de santé et plusieurs structures médicales pour identifier d'éventuelles fragilités avant une réouverture.",
+   "auto": true,
+   "addedAt": "2026-11-08T11:48:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Être à l'écoute de l'anxiété que cette actualité locale et la fermeture temporaire de la maternité peuvent générer chez les futurs parents suivis dans la région.",
+    "Aider les familles à anticiper un plan de naissance alternatif en identifiant clairement les maternités de recours les plus proches en cas de modification de leur parcours.",
+    "Respecter strictement votre rôle non médical en évitant d'émettre des hypothèses sur les causes de l'accident et en orientant les questions médicales vers les professionnels de santé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1759,90 +1847,6 @@
    "enriched": true
   },
   {
-   "id": "a-05634dae9145",
-   "category": "sci",
-   "priority": false,
-   "title": "Des membres de la SOGC plaident pour un meilleur suivi postpartum dans Le Devoir",
-   "source": "SOGC",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://sogc.org/en/content/featured-news/Des-membres-de-la-SOGC-plaident-pour-un-meilleur-suivi-postpartum-dans-Le-Devoir.aspx",
-   "summary": "Des membres de la Société des obstétriciens et gynécologues du Canada (SOGC) soulignent dans la presse la nécessité d'améliorer l'accompagnement et le suivi des parents durant la période post-partum. Cet appel met en lumière l'importance d'une meilleure prise en charge globale après l'arrivée de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Valoriser l'importance cruciale du soutien émotionnel et pratique auprès des jeunes parents durant les premières semaines post-natales.",
-    "Aider les familles à identifier leurs besoins de soutien à domicile pour traverser plus sereinement le post-partum.",
-    "Reconnaître la complémentarité de l'accompagnement non médical avec les suivis de santé obligatoires."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a8a3d5bde509",
-   "category": "sci",
-   "priority": false,
-   "title": "Maniema : la Société congolaise des sages-femmes sensibilise sur les signes des cancers féminins",
-   "source": "ACP | Agence Congolaise de Presse",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://acp.cd/science-sante-environnement/maniema-la-societe-congolaise-des-sages-femmes-sensibilise-sur-les-signes-des-cancers-feminins/",
-   "summary": "Une association de sages-femmes a organisé une séance d'information à destination des femmes pour expliquer les signes et la prévention des cancers du sein et du col de l'utérus. Le texte fourni s'arrête avant de détailler les informations pratiques.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager les parents et les mères à maintenir un suivi gynécologique régulier, y compris après la grossesse.",
-    "Soutenir la parole des femmes autour de la santé de leur propre corps dans la période du post-partum.",
-    "Orienter systématiquement vers les sages-femmes ou les médecins pour toute question relative au dépistage des cancers féminins."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-c9ac836a44f8",
-   "category": "sci",
-   "priority": false,
-   "title": "L’Hôpital de maternité et de pédiatrie d’Abha obtient l’accréditation internationale « Hôpital ami des bébés »",
-   "source": "وكالة الأنباء السعودية",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://www.spa.gov.sa/fr/N2704825",
-   "summary": "L'Hôpital de maternité et de pédiatrie d'Abha a obtenu l'accréditation internationale « Hôpital ami des bébés » délivrée par l'OMS et l'UNICEF pour la période 2026-2029. Cette reconnaissance valorise le respect des critères favorisant la qualité des soins maternels, infantiles et la promotion de l'allaitement maternel.",
-   "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux mentionner l'existence de ce label international aux parents pour les aider à choisir une structure de naissance engagée dans le soutien actif à l'allaitement et au respect du lien mère-enfant.",
-    "Utilise cette information pour valoriser l'importance d'un environnement de naissance sécurisant et respectueux des premières heures de vie lors de tes échanges sur le projet de naissance.",
-    "N'interviens jamais dans le choix médical de l'établissement de santé, ton rôle se limitant à informer les parents sur les existences de labels et de pratiques reconnues."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-460497df248f",
-   "category": "sci",
-   "priority": false,
-   "title": "Montélimar. Octobre Rose : une sensibilisation à l’allaitement au sein de l’hôpital montilien",
-   "source": "Le Dauphiné Libéré",
-   "date": "18 octobre 2026",
-   "sortDate": "2026-10-18",
-   "url": "https://www.ledauphine.com/sante/2026/10/18/octobre-rose-une-sensibilisation-a-l-allaitement-au-sein-de-l-hopital-montilien",
-   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, des professionnels de santé et des associations se sont mobilisés dans un hôpital pour informer et soutenir les futures mères. Les données chiffrées de Santé publique France montrent une baisse significative du taux d'allaitement entre la naissance et deux mois de vie.",
-   "auto": true,
-   "addedAt": "2026-10-19T05:29:00+00:00",
-   "pageRead": true,
-   "points": [
-    "Abordez la baisse fréquente de l'allaitement après les premières semaines pour préparer les parents à anticiper les difficultés potentielles.",
-    "Orientez les mères vers les associations locales de soutien par les pairs pour briser l'isolement face aux défis de l'allaitement.",
-    "Restez dans votre rôle de soutien pratique et émotionnel en évitant tout conseil médical sur la lactation ou la prise de poids du nourrisson."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-08d3139e56a2",
    "category": "pol",
    "priority": false,
@@ -1864,6 +1868,48 @@
    "enriched": true
   },
   {
+   "id": "a-f0d5b7bca682",
+   "category": "pol",
+   "priority": false,
+   "title": "Longwy. Ils disent « non » à la fermeture de la maternité de Mont-Saint-Martin",
+   "source": "Le Republicain Lorrain",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://www.republicain-lorrain.fr/social/2026/11/07/ils-disent-non-a-la-fermeture-de-la-maternite-de-mont-saint-martin",
+   "summary": "Un collectif local, soutenu par des élus et des citoyens, s'est mobilisé pour protester contre l'annonce de la fermeture prochaine d'une maternité de proximité réalisant environ trois cents accouchements par an. Cette décision suscite une forte inquiétude au sein du territoire concerné.",
+   "auto": true,
+   "addedAt": "2026-11-08T11:48:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Être à l'écoute des inquiétudes des parents face à l'éloignement des structures de soins et à la réduction des services de proximité.",
+    "Fournir une information neutre sur les différentes options de lieu de naissance tout en respectant le choix des familles.",
+    "Ne pas se prononcer sur les aspects administratifs ou politiques des fermetures d'hôpitaux, mais se concentrer sur l'accompagnement émotionnel des parents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-283231c33c97",
+   "category": "pol",
+   "priority": false,
+   "title": "L'inquiétude monte pour la maternité de Mont-Saint-Martin",
+   "source": "L'essentiel",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://www.lessentiel.lu/fr/story/a-la-frontiere-l-inquietude-monte-pour-la-maternite-de-mont-saint-martin-103663787",
+   "summary": "La maternité de Mont-Saint-Martin est menacée de fermeture en raison de difficultés persistantes de recrutement médical et du départ de son obstétricien titulaire. Cette situation soulève l'inquiétude des soignants et des élus locaux quant à la sécurité des accouchements et à l'accès aux soins dans cette région frontalière. Les futures mères suivies dans cet établissement pourraient être orientées vers un autre hôpital situé à une cinquantaine de kilomètres.",
+   "auto": true,
+   "addedAt": "2026-11-08T11:48:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Entendre l'anxiété et la colère des parents face à la fragilisation ou la fermeture des structures de proximité près de chez eux.",
+    "Discuter en amont avec les couples de leurs options de repli et de leur plan de naissance en cas d'éloignement de la maternité.",
+    "Rappeler que la gestion des fermetures de services et de l'orientation médicale relève strictement des autorités de santé et des hôpitaux."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-f92ae6fa9171",
    "category": "pol",
    "priority": false,
@@ -1880,6 +1926,26 @@
     "Discutez avec les parents de leurs projets de naissance en tenant compte de l'éloignement géographique des structures et des temps de trajet pour anticiper le jour J.",
     "Aidez les futurs parents à exprimer leurs inquiétudes face aux fermetures de maternités locales tout en rappelant que le suivi prénatal et postnatal reste assuré par les centres de périnatalité.",
     "Ne prenez pas position sur les décisions politiques de fermeture, mais informez les familles sur l'organisation concrète des soins de proximité dans leur secteur."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-addcb01ec84d",
+   "category": "pol",
+   "priority": false,
+   "title": "Retraite : comment valider un trimestre avec le nouveau congé supplémentaire de naissance",
+   "source": "Boursorama",
+   "date": "6 novembre 2026",
+   "sortDate": "2026-11-06",
+   "url": "https://www.boursorama.com/epargne/retraite/actualites/retraite-comment-valider-un-trimestre-avec-le-nouveau-conge-supplementaire-de-naissance-ea883dbcc21fa0f56195dadd7abe64fe",
+   "summary": "Un nouveau congé supplémentaire de naissance d'une durée maximale de deux mois est entré en vigueur pour les parents d'enfants nés ou adoptés à partir du 1er janvier 2026. Ce dispositif, indemnisé par la Sécurité sociale de manière dégressive, peut être pris par l'un ou l'autre des parents de façon flexible et permet de valider un trimestre de retraite.",
+   "auto": true,
+   "addedAt": "2026-11-08T11:48:42+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents de l'existence de ce nouveau congé et des modalités d'indemnisation pour les aider dans leur organisation financière du post-partum.",
+    "Rappeler aux familles qu'en tant que doula, vous ne pouvez pas effectuer de démarches administratives ou juridiques à leur place mais que vous pouvez les orienter vers les organismes compétents."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3039,64 +3105,43 @@
    "enriched": true
   },
   {
-   "id": "a-845e05826859",
-   "category": "pol",
+   "id": "a-61e8974c7c0b",
+   "category": "soc",
    "priority": false,
-   "title": "Allaitement à La Réunion : reconnue par l’État, bannie par le CHU, le cri du cœur d’Ericka Moimba de l’association Sœur de Lait – Free Dom",
-   "source": "Free Dom",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://freedom.fr/allaitement-a-la-reunion-reconnue-par-letat-bannie-par-le-chu-le-cri-du-coeur-dericka-moimba-de-lassociation-soeur-de-lait/",
-   "summary": "Une association locale de soutien à l'allaitement à La Réunion fait face à des difficultés d'accès au CHU malgré une reconnaissance institutionnelle et sa participation à des projets de loi nationaux. Ce texte illustre les tensions de terrain entre les initiatives associatives de terrain et l'organisation hospitalière des soins périnataux.",
+   "title": "Ils disent « non » à la fermeture de la maternité de Mont-Saint-Martin",
+   "source": "Le Républicain Lorrain",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://www.republicain-lorrain.fr/videos/ils-disent-non-a-la-fermeture-de-la-maternite-de-mont-saint-martin-3zsmpsz",
+   "summary": "Un rassemblement a réuni des citoyens, des élus et des futures mères pour protester contre la fermeture annoncée de la maternité de Mont-Saint-Martin. Les manifestants dénoncent une décision perçue comme une injustice territoriale préjudiciable à la sécurité des familles. Cette mobilisation illustre l'attachement fort des habitants envers les services de santé de proximité.",
    "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
+   "addedAt": "2026-11-08T11:48:42+00:00",
    "pageRead": true,
    "points": [
-    "Connaître les ressources associatives locales existantes pour pouvoir orienter les parents vers des réseaux de soutien adaptés.",
-    "Comprendre les difficultés d'articulation entre les accompagnements communautaires et le milieu médical hospitalier.",
-    "Maintenir une posture de soutien non médical tout en valorisant les droits des parents à être accompagnés dans leur projet d'allaitement."
+    "Créer un espace d'écoute bienveillant pour permettre aux parents d'exprimer leurs craintes face à l'incertitude des lieux de naissance.",
+    "Soutenir l'expression de leurs émotions et de leur sentiment de vulnérabilité sans prendre parti dans les débats politiques ou administratifs.",
+    "S'abstenir de tout commentaire sur les choix stratégiques des établissements de santé et rediriger les questions médicales vers les professionnels compétents."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-9e4a73b26d9f",
-   "category": "pol",
+   "id": "a-31bc53912b33",
+   "category": "soc",
    "priority": false,
-   "title": "Le Parlement modifie son Statut du Personnel pour appliquer le décret d'État qui étend les congés de naissance et de soin.",
-   "source": "Demócrata",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQzdncENhR0xNbTNrUEZHZm93N2x3dXhlVVBkN2ZvZHp2UDZUZy1pcWQzbWh4a2QzUHlCOWpNMHRXVmJKVWlSeno3VThqTU52REJ5OTBZblk2cV95bXRfRTl3ZkN6aHdjbkR3SWFwVnBJWU00dzBHUTFTNkM3N2RJRm1VMnAyamF0Qm4zZjk1N3hwbms3Sk5kZTN4Y29hLXhNZDY0SjAyMGI4MUNGcWJ3cVRyTjZ5Zkxwb21FNnRMOGdMblZVR0gwYmNOUEVkNTU5dVNIYm9jaGstcXJNUFg1UWp3WFNEeVA1Z0psdTZZdWtrZkFrX2w5cdIB-AFBVV95cUxQQzdncENhR0xNbTNrUEZHZm93N2x3dXhlVVBkN2ZvZHp2UDZUZy1pcWQzbWh4a2QzUHlCOWpNMHRXVmJKVWlSeno3VThqTU52REJ5OTBZblk2cV95bXRfRTl3ZkN6aHdjbkR3SWFwVnBJWU00dzBHUTFTNkM3N2RJRm1VMnAyamF0Qm4zZjk1N3hwbms3Sk5kZTN4Y29hLXhNZDY0SjAyMGI4MUNGcWJ3cVRyTjZ5Zkxwb21FNnRMOGdMblZVR0gwYmNOUEVkNTU5dVNIYm9jaGstcXJNUFg1UWp3WFNEeVA1Z0psdTZZdWtrZkFrX2w5cQ?oc=5",
-   "summary": "Le Parlement a modifié son statut du personnel afin de mettre en œuvre un décret d'État qui allonge les congés de naissance et de soin. Cette mesure vise à adapter les droits sociaux liés à l'arrivée d'un enfant au sein de cette institution.",
+   "title": "« Des vies à sauver, pas le temps de rouler » : 200 personnes réunies contre la fermeture de la maternité de Mont-Saint-Martin",
+   "source": "Le Républicain Lorrain",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://www.republicain-lorrain.fr/sante/2026/11/07/des-vies-a-sauver-pas-le-temps-de-rouler-200-personnes-reunies-contre-la-fermeture-de-la-maternite-de-mont-saint-martin",
+   "summary": "Des habitants et des familles se sont mobilisés pour manifester contre la fermeture de la maternité locale, soulignant l'importance d'un accès rapide aux soins périnataux. Certains parents témoignent des difficultés vécues lors de grossesses antérieures et expriment leur reconnaissance envers le personnel soignant. La peur d'avoir à parcourir de longs trajets pour accoucher est au cœur des préoccupations des manifestants.",
    "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
+   "addedAt": "2026-11-08T11:48:42+00:00",
    "pageRead": true,
    "points": [
-    "Informer les parents sur l'importance de se renseigner sur leurs droits spécifiques en matière de congés selon leur employeur.",
-    "Discuter de l'impact de l'allongement de ces congés sur l'organisation des premiers mois à la maison.",
-    "Rappeler que la doula n'a pas vocation à interpréter les textes juridiques mais peut orienter les familles vers les bons interlocuteurs."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-6a1a22960777",
-   "category": "pol",
-   "priority": false,
-   "title": "Désert médical: La fermeture de Mont‑Saint‑Martin accentue le risque pour les nourrissons du Grand Est",
-   "source": "RTL Lëtzebuerg",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3FUUTFWRS1tektLUlo5Z0NOMC1vTVdsWFhCc2FUanNEUW1ZRUxZVGdFTFVyX3hLbl9SaUhTLXdESDJQTW5ORzVEYTBEWVVoNTFfN1J0Nl9UWkRhUDg3dXZQT0ItNzhkWkJTbmUwVDdQOGRyY0p4aThmM0dWZng4eTdfY2JOUDRZeEhkMDQtVHdFcllVOUNQWnltWkV6bFJUMnhDNHM0VTdjcUs3RDBFT1BYelhlTU9PVF82QjNZcmtYTENVR3pIMDR4bVlSQQ?oc=5",
-   "summary": "La fermeture d'une structure de soins à Mont-Saint-Martin aggrave la situation des déserts médicaux dans la région du Grand Est. Cette situation fait peser des risques accrus sur la prise en charge médicale des nourrissons.",
-   "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Prendre en compte l'anxiété potentielle des parents face aux difficultés d'accès aux structures de soins pédiatriques locales.",
-    "Aider les parents à anticiper la recherche de professionnels de santé référents dès la grossesse dans les zones sous-dotées.",
-    "Maintenir strictement sa posture non médicale en cas d'inquiétude sur la santé du nourrisson en les orientant vers les urgences ou le pédiatre."
+    "Valider le vécu et les inquiétudes des parents concernant les contraintes géographiques liées au lieu de naissance.",
+    "Proposer des outils d'écoute et de soutien émotionnel pour les accompagner dans la gestion du stress lié aux incertitudes logistiques.",
+    "Rediriger systématiquement les parents vers leurs sages-femmes ou médecins pour toute question relative à l'organisation médicale du terme."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4309,48 +4354,6 @@
     "Échanger avec les parents sur leurs peurs ou leurs fantasmes autour d'un accouchement rapide ou inattendu à la maison.",
     "Valider l'intensité émotionnelle vécue par le co-parent lors d'un événement de naissance imprévu.",
     "Rappeler clairement que la gestion d'un accouchement hors structure médicale d'urgence relève des professionnels de santé et des services de secours."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e45808ad7b50",
-   "category": "soc",
-   "priority": false,
-   "title": "Die : ils ne veulent pas qu’on ferme leur maternité",
-   "source": "Orange Actualités",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekJXTTg3Y3J1TVNMendmWU5LaGhjVldwMXRMNFN4aHczOXlrajloWVVoeHRXVHdqZDFMNkQ5ZEFuZG8xVlNxVXZBaThuM1VkeWwyWUwwb0laNlYzTkZBNGN2UFY4UWJOUlo4c3lLWlB1bmVnX3JTMmdMSWV4REdmb2N4X0xmLU1lUU5jcU5BMk5BX0djVTVOOEtMSFZBNk5sSWFjMHVRVl9qNTZFQ3gxbA?oc=5",
-   "summary": "Un mouvement de contestation s'organise autour du projet de fermeture de la maternité de Die. Les habitants et usagers se mobilisent pour s'opposer à cette décision concernant leur établissement local.",
-   "auto": true,
-   "addedAt": "2026-10-17T05:22:59+00:00",
-   "pageRead": true,
-   "points": [
-    "Entendre la colère et l'inquiétude des parents attachés à leur service de proximité lors des accompagnements individuels ou collectifs.",
-    "Valoriser les ressources communautaires et les réseaux de soutien locaux mobilisés pour la défense de la périnatalité de proximité.",
-    "Veiller à ne pas prendre position dans le débat politique ou militant, tout en restant un soutien émotionnel solide pour les familles touchées."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-ff3aec45bb2e",
-   "category": "soc",
-   "priority": false,
-   "title": "« J’ai dû crier pour que la sage-femme s’arrête » : 70 femmes racontent une expérience douloureuse dans ce livre enquête",
-   "source": "Ouest-France",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPekJtUTdBamhreEtBdmlhYU9WRkxmZ2F1ZDBwVnNkellMQVpUbzV4cGlpX05DNVBFb3RreC1BRXpmc3pPbjBtdWZsa2hieXFqS0pDNUdfTENuRmUwRS1kQnZDMzFlUkdSb2R4WDZRMW5PcEJzU1pNWGRvQkYySy1HcVdtSTBkSS1iRERHMGhRLWxRVjZReU5qMzQyMUlQbHFnR3ZCRkREOHBkajJfLVFHMUxlQWRFSmprbGpudFYzaUxlcW9YMVdnaTg3Z3JQRUctblF3TU5KWkpfcERIMFMtSlpJT09GN2JnOWZMSTNNb1ZqRE0tWi1Rcl9uYnNYekpQSE5HcWl2SFVWUlNlQy1pOQ?oc=5",
-   "summary": "Un ouvrage recueille les témoignages de soixante-dix femmes dénonçant des vécus douloureux et des violences lors de leurs prises en charge médicales. Ce livre met en lumière l'importance du consentement et de l'écoute du corps des patientes en milieu obstétrical.",
-   "auto": true,
-   "addedAt": "2026-10-17T05:22:59+00:00",
-   "pageRead": true,
-   "points": [
-    "Ouvrir un espace de parole sécurisant pour permettre aux parents d'exprimer leurs craintes liées aux examens médicaux et aux accouchements passés.",
-    "Rappeler aux parents leur droit fondamental au consentement éclairé et au respect de leurs limites corporelles à chaque étape.",
-    "Ne jamais se substituer au corps médical mais valider le ressenti émotionnel des mères face à des expériences traumatiques."
    ],
    "summaryAI": true,
    "enriched": true
