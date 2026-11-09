@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T11:48:42+00:00",
+ "updatedAt": "2026-11-09T13:42:49+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "14 page(s) d'articles lue(s)",
-  "IA : 14 article(s) résumé(s) et commenté(s)"
+  "12 page(s) d'articles lue(s)",
+  "IA : 12 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -206,7 +206,10 @@
   "a-eb09295b75e2": "2026-11-08",
   "a-bdc021ae456e": "2026-11-07",
   "a-9273fd688d7b": "2026-11-06",
-  "a-989f0c71cfb2": "2026-10-16"
+  "a-989f0c71cfb2": "2026-10-16",
+  "a-7d528ad7817d": "2026-11-09",
+  "a-0ff1ed357b00": "2026-11-09",
+  "a-81089a2434cc": "2026-11-02"
  },
  "articles": [
   {
@@ -587,6 +590,48 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-485342024999",
+   "category": "sci",
+   "priority": false,
+   "title": "Eczéma du bébé : cette habitude des parents pourrait aggraver les symptômes, selon une étude",
+   "source": "Parents.fr",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.parents.fr/actualites/etre-parent/eczema-du-bebe-cette-habitude-des-parents-pourrait-aggraver-les-symptomes-selon-une-etude-1159178",
+   "summary": "Une étude récente met en évidence un lien entre l'exposition à la fumée de cigarette et l'aggravation de l'eczéma chez les bébés de moins de deux ans. Les enfants dont les parents fument présentent des plaques et des troubles du sommeil nettement plus sévères.",
+   "auto": true,
+   "addedAt": "2026-11-09T13:42:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question du tabagisme passif de manière bienveillante lors des discussions sur l'environnement du nouveau-né à la maison.",
+    "Informer les parents sur l'impact de la qualité de l'air intérieur sans porter de jugement moral sur leur consommation.",
+    "Rappeler que tout diagnostic d'eczéma ou prise en charge cutanée relève strictement du pédiatre ou du médecin."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-fb5e12387bd3",
+   "category": "sci",
+   "priority": false,
+   "title": "3 mythes sur l'allaitement souvent entendus à la maternité déconstruis par des scientifiques",
+   "source": "Magicmaman",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.magicmaman.com/3-mythes-sur-l-allaitement-souvent-entendus-a-la-maternite-deconstruis-par-des-scientifiques,3784906.asp",
+   "summary": "Des chercheurs ont analysé de nombreuses études internationales publiées pour déconstruire des idées reçues très ancrées concernant l'allaitement dans les premiers jours de vie. Ces travaux visent à rassurer les mères souvent angoissées à l'idée de manquer de lait et à leur offrir des repères scientifiques fiables dès la maternité.",
+   "auto": true,
+   "addedAt": "2026-11-09T13:42:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Abordez les doutes fréquents sur la lactation avec bienveillance pour déculpabiliser les jeunes mères face aux peurs de ne pas nourrir assez leur bébé.",
+    "Encouragez les parents à chercher un accompagnement fondé sur des données probantes et à s'entourer de professionnels spécialisés en lactation (IBCLC, sages-femmes).",
+    "Ne posez aucun diagnostic sur la production de lait ou la prise de poids du nourrisson, et orientez systématiquement vers le corps médical ou une consultante en lactation en cas de difficulté."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1089,6 +1134,27 @@
     "Accueillir la parole des mères sur leur santé mentale avec beaucoup de douceur et sans culpabilisation.",
     "Rappeler aux parents que la détresse psychologique se soigne et encourager à consulter rapidement en cas de symptômes dépressifs.",
     "Maintenir sa limite en s'abstenant de tout diagnostic ou analyse biologique, tout en restant une présence soutenante au quotidien."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a81f9b4860b1",
+   "category": "sci",
+   "priority": false,
+   "title": "7ème Journée Nationale de l’Allaitement Maternel: allaiter aujourd’hui protéger demain",
+   "source": "Leaders.com.tn",
+   "date": "30 octobre 2026",
+   "sortDate": "2026-10-30",
+   "url": "https://leaders.com.tn/article/38610-7eme-journee-nationale-de-l-allaitement-maternel-allaiter-aujourd-hui-proteger-demain",
+   "summary": "L'Association Hanen organise la septième Journée Nationale de l'Allaitement Maternel axée sur le thème de la protection de l'avenir et de la santé durable. L'événement aborde divers aspects tels que le code de commercialisation des substituts du lait, la collecte prénatale du colostrum ainsi que les liens entre allaitement, santé mentale maternelle et réseaux de périnatalité.",
+   "auto": true,
+   "addedAt": "2026-11-09T13:42:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez aborder la collecte prénatale du colostrum avec les futurs parents pour les informer de cette pratique récente, tout en rappelant que la décision médicale et l'accompagnement technique relèvent des professionnels de santé.",
+    "Utilisez les informations sur les bénéfices de l'allaitement et son lien avec le bien-être pour offrir un espace d'écoute bienveillant autour du vécu émotionnel des mères, sans jamais porter de jugement sur leur choix d'alimentation.",
+    "Rappelez aux parents que les questions relatives aux substituts du lait maternel ou aux difficultés médicales d'allaitement doivent être adressées aux sages-femmes, médecins ou consultantes en lactation certifiées."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1784,64 +1850,85 @@
    "enriched": true
   },
   {
-   "id": "a-ce245ba53a7e",
-   "category": "sci",
+   "id": "a-8580f93e7a30",
+   "category": "pol",
    "priority": false,
-   "title": "Cancer du sein après une grossesse : un médicament courant pourrait réduire le risque, selon une étude",
-   "source": "Parents.fr",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.parents.fr/actualites/etre-parent/cancer-du-sein-apres-une-grossesse-un-medicament-courant-pourrait-reduire-le-risque-selon-une-etude-1158367",
-   "summary": "Des chercheurs se sont penchés sur l'effet potentiel d'un médicament inhibiteur de la lactation, la cabergoline, sur la réduction du risque de cancer du sein dans la période suivant une grossesse. Les tests menés sur des modèles animaux suggèrent que le traitement pourrait accélérer le remodelage mammaire après le sevrage et retarder l'apparition de tumeurs. Une analyse observationnelle sur des cohortes humaines va dans le même sens, bien que les résultats appellent à la prudence méthodologique.",
+   "title": "COMMUNIQUÉ COMMUN - Congé supplémentaire de naissance : encore un report, toujours aucune décision",
+   "source": "Le SAF",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://lesaf.org/communique-commun-conge-supplementaire-de-naissance-encore-un-report-toujours-aucune-decision/",
+   "summary": "Le congé supplémentaire de naissance, en vigueur depuis juillet 2026 pour les travailleurs indépendants, fait l'objet de reports de votes au sein de certaines professions comme les avocats. Des incertitudes persistent quant au maintien des rétrocessions et à la protection financière des collaborateurs durant cette période.",
    "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
+   "addedAt": "2026-11-09T13:42:49+00:00",
    "pageRead": true,
    "points": [
-    "Informez les parents avec beaucoup de mesure sur les questions de physiologie mammaire et de sevrage, en restant strictement dans un rôle d'écoute et d'information générale.",
-    "Rappelez que toute question relative aux traitements médicamenteux pour l'inhibition de la lactation ou la prévention de pathologies relève exclusivement du médecin ou de la sage-femme.",
-    "Accueillez les éventuelles inquiétudes des mères concernant leur santé post-partum en les encourageant à échanger directement avec les professionnels de santé habilités."
+    "Être informée des complexités administratives et des retards d'application pour les parents indépendants qui souhaitent faire valoir leurs droits.",
+    "Soutenir l'écoute des parents en reconnaissant la charge mentale liée à l'incertitude des congés et des dispositifs légaux.",
+    "Orienter les familles vers des professionnels du droit ou des organismes sociaux pour toute question juridique ou financière complexe."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-113a4ca61042",
-   "category": "sci",
+   "id": "a-edca564d147c",
+   "category": "pol",
    "priority": false,
-   "title": "Grossesse : cette nouvelle étude révèle un lien entre les polluants des plastiques et le QI des enfants",
-   "source": "Magicmaman",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.magicmaman.com/grossesse-troisieme-trimestre-polluants-plastiques-association-qi-3-ans,3787156.asp",
-   "summary": "Une étude menée par l'Inserm et l'université Grenoble-Alpes indique qu'une exposition accrue à des mélanges chimiques polluants au cours du troisième trimestre de grossesse est associée à des scores de QI plus faibles chez l'enfant à l'âge de 3 ans. Les chercheurs ont analysé les urines de femmes enceintes pour évaluer leur niveau d'imprégnation face à ces substances issues de produits du quotidien.",
+   "title": "Congé de naissance : la mutuelle d'entreprise s'arrête 2 mois, la garder coûte au moins le double de la cotisation",
+   "source": "JeChange",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.jechange.fr/assurance/mutuelle-sante/news/conge-naissance-mutuelle-entreprise-suspendue-2-mois-cotisation-double",
+   "summary": "Un rectificatif ministériel précise que le financement de la mutuelle d'entreprise peut être suspendu pendant le congé supplémentaire de naissance si l'employeur ne verse pas de complément de salaire. Les salariés qui souhaitent conserver leur couverture doivent alors assumer seuls l'intégralité des cotisations, dont le coût se trouve ainsi augmenté.",
    "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
+   "addedAt": "2026-11-09T13:42:49+00:00",
    "pageRead": true,
    "points": [
-    "Sensibiliser les femmes enceintes, sans les culpabiliser, sur la présence potentielle de polluants dans les objets et contenants du quotidien.",
-    "Partager des conseils d'hygiène de vie simples et non médicaux pour réduire l'exposition aux plastiques durant la grossesse.",
-    "Inviter les parents à échanger avec leurs professionnels de santé référents pour toute question concernant l'environnement et la santé fœtale."
+    "Alerter les futurs parents salariés sur la nécessité de vérifier les conditions de leur mutuelle en cas de prise de ce congé spécifique.",
+    "Valider l'anxiété administrative des familles face aux coûts imprévus liés à l'organisation du post-partum et du congé parental.",
+    "Ne pas donner de conseils juridiques ou assurantiels précis, et encourager les parents à se renseigner auprès de leur employeur ou des représentants du personnel."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-646a993f192c",
-   "category": "sci",
+   "id": "a-af4f8b295f0c",
+   "category": "pol",
    "priority": false,
-   "title": "Cancer du sein après une grossesse : une piste inattendue se dessine",
-   "source": "Pourquoi Docteur",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56045-Cancer-sein-grossesse-une-piste-inattendue-dessine",
-   "summary": "Des chercheurs s'intéressent au rôle potentiel de la cabergoline, un médicament agissant sur la production de lait, dans la réduction du risque de cancer du sein survenant dans les années suivant une grossesse. Cette piste thérapeutique vise à cibler l'involution mammaire du post-partum, une période où les risques de développer une forme agressive de cancer sont accrus chez les jeunes mères. Les premiers travaux s'appuient sur des expérimentations animales et l'analyse de vastes registres de données de santé.",
+   "title": "Petite maternité, grande victoire : Lunéville évite la fermeture et décroche une certification de la HAS",
+   "source": "Whatsupdoc-lemag.fr",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.whatsupdoc-lemag.fr/article/petite-maternite-grande-victoire-luneville-evite-la-fermeture-et-decroche-une-certification",
+   "summary": "La maternité de Lunéville a obtenu une certification de la HAS et a évité la fermeture grâce au recrutement de médecins et à une forte mobilisation locale. Ce service de proximité permet d'assurer un suivi personnalisé et rassurant pour les familles, tandis que les grossesses complexes sont orientées vers un plateau technique de plus haut niveau.",
    "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
+   "addedAt": "2026-11-09T13:42:49+00:00",
    "pageRead": true,
    "points": [
-    "Tu peux rester informée des pistes de recherche concernant la santé des mères dans le post-partum, tout en gardant à l'esprit qu'il s'agit d'études préliminaires.",
-    "Écoute avec bienveillance les mères qui s'interrogent sur les modifications de leur corps après l'allaitement, sans jamais émettre d'avis sur des traitements médicaux.",
-    "Oriente systématiquement les parents vers un médecin ou un gynécologue pour toute question relative au dépistage ou aux risques de pathologies mammaires."
+    "Discutez avec les parents des structures de naissance disponibles localement et des critères de choix selon la complexité de leur grossesse.",
+    "Valorisez l'importance du lien de confiance et de la continuité du suivi avec l'équipe médicale de proximité, tout en restant à l'écoute de leurs inquiétudes logistiques.",
+    "Rappelez que la doula soutient le projet de naissance quel que soit l'établissement, sans se prononcer sur les choix administratifs ou de gestion hospitalière."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7bfe1a5dd849",
+   "category": "pol",
+   "priority": false,
+   "title": "La maternité de Mont-Saint-Martin menacée de fermeture après le départ du seul gynéco titulaire",
+   "source": "Whatsupdoc-lemag.fr",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.whatsupdoc-lemag.fr/article/la-maternite-de-mont-saint-martin-menacee-de-fermeture-apres-le-depart-du-seul-gyneco",
+   "summary": "La maternité de Mont-Saint-Martin fait face à des menaces de fermeture ou d'arrêt des accouchements en raison de difficultés durables de recrutement médical après le départ de son unique gynécologue titulaire. Les soignants et les élus locaux s'insurgent contre cette situation qui éloigne les structures de soins et fait redouter des risques accrus pour la sécurité des femmes enceintes du territoire.",
+   "auto": true,
+   "addedAt": "2026-11-09T13:42:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Entendez l'anxiété que peut générer l'éloignement d'une maternité ou la modification des parcours de soins pour les parents vivant en zone rurale.",
+    "Aidez les couples à anticiper le trajet et les consignes pratiques en fin de grossesse pour se rendre dans l'établissement de recours assigné.",
+    "Maintenez strictement votre posture non médicale en évitant tout commentaire sur la gestion des hôpitaux ou les compétences des équipes de remplacement."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2051,6 +2138,27 @@
     "Échanger avec les parents sur leurs sentiments d'isolement ou d'inquiétude concernant l'éloignement des structures de naissance dans les zones rurales.",
     "Soutenir l'expression des émotions des couples face aux incertitudes territoriales liées à l'organisation des maternités.",
     "Éviter de prendre position sur les arbitrages politiques ou budgétaires des hôpitaux, qui ne relèvent pas de ton rôle d'accompagnante."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3bd61e06ffab",
+   "category": "pol",
+   "priority": false,
+   "title": "\"Des femmes et des enfants en danger\" : mobilisation massive pour défendre la maternité de l'hôpital menacée",
+   "source": "France 3 Régions",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/des-femmes-et-des-enfants-en-danger-mobilisation-massive-pour-defendre-la-maternite-de-l-hopital-menacee-3445035.html",
+   "summary": "Plusieurs centaines de personnes se sont rassemblées devant l'hôpital d'Ussel pour protester contre un projet de fusion des maternités du département vers un site unique à Brive. Cette mobilisation reflète l'inquiétude grandissante des habitants et des soignants face à la restructuration et à l'accès aux soins périnataux de proximité.",
+   "auto": true,
+   "addedAt": "2026-11-09T13:42:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrez un espace d'écoute sécurisant pour les parents inquiets des transformations de l'offre de soins dans leur région.",
+    "Aidez les familles à exprimer leurs besoins émotionnels face à l'incertitude des parcours de naissance locaux.",
+    "Restez neutre face aux décisions politiques de restructuration hospitalière et recentrez votre accompagnement sur le soutien pratique et émotionnel au quotidien."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2996,110 +3104,6 @@
     "Soutenez les parents dans l'identification de leurs besoins spécifiques pour la période délicate du post-partum, en tenant compte des risques accrus de difficultés psychologiques chez les plus jeunes.",
     "Valorisez l'importance d'un réseau de proximité et aidez les familles à cartographier les ressources humaines et associatives disponibles autour de chez elles dès la grossesse.",
     "Maintenez une stricte distinction avec les revendications politiques ou médicales sur l'organisation des soins, en vous concentrant sur le soutien pratique et émotionnel que vous pouvez apporter."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-67f451f9b10a",
-   "category": "pol",
-   "priority": false,
-   "title": "\"Un nouveau recul de l'offre de soins\" : en Lorraine, cette maternité va fermer d'ici la fin de l'année",
-   "source": "Actu.fr",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://actu.fr/grand-est/mont-saint-martin_54382/un-nouveau-recul-de-l-offre-de-soins-en-lorraine-cette-maternite-va-fermer-d-ici-la-fin-de-l-annee_64950557.html",
-   "summary": "Une maternité de Meurthe-et-Moselle va cesser les accouchements d'ici la fin de l'année en raison de difficultés de recrutement de personnel médical. L'établissement sera transformé en centre de suivi prénatal tandis que les naissances devront être transférées vers d'autres structures.",
-   "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les parents des incertitudes liées aux fermetures de maternités et de l'organisation des trajets pour le jour J.",
-    "Aider les familles à anticiper un plan de naissance alternatif en identifiant clairement les établissements de recours les plus proches.",
-    "Orienter les parents vers le corps médical pour toute question relative à la sécurité des parcours de soins et aux transferts."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-ac4312549ccc",
-   "category": "pol",
-   "priority": false,
-   "title": "Droits à la retraite : l'effet du congé supplémentaire de naissance",
-   "source": "CFE-CGC",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://www.cfecgc.org/actualites/droits-a-la-retraite-leffet-du-conge-supplementaire-de-naissance",
-   "summary": "Une circulaire de la Caisse nationale d'assurance vieillesse détaille les modalités d'application du congé supplémentaire de naissance mis en place pour les parents à l'issue de leur premier congé lié à l'arrivée de l'enfant. Ce dispositif entraîne une suspension du contrat de travail d'un ou deux mois qui est prise en compte pour l'ouverture des droits à la retraite de base. Sous certaines conditions de durée d'indemnisation, un trimestre assimilé peut ainsi être validé au titre de cette période.",
-   "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux informer les futurs ou jeunes parents de l'existence de ce congé supplémentaire et des dispositions administratives qui s'y rattachent pour leur organisation familiale.",
-    "Invite les couples à se renseigner auprès de leurs employeurs ou des organismes sociaux pour connaître précisément leurs droits et l'impact sur leur carrière.",
-    "Rappelle que tes informations ont un rôle de repérage et d'orientation, et que les démarches juridiques ou administratives doivent être validées auprès des institutions compétentes."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4f19500d4064",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance : comment il ouvre un trimestre pour la retraite",
-   "source": "https://renseignementeconomique.fr/",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://renseignementeconomique.fr/conge-supplementaire-de-naissance-comment-il-ouvre-un-trimestre-pour-la-retraite",
-   "summary": "Depuis juillet 2026, la CNAV permet de valider un trimestre assimilé pour la retraite de base grâce au congé supplémentaire de naissance. Cette validation est conditionnée à une indemnisation d'au moins 58 jours et se limite à un seul trimestre par congé, sans versement de cotisations.",
-   "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur les impacts administratifs de l'allongement du congé de naissance pour leur future retraite.",
-    "Aider les couples à anticiper les démarches et conditions liées à l'indemnisation de ce congé spécifique.",
-    "Rappeler que ces informations administratives ne remplacent pas une consultation officielle auprès des organismes sociaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-bf5b653bcee2",
-   "category": "pol",
-   "priority": false,
-   "title": "Jusqu’à 20 maternités du NHS menacées : ce plan choc qui pourrait bouleverser les accouchements en Angleterre",
-   "source": "Homéophyto",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://homeophyto.topsante.com/mere-enfant/chez-le-tout-petit/laccouchement/jusqua-20-maternites-du-nhs-menacees-ce-plan-choc-qui-pourrait-bouleverser-les-accouchements-en-angleterre-70213.html",
-   "summary": "En Angleterre, la fermeture de plusieurs petites maternités est envisagée pour centraliser les naissances dans des structures mieux équipées. Cette réorganisation vise à pallier le manque de personnel médical permanent, dans un contexte d'augmentation des césariennes et de préoccupations autour de la sécurité des soins.",
-   "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les parents de l'éloignement possible des structures de naissance et de l'impact logistique sur leur projet.",
-    "Accompagner l'anxiété liée aux modifications de parcours de soins et aux taux croissants d'interventions chirurgicales.",
-    "Soutenir le choix des parents tout en rappelant que la gestion des risques médicaux relève strictement des professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3495bff7c289",
-   "category": "pol",
-   "priority": false,
-   "title": "Actualité : Congé supplémentaire de naissance : une double déclaration désormais incontournable !",
-   "source": "www.weblex.fr",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://www.weblex.fr/weblex-actualite/conge-supplementaire-de-naissance-une-double-declaration-desormais-incontournable",
-   "summary": "Un nouveau dispositif entre en vigueur fin 2026 concernant le congé supplémentaire de naissance, combinant un formulaire et un signalement en DSN par l'employeur pour assurer l'indemnisation par la Sécurité sociale. Ce congé s'adresse aux parents d'enfants nés ou adoptés dès 2026 et offre un ou deux mois additionnels.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Vous pouvez informer les parents sur l'existence de ce congé supplémentaire de naissance pour qu'ils puissent anticiper leurs démarches administratives avec leur employeur.",
-    "Rappelez-vous que les aspects liés aux indemnités journalières et aux déclarations employeurs relèvent strictement du cadre légal et administratif, hors de votre champ de compétence."
    ],
    "summaryAI": true,
    "enriched": true
