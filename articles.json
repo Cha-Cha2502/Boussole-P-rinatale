@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T13:42:49+00:00",
+ "updatedAt": "2026-11-10T13:21:09+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -14,7 +14,7 @@
  "errors": [],
  "journal": [
   "12 page(s) d'articles lue(s)",
-  "IA : 12 article(s) résumé(s) et commenté(s)"
+  "IA : 2 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -635,6 +635,20 @@
    "enriched": true
   },
   {
+   "id": "a-7234c32986b0",
+   "category": "sci",
+   "priority": false,
+   "title": "C’est quoi un centre de périnatalité, qui pourrait remplacer la maternité de l’hôpital d’Ancenis",
+   "source": "maville.com",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://nantes.maville.com/actu/actudet_-c-est-quoi-un-centre-de-perinatalite-qui-pourrait-remplacer-la-maternite-de-l-hopital-d-ancenis_dep-7562516_actu.Htm",
+   "summary": "La maternité d’Ancenis – 400 naissances attendues en 2026 – est à nouveau menacée de fermeture. Si rien n’est officiel pour l’heure, une piste avancée par le…",
+   "auto": true,
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
+  },
+  {
    "id": "a-4a4c5557bbbd",
    "category": "sci",
    "priority": false,
@@ -1223,6 +1237,20 @@
    "enriched": true
   },
   {
+   "id": "a-7b1cade9dee9",
+   "category": "sci",
+   "priority": false,
+   "title": "Pourquoi soigner la dépression des femmes enceintes favorise le développement cérébral de leur bébé",
+   "source": "Le Figaro Santé",
+   "date": "29 octobre 2026",
+   "sortDate": "2026-10-29",
+   "url": "https://sante.lefigaro.fr/social/enfance-famille/pourquoi-soigner-la-depression-des-femmes-enceintes-favorise-le-developpement-cerebral-de-leurs-bebes-20261029",
+   "summary": "DÉCRYPTAGE - Une étude américaine montre que huit séances de psychothérapie suffiraient à observer des différences dans le cerveau des nourrissons.",
+   "auto": true,
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
+  },
+  {
    "id": "a-0f9008209831",
    "category": "sci",
    "priority": false,
@@ -1808,46 +1836,32 @@
    "enriched": true
   },
   {
-   "id": "a-5cddbe3f7539",
-   "category": "sci",
-   "priority": true,
-   "title": "L’exposition pendant la grossesse à certains phtalates et phénols pourrait être associée à une diminution du QI des enfants à 3 ans",
-   "source": "Inserm – salle de presse",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://presse.inserm.fr/lexposition-pendant-la-grossesse-a-certains-phtalates-et-phenols-pourrait-etre-associee-a-une-diminution-du-qi-des-enfants-a-3-ans/73531/",
-   "summary": "Une étude menée par l'Inserm met en lumière une association potentielle entre l'exposition des femmes enceintes à certains phtalates et phénols au cours du troisième trimestre de grossesse et une diminution du quotient intellectuel des enfants à l'âge de trois ans. Ces substances chimiques, agissant comme des perturbateurs endocriniens, se retrouvent couramment dans l'environnement et les objets du quotidien, constituant un enjeu majeur de santé publique. Les recherches s'appuient sur le suivi d'une cohorte de mères et d'enfants ainsi que sur des modélisations scientifiques.",
+   "id": "a-11652ac080df",
+   "category": "pol",
+   "priority": false,
+   "title": "Paroles d'expert - Congé supplémentaire de naissance : le nouveau dispositif mobilisable depuis le 1er juillet 2026",
+   "source": "Petites Affiches",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.petitesaffiches.fr/paroles-d-expert,097/conge-supplementaire-de-naissance,47526.html",
+   "summary": "",
    "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux aborder la question des polluants du quotidien et des perturbateurs endocriniens de manière informative, sans culpabiliser les parents sur leurs choix de consommation.",
-    "Il est utile de partager des conseils pratiques simples pour limiter l'exposition, comme aérer régulièrement son logement ou privilégier des contenants alternatifs au plastique.",
-    "Rappelle toujours que la gestion des risques sanitaires et l'évaluation du développement de l'enfant relèvent strictement des professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-7b5130e95c5a",
-   "category": "sci",
+   "id": "a-54cd519f3f9e",
+   "category": "pol",
    "priority": false,
-   "title": "Périnatalité : plaidoyer pour la campagne présidentielle 2027",
-   "source": "Ifop Group",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.ifopgroup.com/article/perinatalite-plaidoyer-pour-la-campagne-presidentielle-2027",
-   "summary": "Une enquête menée auprès de mères confirme un taux de satisfaction élevé concernant le suivi de la grossesse par les professionnels de santé, mais met en évidence un manque de relais et d'accessibilité après la naissance. Près d'un tiers des femmes interrogées déclarent avoir rencontré des difficultés psychologiques ou liées au suivi post-maternité, les jeunes générations se montrant plus ouvertes sur ces sujets. Ce constat met en avant la persistance de failles dans l'accompagnement des jeunes mères, en particulier en matière de santé mentale.",
+   "title": "« En faisant ce choix, ils se moquent du monde » : ils réagissent à la fin de la maternité de Guingamp",
+   "source": "Le Télégramme",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.letelegramme.fr/cotes-d-armor/guingamp-22200/en-faisant-ce-choix-ils-se-moquent-du-monde-ils-reagissent-a-la-fin-de-la-maternite-de-guingamp-7156675.php",
+   "summary": "",
    "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Ouvrez un espace de parole bienveillant sur la réalité de la transition vers la parentalité et la vulnérabilité psychologique des premiers mois, en particulier auprès des jeunes mères.",
-    "Proposez des outils de repérage et d'écoute adaptés pour identifier les signes de détresse post-partum, sans jamais poser de diagnostic clinique.",
-    "Orioutez systématiquement les parents vers les professionnels de santé compétents dès que des difficultés psychologiques ou médicales dépassent le cadre du soutien non médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
    "id": "a-8580f93e7a30",
@@ -1932,6 +1946,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-659f4f4e3402",
+   "category": "pol",
+   "priority": false,
+   "title": "C’est quoi un centre de périnatalité, qui pourrait remplacer la maternité de l’hôpital d’Ancenis ?",
+   "source": "Ouest-France",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.ouest-france.fr/sante/hopital/cest-quoi-un-centre-de-perinatalite-qui-pourrait-remplacer-la-maternite-de-lhopital-dancenis-7a4f0eae-d9e8-11f1-81f5-8e32b0872d76",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
    "id": "a-08d3139e56a2",
@@ -2689,6 +2717,27 @@
    "enriched": true
   },
   {
+   "id": "a-cac4b130dc48",
+   "category": "pol",
+   "priority": false,
+   "title": "Allaitement : la discrimination désormais punie par la loi",
+   "source": "Presse Agence",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://presseagence.fr/paris-constance-de-pelichy-nourrir-son-enfant-ne-devrait-jamais-conduire-une-femme-a-etre-humiliee/",
+   "summary": "Un nouvel amendement inscrit officiellement la discrimination liée à l'allaitement parmi les délits punis par le Code pénal en France. Cette mesure vise à protéger les mères contre les exclusions et les remarques déplacées dans les espaces publics ou professionnels lorsqu'elles nourrissent leur enfant. L'objectif est de garantir la liberté de choix des femmes sans chercher à imposer un mode d'alimentation particulier.",
+   "auto": true,
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez rassurer les mères sur leurs droits légaux en cas de remarques ou de pressions lorsqu'elles allaitent en public.",
+    "Soutenez le choix de chaque parent concernant l'alimentation de son bébé en valorisant l'absence de jugement et le libre arbitre.",
+    "Rappelez aux familles que vous offrez un soutien émotionnel et pratique, sans vous substituer au cadre juridique ou médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-462ec7400710",
    "category": "pol",
    "priority": false,
@@ -3025,88 +3074,60 @@
    "enriched": true
   },
   {
-   "id": "a-e68458dcc803",
-   "category": "pol",
+   "id": "a-af86344c023f",
+   "category": "soc",
    "priority": false,
-   "title": "300 accouchements par an, un seul médecin, et plus de maternité : à Longwy, on naîtra au Luxembourg",
-   "source": "Le Courrier des Stratèges",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.lecourrierdesstrateges.fr/300-accouchements-par-an-un-seul-medecin-et-plus-de-maternite-a-longwy-on-naitra-au-luxembourg/",
-   "summary": "La maternité de l'hôpital de Mont-Saint-Martin s'apprête à cesser les accouchements en raison de l'impossibilité de pérenniser une équipe médicale stable, devenant ainsi un simple centre périnatal de proximité. Cette fermeture entraîne le transfert des naissances vers des structures situées au Luxembourg ou en Belgique, tout en menaçant de nombreux postes de soignants. Cette décision illustre les difficultés structurelles de recrutement et la baisse continue de la fréquentation de l'établissement au cours des dernières années.",
+   "title": "Le grand guide de l'allaitement",
+   "source": "Magicmaman",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.magicmaman.com/le-grand-guide-de-l-allaitement,3787648.asp",
+   "summary": "Allaiter son bébé, c'est aussi apprendre à s'écouter. Petits inconforts, choix du tire-lait, moments pour soi, nuits entrecoupées…",
    "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Accueillir la charge émotionnelle et le stress des futurs parents confrontés à la modification brutale de leur lieu de naissance prévu.",
-    "Aider les parents à se préparer psychologiquement à un parcours de naissance allongé ou transfrontalier, tout en validant leurs ressentis face à ces incertitudes territoriales.",
-    "Rappeler que la doula ne participe pas à l'organisation sanitaire et orienter les couples vers le réseau de santé ou les sages-femmes pour les aspects logistiques médicaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-ec3822466dbd",
-   "category": "pol",
+   "id": "a-7a78c6550f2b",
+   "category": "soc",
    "priority": false,
-   "title": "Fermeture de la dernière maternité privée en Seine‑et‑Marne : quelles conséquences pour l’accès aux soins",
-   "source": "inforadar.fr",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://inforadar.fr/fermeture-de-la-derniere-maternite-privee-en-seine-et-marne-quelles-consequences-pour-l-acces-aux-soins",
-   "summary": "La fermeture de la dernière maternité privée de Seine-et-Marne à Tournan-en-Brie accentue les tensions sur l'offre de soins périnataux et accroît la pression sur les établissements publics de la région. Cette situation complexifie les parcours de soins des femmes enceintes en augmentant les distances à parcourir et les temps de trajet pour les urgences. Les familles se questionnent particulièrement sur les alternatives de suivi et de prise en charge, notamment pour les personnes à mobilité réduite.",
+   "title": "Santé : une initiative pour encourager l’allaitement maternel à El Fahs",
+   "source": "Le Temps News",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://letemps.news/2026/11/10/sante-une-initiative-pour-encourager-lallaitement-maternel-a-el-fahs/",
+   "summary": "La circonscription sanitaire d’El Fahs a organisé une journée de sensibilisation aux bienfaits de l’allaitement maternel pour la mère et l’enfant au centre de santé de base d’Essaâda. Organisée dans le cadre de la Semaine nationale de l’allaitement maternel, la journée a réuni 25 mères allaitantes et six femmes enceintes en fin de grossesse. Les",
    "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace de parole aux femmes enceintes inquiettes de l'allongement de leurs temps de trajet vers la maternité.",
-    "Discuter de manière pratique de l'organisation des déplacements en fin de grossesse, tout en orientant les questions médicales vers les sages-femmes et obstétriciens.",
-    "Rester neutre face aux choix politiques et administratifs locaux, en se concentrant exclusivement sur le soutien émotionnel des parents face à ces modifications d'organisation."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-542342522f3c",
-   "category": "pol",
+   "id": "a-9b4d872cca0c",
+   "category": "soc",
    "priority": false,
-   "title": "Une femme percute un orignal en allant accoucher à Bathurst",
-   "source": "Radio-Canada",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://ici.radio-canada.ca/nouvelle/2294486/accident-orignal-accouchement-campbellton-bathurst",
-   "summary": "Un couple en route pour accoucher dans un hôpital éloigné en raison de la fermeture de la maternité locale a percuté un orignal avec leur véhicule. Cet incident met en lumière les risques et les difficultés logistiques liés aux longs déplacements des femmes enceintes pour se rendre sur leur lieu d'accouchement.",
+   "title": "Laits infantiles : après les rappels massifs, l'Union européenne prend une nouvelle décision pour protéger les bébés",
+   "source": "Magicmaman",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.magicmaman.com/laits-infantiles-apres-les-rappels-massifs-l-union-europeenne-prend-une-nouvelle-decision-pour-proteger-les-bebes,3787633.asp",
+   "summary": "Après les nombreux rappels de laits infantiles contaminés par la céréulide, l'Union européenne vient d'approuver de nouvelles règles sanitaires. Objectif : limiter durablement la présence de cette toxine dans les préparations destinées aux nourrissons. Voici ce qui va changer pour les fabricants et ce que les parents doivent savoir.",
    "auto": true,
-   "addedAt": "2026-10-31T10:48:36+00:00",
-   "pageRead": true,
-   "points": [
-    "Abordez avec les parents la question de la logistique du départ à la maternité, notamment en cas d'éloignement géographique important.",
-    "Aidez les futurs parents à anticiper le temps de trajet et à prévoir un plan B en cas d'imprévu sur la route, tout en restant neutre face aux choix d'organisation des services de santé.",
-    "Rappelez que la gestion du travail et de la sécurité routière en urgence relève des compétences des services de secours et du corps médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-d34f7ff314a2",
-   "category": "pol",
+   "id": "a-426a819b06ad",
+   "category": "soc",
    "priority": false,
-   "title": "Les Françaises et la périnatalité : il est temps d’agir",
-   "source": "Conseil national de l'Ordre des sages-femmes",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.ordre-sages-femmes.fr/2026/les-francaises-et-la-perinatalite-il-est-temps-dagir/",
-   "summary": "Une récente enquête révèle que si la grande majorité des femmes se sentent bien accompagnées pendant leur grossesse, une proportion importante d'entre elles fait face à des difficultés psychologiques ou d'organisation après l'accouchement. L'étude souligne également l'attachent fort des femmes à la proximité géographique de leur lieu d'accouchement ainsi qu'un intérêt marqué pour des alternatives à la maternité traditionnelle encadrées par des professionnels. Ces constats amènent à plaider pour une refonte du parcours périnatal, notamment en renforçant le soutien durant le post-partum.",
+   "title": "El Jadida : campagne de sensibilisation à l'importance de l’allaitement maternel exclusif dans la commune de Mogress",
+   "source": "2M",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://2m.ma/fr/news/El-Jadida-campagne-de-sensibilisation-%C3%A0-l-importance-de-l-allaitement-20261109",
+   "summary": "",
    "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Soutenez les parents dans l'identification de leurs besoins spécifiques pour la période délicate du post-partum, en tenant compte des risques accrus de difficultés psychologiques chez les plus jeunes.",
-    "Valorisez l'importance d'un réseau de proximité et aidez les familles à cartographier les ressources humaines et associatives disponibles autour de chez elles dès la grossesse.",
-    "Maintenez une stricte distinction avec les revendications politiques ou médicales sur l'organisation des soins, en vous concentrant sur le soutien pratique et émotionnel que vous pouvez apporter."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
    "id": "a-61e8974c7c0b",
@@ -3190,6 +3211,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-3cd9eb5d25b6",
+   "category": "soc",
+   "priority": false,
+   "title": "L’Association Hanen, Feryel Lakhdar et la Poste tunisienne célèbrent l’allaitement maternel – International",
+   "source": "linitiative.ca",
+   "date": "5 novembre 2026",
+   "sortDate": "2026-11-05",
+   "url": "https://linitiative.ca/International/lassociation-hanen-feryel-lakhdar-et-la-poste-tunisienne-celebrent-lallaitement-maternel/",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true
   },
   {
    "id": "a-8344ae2d2943",
@@ -4253,111 +4288,6 @@
     "Discuter de manière pratique avec les mères de l'organisation matérielle et logistique autour du tirage de lait avant la reprise du travail.",
     "Offrir un espace de soutien émotionnel pour aborder la charge mentale liée au cumul de l'allaitement et des obligations professionnelles.",
     "Ne pas se substituer aux recommandations des professionnels de santé ou des consultantes en lactation concernant les aspects physiologiques de la lactation."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-58b93d127ab1",
-   "category": "soc",
-   "priority": false,
-   "title": "Les matinées des parents : Lait’s go ! Allaitement",
-   "source": "Versailles Grand Parc",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0w5XzAzX09ZZmxkSTBaR2owUmFxeTAxV0NpNkRnY09NTWRRSkhKdHI0eFBjWHlkSDN4OURlNjNBSGpjVklCSnRSVXJkMV9fTHVRV19yRUI4SmdmcWt3SmpsRlFyeHpzRHRXbGtXcHF3MFF2MnFvaEdxaTB4MWtBQXk0U3h2UUl0T0xsQW9wbWVoMVFpamhtWE0waDZ5c21vSjlQc1BwX2lyZw?oc=5",
-   "summary": "Une collectivité locale organise des rencontres thématiques destinées aux parents, intitulées les matinées des parents, avec un focus particulier sur l'allaitement. Ces espaces visent à favoriser l'échange et le partage d'expériences autour de la parentalité.",
-   "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Encourager les parents à participer à des groupes de soutien locaux pour briser l'isolement des premiers mois.",
-    "Utiliser ces initiatives locales comme des ressources précieuses à recommander aux familles pour qu'elles trouvent du soutien entre pairs.",
-    "Rappeler que ces groupes offrent un partage d'expériences mais ne remplacent pas un accompagnement médical personnalisé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-15add5ad4703",
-   "category": "soc",
-   "priority": false,
-   "title": "« Un pas de plus vers l’égalité femmes-hommes » : la grande tétée défend l’allaitement à Dinan, ce samedi",
-   "source": "Ma Ville",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcnNBZXZBQTBIWjdweFFDRU5JaThOQlV0SEc4TkVTUTl6THFEeG5YNUFWZlN4b19tbC1iWktVR3ZYYjZyRXFJSFkxTUl4UHA4bkx2Q0ZQTGVIdlNWeVllWW5wQkJtblNGR3NJeUYzQW9KaXVfZmpMNW9OV0FFQ1RzdU5HTjI5WmI0WV96Zjg3dTF4Qkp1eEV5dm1Pa2VWaHEzYTFFay1uOXNmMlJRaGZuOVpoNWRJRUVHYjJRMk9hYjJMTnJ6ajVxVDQxcDlJY0tsQ2hrelNTUG9YZFREWU5ZNi0xTmw4blJRc0NlTUNSMzQ?oc=5",
-   "summary": "Un événement public de soutien à l'allaitement maternel est organisé à Dinan pour promouvoir cette pratique et sensibiliser le public. L'initiative vise également à encourager l'égalité entre les femmes et les hommes dans l'espace public autour de la parentalité.",
-   "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Vous pouvez mentionner ce type d'événement local pour informer les parents des espaces de soutien disponibles dans leur région.",
-    "Utilisez cette actualité pour échanger avec les mères sur leur ressenti concernant l'allaitement en public et les encourager dans leurs choix.",
-    "Rappelez que votre rôle est de soutenir le projet d'alimentation choisi par les parents sans émettre de jugement médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-180992752382",
-   "category": "soc",
-   "priority": false,
-   "title": "\"J'ai trois enfants, je sais de quoi je parle\" : devenue doula, Mathilde materne les mamans en Normandie",
-   "source": "Actu.fr",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTFBWUGRzWmNMMC1OMGwxaW4wRElKZjVMZVQxLUJSdHBzbWNMVGlzaVBBNndBY0dtN3d1YnVIMkxaVm9WbHFNUmNadHA1YmVWbVc0R2dJXzJLOUZUeDF1VmhiMGNIcHhweDdXNVZHbWJrbHFMc2NWSXhLeWt1WUc3UUxoeG9wWXc4V1BYT0tMXzFqUV8xeWIzTDJvT0d4RDRDR1BjSDJKT0E0SnUwbmQtNVhNcDdfTDNPdHFWSFI3YS05elZYNmJiSmhDMTFyN01nbU0wMHBlMkhUMEhnVEtjU1dneUUtVGFrZk5rTWlJZFQ?oc=5",
-   "summary": "Une mère de trois enfants s'est reconvertie en tant que doula en Normandie afin d'offrir un soutien global aux nouvelles mères. Son activité consiste à materner les mères pour les aider à traverser la période de vulnérabilité du post-partum.",
-   "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Inspirez-vous de cette approche centrée sur le soutien émotionnel et pratique des mères pour valoriser votre propre posture d'accompagnement.",
-    "Abordez avec les parents l'importance de s'entourer d'un réseau de soutien informel et bienveillant dès la période prénatale.",
-    "Maintenez une distinction claire dans vos échanges en rappelant que vous offrez un soutien de doula et non des soins ou diagnostics médicaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-26766bda4e55",
-   "category": "soc",
-   "priority": false,
-   "title": "\"Une grossesse qui s’arrête n’est pas un événement anodin\" : Gennifer Demey, la femme d’Éric Antoine, dénonce le silence qui continue d’entourer les fausses couches",
-   "source": "Yahoo Life France",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://fr.style.yahoo.com/grossesse-s-arr%C3%AAte-n-%C3%A9v%C3%A9nement-164626808.html",
-   "summary": "À l'occasion de la Journée mondiale de sensibilisation au deuil périnatal, une personnalité publique a dénoncé le silence persistant et le manque d'information autour des fausses couches. Elle met en avant la détresse émotionnelle ressentie par les femmes face à cette épreuve souvent banalisée par l'entourage et la société.",
-   "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Accueillir la parole des parents endeuillés avec une écoute profonde et sécurisante, en reconnaissant la réalité de leur perte.",
-    "Éviter les tournures toutes faites ou minimisantes et valider toutes les émotions traversées, qu'il s'agisse de tristesse, de colère ou de vide.",
-    "Orienter si besoin vers des groupes de parole ou des professionnels spécialisés dans le deuil périnatal, tout en restant dans un soutien strictement non médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-e4ebcdfc6184",
-   "category": "soc",
-   "priority": false,
-   "title": "« J’ai mis mon cerveau sur off » : en Loire-Atlantique, un père fait naître son bébé dans le salon",
-   "source": "Actu.fr",
-   "date": "16 octobre 2026",
-   "sortDate": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeFZqUUZtRnB2RHNvaEd5T2drbXRNdEgtcmVEQUJZa29oMXpvNGFveU15ek5reG5oYTI0dE91T1R6b2VhMGNiZG4ycENENlZVY2pkYVIxT3pZX1RYRjZXZ1VxZmFqeFVKNjYzUUkwMDEzY25qMWtwYl95X0laV0FXMlctMFdWZ2pfQW9pV3pMdHlGd3djemNRNFFDcmRORzBPS01tYTQwcmgxUmdndXEwSzN6NW5XY0JFX1JteTNTOUJjUmFVenlLTFdMQzBWZ1gzWFR2YU15VFBGYnc1d3lHYm1GTWY5TVdE?oc=5",
-   "summary": "Un père témoigne d'un accouchement inopiné survenu directement dans son salon en Loire-Atlantique, décrivant un moment intense où il a dû faire naître son bébé. Ce type de récit illustre la surprise et l'intensité émotionnelle des naissances rapides ou non planifiées.",
-   "auto": true,
-   "addedAt": "2026-10-16T05:27:01+00:00",
-   "pageRead": true,
-   "points": [
-    "Échanger avec les parents sur leurs peurs ou leurs fantasmes autour d'un accouchement rapide ou inattendu à la maison.",
-    "Valider l'intensité émotionnelle vécue par le co-parent lors d'un événement de naissance imprévu.",
-    "Rappeler clairement que la gestion d'un accouchement hors structure médicale d'urgence relève des professionnels de santé et des services de secours."
    ],
    "summaryAI": true,
    "enriched": true
