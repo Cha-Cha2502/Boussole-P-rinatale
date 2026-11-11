@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T13:21:09+00:00",
+ "updatedAt": "2026-11-11T12:32:52+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "12 page(s) d'articles lue(s)",
-  "IA : 2 article(s) résumé(s) et commenté(s)"
+  "24 page(s) d'articles lue(s)",
+  "IA : 19 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -209,7 +209,11 @@
   "a-989f0c71cfb2": "2026-10-16",
   "a-7d528ad7817d": "2026-11-09",
   "a-0ff1ed357b00": "2026-11-09",
-  "a-81089a2434cc": "2026-11-02"
+  "a-81089a2434cc": "2026-11-02",
+  "a-b872d4a31d60": "2026-11-11",
+  "a-11652ac080df": "2026-11-10",
+  "a-54cd519f3f9e": "2026-11-10",
+  "a-d6467e24cd53": "2026-11-10"
  },
  "articles": [
   {
@@ -593,6 +597,47 @@
    "enriched": true
   },
   {
+   "id": "a-201babd727f8",
+   "category": "sci",
+   "priority": false,
+   "title": "Grossesse : cette habitude professionnelle aurait un impact sur le développement de l’enfant, selon une étude",
+   "source": "Parents.fr",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.parents.fr/actualites/grossesse/grossesse-cette-habitude-professionnelle-aurait-un-impact-sur-le-developpement-de-lenfant-selon-une-etude-1159345",
+   "summary": "Une étude japonaise menée auprès de plus de 31 000 mères suggère que le travail de nuit prolongé pendant la grossesse pourrait être associé à une augmentation des difficultés de développement chez l'enfant à l'âge de 4 ans. Les écarts observés concernent principalement la communication, la motricité fine et les capacités sociales. Il s'agit d'une augmentation du risque relatif et non de la proportion globale d'enfants touchés.",
+   "auto": true,
+   "addedAt": "2026-11-11T12:32:52+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question de la fatigue professionnelle et des horaires atypiques avec empathie lors des entretiens prénataux pour offrir un espace d'écoute aux mères concernées.",
+    "Aider les parents à verbaliser leur charge mentale et leurs inquiétudes face aux rythmes de travail intenses, sans jamais porter de jugement médical.",
+    "Re rappeler que ces données statistiques ne constituent en rien une fatalité individuelle et orienter vers les professionnels de santé pour toute question médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7a78c6550f2b",
+   "category": "sci",
+   "priority": false,
+   "title": "Santé : une initiative pour encourager l’allaitement maternel à El Fahs",
+   "source": "Le Temps News",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://letemps.news/2026/11/10/sante-une-initiative-pour-encourager-lallaitement-maternel-a-el-fahs/",
+   "summary": "Une initiative de santé publique a permis de sensibiliser des futures et jeunes mères aux bienfaits de l'allaitement maternel. Les autorités sanitaires insistent particulièrement sur l'importance du contact peau à peau et de la mise au sein dès la première heure de vie.",
+   "auto": true,
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true,
+   "points": [
+    "Discutez avec les parents de l'importance de l'heure d'or et du peau à peau pour qu'ils puissent l'anticiper dans leur projet de naissance.",
+    "Rappelez votre rôle d'information et de soutien émotionnel autour des premiers moments de vie, en laissant l'accompagnement technique de l'allaitement aux professionnels de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-485342024999",
    "category": "sci",
    "priority": false,
@@ -633,20 +678,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-7234c32986b0",
-   "category": "sci",
-   "priority": false,
-   "title": "C’est quoi un centre de périnatalité, qui pourrait remplacer la maternité de l’hôpital d’Ancenis",
-   "source": "maville.com",
-   "date": "9 novembre 2026",
-   "sortDate": "2026-11-09",
-   "url": "https://nantes.maville.com/actu/actudet_-c-est-quoi-un-centre-de-perinatalite-qui-pourrait-remplacer-la-maternite-de-l-hopital-d-ancenis_dep-7562516_actu.Htm",
-   "summary": "La maternité d’Ancenis – 400 naissances attendues en 2026 – est à nouveau menacée de fermeture. Si rien n’est officiel pour l’heure, une piste avancée par le…",
-   "auto": true,
-   "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
   },
   {
    "id": "a-4a4c5557bbbd",
@@ -1314,6 +1345,27 @@
    "enriched": true
   },
   {
+   "id": "a-b71f4635c8a0",
+   "category": "sci",
+   "priority": false,
+   "title": "Publireportage | Cancer du sein : l’allaitement maternel et l’arrêt du tabac et de l’alcool parmi les facteurs de prévention",
+   "source": "mediacongo.net",
+   "date": "28 octobre 2026",
+   "sortDate": "2026-10-28",
+   "url": "https://www.mediacongo.net/publireportage-reportage-168780_cancer_du_sein_l_allaitement_maternel_et_l_arret_du_tabac_et_de_l_alcool_parmi_les_facteurs_de_prevention.html",
+   "summary": "Des professionnels de santé soulignent que l'adoption d'un mode de vie sain, comprenant notamment un allaitement maternel prolongé, l'arrêt du tabac et de l'alcool ainsi qu'une activité physique, contribue à réduire les risques de cancer du sein. Néanmoins, ces mesures préventives ne garantissent pas une protection totale, les antécédents et l'âge jouant également un rôle majeur.",
+   "auto": true,
+   "addedAt": "2026-11-11T12:32:52+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir les parents dans leurs choix concernant l'allaitement sans culpabilisation tout en partageant les informations de santé publique.",
+    "Encourager l'écoute bienveillante autour de l'hygiène de vie globale pendant la période périnatale.",
+    "Laisser aux professionnels médicaux le soin d'aborder les risques de pathologies et le dépistage."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-e935209988c0",
    "category": "sci",
    "priority": false,
@@ -1794,74 +1846,128 @@
    "enriched": true
   },
   {
-   "id": "a-687fa4bd202e",
-   "category": "sci",
+   "id": "a-4d511eba7de2",
+   "category": "pol",
    "priority": false,
-   "title": "Le MSPS lance la 16e campagne nationale de promotion de l’allaitement maternel",
-   "source": "Hespress Français - Actualités du Maroc",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://fr.hespress.com/493391-le-msps-lance-la-16e-campagne-nationale-de-promotion-de-lallaitement-maternel.html",
-   "summary": "Une campagne nationale de promotion de l'allaitement maternel exclusif pendant les six premiers mois est organisée pour souligner son importance dans la santé et le développement de l'enfant. Cette initiative s'inscrit dans les recommandations de l'Organisation mondiale de la santé et les stratégies de santé publique visant les mille premiers jours. Elle rappelle les bienfaits de l'allaitement sur les plans physique, cognitif, affectif et préventif.",
+   "title": "Avec 5 000 euros bruts par mois, un parent perd plus de 4 100 euros en prenant le nouveau congé de naissance",
+   "source": "Capital.fr",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.capital.fr/votre-carriere/conge-de-naissance-combien-allez-vous-perdre-sur-votre-salaire-1531666",
+   "summary": "Le nouveau congé de naissance permet à chaque parent de prendre jusqu'à deux mois supplémentaires aux côtés de son enfant. Cependant, son indemnisation dégressive et plafonnée peut engendrer une perte de revenus significative pour les foyers, en l'absence de compensation de l'employeur. Ce dispositif est ouvert à divers types de salariés et de travailleurs sous conditions d'affiliation et doit être pris dans les neuf mois suivant l'arrivée de l'enfant.",
    "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
+   "addedAt": "2026-11-11T12:32:52+00:00",
    "pageRead": true,
    "points": [
-    "Utiliser ces recommandations officielles pour informer les parents sur les bienfaits de l'allaitement exclusif durant les six premiers mois sans jamais culpabiliser ceux qui font d'autres choix.",
-    "Offrir un espace d'écoute bienveillant pour aborder les doutes des parents concernant la mise en place de l'allaitement et son retentissement sur le lien affectif.",
-    "R rappeler que la doula soutient le projet d'alimentation choisi par les parents, mais qu'elle doit orienter vers une consultante en lactation ou un médecin en cas de difficultés médicales."
+    "Intégrer la dimension financière et administrative dans l'accompagnement du post-partum pour aider les parents à anticiper l'organisation de leur foyer.",
+    "Offrir un espace de soutien émotionnel aux parents confrontés à des choix cornéliens entre présence auprès du nouveau-né et impératifs économiques.",
+    "Se positionner strictement en relais d'écoute et d'information pratique, sans donner de conseil juridique ou financier direct."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-c518a1569329",
-   "category": "sci",
+   "id": "a-ff1efee9ac2b",
+   "category": "pol",
    "priority": false,
-   "title": "Dépression pendant la grossesse : la thérapie pourrait aussi agir sur le bébé",
-   "source": "Parents.fr",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.parents.fr/actualites/grossesse/traiter-la-depression-pendant-la-grossesse-a-des-effets-positifs-sur-le-cerveau-du-bebe-selon-une-etude-1158422",
-   "summary": "Une étude récente montre que le suivi psychologique de la dépression pendant la grossesse est associé à des modifications du développement cérébral et des réactions émotionnelles du bébé. Les chercheurs suggèrent que ces variations pourraient refléter une maturation plus rapide de certaines zones cérébrales face aux situations de stress prénatal. Toutefois, ces observations nécessitent encore des confirmations scientifiques et ne constituent pas un diagnostic.",
+   "title": "\"C’est un crève-cœur\" : Philippe Le Goff, maire de Guingamp, sur la fermeture définitive de la maternité",
+   "source": "ici.fr",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.ici.fr/emissions/l-invite-actu-ici-breizh-izel/c-est-un-creve-coeur-philippe-le-goff-maire-de-guingamp-sur-la-fermeture-definitive-de-la-maternite-3410725",
+   "summary": "L'Agence régionale de santé a officialisé la fermeture définitive de la maternité de Guingamp, dont les accouchements étaient suspendus depuis 2023 en raison d'une pénurie médicale persistante. Cette décision suste de vives réactions politiques locales, mettant en lumière les difficultés d'organisation des soins périnataux dans certains territoires.",
    "auto": true,
-   "addedAt": "2026-10-26T10:53:39+00:00",
+   "addedAt": "2026-11-11T12:32:52+00:00",
    "pageRead": true,
    "points": [
-    "Aborder l'importance de la santé mentale et du bien-être émotionnel pendant la grossesse sans culpabiliser les parents.",
-    "Rappeler que les émotions et le stress de la grossesse font partie de la vie, tout en orientant vers des professionnels de la santé mentale en cas de besoin.",
-    "Ne pas interpréter ces données de recherche comme une certitude médicale ou psychologique pour le développement individuel du bébé."
+    "Prendre en compte l'anxiété accrue des parents face à l'éloignement des structures de naissance et leur offrir un espace sécurisant pour exprimer leurs craintes.",
+    "Aider les futurs parents à anticiper leur trajet et leur plan de naissance en tenant compte des réalités géographiques et des temps de parcours actualisés.",
+    "Veiller à ne pas commenter les choix de politique sanitaire ou critiquer les décisions institutionnelles, mais soutenir les parents dans leur adaptation."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-11652ac080df",
+   "id": "a-f81de35c3291",
    "category": "pol",
    "priority": false,
-   "title": "Paroles d'expert - Congé supplémentaire de naissance : le nouveau dispositif mobilisable depuis le 1er juillet 2026",
-   "source": "Petites Affiches",
+   "title": "« Aucune fermeture annoncée » à l’hôpital de Meulan-Les Mureaux selon la CGT, la maternité toujours menacée ?",
+   "source": "La Gazette en Yvelines",
    "date": "10 novembre 2026",
    "sortDate": "2026-11-10",
-   "url": "https://www.petitesaffiches.fr/paroles-d-expert,097/conge-supplementaire-de-naissance,47526.html",
-   "summary": "",
+   "url": "https://tr78.fr/2026/11/10/aucune-fermeture-annoncee-a-lhopital-de-meulan-les-mureaux-selon-la-cgt-la-maternite-toujours-menacee/",
+   "summary": "Un hôpital fait face à des incertitudes concernant l'avenir de sa maternité à la suite d'un audit de l'Agence régionale de santé. Malgré une forte mobilisation du personnel et des syndicats pour maintenir le service, la situation reste suspendue.",
    "auto": true,
-   "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-11T12:32:52+00:00",
+   "pageRead": true,
+   "points": [
+    "Soyez attentive à l'anxiété que les incertitudes sur les fermetures de maternités locales peuvent générer chez les parents que vous accompagnez.",
+    "Aidez les futurs parents à identifier sereinement plusieurs options de lieux de naissance pour sécuriser leur fin de grossesse."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-54cd519f3f9e",
+   "id": "a-7a48c6efb67c",
    "category": "pol",
    "priority": false,
-   "title": "« En faisant ce choix, ils se moquent du monde » : ils réagissent à la fin de la maternité de Guingamp",
-   "source": "Le Télégramme",
+   "title": "Avenir de l’hôpital de Meulan-Les Mureaux : la maternité reste ouverte, mais pour combien de temps ?",
+   "source": "Actu.fr",
    "date": "10 novembre 2026",
    "sortDate": "2026-11-10",
-   "url": "https://www.letelegramme.fr/cotes-d-armor/guingamp-22200/en-faisant-ce-choix-ils-se-moquent-du-monde-ils-reagissent-a-la-fin-de-la-maternite-de-guingamp-7156675.php",
-   "summary": "",
+   "url": "https://actu.fr/ile-de-france/meulan-en-yvelines_78401/avenir-de-lhopital-de-meulan-les-mureaux-la-maternite-reste-ouverte-mais-pour-combien-de-temps_65040357.html",
+   "summary": "La maternité d'un hôpital obtient un sursis après des mois de mobilisation locale contre un projet de fermeture et de transformation en centre périnatal. Les syndicats défendent le maintien de ce service en proposant des pistes pour un accompagnement plus personnalisé.",
+   "auto": true,
+   "addedAt": "2026-11-11T12:32:52+00:00",
+   "pageRead": true,
+   "points": [
+    "Validez les émotions et le stress des parents inquiets par la réorganisation ou la menace de fermeture des structures de soins de leur secteur.",
+    "Rappelez aux familles que le choix de la maternité et le type d'accompagnement relèvent de décisions médicales et institutionnelles, tout en soutenant leur démarche de recherche d'information."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-096f30c0901c",
+   "category": "pol",
+   "priority": false,
+   "title": "« On m’a tout retiré » : Enceinte de 5 mois sans le savoir, elle raconte sa radiation de la Police nationale",
+   "source": "SeneNews",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.senenews.com/exclusif/on-ma-tout-retire-enceinte-de-5-mois-sans-le-savoir-elle-raconte-sa-radiation-de-la-police-nationale_605813.html",
+   "summary": "Une ancienne élève policière témoigne de sa radiation intervenue alors qu'elle était enceinte de cinq mois, soulevant des interrogations sur le traitement des femmes enceintes au sein de sa formation. Cette situation relance un débat institutionnel impliquant le ministère de l'Intérieur autour des motifs de cette exclusion.",
+   "auto": true,
+   "addedAt": "2026-11-11T12:32:52+00:00",
+   "pageRead": true,
+   "points": [
+    "Prendre conscience des difficultés professionnelles et administratives que peuvent traverser certaines femmes enceintes au travail.",
+    "Offrir un espace d'écoute sécurisant pour les parents confrontés à des discriminations ou à un stress lié à leur employeur pendant la grossesse.",
+    "Rediriger systématiquement vers des professionnels du droit ou des associations spécialisées pour toute question relative aux droits des salariés enceintes."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7234c32986b0",
+   "category": "pol",
+   "priority": false,
+   "title": "C’est quoi un centre de périnatalité, qui pourrait remplacer la maternité de l’hôpital d’Ancenis",
+   "source": "maville.com",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://nantes.maville.com/actu/actudet_-c-est-quoi-un-centre-de-perinatalite-qui-pourrait-remplacer-la-maternite-de-l-hopital-d-ancenis_dep-7562516_actu.Htm",
+   "summary": "La maternité d'Ancenis fait face à de nouvelles menaces de fermeture, ouvrant la possibilité de son remplacement par un centre de périnatalité. Cette situation illustre les inquiétudes locales concernant l'évolution de l'offre de soins et l'accès aux services de naissance.",
    "auto": true,
    "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents des modifications potentielles des structures de soins sur leur territoire et de l'impact sur leur projet de naissance.",
+    "Aider les familles à exprimer leurs craintes face à l'éloignement des lieux de naissance tout en restant neutre sur les décisions politiques.",
+    "R rappeler que l'accompagnante informe sur l'organisation des soins existante mais ne prend pas parti dans les débats administratifs."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-8580f93e7a30",
@@ -1956,9 +2062,30 @@
    "date": "9 novembre 2026",
    "sortDate": "2026-11-09",
    "url": "https://www.ouest-france.fr/sante/hopital/cest-quoi-un-centre-de-perinatalite-qui-pourrait-remplacer-la-maternite-de-lhopital-dancenis-7a4f0eae-d9e8-11f1-81f5-8e32b0872d76",
-   "summary": "",
+   "summary": "La maternité d'Ancenis fait l'objet de discussions persistantes concernant une éventuelle fermeture et sa transformation potentielle en centre de périnatalité. Cette perspective interroge l'avenir de l'offre de soins locale pour les futurs parents de la région.",
    "auto": true,
    "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir les questionnements des parents inquiets par la restructuration ou la fermeture potentielle des maternités proches de chez eux.",
+    "Soutenir l'élaboration du plan de naissance en tenant compte des temps de trajet actualisés vers les structures de soins disponibles.",
+    "Laisser l'équipe médicale informer les parents sur les protocoles cliniques liés aux changements de structures."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c94196f33888",
+   "category": "pol",
+   "priority": false,
+   "title": "Maternité de Mont-Saint-Martin: Une fermeture ferait peser un risque \"vital\" pour les futures mamans et leurs bébés",
+   "source": "RTL Lëtzebuerg",
+   "date": "8 novembre 2026",
+   "sortDate": "2026-11-08",
+   "url": "https://infos.rtl.lu/news/frontieres/une-fermeture-ferait-peser-un-risque-vital-pour-les-futures-mamans-et-leurs-bebes-1347802003",
+   "summary": "La maternité de Mont-Saint-Martin pourrait disparaître prochainement. Une manifestation était organisée samedi pour protester contre cette fermeture.",
+   "auto": true,
+   "addedAt": "2026-11-11T12:32:52+00:00",
    "pageRead": true
   },
   {
@@ -2654,6 +2781,27 @@
    "enriched": true
   },
   {
+   "id": "a-59a0e6b8c84e",
+   "category": "pol",
+   "priority": false,
+   "title": "L’échographie fœtale réservée aux médecins et sages-femmes",
+   "source": "Docteur Imago",
+   "date": "29 octobre 2026",
+   "sortDate": "2026-10-29",
+   "url": "https://docteurimago.fr/actualite/socioprofessionnel/lechographie-foetale-reservee-aux-medecins-et-sages-femmes/",
+   "summary": "Un décret réglemente l'usage de l'imagerie fœtale en interdisant la pratique des échographies non médicales par des personnes autres que les médecins ou les sages-femmes. De plus, ces examens sont désormais strictement encadrés et réservés à certains établissements de santé ou structures professionnelles agréées.",
+   "auto": true,
+   "addedAt": "2026-11-11T12:32:52+00:00",
+   "pageRead": true,
+   "points": [
+    "Rappeler aux parents que les échographies fœtales ne sont pas des actes récréatifs mais des examens médicaux stricts.",
+    "Veiller à ne jamais se substituer au corps médical pour l'interprétation ou la réalisation d'images fœtales.",
+    "Orienter systématiquement les familles vers les professionnels de santé habilités pour tout contrôle ou suivi de grossesse."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-087cdc32e7fa",
    "category": "pol",
    "priority": false,
@@ -2948,132 +3096,6 @@
    "enriched": true
   },
   {
-   "id": "a-ed1cb5727281",
-   "category": "pol",
-   "priority": false,
-   "title": "Shy'm et Omar Sy : \"A Trappes comme partout, on rêve d'être heureux\", ils ont assisté impuissants à la fermeture définitive de leur maternité",
-   "source": "melty.fr",
-   "date": "23 octobre 2026",
-   "sortDate": "2026-10-23",
-   "url": "https://www.melty.fr/people/shym-et-omar-sy-a-trappes-comme-partout-on-reve-detre-heureux-ils-ont-assiste-impuissants-a-la-fermeture-definitive-de-leur-maternite-2356761.html",
-   "summary": "La maternité de Trappes s'apprête à cesser les activités d'accouchement, entraînant une forte mobilisation des habitants, d'élus et de personnalités publiques. Malgré un nombre de naissances jugé trop faible, les opposants soulignent l'importance de ce service public de proximité pour la communauté.",
-   "auto": true,
-   "addedAt": "2026-10-24T05:24:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Offrir un espace d'écoute empathique aux parents inquiets de l'éloignement des structures de naissance dans leur région.",
-    "Aider les familles à exprimer leurs craintes face aux modifications de l'offre de soins périnataux près de chez eux.",
-    "Ne pas intervenir dans le débat politique ou médico-administratif, mais se concentrer sur le soutien émotionnel des parents face à ces incertitudes."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-6c40698674af",
-   "category": "pol",
-   "priority": false,
-   "title": "Tournan-en-Brie : 345 naissances, une maternité fermée",
-   "source": "laclepublique.fr",
-   "date": "23 octobre 2026",
-   "sortDate": "2026-10-23",
-   "url": "https://laclepublique.fr/seine-et-marne/articles/2026/2026-10-23-fermeture-maternite-tournan/",
-   "summary": "La dernière maternité privée de Seine-et-Marne, située à Tournan-en-Brie, a fermé ses portes en raison d'une forte baisse de son activité sur plusieurs années. Cette fermeture illustre les difficultés structurelles des établissements à maintenir des services obstétricaux permanents malgré un seuil minimal d'activité fixé par la loi. La situation met en lumière les tensions territoriales autour de l'accès aux soins de naissance et les débats sur leur financement.",
-   "auto": true,
-   "addedAt": "2026-10-24T05:24:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Informe les parents sur l'évolution de la carte des maternités de leur région pour les aider à anticiper leurs choix de lieu de naissance.",
-    "Comprends que la raréfaction des structures peut générer de l'anxiété chez les futurs parents quant à la prise en charge de leur accouchement.",
-    "Rappelle ton rôle non médical : tu ne peux pas influencer les décisions d'implantation ou de fermeture des établissements de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-cc9be758d02a",
-   "category": "pol",
-   "priority": false,
-   "title": "Un député du parti Chega propose la création d'une salle d'allaitement au Parlement",
-   "source": "The Portugal News",
-   "date": "23 octobre 2026",
-   "sortDate": "2026-10-23",
-   "url": "https://www.theportugalnews.com/fr/nouvelles/2026-10-23/chega-mp-propose-la-creation-dune-salle-dallaitement-au-parlement/1104762",
-   "summary": "Une députée portugaise a soumis une proposition officielle pour aménager une salle d'allaitement et de recueil de lait au sein du Parlement. Cette initiative vise à garantir un environnement adapté pour permettre aux femmes de concourir à la vie politique tout en poursuivant l'alimentation de leur enfant.",
-   "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux t'appuyer sur cette actualité pour discuter avec les parents de la difficulté de concilier reprise professionnelle et poursuite de l'allaitement dans les lieux publics ou de travail.",
-    "Aide les parents à identifier leurs droits en matière d'aménagement du temps de travail ou d'espaces dédiés pour l'expression du lait lorsqu'ils préparent leur reprise.",
-    "Garde à l'esprit que ton rôle n'est pas de faire du militantisme politique ou institutionnel, mais d'écouter les difficultés vécues par les mères et de les orienter vers les textes légaux ou les associations de défense des droits des parents."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d97d06985b48",
-   "category": "pol",
-   "priority": false,
-   "title": "\"Un pôle Mère-Enfant est en projet pour 2030 en Corrèze\" : les maternités de Tulle et d'Ussel menacées",
-   "source": "La Montagne",
-   "date": "22 octobre 2026",
-   "sortDate": "2026-10-22",
-   "url": "https://www.lamontagne.fr/brive-la-gaillarde-19100/actualites/un-pole-mere-enfant-est-en-projet-pour-2030-en-correze-les-maternites-de-tulle-et-d-ussel-menacees_15068011/",
-   "summary": "Un projet de création d'un pôle Mère-Enfant en Corrèze suscite l'inquiétude d'un syndicat hospitalier qui craint la fermeture des maternités de Tulle et d'Ussel. Ce regroupement viserait à centraliser les services de gynécologie, pédiatrie et obstétrique sur un nouveau site unique. Les acteurs locaux et la direction de l'hôpital réagissent diversement face à cette réorganisation territoriale des soins.",
-   "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Discutez avec les parents de leur lieu d'accouchement prévu et de l'impact potentiel des temps de trajet en cas de modification de l'offre de soins locale.",
-    "Validez avec les familles leur projet de naissance tout en les incitant à se renseigner directement auprès de leur maternité sur l'organisation des services.",
-    "Ne prenez pas position sur les choix politiques ou stratégiques de fermeture des structures de soins, mais offrez un espace d'écoute bienveillant pour apaiser l'anxiété liée à ces incertitudes."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-afd8c9395463",
-   "category": "pol",
-   "priority": false,
-   "title": "Santé périnatale : le post-partum, angle mort du système de santé",
-   "source": "Presse Agence",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://presseagence.fr/paris-sante-perinatale-le-post-partum-angle-mort-du-systeme-de-sante-francais/",
-   "summary": "Une enquête récente met en évidence une fracture dans le système de santé français en matière de périnatalité, caractérisée par un suivi de grossesse très satisfaisant contrastant avec un délaissement du post-partum. Près d'un tiers des mères rapportent des difficultés majeures après l'accouchement, incluant des problématiques psychologiques et organisationnelles, touchant plus particulièrement les jeunes femmes. Par ailleurs, la proximité des structures de soins devient un critère de choix de plus en plus central pour l'accouchement, notamment en zone rurale.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Anticiper dès la grossesse le manque de soutien souvent ressenti après l'accouchement en préparant un réseau de relais locaux avec les parents.",
-    "Offrir un espace d'écoute inconditionnel et bienveillant en post-partum pour pallier l'isolement et libérer la parole sur les difficultés rencontrées.",
-    "Orienter systématiquement vers les professionnels de santé ou les services compétents dès l'apparition de signes de détresse psychologique ou de complications."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d7f436fdae95",
-   "category": "pol",
-   "priority": false,
-   "title": "Fermeture de la dernière maternité privée et prix des carburants parmi les infos de la semaine à Pontault-Combault",
-   "source": "La République du Centre",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.larep.fr/pontault-combault-77340/actualites/fermeture-de-la-derniere-maternite-privee-et-prix-des-carburants-parmi-les-infos-de-la-semaine-a-pontault-combault_15067298/",
-   "summary": "La fermeture annoncée de la dernière maternité privée de Seine-et-Marne, située à Pontault-Combault, soulève de nombreuses interrogations locales concernant l'accès aux soins pour les femmes enceintes. Cette situation met en lumière les difficultés d'organisation et l'avenir des services de maternité dans la région. Par ailleurs, des variations sur les prix des carburants dans le département sont également relevées par la presse locale.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Identifier l'anxiété que peut générer l'éloignement des structures de soins pour les parents vivant dans des zones touchées par des fermetures de maternités.",
-    "Aider les familles à anticiper leurs trajets et à identifier les structures de repli en amont de l'accouchement, sans se substituer au corps médical.",
-    "Ne pas intervenir sur les choix de prise en charge hospitalière mais offrir un espace d'écoute pour exprimer les inquiétudes liées à l'organisation des soins."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-af86344c023f",
    "category": "soc",
    "priority": false,
@@ -3082,24 +3104,37 @@
    "date": "10 novembre 2026",
    "sortDate": "2026-11-10",
    "url": "https://www.magicmaman.com/le-grand-guide-de-l-allaitement,3787648.asp",
-   "summary": "Allaiter son bébé, c'est aussi apprendre à s'écouter. Petits inconforts, choix du tire-lait, moments pour soi, nuits entrecoupées…",
+   "summary": "Cet article aborde les aspects pratiques et le vécu de l'allaitement maternel, incluant la gestion des inconforts, l'utilisation du tire-lait et le rythme des nuits. Il met l'accent sur l'importance pour la mère de s'écouter et de vivre cette période à son propre rythme.",
    "auto": true,
    "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Abordez les questions d'allaitement en valorisant l'écoute de soi et le respect du rythme maternel, sans pression de performance.",
+    "Proposez un espace d'écoute bienveillant sur la fatigue et l'organisation du quotidien, tout en orientant vers des professionnels qualifiés en cas de difficultés techniques ou de douleurs."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-7a78c6550f2b",
+   "id": "a-74847205b7a8",
    "category": "soc",
    "priority": false,
-   "title": "Santé : une initiative pour encourager l’allaitement maternel à El Fahs",
-   "source": "Le Temps News",
+   "title": "Du Parlement européen à l'Élysée : Marine Tondelier raconte les dernières heures intenses avant son accouchement",
+   "source": "Marie Claire",
    "date": "10 novembre 2026",
    "sortDate": "2026-11-10",
-   "url": "https://letemps.news/2026/11/10/sante-une-initiative-pour-encourager-lallaitement-maternel-a-el-fahs/",
-   "summary": "La circonscription sanitaire d’El Fahs a organisé une journée de sensibilisation aux bienfaits de l’allaitement maternel pour la mère et l’enfant au centre de santé de base d’Essaâda. Organisée dans le cadre de la Semaine nationale de l’allaitement maternel, la journée a réuni 25 mères allaitantes et six femmes enceintes en fin de grossesse. Les",
+   "url": "https://www.marieclaire.fr/du-parlement-europeen-a-l-elysee-marine-tondelier-raconte-ses-dernieres-heures-intenses-avant-d-accoucher,1522989.asp",
+   "summary": "Dans un entretien, une femme politique partage son parcours difficile vers la maternité, marqué par l'infertilité, des fausses couches et une PMA, ainsi que sa fin de grossesse très active. Elle évoque également son quotidien de jeune maman allaitante, mettant en lumière l'intrication entre engagement public et maternité.",
    "auto": true,
-   "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-11T12:32:52+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser ce témoignage pour ouvrir la discussion avec les parents sur la difficulté des parcours de PMA et la charge émotionnelle associée.",
+    "Aborder la question de la conciliation entre vie professionnelle intense et fin de grossesse en valorisant l'écoute des signaux corporels.",
+    "R rappeler que la doula soutient le vécu émotionnel des parents sans interférer avec les choix professionnels ou médicaux qu'ils font."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-9b4d872cca0c",
