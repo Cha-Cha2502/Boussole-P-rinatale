@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T12:32:52+00:00",
+ "updatedAt": "2026-11-12T13:37:31+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "24 page(s) d'articles lue(s)",
-  "IA : 19 article(s) résumé(s) et commenté(s)"
+  "22 page(s) d'articles lue(s)",
+  "IA : 10 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -213,7 +213,9 @@
   "a-b872d4a31d60": "2026-11-11",
   "a-11652ac080df": "2026-11-10",
   "a-54cd519f3f9e": "2026-11-10",
-  "a-d6467e24cd53": "2026-11-10"
+  "a-d6467e24cd53": "2026-11-10",
+  "a-426a819b06ad": "2026-11-09",
+  "a-393b4da46808": "2026-11-03"
  },
  "articles": [
   {
@@ -638,6 +640,27 @@
    "enriched": true
   },
   {
+   "id": "a-1b42ee7559ab",
+   "category": "sci",
+   "priority": false,
+   "title": "Agir en faveur de la littératie en santé en périnatalité",
+   "source": "Agence régionale de santé Ile-de-France",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.iledefrance.ars.sante.fr/agir-en-faveur-de-la-litteratie-en-sante-en-perinatalite",
+   "summary": "En 2023, l'ARS Île-de-France a lancé une démarche expérimentale pour améliorer le suivi de grossesse des patientes rencontrant des difficultés de littératie en santé. Ce projet vise à réduire les inégalités sociales de santé en facilitant l'accès à l'information et la communication avec les professionnels. Il s'inscrit dans les objectifs du Plan Régional de Santé et du programme de réduction de la mortalité infantile.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser un langage simple, clair et accessible lors des échanges avec les parents pour s'assurer qu'ils comprennent les informations partagées.",
+    "Être particulièrement vigilante aux difficultés de compréhension ou d'accès aux soins chez les familles vulnérables afin de les orienter au mieux.",
+    "R rappeler aux parents qu'ils sont pleinement acteurs de leur parcours de santé et les encourager à poser toutes leurs questions aux professionnels médicaux."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-485342024999",
    "category": "sci",
    "priority": false,
@@ -675,6 +698,27 @@
     "Abordez les doutes fréquents sur la lactation avec bienveillance pour déculpabiliser les jeunes mères face aux peurs de ne pas nourrir assez leur bébé.",
     "Encouragez les parents à chercher un accompagnement fondé sur des données probantes et à s'entourer de professionnels spécialisés en lactation (IBCLC, sages-femmes).",
     "Ne posez aucun diagnostic sur la production de lait ou la prise de poids du nourrisson, et orientez systématiquement vers le corps médical ou une consultante en lactation en cas de difficulté."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-9b4d872cca0c",
+   "category": "sci",
+   "priority": false,
+   "title": "Laits infantiles : après les rappels massifs, l'Union européenne prend une nouvelle décision pour protéger les bébés",
+   "source": "Magicmaman",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.magicmaman.com/laits-infantiles-apres-les-rappels-massifs-l-union-europeenne-prend-une-nouvelle-decision-pour-proteger-les-bebes,3787633.asp",
+   "summary": "L'Union européenne a approuvé de nouvelles règles sanitaires fixant une limite permanente de céréulide dans les laits infantiles suite à des contaminations liées à un ingrédient importé. Cette toxine, produite par une bactérie, peut provoquer des troubles digestifs chez les nourrissons et présente la particularité de résister aux traitements thermiques habituels. Cette mesure vise à renforcer les contrôles et à mieux protéger les bébés, particulièrement vulnérables à la déshydratation.",
+   "auto": true,
+   "addedAt": "2026-11-10T13:21:09+00:00",
+   "pageRead": true,
+   "points": [
+    "Rester informée des actualités concernant la sécurité sanitaire et les rappels de produits alimentaires pour nourrissons.",
+    "Ne pas hésiter à orienter les parents vers les autorités sanitaires ou leur pédiatre en cas de doute sur l'alimentation de leur bébé.",
+    "Rappeler aux parents que les aspects de composition et de sécurité des laits infantiles relèvent strictement de la compétence médicale et réglementaire."
    ],
    "summaryAI": true,
    "enriched": true
@@ -738,6 +782,27 @@
     "Normaliser la lenteur de la récupération physique et psychologique auprès des mères pour déculpabiliser le manque d'énergie.",
     "Proposer des pistes d'organisation concrètes et un soutien pratique pour alléger la charge mentale au quotidien dans les premiers mois.",
     "Veiller à ne jamais banaliser les symptômes physiques ou psychologiques et encourager à consulter un professionnel de santé en cas de besoin."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c1c0097f821a",
+   "category": "sci",
+   "priority": false,
+   "title": "Vous allaitez pendant la canicule ? Voici ce qu'il faut savoir avant de donner de l'eau à votre bébé",
+   "source": "Doctissimo",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://www.doctissimo.fr/grossesse/news-grossesse/vous-allaitez-pendant-la-canicule-voici-ce-quil-faut-savoir-avant-de-donner-de-leau-a-votre-bebe-786335.htm",
+   "summary": "Pendant les fortes chaleurs, le lait maternel suffit généralement à hydrater un nourrisson allaité sans qu'il soit nécessaire de lui donner de l'eau. Il est conseillé aux mères de bien s'hydrater elles-mêmes et de surveiller certains signes d'alerte, comme une baisse du nombre de couches mouillées. Toute supplémentation en eau ou modification de l'alimentation avant l'âge de six mois doit faire l'objet d'un avis médical.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Rappeler aux parents que le lait maternel s'adapte aux fortes chaleurs et couvre les besoins d'hydratation du bébé.",
+    "Encourager la mère à veiller sur sa propre hydratation et à observer les signes de déshydratation sans céder à la panique.",
+    "Orienter systématiquement vers un professionnel de santé pour toute question relative à un ajout d'eau ou en cas de doute sur l'état du nourrisson."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1276,10 +1341,17 @@
    "date": "29 octobre 2026",
    "sortDate": "2026-10-29",
    "url": "https://sante.lefigaro.fr/social/enfance-famille/pourquoi-soigner-la-depression-des-femmes-enceintes-favorise-le-developpement-cerebral-de-leurs-bebes-20261029",
-   "summary": "DÉCRYPTAGE - Une étude américaine montre que huit séances de psychothérapie suffiraient à observer des différences dans le cerveau des nourrissons.",
+   "summary": "Une étude américaine met en lumière les effets bénéfiques d'une psychothérapie suivie par les femmes enceintes souffrant de dépression sur le développement cérébral précoce de leur nourrisson. Ces travaux suggèrent qu'un accompagnement psychologique adapté pendant la grossesse influence positivement les réactions émotionnelles de l'enfant à l'âge de six mois.",
    "auto": true,
    "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Valider l'importance du bien-être psychologique pendant la grossesse et son impact direct sur le lien parent-bébé.",
+    "Offrir un espace d'écoute bienveillant tout en sachant repérer les signes de détresse psychologique nécessitant une orientation vers un spécialiste.",
+    "Ne jamais poser de diagnostic de dépression mais encourager les futures mères à consulter des professionnels de la santé mentale dès que le besoin s'en fait sentir."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-0f9008209831",
@@ -1786,64 +1858,60 @@
    "enriched": true
   },
   {
-   "id": "a-6669d7e8968e",
-   "category": "sci",
+   "id": "a-913499e24604",
+   "category": "pol",
    "priority": false,
-   "title": "Accouchements plus sûrs",
-   "source": "République Togolaise",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.republicoftogo.com/toutes-les-rubriques/sante/accouchements-plus-surs",
-   "summary": "L'Organisation mondiale de la santé et le ministère de la Santé du Togo ont lancé un programme de formation destiné aux professionnels de la naissance dans la région Maritime. Cette initiative vise à actualiser les connaissances des sages-femmes, gynécologues et pédiatres pour améliorer la qualité des soins obstétricaux et néonatals. L'objectif principal est de réduire les décès maternels et néonatals évitables en renforçant les compétences pratiques au plus près des communautés.",
+   "title": "Congé de naissance : pourquoi votre mutuelle d'entreprise peut coûter deux fois plus cher",
+   "source": "LeLynx.fr",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://www.lelynx.fr/breves/conge-naissance-mutuelle-entreprise-cotisation/",
+   "summary": "",
    "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux t'appuyer sur cette actualité pour rappeler aux parents que la formation continue des équipes médicales est un gage de sécurité lors de l'accouchement.",
-    "Garde en tête que la formation des professionnels concerne le soin médical et l'urgence obstétricale, un domaine qui ne relève pas de ton rôle de soutien non médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-1c73552a972b",
-   "category": "sci",
+   "id": "a-3c7406070db5",
+   "category": "pol",
    "priority": false,
-   "title": "Le ministère de la Santé lance la campagne nationale de promotion de l'allaitement maternel",
-   "source": "Telquel.ma",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://mobile.telquel.ma/instant-t/2026/10/21/le-ministere-de-la-sante-lance-la-campagne-nationale-de-promotion-de-lallaitement-maternel_2014166/",
-   "summary": "Le ministère de la Santé marocain, en partenariat avec l'INDH, lance la seizième édition de la campagne nationale de promotion de l'allaitement maternel axée sur l'allaitement exclusif pendant les six premiers mois. Cette initiative s'inscrit dans une stratégie globale de valorisation du capital humain durant les mille premiers jours de l'enfant et s'appuie sur des activités de sensibilisation communautaire. Le dispositif prévoit également de renforcer l'initiative des hôpitaux amis des enfants et d'encadrer la commercialisation des substituts du lait maternel.",
+   "title": "Congé de naissance : les parents risquent un salaire en baisse et une mutuelle plus chère",
+   "source": "Econostrum.info",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://econostrum.info/conge-de-naissance-a-quel-prix/",
+   "summary": "Le nouveau congé de naissance offre davantage de temps aux jeunes parents, mais peut peser lourd sur leur budget. Voici ce qu'il faut savoir avant de choisir.",
    "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux aborder ces recommandations officielles avec les futurs parents pour les informer des bienfaits de l'allaitement exclusif et des repères des mille premiers jours.",
-    "Soutiens le projet d'allaitement des parents avec écoute et bienveillance, tout en évitant toute injonction culpabilisante et en les orientant vers des professionnels qualifiés en cas de difficultés techniques ou médicales."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-5151046d9389",
-   "category": "sci",
+   "id": "a-f9309aa368f6",
+   "category": "pol",
    "priority": false,
-   "title": "Allaitement maternel : le Maroc lance sa 16e campagne nationale",
-   "source": "Lebrief",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.lebrief.ma/allaitement-maternel-le-maroc-lance-sa-16e-campagne-nationale-100170617/",
-   "summary": "Le Maroc organise sa seizième campagne nationale pour encourager l'allaitement maternel exclusif durant les six premiers mois de la vie de l'enfant. Cette action s'intègre dans les politiques de santé publique visant à améliorer la santé de la mère et de l'enfant et à prévenir la malnutrition. Le programme mobilise les professionnels de santé et les acteurs communautaires pour diffuser les recommandations de l'Organisation mondiale de la santé concernant l'initiation précoce et la durée de l'allaitement.",
+   "title": "Renforcer urgences et chirurgie mais fermer la maternité : l’hôpital d’Ancenis face à « un choix impossible »",
+   "source": "Ouest-France",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://www.ouest-france.fr/sante/hopital/renforcer-urgences-et-chirurgie-mais-fermer-la-maternite-lhopital-dancenis-face-a-un-choix-impossible-405e3bd2-de72-11f1-a62b-776e3051b0df",
+   "summary": "",
    "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Inspire-toi de ces campagnes de santé publique pour rassurer les mères sur l'importance du démarrage précoce de l'allaitement et sur le rythme des premiers mois.",
-    "Rappelle aux parents que ton rôle d'accompagnante est de les soutenir dans leur choix éclairé, sans jamais te substituer aux professionnels de santé habilités à suivre la croissance et l'alimentation médicale du nourrisson."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-f68c21bf685c",
+   "category": "pol",
+   "priority": false,
+   "title": "Elle a mis au monde près de 2 000 bébés. L’épidémie de rougeole a changé sa vision des vaccins",
+   "source": "Mezha.net",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://mezha.net/fr/news/mezha-f307768e5f909bdec8c9b312_elle-a-mis-au-monde-pres/",
+   "summary": "Roberta Devers, sage-femme de Pennsylvanie qui avait autrefois choisi de ne pas faire vacciner son fils, affirme que l’épidémie de rougeole dans le comté de Lancaster a changé son point de vue. La loi de l’État ne permet pas aux sages-femmes traditionnelles comme elle d’administrer des vaccins.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
   },
   {
    "id": "a-4d511eba7de2",
@@ -1886,6 +1954,48 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-d6430f484c4d",
+   "category": "pol",
+   "priority": false,
+   "title": "\"Il ne sera plus possible de naître à Guingamp\" : l'ARS officialise la fermeture définitive de la maternité malgré le regret des habitants et des élus",
+   "source": "France 3 Régions",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://france3-regions.franceinfo.fr/bretagne/cotes-d-armor/guingamp/il-ne-sera-plus-possible-de-naitre-a-guingamp-l-ars-officialise-la-fermeture-definitive-de-la-maternite-malgre-le-regret-des-habitants-et-des-elus-3447801.html",
+   "summary": "Ils étaient plus d'un millier dans les rues de Guingamp en février 2025 pour défendre leur maternité. C'est désormais officiel : il ne sera plus possible de naître à Guingamp. L'ARS Bretagne a annoncé la création d'un pôle...",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-1d7087785ba0",
+   "category": "pol",
+   "priority": false,
+   "title": "\"C’est un crève-cœur\", dit Philippe Le Goff, maire de Guingamp, sur la fermeture définitive de la maternité",
+   "source": "ici.fr",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.ici.fr/emissions/l-invite-actu-ici-breizh-izel/c-est-un-creve-coeur-philippe-le-goff-maire-de-guingamp-sur-la-fermeture-definitive-de-la-maternite-3410725",
+   "summary": "La maternité de Guingamp a fermé ses portes ce lundi 9 novembre. Depuis trois ans, les accouchements ne sont pas assurés, et la décision de cette fermeture n",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-acf16666fd5a",
+   "category": "pol",
+   "priority": false,
+   "title": "Formation pour actualiser les connaissances des sages-femmes de village en 2026",
+   "source": "Vietnam.vn",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.vietnam.vn/fr/tap-huan-cap-nhat-kien-thuc-cho-co-do-thon-ban-nam-2026",
+   "summary": "Du 9 au 13 novembre, le Centre provincial de contrôle des maladies de Thanh Hoa, en coordination avec le Département de la santé maternelle et infantile, a organisé un cours de formation pour mettre à jour les connaissances des sages-femmes de village en 2026.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
   },
   {
    "id": "a-f81de35c3291",
@@ -2083,10 +2193,17 @@
    "date": "8 novembre 2026",
    "sortDate": "2026-11-08",
    "url": "https://infos.rtl.lu/news/frontieres/une-fermeture-ferait-peser-un-risque-vital-pour-les-futures-mamans-et-leurs-bebes-1347802003",
-   "summary": "La maternité de Mont-Saint-Martin pourrait disparaître prochainement. Une manifestation était organisée samedi pour protester contre cette fermeture.",
+   "summary": "La possible fermeture de la maternité de Mont-Saint-Martin, motivée par des difficultés persistantes de recrutement médical et un nombre insuffisant de naissances, suscite l'inquiétude des soignants et des élus locaux. Ces derniers redoutent un risque vital pour les futures mères et une aggravation des inégalités territoriales d'accès aux soins. Aucune décision définitive n'a encore été prise, mais une réorganisation est à l'étude avec une orientation potentielle vers un autre établissement.",
    "auto": true,
    "addedAt": "2026-11-11T12:32:52+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de leur lieu de naissance prévu et de leur plan de transport, en tenant compte des fermetures potentielles de maternités locales.",
+    "Accueillir l'anxiété des femmes enceintes face aux modifications de l'offre de soins sur leur territoire sans prendre position sur les décisions politiques.",
+    "Rappeler aux familles que le choix de la structure de naissance et le suivi médical de fin de grossesse doivent impérativement être validés avec une équipe obstétricale."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-08d3139e56a2",
@@ -2419,6 +2536,27 @@
     "Aborder avec les parents l'anticipation des trajets vers la maternité et l'importance d'avoir un plan B en cas d'éloignement des structures de soins.",
     "Rester neutre et bienveillante face aux inquiétudes liées aux fermetures d'établissements, sans émettre d'avis médical sur le choix des maternités de recours.",
     "Rappeler aux familles que le suivi médical de la grossesse et les urgences obstétricales relèvent exclusivement des professionnels de santé et des hôpitaux."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-d75398afd7fe",
+   "category": "pol",
+   "priority": false,
+   "title": "CHIMM : la maternité des Mureaux en sursis avant octobre",
+   "source": "InfosYvelines",
+   "date": "4 novembre 2026",
+   "sortDate": "2026-11-04",
+   "url": "https://www.infosyvelines.fr/articles/les-mureaux-chimm-avant-decision-ars-octobre",
+   "summary": "Des manifestations et des rassemblements ont lieu pour contester la menace de fermeture ou de reconfiguration de la maternité et d'autres services du CHIMM à Meulan-Les Mureaux. Face aux difficultés financières de l'établissement, le personnel et les usagers s'inquiètent d'un report des naissances vers des maternités déjà saturées et de l'éloignement géographique des soins pour les familles.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents des questions d'organisation logistique et du choix du lieu de naissance, notamment en cas d'éloignement des structures.",
+    "Écouter les inquiétudes des futurs parents face aux tensions du système de santé et aux fermetures potentielles de maternités locales.",
+    "Éviter de prendre parti dans les débats administratifs ou politiques tout en validant le stress que l'incertitude des parcours de soins peut générer."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2928,172 +3066,46 @@
    "enriched": true
   },
   {
-   "id": "a-ca8333bbf88f",
-   "category": "pol",
+   "id": "a-d41d1844f35b",
+   "category": "soc",
    "priority": false,
-   "title": "Un congé supplémentaire de naissance pour les nouveaux pères et mères",
-   "source": "Tout Sur Mes Finances",
-   "date": "27 octobre 2026",
-   "sortDate": "2026-10-27",
-   "url": "https://www.toutsurmesfinances.com/actualites/a/un-conge-supplementaire-de-naissance-pour-les-nouveaux-peres-et-meres",
-   "summary": "À partir de juillet 2026, un congé supplémentaire de naissance indemnisé d'un ou deux mois est instauré pour les parents en activité, s'ajoutant aux congés légaux existants. Ce dispositif facultatif peut être pris de manière simultanée ou séparée dans les neuf suivant l'arrivée de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-10-29T11:23:27+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les futurs parents de l'existence de ce nouveau droit pour les aider à anticiper l'organisation de leur retour à la maison et le partage des rôles.",
-    "Offrir un espace de dialogue pour discuter de la manière dont ils envisagent de vivre ces premiers mois ensemble et de planifier ce temps de pause supplémentaire.",
-    "Préciser que ce dispositif comporte des conditions administratives strictes et les inviter à se renseigner auprès de l'Assurance maladie pour valider leurs droits précis."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-253072f9b2de",
-   "category": "pol",
-   "priority": false,
-   "title": "De nouvelles modalités pour déclarer un congé supplémentaire de naissance",
-   "source": "TV83",
-   "date": "27 octobre 2026",
-   "sortDate": "2026-10-27",
-   "url": "https://www.tv83.info/de-nouvelles-modalites-pour-declarer-un-conge-supplementaire-de-naissance/",
-   "summary": "Les modalités déclaratives pour le congé supplémentaire de naissance évoluent pour les employeurs à partir d'octobre 2026, combinant l'envoi d'un fichier Excel spécifique et un signalement via la déclaration sociale nominative. Ce congé indemnisé s'adresse aux parents d'enfants nés ou adoptés depuis le début de l'année 2026.",
-   "auto": true,
-   "addedAt": "2026-10-29T11:23:27+00:00",
-   "pageRead": true,
-   "points": [
-    "Noter ces évolutions réglementaires pour pouvoir orienter de manière globale les parents qui s'interrogent sur les démarches administratives du post-partum.",
-    "Soutenir les parents dans la gestion du stress organisationnel lié aux formalités administratives avec les employeurs pendant la période de l'arrivée de l'enfant.",
-    "Rappeler aux familles que l'accompagnante ne gère pas les aspects administratifs ou juridiques et les inviter à contacter les services RH ou l'Assurance maladie pour leurs démarches."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3512ecd2e977",
-   "category": "pol",
-   "priority": false,
-   "title": "Pau : l’hôpital est en tension depuis la fermeture de la maternité et des urgences de nuit de la clinique Navarre",
-   "source": "Sud Ouest",
-   "date": "26 octobre 2026",
-   "sortDate": "2026-10-26",
-   "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/pau-l-hopital-est-en-tension-depuis-la-fermeture-de-la-maternite-et-des-urgences-de-nuit-de-la-clinique-navarre-31233674.php",
-   "summary": "La fermeture d'une maternité et la restriction des urgences de nuit dans une clinique locale entraînent un report important de l'activité vers l'hôpital public de Pau. Cette situation provoque des tensions accrues pour les équipes soignantes et des conditions de prise en charge jugées difficiles. Les usagers sont incités à se tourner en priorité vers d'autres structures de soins ambulatoires lorsque cela est possible.",
-   "auto": true,
-   "addedAt": "2026-10-26T10:53:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Intégrer dans vos échanges avec les parents la réalité des tensions locales dans les services d'urgence et les maternités pour les aider à anticiper leurs déplacements.",
-    "Rappeler aux familles les différents recours possibles en dehors de l'hôpital, comme les centres médicaux de soins immédiats ou les médecins traitants, selon la situation.",
-    "Garder strictement votre rôle de soutien non médical en orientant rapidement vers les professionnels de santé habilités en cas de doute sur l'état de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-58cc4ba47d87",
-   "category": "pol",
-   "priority": false,
-   "title": "Alignement tarifaire des sages-femmes : la CSMF refuse de sacrifier l'expertise médicale",
-   "source": "Egora",
-   "date": "26 octobre 2026",
-   "sortDate": "2026-10-26",
-   "url": "https://www.egora.fr/actus-pro/remuneration/alignement-tarifaire-des-sages-femmes-la-csmf-refuse-de-sacrifier-lexpertise",
-   "summary": "De nouvelles négociations conventionnelles doivent s'ouvrir entre l'Assurance maladie et les syndicats de sages-femmes afin de revaloriser certains de leurs actes et de s'aligner sur les tarifs médicaux. Parallèlement, des syndicats de médecins expriment des réserves sur la reconnaissance de compétences partagées, insistant sur la distinction entre leurs expertises respectives.",
-   "auto": true,
-   "addedAt": "2026-10-27T10:17:45+00:00",
-   "pageRead": true,
-   "points": [
-    "Suivre l'évolution de l'organisation des soins et des parcours périnataux pour mieux orienter les parents vers les professionnels adaptés.",
-    "Comprendre la place et le rôle des sages-femmes dans le système de santé pour valoriser leur rôle médical indispensable auprès des familles.",
-    "Veiller à ne jamais se substituer aux compétences des sages-femmes ou des médecins dans l'accompagnement des actes cliniques."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4974594f434a",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance en 2026 : durée, indemnisation et conditions d’accès",
-   "source": "AmecoPress",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://amecopress.net/droits/conge-supplementaire-de-naissance-en-2026-duree-indemnisation-et-conditions-dacces/",
-   "summary": "À partir de 2026, un nouveau congé supplémentaire de naissance est mis en place pour permettre à chaque parent de s'occuper de son nouveau-né. Ce dispositif offre jusqu'à deux mois par parent, indemnisés selon un barème spécifique inspiré de l'assurance maternité, tout en s'ajoutant aux congés déjà existants. Des règles transitoires sont prévues pour les enfants nés au cours du premier semestre de l'année.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Informez les futurs parents de l'existence de ce nouveau droit afin de les aider à anticiper l'organisation de leur post-partum et l'implication du co-parent.",
-    "Aidez les familles à prendre conscience des aspects pratiques et financiers de ce congé dans le cadre de leur préparation à l'arrivée de l'enfant.",
-    "Orientez les parents vers les administrations compétentes ou les services RH pour toute question juridique ou de calcul de leurs indemnités."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4adfce41a395",
-   "category": "pol",
-   "priority": false,
-   "title": "TOULON : Ressources Humaines - Un webinaire pour décrypter le nouveau congé de naissance",
-   "source": "Presse Agence",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://presseagence.fr/toulon-ressources-humaines-un-webinaire-pour-decrypter-le-nouveau-conge-de-naissance/",
-   "summary": "L'entrée en vigueur du congé supplémentaire de naissance en juillet 2026 amène les entreprises et les organismes sociaux à s'organiser pour sa mise en œuvre. Des actions d'information, telles que des webinaires, sont proposées aux employeurs pour décrypter les règles de gestion et de paie liées à ce dispositif. Cette transition administrative nécessite une adaptation des services de ressources humaines pour assurer la conformité des démarches.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Comprenez le contexte organisationnel et professionnel dans lequel baignent les parents que vous accompagnez au moment de planifier leur congé.",
-    "Invitez les parents à échanger au plus tôt avec leurs employeurs pour sécuriser la pose de ce nouveau congé et éviter le stress administratif.",
-    "Restez dans votre rôle d'accompagnement global en évitant toute interprétation ou conseil sur la législation du travail ou la gestion de paie."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-8148ce42dc27",
-   "category": "pol",
-   "priority": false,
-   "title": "Santé : infirmières et sages-femmes expriment leurs inquiétudes",
-   "source": "L'Union Sonapress",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://www.union.sonapresse.com/fr/sante-infirmieres-et-sages-femmes-expriment-leurs-inquietudes",
-   "summary": "Un collectif de jeunes infirmières et sages-femmes s'est mobilisé pour faire valoir ses revendications concernant l'attente prolongée de leur intégration administrative et de leur recrutement au sein de la fonction publique. Le ministère de la tutelle indique que des régularisations progressives sont en cours de traitement via une commission dédiée, malgré des retards persistants.",
-   "auto": true,
-   "addedAt": "2026-10-26T10:53:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Avoir conscience des difficultés professionnelles et des conditions de travail parfois précaires des sages-femmes qui encadrent les naissances.",
-    "Valoriser auprès des parents le rôle essentiel des sages-femmes tout en comprenant le contexte global d'organisation des soins.",
-    "Maintenir une posture de soutien neutre sans vous prononcer sur les aspects administratifs ou syndicaux du personnel médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-823d1738a644",
-   "category": "pol",
-   "priority": false,
-   "title": "Après la fermeture de la maternité de Tournan-en-Brie, la clinique promet «aucune rupture de prise en charge» des mamans",
+   "title": "Enfance et parentalité : un salon pour tous les (futurs) parents qui se posent des questions ce week-end en Vendée",
    "source": "Actu.fr",
-   "date": "23 octobre 2026",
-   "sortDate": "2026-10-23",
-   "url": "https://actu.fr/ile-de-france/tournan-en-brie_77470/apres-la-fermeture-de-la-maternite-de-tournan-en-brie-la-clinique-promet-aucune-rupture-de-prise-en-charge-des-mamans_64965267.html",
-   "summary": "La maternité de Tournan-en-Brie a fermé ses portes le 23 octobre 2026 malgré des actions menées pour maintenir l'activité face à la baisse de la natalité. La direction de l'établissement assure qu'une continuité de prise en charge est organisée pour les mères et les nouveau-nés concernés.",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://actu.fr/pays-de-la-loire/les-sables-d-olonne_85194/enfance-et-parentalite-un-salon-pour-tous-les-futurs-parents-qui-se-posent-des-questions-ce-week-end-en-vendee_65043482.html",
+   "summary": "Le salon enfance et parentalité Lab’elle & kids réunira une vingtaine de professionnels samedi 14 novembre 2026 en Vendée.",
    "auto": true,
-   "addedAt": "2026-10-24T05:24:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents le stress potentiel lié aux fermetures de structures de proximité et les rassurer sur l'anticipation du lieu de naissance.",
-    "Aider les parents à identifier en amont les maternités de repli et les professionnels disponibles dans leur secteur géographique.",
-    "Respecter strictement son rôle non médical en évitant de porter un jugement sur les décisions administratives de fermeture des hôpitaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-f5c95500d721",
+   "category": "soc",
+   "priority": false,
+   "title": "Saturnino a terminé sa période d’allaitement et commence une nouvelle étape sur les plages de Mar del Plata",
+   "source": "Noticias Ambientales",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://noticiasambientales.com/uncategorized-fr/saturnino-a-termine-sa-periode-dallaitement-et-commence-une-nouvelle-etape-sur-les-plages-de-mar-del-plata/",
+   "summary": "À 24 jours de sa naissance sur les côtes de Mar del Plata, Saturnino, l'éléphant de mer du sud, est resté seul sur le sable du secteur nord des plages de",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-15a1b554c868",
+   "category": "soc",
+   "priority": false,
+   "title": "Dépression post-partum des pères : pourquoi passe-t-elle encore inaperçue ?",
+   "source": "Parents.fr",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.parents.fr/etre-parent/papa/psycho-papa/depression-post-partum-des-peres-pourquoi-passe-t-elle-encore-inapercue-1159293",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true
   },
   {
    "id": "a-af86344c023f",
@@ -3137,32 +3149,25 @@
    "enriched": true
   },
   {
-   "id": "a-9b4d872cca0c",
+   "id": "a-07095031f237",
    "category": "soc",
    "priority": false,
-   "title": "Laits infantiles : après les rappels massifs, l'Union européenne prend une nouvelle décision pour protéger les bébés",
+   "title": "\"Hospitalisé 6 fois en ses 5 semaines de vie\" : Bonnie Wright (Harry Potter) révèle que son bébé a un problème de santé",
    "source": "Magicmaman",
    "date": "9 novembre 2026",
    "sortDate": "2026-11-09",
-   "url": "https://www.magicmaman.com/laits-infantiles-apres-les-rappels-massifs-l-union-europeenne-prend-une-nouvelle-decision-pour-proteger-les-bebes,3787633.asp",
-   "summary": "Après les nombreux rappels de laits infantiles contaminés par la céréulide, l'Union européenne vient d'approuver de nouvelles règles sanitaires. Objectif : limiter durablement la présence de cette toxine dans les préparations destinées aux nourrissons. Voici ce qui va changer pour les fabricants et ce que les parents doivent savoir.",
+   "url": "https://www.magicmaman.com/hospitalise-6-fois-en-ses-5-semaines-de-vie-bonnie-wright-harry-potter-revele-que-son-bebe-a-un-probleme-de-sante,3787607.asp",
+   "summary": "L'actrice Bonnie Wright a partagé sur les réseaux sociaux que son second enfant, né fin septembre 2026, a dû être hospitalisé à plusieurs reprises au cours de ses cinq premières semaines de vie. Le nouveau-né reçoit des soins adaptés pour traiter un problème de santé congénital connu dès avant sa naissance. Malgré ces épreuves médicales, la mère décrit son bébé comme un enfant fort et apaisé.",
    "auto": true,
-   "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-426a819b06ad",
-   "category": "soc",
-   "priority": false,
-   "title": "El Jadida : campagne de sensibilisation à l'importance de l’allaitement maternel exclusif dans la commune de Mogress",
-   "source": "2M",
-   "date": "9 novembre 2026",
-   "sortDate": "2026-11-09",
-   "url": "https://2m.ma/fr/news/El-Jadida-campagne-de-sensibilisation-%C3%A0-l-importance-de-l-allaitement-20261109",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de soutien émotionnel inconditionnel aux parents traversant des hospitalisations de nouveau-nés ou confrontés à des pathologies précoces.",
+    "Valider la détresse et l'anxiété parentale face à la maladie d'un tout-petit sans jamais chercher à émettre d'hypothèse médicale.",
+    "Soutenir les parents dans leur lien d'attachement avec leur bébé malgré le contexte médicalisé et les séparations liées aux soins."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-61e8974c7c0b",
@@ -3256,10 +3261,17 @@
    "date": "5 novembre 2026",
    "sortDate": "2026-11-05",
    "url": "https://linitiative.ca/International/lassociation-hanen-feryel-lakhdar-et-la-poste-tunisienne-celebrent-lallaitement-maternel/",
-   "summary": "",
+   "summary": "La Poste tunisienne a émis un timbre-poste illustré par l'artiste Feryel Lakhdar afin de célébrer l'allaitement maternel et la semaine nationale dédiée. Cette initiative, menée en collaboration avec l'association Hanen, vise à promouvoir l'allaitement au sein à travers une démarche artistique et culturelle.",
    "auto": true,
    "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "S'appuyer sur des initiatives culturelles ou artistiques pour valoriser l'allaitement maternel dans les discussions avec les parents.",
+    "Reconnaître le rôle des associations de soutien dans la valorisation et la normalisation de l'allaitement dans l'espace public.",
+    "Garder à l'esprit que la promotion de l'allaitement relève du soutien social et informel, en dehors de toute prescription médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-8344ae2d2943",
@@ -4282,47 +4294,6 @@
     "Encouragez les parents à participer aux ateliers proposés par les maternités pour se préparer concrètement aux premiers jours avec bébé.",
     "Soutenez l'écoute et l'échange autour du matériel et des appréhensions, en valorisant l'expression des ressentis des parents.",
     "Laissez aux professionnels de la maternité le soin d'aborder les aspects techniques ou médicaux de l'alimentation infantile."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a8d4b95965b0",
-   "category": "soc",
-   "priority": false,
-   "title": "Montélimar. Une sensibilisation à l’allaitement au sein de l’hôpital montilien",
-   "source": "Le Dauphiné Libéré",
-   "date": "18 octobre 2026",
-   "sortDate": "2026-10-18",
-   "url": "https://www.ledauphine.com/sante/2026/10/18/octobre-rose-une-sensibilisation-a-l-allaitement-au-sein-de-l-hopital-montilien",
-   "summary": "À l'occasion de la Semaine mondiale de l'allaitement maternel, des professionnels de santé et des associations se sont mobilisés à l'hôpital de Montélimar pour soutenir les mères. Les données chiffrées montrent une baisse importante du taux d'allaitement entre la naissance et les deux premiers mois de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Vous pouvez aborder la question des difficultés de l'allaitement avec bienveillance, en validant le fait que la baisse des taux après quelques semaines montre un réel besoin de soutien pour les mères.",
-    "Orientez les parents vers des associations locales spécialisées ou des professionnels qualifiés dès qu'ils expriment des doutes ou des douleurs, tout en évitant de poser un diagnostic sur des problématiques médicales comme la succion."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-90b5ed1ed63a",
-   "category": "soc",
-   "priority": false,
-   "title": "Allaitement : comment concilier tire-lait, vie quotidienne et reprise du travail ?",
-   "source": "Ouest-France",
-   "date": "17 octobre 2026",
-   "sortDate": "2026-10-17",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT1dMeEdqekpTa1Ewb0R6QmstNkxrR3BPdl9iZmdWeGdMSFl6UG51ZjJZdkpPZ1VjRjU1TDEwZURTR1ViWXUxV0VKbzhUTzM2OExVYnVEY01aNTJfVGVpaS1YS0gydkw4MVBuNWRCaVp0YkFHTVFfbURLYUViN3hoUG5reVFKWERwbnFXVTJfZEJfX3hhZ0J3dEgtbC1vQ2dIRVhOSjlWTk1YTTJIMXl3M1hBajhOSlNpdnhBQndRN2pTNm1FRk1naG9MNUV1Q0hpV2JIMmRvTGVEQW4wM3FwVGc2THpTTEtaZTJRUFByMTBfM1R6emdHajNDc2w?oc=5",
-   "summary": "Cet article aborde la question de l'allaitement en lien avec l'utilisation d'un tire-lait, la gestion du quotidien et la reprise de l'activité professionnelle. Il propose des pistes pour articuler l'alimentation du nourrisson et les contraintes de la vie active.",
-   "auto": true,
-   "addedAt": "2026-10-18T05:23:18+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter de manière pratique avec les mères de l'organisation matérielle et logistique autour du tirage de lait avant la reprise du travail.",
-    "Offrir un espace de soutien émotionnel pour aborder la charge mentale liée au cumul de l'allaitement et des obligations professionnelles.",
-    "Ne pas se substituer aux recommandations des professionnels de santé ou des consultantes en lactation concernant les aspects physiologiques de la lactation."
    ],
    "summaryAI": true,
    "enriched": true
