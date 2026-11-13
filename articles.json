@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T13:37:31+00:00",
+ "updatedAt": "2026-11-13T12:55:49+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "22 page(s) d'articles lue(s)",
-  "IA : 10 article(s) résumé(s) et commenté(s)"
+  "19 page(s) d'articles lue(s)",
+  "IA : 19 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -215,7 +215,11 @@
   "a-54cd519f3f9e": "2026-11-10",
   "a-d6467e24cd53": "2026-11-10",
   "a-426a819b06ad": "2026-11-09",
-  "a-393b4da46808": "2026-11-03"
+  "a-393b4da46808": "2026-11-03",
+  "a-913499e24604": "2026-11-12",
+  "a-f9309aa368f6": "2026-11-12",
+  "a-f5c95500d721": "2026-11-12",
+  "a-3c029890cf8f": "2026-11-12"
  },
  "articles": [
   {
@@ -599,6 +603,27 @@
    "enriched": true
   },
   {
+   "id": "a-f68c21bf685c",
+   "category": "sci",
+   "priority": false,
+   "title": "Elle a mis au monde près de 2 000 bébés. L’épidémie de rougeole a changé sa vision des vaccins",
+   "source": "Mezha.net",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://mezha.net/fr/news/mezha-f307768e5f909bdec8c9b312_elle-a-mis-au-monde-pres/",
+   "summary": "Une sage-femme expérimentée de Pennsylvanie a revu sa position sur la vaccination après avoir été confrontée à une épidémie de rougeole, alors que la législation locale ne lui permet pas d'administrer elle-même des vaccins. Cet événement illustre l'évolution possible des croyances personnelles face à la réalité sanitaire de terrain.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir les questionnements des parents sur la santé et la prévention sans jugement, en restant dans une posture d'écoute neutre.",
+    "Respecter strictement son rôle non médical en évitant de donner un avis personnel sur la vaccination.",
+    "Orienter systématiquement les familles vers les professionnels de santé habilités (médecins, sages-femmes, PMI) pour toute question médicale ou vaccinale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-201babd727f8",
    "category": "sci",
    "priority": false,
@@ -615,6 +640,48 @@
     "Aborder la question de la fatigue professionnelle et des horaires atypiques avec empathie lors des entretiens prénataux pour offrir un espace d'écoute aux mères concernées.",
     "Aider les parents à verbaliser leur charge mentale et leurs inquiétudes face aux rythmes de travail intenses, sans jamais porter de jugement médical.",
     "Re rappeler que ces données statistiques ne constituent en rien une fatalité individuelle et orienter vers les professionnels de santé pour toute question médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-acf16666fd5a",
+   "category": "sci",
+   "priority": false,
+   "title": "Formation pour actualiser les connaissances des sages-femmes de village en 2026",
+   "source": "Vietnam.vn",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.vietnam.vn/fr/tap-huan-cap-nhat-kien-thuc-cho-co-do-thon-ban-nam-2026",
+   "summary": "Une session de formation destinée à des sages-femmes locales vise à actualiser leurs compétences en matière de suivi de grossesse, de repérage des signes d'alerte et de prise en charge des soins maternels et néonatals en zone rurale.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Souligner l'importance pour les parents de connaître les signes d'alerte de la grossesse et du post-partum pour lesquels une consultation médicale s'impose.",
+    "Encourager les familles à maintenir un lien étroit avec les professionnels de santé référents de leur territoire pour un suivi de qualité.",
+    "S'interdire tout acte d'examen clinique ou de diagnostic, et orienter systématiquement les parents vers les professionnels formés en cas de doute."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-15a1b554c868",
+   "category": "sci",
+   "priority": false,
+   "title": "Dépression post-partum des pères : pourquoi passe-t-elle encore inaperçue ?",
+   "source": "Parents.fr",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.parents.fr/etre-parent/papa/psycho-papa/depression-post-partum-des-peres-pourquoi-passe-t-elle-encore-inapercue-1159293",
+   "summary": "La dépression post-partum touche également les pères, mais elle se manifeste souvent différemment que chez les mères par de l'impulsivité, de la colère ou des conduites d'évitement. Ce trouble survient généralement plus tardivement, entre six mois et un an après la naissance, et peut être lié à la santé psychologique de la mère.",
+   "auto": true,
+   "addedAt": "2026-11-12T13:37:31+00:00",
+   "pageRead": true,
+   "points": [
+    "Pensez à inclure systématiquement le second parent dans vos échanges et à vous enquérir de son état émotionnel au fil des mois.",
+    "Gardez en tête que chez les hommes, la détresse psychologique peut prendre la forme de colères ou de repli plutôt que de tristesse apparente.",
+    "Orientez rapidement vers des professionnels de santé adaptés dès que vous observez des signes de souffrance psychique chez l'un ou l'autre des parents."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1795,83 +1862,6 @@
    "enriched": true
   },
   {
-   "id": "a-c6ff81e9f208",
-   "category": "sci",
-   "priority": false,
-   "title": "Traiter la dépression pendant la grossesse a aussi des effets positifs sur le cerveau du bébé, selon une étude",
-   "source": "Parents.fr",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.parents.fr/actualites/grossesse/traiter-la-depression-pendant-la-grossesse-a-des-effets-positifs-sur-le-cerveau-du-bebe-selon-une-etude-1158422",
-   "summary": "Une étude s'est penchée sur l'impact d'une prise en charge de la dépression durant la grossesse, via notamment une psychothérapie, sur le développement cérébral des bébés. Les résultats montrent des différences de volume au niveau de l'hippocampe chez les nourrissons dont les mères ont bénéficié de ce soutien, illustrant les liens entre la santé mentale maternelle et le développement infantile précoce. Les auteurs soulignent que ces variations structurales ne signifient pas un moins bon développement, mais invitent à poursuivre les recherches.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Soutenir l'importance de prendre soin de la santé mentale dès la grossesse en normalisant le recours à un accompagnement psychologique.",
-    "Rassurer les parents sur le fait qu'un suivi thérapeutique prénatal profite globalement au bien-être de la dyade parent-bébé, sans poser de diagnostic clinique.",
-    "Laisser aux professionnels de santé le soin d'évaluer les traitements et les prises en charge médicales ou thérapeutiques adaptés à la dépression."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-5e789b707392",
-   "category": "sci",
-   "priority": false,
-   "title": "Grossesse : ces polluants présents dans notre quotidien pourraient être associés à une baisse du QI des enfants",
-   "source": "Parents.fr",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.parents.fr/actualites/grossesse/grossesse-ces-polluants-presents-dans-notre-quotidien-pourraient-etre-associes-a-une-baisse-du-qi-des-enfants-1158416",
-   "summary": "Une étude récente suggère qu'une exposition à certains phtalates et bisphénols pendant le troisième trimestre de grossesse pourrait être associée à une baisse du QI chez les enfants de 3 ans. Ces substances chimiques, agissant comme des perturbateurs endocriniens, se trouvent couramment dans les plastiques, les cosmétiques et divers produits du quotidien. Les chercheurs soulignent ainsi l'importance d'étudier les liens entre l'environnement chimique et le développement cognitif des jeunes enfants.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents avec bienveillance sur la présence de polluants dans les objets du quotidien sans créer de sentiment de culpabilité.",
-    "Suggérer des pistes simples pour réduire l'exposition, comme limiter certains plastiques ou cosmétiques, tout en rappelant qu'il ne s'agit pas d'un avis médical.",
-    "Laisser aux professionnels de santé le soin d'aborder les aspects cliniques de l'exposition aux substances toxiques durant la grossesse."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-ef38a9b9590a",
-   "category": "sci",
-   "priority": false,
-   "title": "Hépatite B, retarder le vaccin après la naissance inquiète les médecins",
-   "source": "24matins",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.24matins.fr/hepatite-b-retarder-le-vaccin-apres-la-naissance-inquiete-les-medecins-1422745",
-   "summary": "Une étude américaine modélise l'impact d'un report de la vaccination contre l'hépatite B chez les nouveau-nés et suggère qu'une telle pratique augmenterait significativement les infections chroniques. Alors que certaines institutions recommandent ou discutent d'une flexibilité du calendrier vaccinal selon le profil de la mère, d'autres sociétés savantes plaident pour une première injection dès les premières heures de vie. L'enjeu réside dans le fait qu'un nourrisson infecté très tôt présente un risque accru de développer une forme chronique de la maladie.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Écouter les questionnements des parents sur les calendriers vaccinaux et les orienter vers les professionnels de santé habilités pour toute décision médicale.",
-    "Ne formuler aucun conseil ni avis sur le choix de vacciner ou de retarder un vaccin, le rôle de la doula se limitant à un soutien émotionnel et informationnel neutre.",
-    "Rediriger les familles vers leurs pédiptres ou sages-femmes pour obtenir des informations factuelles sur les recommandations officielles de vaccination."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-913499e24604",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé de naissance : pourquoi votre mutuelle d'entreprise peut coûter deux fois plus cher",
-   "source": "LeLynx.fr",
-   "date": "12 novembre 2026",
-   "sortDate": "2026-11-12",
-   "url": "https://www.lelynx.fr/breves/conge-naissance-mutuelle-entreprise-cotisation/",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
-  },
-  {
    "id": "a-3c7406070db5",
    "category": "pol",
    "priority": false,
@@ -1880,38 +1870,101 @@
    "date": "12 novembre 2026",
    "sortDate": "2026-11-12",
    "url": "https://econostrum.info/conge-de-naissance-a-quel-prix/",
-   "summary": "Le nouveau congé de naissance offre davantage de temps aux jeunes parents, mais peut peser lourd sur leur budget. Voici ce qu'il faut savoir avant de choisir.",
+   "summary": "Le nouveau congé de naissance permet aux parents de prendre un ou deux mois supplémentaires à partir de 2026, mais son indemnisation dégressive peut entraîner une baisse significative des revenus selon les salaires. Ce dispositif s'adresse à de nombreux actifs sous conditions d'affiliation à la Sécurité sociale et peut être pris simultanément ou de manière fractionnée.",
    "auto": true,
    "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur l'existence de ce nouveau congé pour qu'ils puissent anticiper son impact budgétaire dans leur organisation post-natale.",
+    "Encourager le dialogue au sein du couple sur la répartition du temps et la baisse potentielle des revenus pendant cette période.",
+    "Rappeler que la doula n'a pas de rôle dans les démarches administratives ou financières, et inviter les parents à consulter les services compétents pour le calcul de leurs indemnités."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-f9309aa368f6",
+   "id": "a-56fdaad17285",
    "category": "pol",
    "priority": false,
-   "title": "Renforcer urgences et chirurgie mais fermer la maternité : l’hôpital d’Ancenis face à « un choix impossible »",
-   "source": "Ouest-France",
+   "title": "Budget 2027 de la Sécurité sociale : le Sénat adopte une taxe sur les sucres ajoutés contenus dans les produits alimentaires destinés aux bébés et petits enfants",
+   "source": "Public Sénat",
    "date": "12 novembre 2026",
    "sortDate": "2026-11-12",
-   "url": "https://www.ouest-france.fr/sante/hopital/renforcer-urgences-et-chirurgie-mais-fermer-la-maternite-lhopital-dancenis-face-a-un-choix-impossible-405e3bd2-de72-11f1-a62b-776e3051b0df",
-   "summary": "",
+   "url": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-le-senat-adopte-une-taxe-sur-les-sucres-ajoutes-contenus-dans-les-produits-alimentaires-destines-aux-bebes-et-petits-enfants",
+   "summary": "Le Sénat a adopté un amendement dans le cadre du projet de budget de la Sécurité sociale prévoyant de taxer les aliments pour nourrissons et jeunes enfants contenant des sucres ajoutés. Cette mesure vise à lutter contre l'accoutumance précoce au sucre, fortement dénoncée par les recommandations de l'Organisation mondiale de la santé.",
    "auto": true,
-   "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-13T12:55:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux aborder ce sujet avec les parents pour les sensibiliser à la lecture des étiquettes nutritionnelles des produits du commerce destinés aux tout-petits.",
+    "Tu peux valoriser l'importance d'une alimentation faite maison et le respect des recommandations de santé publique concernant l'absence de sucres ajoutés chez le nourrisson.",
+    "Rappelle que tu ne donnes pas de conseils diététiques médicaux stricts et oriente vers un professionnel de santé ou un pédiatre en cas de doute sur l'alimentation de l'enfant."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-f68c21bf685c",
+   "id": "a-0b57af8b0cd0",
    "category": "pol",
    "priority": false,
-   "title": "Elle a mis au monde près de 2 000 bébés. L’épidémie de rougeole a changé sa vision des vaccins",
-   "source": "Mezha.net",
+   "title": "\"Grâce à un travail de longue haleine\" : comment cette maternité menacée de fermeture a finalement pu maintenir son activité",
+   "source": "France 3 Régions",
    "date": "12 novembre 2026",
    "sortDate": "2026-11-12",
-   "url": "https://mezha.net/fr/news/mezha-f307768e5f909bdec8c9b312_elle-a-mis-au-monde-pres/",
-   "summary": "Roberta Devers, sage-femme de Pennsylvanie qui avait autrefois choisi de ne pas faire vacciner son fils, affirme que l’épidémie de rougeole dans le comté de Lancaster a changé son point de vue. La loi de l’État ne permet pas aux sages-femmes traditionnelles comme elle d’administrer des vaccins.",
+   "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/grace-a-un-travail-de-longue-haleine-comment-cette-maternite-menacee-de-fermeture-a-finalement-pu-maintenir-son-activite-3447999.html",
+   "summary": "La maternité de Lunéville a obtenu une certification de qualité après avoir failli fermer en raison d'un manque de personnel médical. Grâce à une mobilisation conjointe des autorités, des élus locaux et des soignants, l'établissement a pu reconstituer une équipe pérenne garantissant des soins de proximité sécurisés.",
    "auto": true,
-   "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-13T12:55:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux utiliser cet exemple pour discuter avec les parents des enjeux liés aux maternités de proximité et de la sécurisation des parcours de soins locaux.",
+    "Tu peux écouter et valider les inquiétudes des parents concernant la fermeture potentielle des structures de naissance dans certaines régions.",
+    "Garde à l'esprit ton rôle non médical : tu soutiens les parents dans leur vécu émotionnel face à ces incertitudes, sans intervenir sur l'organisation hospitalière ou les choix cliniques."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-45b8fb4ab9a1",
+   "category": "pol",
+   "priority": false,
+   "title": "Togo : l’Allemagne modernise 19 centres de santé pour les mères et nouveau-nés",
+   "source": "Journal du Togo",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://www.journaldutogo.com/togo-allemagne-modernisation-19-centres-sante/",
+   "summary": "Le Togo et l'Allemagne mènent conjointement un programme de modernisation de dix-neuf centres de santé afin d'améliorer l'offre de soins pour les mères et les nouveau-nés. Cette initiative associe la rénovation des infrastructures, la fourniture de matériel d'urgence, la formation continue du personnel et la sensibilisation des populations locales.",
+   "auto": true,
+   "addedAt": "2026-11-13T12:55:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Ce texte illustre l'importance de l'accès aux soins maternels d'urgence, un sujet que tu peux évoquer pour rassurer les parents sur l'importance d'un suivi adapté.",
+    "Dans ton écoute, sois attentive aux disparités d'accès aux structures de soin et aide les parents à identifier les ressources disponibles près de chez eux.",
+    "Ne te substitue pas aux soignants formés aux urgences obstétricales : ton rôle reste l'accompagnement émotionnel et informationnel global."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-d12791ff0761",
+   "category": "pol",
+   "priority": false,
+   "title": "Agadez : une nouvelle maternité au CSI de Dagamanet",
+   "source": "Journal du Niger",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://www.journalduniger.com/agadez-nouvelle-maternite-csi-dagamanet-oim-cooperation-espagnole/",
+   "summary": "Une nouvelle maternité a été construite au sein d'un centre de santé à Agadez pour faire face à un volume élevé de naissances mensuelles et réduire la mortalité maternelle et infantile. Financé par l'Espagne et réalisé par l'OIM, ce projet vise à désengorger un service très sollicité et à améliorer les conditions d'accueil des familles.",
+   "auto": true,
+   "addedAt": "2026-11-13T12:55:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux t'appuyer sur cet article pour échanger avec les parents sur les conditions d'accueil dans les structures de naissance et l'importance de locaux adaptés.",
+    "Sois à l'écoute du stress que peut générer la saturation des structures médicales et aide les parents à exprimer leurs besoins de sécurité pour le jour J.",
+    "Rappelle que la gestion des infrastructures et la sécurité médicale relèvent strictement des équipes de santé publique et des professionnels de la naissance."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-4d511eba7de2",
@@ -1964,10 +2017,17 @@
    "date": "11 novembre 2026",
    "sortDate": "2026-11-11",
    "url": "https://france3-regions.franceinfo.fr/bretagne/cotes-d-armor/guingamp/il-ne-sera-plus-possible-de-naitre-a-guingamp-l-ars-officialise-la-fermeture-definitive-de-la-maternite-malgre-le-regret-des-habitants-et-des-elus-3447801.html",
-   "summary": "Ils étaient plus d'un millier dans les rues de Guingamp en février 2025 pour défendre leur maternité. C'est désormais officiel : il ne sera plus possible de naître à Guingamp. L'ARS Bretagne a annoncé la création d'un pôle...",
+   "summary": "L'Agence régionale de santé officialise la fermeture définitive de la maternité de Guingamp après plusieurs années de suspension, entraînant l'inquiétude des habitants et des élus locaux face à l'éloignement des lieux de naissance.",
    "auto": true,
    "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de l'impact logistique et de l'allongement des temps de trajet pour se rendre à la maternité en cas de fermeture de structures locales.",
+    "Aider les familles à anticiper leur plan de naissance en tenant compte des réalités de l'offre de soins et des structures de proximité disponibles.",
+    "Veiller à ne pas émettre d'avis critique sur les décisions des autorités sanitaires, tout en écoutant les inquiétudes des parents face aux déserts médicaux."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-1d7087785ba0",
@@ -1978,24 +2038,17 @@
    "date": "11 novembre 2026",
    "sortDate": "2026-11-11",
    "url": "https://www.ici.fr/emissions/l-invite-actu-ici-breizh-izel/c-est-un-creve-coeur-philippe-le-goff-maire-de-guingamp-sur-la-fermeture-definitive-de-la-maternite-3410725",
-   "summary": "La maternité de Guingamp a fermé ses portes ce lundi 9 novembre. Depuis trois ans, les accouchements ne sont pas assurés, et la décision de cette fermeture n",
+   "summary": "La fermeture définitive de la maternité de Guingamp est confirmée par les instances de santé après trois ans de suspension, en raison de difficultés durables de recrutement de personnel médical spécialisé.",
    "auto": true,
    "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-acf16666fd5a",
-   "category": "pol",
-   "priority": false,
-   "title": "Formation pour actualiser les connaissances des sages-femmes de village en 2026",
-   "source": "Vietnam.vn",
-   "date": "11 novembre 2026",
-   "sortDate": "2026-11-11",
-   "url": "https://www.vietnam.vn/fr/tap-huan-cap-nhat-kien-thuc-cho-co-do-thon-ban-nam-2026",
-   "summary": "Du 9 au 13 novembre, le Centre provincial de contrôle des maladies de Thanh Hoa, en coordination avec le Département de la santé maternelle et infantile, a organisé un cours de formation pour mettre à jour les connaissances des sages-femmes de village en 2026.",
-   "auto": true,
-   "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder sans tabou la question de la pénurie de professionnels de santé pour aider les parents à se préparer sereinement aux transferts ou aux changements de dernière minute.",
+    "Soutenir les parents dans l'élaboration de scénarios alternatifs d'accouchement pour renforcer leur sentiment de sécurité face aux incertitudes territoriales.",
+    "Rappeler que la doula informe sur l'organisation des soins mais ne commente pas les choix de gestion hospitalière ou les politiques publiques de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-f81de35c3291",
@@ -2054,6 +2107,27 @@
     "Prendre conscience des difficultés professionnelles et administratives que peuvent traverser certaines femmes enceintes au travail.",
     "Offrir un espace d'écoute sécurisant pour les parents confrontés à des discriminations ou à un stress lié à leur employeur pendant la grossesse.",
     "Rediriger systématiquement vers des professionnels du droit ou des associations spécialisées pour toute question relative aux droits des salariés enceintes."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-4752f62e0712",
+   "category": "pol",
+   "priority": false,
+   "title": "Périnatalité : programme régional de réduction de la mortalité infantile",
+   "source": "Agence régionale de santé Ile-de-France",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.iledefrance.ars.sante.fr/perinatalite-programme-regional-de-reduction-de-la-mortalite-infantile",
+   "summary": "L'Agence régionale de santé d'Île-de-France déploie un programme spécifique pour analyser et tenter de réduire la mortalité infantile et néonatale dans la région. Ce dispositif fait suite au constat de taux plus élevés qu'ailleurs et d'inégalités prononcées entre certains départements franciliens.",
+   "auto": true,
+   "addedAt": "2026-11-13T12:55:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Restez informée des disparités territoriales d'accès aux soins périnataux pour mieux orienter les familles selon leur lieu de résidence.",
+    "Accueillez avec beaucoup de bienveillance les questionnements des parents inquiets face aux actualités sur la sécurité des naissances, tout en valorisant le suivi médical.",
+    "Rappelez toujours aux parents que votre rôle d'accompagnante est non médical et qu'en cas de doute sur la santé du nouveau-né, les urgences ou l'équipe médicale restent les seuls interlocuteurs."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2730,6 +2804,27 @@
    "enriched": true
   },
   {
+   "id": "a-d9ba2a894c5f",
+   "category": "pol",
+   "priority": false,
+   "title": "Maternité d’Ancenis : les inquiétudes persistent, aucune fermeture officiellement décidée",
+   "source": "https://infos-media-nantes.fr/",
+   "date": "2 novembre 2026",
+   "sortDate": "2026-11-02",
+   "url": "https://infos-media-nantes.fr/maternite-ancenis-centre-perinatalite-projet-inquietudes-novembre-2026/",
+   "summary": "Le devenir de la maternité d'Ancenis fait l'objet de discussions et de craintes de la part de collectifs locaux, bien qu'aucune décision officielle de fermeture des accouchements n'ait été actée. Des rapports soulignent des contraintes financières et examinent des pistes de réorganisation des services de soins.",
+   "auto": true,
+   "addedAt": "2026-11-13T12:55:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Encouragez les parents à se tourner en priorité vers l'équipe médicale de leur maternité pour obtenir des informations factuelles et éviter l'anxiété liée aux rumeurs.",
+    "Soyez attentive au sentiment d'isolement ou d'inquiétude des futures mères face aux incertitudes concernant les structures de proximité.",
+    "Maintenez une stricte neutralité politique et ne prenez pas parti dans les débats locaux sur la gestion des établissements de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-26e289097910",
    "category": "pol",
    "priority": false,
@@ -3024,48 +3119,6 @@
    "enriched": true
   },
   {
-   "id": "a-462ec7400710",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance : évolution des modalités déclaratives à compter du 1er novembre 2026",
-   "source": "Éditions Tissot",
-   "date": "27 octobre 2026",
-   "sortDate": "2026-10-27",
-   "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conge-supplementaire-de-naissance-evolution-des-modalites-declaratives-a-compter-du-1er-novembre-2026",
-   "summary": "Les modalités déclaratives pour le congé supplémentaire de naissance évoluent avec la mise en place d'un nouveau générateur de formulaire à partir de novembre 2026. Ce dispositif vise à fiabiliser la transmission des données par les employeurs pour le versement des indemnités journalières de Sécurité sociale.",
-   "auto": true,
-   "addedAt": "2026-10-27T10:17:45+00:00",
-   "pageRead": true,
-   "points": [
-    "Tiens-toi informée des évolutions législatives concernant les congés pour mieux orienter administrativement les futurs parents.",
-    "Aide les couples à anticiper leurs démarches et leurs droits sociaux en amont de l'arrivée de l'enfant.",
-    "Évite de donner des conseils juridiques précis ou administratifs contraignants, et invite-les à vérifier auprès de leur employeur ou des organismes officiels."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2b7e54f0b0ce",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance : Erratum sur la mutuelle",
-   "source": "News Assurances Pro",
-   "date": "27 octobre 2026",
-   "sortDate": "2026-10-27",
-   "url": "https://www.newsassurancespro.com/conge-supplementaire-de-naissance-erratum-sur-la-mutuelle/01691690835",
-   "summary": "Le ministère du Travail a publié un erratum au Journal officiel modifiant sa position concernant le financement de la mutuelle d'entreprise pendant le congé supplémentaire de naissance. La contribution de l'employeur à la complémentaire santé n'est finalement pas systématiquement due lors de cette période de suspension du contrat de travail.",
-   "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Avertis les parents salariés de la complexité des règles liées au congé supplémentaire de naissance afin qu'ils vérifient leur situation auprès de leur employeur.",
-    "Maintiens ton rôle d'écoute sans te substituer à un conseiller juridique ou aux ressources humaines de leur entreprise.",
-    "Encourage les familles à anticiper la gestion de leur budget et de leur protection sociale avant l'arrivée du bébé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-d41d1844f35b",
    "category": "soc",
    "priority": false,
@@ -3074,38 +3127,38 @@
    "date": "12 novembre 2026",
    "sortDate": "2026-11-12",
    "url": "https://actu.fr/pays-de-la-loire/les-sables-d-olonne_85194/enfance-et-parentalite-un-salon-pour-tous-les-futurs-parents-qui-se-posent-des-questions-ce-week-end-en-vendee_65043482.html",
-   "summary": "Le salon enfance et parentalité Lab’elle & kids réunira une vingtaine de professionnels samedi 14 novembre 2026 en Vendée.",
+   "summary": "Un salon dédié à la parentalité organisé en Vendée réunit divers professionnels de la périnatalité, de la petite enfance et des associations locales pour rompre l'isolement des familles. L'événement propose des échanges autour du prénatal, de la grossesse et du postnatal à travers des stands thématiques et des conférences.",
    "auto": true,
    "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "S'inspirer de cette initiative pour encourager les parents à participer à des réseaux de soutien locaux afin de lutter contre l'isolement en post-partum.",
+    "Valoriser la complémentarité des approches entre accompagnantes, professionnels du bien-être et acteurs de santé pour entourer les familles.",
+    "Rappeler aux parents que les espaces de parole non médicaux complètent l'accompagnement de santé, sans s'y substituer."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-f5c95500d721",
+   "id": "a-264144ed5261",
    "category": "soc",
    "priority": false,
-   "title": "Saturnino a terminé sa période d’allaitement et commence une nouvelle étape sur les plages de Mar del Plata",
-   "source": "Noticias Ambientales",
+   "title": "\"Je me suis sentie dans une solitude extrême\" : les confidences de Malika Ménard sur l'accouchement difficile de sa fille Shéhérazade",
+   "source": "Voici",
    "date": "12 novembre 2026",
    "sortDate": "2026-11-12",
-   "url": "https://noticiasambientales.com/uncategorized-fr/saturnino-a-termine-sa-periode-dallaitement-et-commence-une-nouvelle-etape-sur-les-plages-de-mar-del-plata/",
-   "summary": "À 24 jours de sa naissance sur les côtes de Mar del Plata, Saturnino, l'éléphant de mer du sud, est resté seul sur le sable du secteur nord des plages de",
+   "url": "https://www.voici.fr/celebrites/je-me-suis-sentie-dans-une-solitude-extreme-les-confidences-de-malika-menard-sur-l-accouchement-difficile-de-sa-fille-sheherazade-831443",
+   "summary": "Une personnalité publique partage son vécu difficile autour d'un accouchement prématuré non préparé et du bouleversement identitaire et corporel post-partum. Elle évoque notamment un fort sentiment de solitude malgré la présence de son conjoint à la maternité.",
    "auto": true,
-   "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-15a1b554c868",
-   "category": "soc",
-   "priority": false,
-   "title": "Dépression post-partum des pères : pourquoi passe-t-elle encore inaperçue ?",
-   "source": "Parents.fr",
-   "date": "11 novembre 2026",
-   "sortDate": "2026-11-11",
-   "url": "https://www.parents.fr/etre-parent/papa/psycho-papa/depression-post-partum-des-peres-pourquoi-passe-t-elle-encore-inapercue-1159293",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-13T12:55:49+00:00",
+   "pageRead": true,
+   "points": [
+    "Valider la vulnérabilité émotionnelle et le sentiment de solitude que peuvent traverser les mères, même lorsqu'elles sont entourées.",
+    "Ouvrir un espace de dialogue bienveillant sur la difficulté d'accepter les modifications corporelles et les imprévus de la naissance.",
+    "Rappeler que la doula offre un soutien non médical d'écoute et de présence, sans se substituer au suivi psychologique ou médical spécialisé."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-af86344c023f",
