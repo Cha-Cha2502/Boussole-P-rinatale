@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T12:55:49+00:00",
+ "updatedAt": "2026-11-14T11:59:17+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -13,8 +13,8 @@
  ],
  "errors": [],
  "journal": [
-  "19 page(s) d'articles lue(s)",
-  "IA : 19 article(s) résumé(s) et commenté(s)"
+  "14 page(s) d'articles lue(s)",
+  "IA : 14 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -219,7 +219,9 @@
   "a-913499e24604": "2026-11-12",
   "a-f9309aa368f6": "2026-11-12",
   "a-f5c95500d721": "2026-11-12",
-  "a-3c029890cf8f": "2026-11-12"
+  "a-3c029890cf8f": "2026-11-12",
+  "a-cae730d71b9e": "2026-11-14",
+  "a-afd8c9395463": "2026-11-01"
  },
  "articles": [
   {
@@ -600,6 +602,87 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-ef343a1708e9",
+   "category": "sci",
+   "priority": false,
+   "title": "Foie gras enceinte : peut-on en manger sans risque ?",
+   "source": "Qare",
+   "date": "14 novembre 2026",
+   "sortDate": "2026-11-14",
+   "url": "https://www.qare.fr/blog/foie-gras-enceinte/",
+   "summary": "Il est recommandé d'éviter le foie gras pendant la grossesse en raison des risques de listériose et des apports excessifs en vitamine A. Les risques varient selon le type de préparation, les conditions de conservation et le mode de fabrication, comme le distingue la différence entre conserve stérilisée et produit mi-cuit.",
+   "auto": true,
+   "addedAt": "2026-11-14T11:59:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Abordez l'alimentation de fête de manière bienveillante en informant les parents sur les précautions liées à la listériose et à la vitamine A sans culpabilisation.",
+    "Rappelez que vous ne posez pas de diagnostic et renvoyez systématiquement vers le corps médical pour toute question sur un aliment consommé par mégarde.",
+    "Aidez les parents à comprendre la différence entre les modes de conservation pour anticiper leurs repas sereinement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-8ed16333de38",
+   "category": "sci",
+   "priority": false,
+   "title": "Clermont-Ferrand (63)",
+   "source": "UNSSF (sages-femmes)",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://unssf.org/2026/11/13/clermont-ferrand-63/?utm_source=rss&utm_medium=rss&utm_campaign=clermont-ferrand-63",
+   "summary": "Une étudiante en cinquième année de sage-femme à Clermont-Ferrand réalise un mémoire de fin d'études sur l'utilisation et les connaissances des professionnels concernant les probiotiques en gynécologie-obstétrique. Elle propose un questionnaire en ligne anonyme pour recueillir des contributions et enrichir sa recherche.",
+   "auto": true,
+   "addedAt": "2026-11-14T11:59:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux consulter ces travaux de recherche pour enrichir ta culture générale sur l'utilisation des probiotiques en période périnatale.",
+    "Rappelle aux parents que la prescription ou le conseil sur les probiotiques relèvent strictement des professionnels de santé qualifiés."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ef95e871283f",
+   "category": "sci",
+   "priority": false,
+   "title": "Infertilité inexpliquée : près de 3 couples sur 4 ont réussi à avoir un bébé après deux ans de parcours de PMA, selon une étude",
+   "source": "Parents.fr",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.parents.fr/actualites/envie-de-bebe/infertilite-inexpliquee-pres-de-3-couples-sur-4-ont-reussi-a-avoir-un-bebe-apres-deux-ans-de-parcours-de-pma-selon-une-etude-1159465",
+   "summary": "Une étude récente menée en Nouvelle-Zélande montre que près de 70 % des couples souffrant d'infertilité inexpliquée réussissent à avoir un enfant après un parcours de PMA, que l'on commence par des inséminations artificielles ou directement par une FIV. Bien que le taux de réussite immédiat soit plus élevé dès la première tentative avec la FIV, les chances cumulées sur plusieurs essais restent comparables entre les deux méthodes.",
+   "auto": true,
+   "addedAt": "2026-11-14T11:59:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Utilise ces informations pour offrir une écoute empathique aux couples traversant un parcours de PMA long et émotionnellement éprouvant.",
+    "Garde à l'esprit que tu ne poses aucun diagnostic médical et n'interviens pas sur les choix des protocoles de fertilité, qui appartiennent aux équipes médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-7ccb86eea4a8",
+   "category": "sci",
+   "priority": false,
+   "title": "Accouchements plus sûrs : l’UNFPA aux côtés du Togo",
+   "source": "République Togolaise",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.republicoftogo.com/toutes-les-rubriques/sante/accouchements-plus-surs-l-unfpa-aux-cotes-du-togo",
+   "summary": "Le Togo s'associe au Fonds des Nations unies pour la population pour réduire sa mortalité maternelle d'ici 2030 à travers la rénovation des structures sanitaires et la formation des sages-femmes. Une attention particulière est portée sur la prévention et la prise en charge des hémorragies du post-partum ainsi que sur la promotion d'un accouchement humanisé.",
+   "auto": true,
+   "addedAt": "2026-11-14T11:59:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Inspire-toi des démarches d'accouchement humanisé pour valoriser le respect du physiologisque et le bien-être émotionnel des parents.",
+    "R rappelle que la prévention et la gestion des complications médicales graves comme les hémorragies relèvent exclusivement du personnel soignant."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1778,85 +1861,42 @@
    "enriched": true
   },
   {
-   "id": "a-f53613493a3a",
-   "category": "sci",
+   "id": "a-d506ff18581d",
+   "category": "pol",
    "priority": false,
-   "title": "Une top-model défile pour Victoria’s Secret six semaines après son accouchement : comment est-ce possible",
-   "source": "Science et vie",
-   "date": "22 octobre 2026",
-   "sortDate": "2026-10-22",
-   "url": "https://www.science-et-vie.com/corps-et-sante/une-top-model-defile-pour-victorias-secret-six-semaines-apres-son-accouchement-comment-est-ce-possible-264157.html",
-   "summary": "Plusieurs études scientifiques rappellent que la récupération physique après un accouchement varie considérablement d'une femme à l'autre et prend du temps. Le retour rapide d'une personnalité publique à sa silhouette initiale ne reflète pas la guérison interne du corps. Par ailleurs, les recherches nuancent l'impact direct de l'allaitement exclusif ou de l'alimentation biologique sur cette récupération rapide.",
+   "title": "Var : Congé de naissance – nouvelle démarche obligatoire",
+   "source": "TV83",
+   "date": "14 novembre 2026",
+   "sortDate": "2026-11-14",
+   "url": "https://www.tv83.info/var-conge-de-naissance-nouvelle-demarche-obligatoire/",
+   "summary": "Un nouveau formulaire en ligne obligatoire est mis en place pour les employeurs afin de déclarer les congés supplémentaires de naissance. Cette démarche vient simplifier et remplacer le dispositif transitoire initial tout en s'articulant avec les déclarations sociales habituelles.",
    "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
+   "addedAt": "2026-11-14T11:59:17+00:00",
    "pageRead": true,
    "points": [
-    "Aide les jeunes mères à déculpabiliser face aux injonctions esthétiques et à la pression de la récupération physique.",
-    "Rappelle que l'apparence extérieure ne préjuge en rien de la cicatrisation interne et de la santé du périnée ou des abdominaux.",
-    "Encourage un retour progressif au mouvement en insistant sur l'importance de la rééducation avec des professionnels de santé qualifiés."
+    "Informez les futurs parents sur l'existence de leurs droits administratifs et du congé de naissance pour alléger leur charge mentale.",
+    "Aidez les pères ou co-parents à identifier les démarches que leur employeur doit réaliser pour faciliter leur implication précoce.",
+    "Rappelez que vos informations sont d'ordre pratique et que les aspects juridiques et déclaratifs précis relèvent des employeurs et des organismes sociaux."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-2a21f2a5f50a",
-   "category": "sci",
+   "id": "a-4f053d23843e",
+   "category": "pol",
    "priority": false,
-   "title": "Lancement de la Campagne nationale de promotion de l’allaitement maternel",
-   "source": "Femmes du Maroc",
-   "date": "22 octobre 2026",
-   "sortDate": "2026-10-22",
-   "url": "https://femmesdumaroc.com/inspiration/radar/lancement-de-la-campagne-nationale-de-promotion-de-lallaitement-maternel-2",
-   "summary": "Le ministère de la Santé lance sa seizième campagne nationale de promotion de l'allaitement maternel en mettant l'accent sur l'allaitement exclusif durant les six premiers mois de vie. Cette initiative s'inscrit dans une stratégie globale de soutien aux mille premiers jours de l'enfant pour favoriser sa santé et son développement global. Des actions de sensibilisation locales sont prévues pour informer les familles et mobiliser les acteurs de santé.",
+   "title": "Hôpital d'Ancenis : le collectif de soignants et de médecins opposé à la fermeture de la maternité",
+   "source": "Le Quotidien du Médecin",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.lequotidiendumedecin.fr/specialites/gynecologie-obstetrique/hopital-dancenis-le-collectif-de-soignants-et-de-medecins-oppose-la-fermeture-de-la-maternite",
+   "summary": "Un collectif de soignants, de médecins, d'élus et d'habitants se mobilise contre le projet de fermeture de la maternité de l'hôpital d'Ancenis en Loire-Atlantique. La direction envisage de transformer cette structure en centre périnatal de proximité en contrepartie d'investissements dans le bâtiment et le recrutement médical.",
    "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
+   "addedAt": "2026-11-14T11:59:17+00:00",
    "pageRead": true,
    "points": [
-    "Soutenez les parents dans leur projet d'alimentation en valorisant les recommandations de santé publique sur l'allaitement tout en respectant leur choix personnel.",
-    "Proposez des espaces d'information et d'écoute sur les besoins des premiers mois autour de la nutrition et du bien-être du nourrisson.",
-    "Orientez systématiquement les parents vers des professionnels de santé ou des consultantes en lactation certifiées en cas de difficultés techniques ou médicales liées à l'allaitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d37e85ef9834",
-   "category": "sci",
-   "priority": false,
-   "title": "La maternité dans la préhistoire",
-   "source": "Hominides",
-   "date": "22 octobre 2026",
-   "sortDate": "2026-10-22",
-   "url": "https://www.hominides.com/la-maternite-dans-la-prehistoire-conference/",
-   "summary": "Des analyses anthropologiques récentes sur des fossiles permettent de mieux comprendre les pratiques d'allaitement et de sevrage durant la préhistoire. L'article met en avant l'importance historique du maternage et de l'allaitement dans l'établissement des liens d'attachement entre la mère et son nourrisson.",
-   "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Vous pouvez aborder avec les parents la dimension universelle et intemporelle de l'allaitement et du maternage pour les rassurer sur leurs instincts.",
-    "Utilisez ces perspectives anthropologiques pour valoriser l'importance du contact précoce et régulier entre le nouveau-né et ses parents.",
-    "Rappelez que l'accompagnement non médical se concentre sur le soutien émotionnel du lien parent-enfant, en dehors de toute considération biologique ou scientifique complexe."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2a9aab4fbc00",
-   "category": "sci",
-   "priority": false,
-   "title": "Psychose post-partum : des signaux d’alerte trop souvent négligés",
-   "source": "Pourquoi Docteur",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56082-Psychose-post-partum-signaux-d-alerte-souvent-negliges",
-   "summary": "Une étude met en lumière les difficultés rencontrées par des femmes souffrant de psychose post-partum pour obtenir une prise en charge médicale adaptée et rapide. Leurs symptômes graves, tels que des hallucinations ou des troubles du sommeil majeurs, sont fréquemment minimisés ou confondus avec de simples fatigues ou anxiétés. Les données soulignent la nécessité d'une meilleure reconnaissance des signaux d'alerte afin de protéger les mères et leurs familles.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Être particulièrement vigilante aux signes de fatigue extrême combinés à des troubles du comportement ou de la perception chez les jeunes mères.",
-    "Sensibiliser l'entourage à repérer les changements inhabituels pour aider à briser l'isolement des femmes en souffrance.",
-    "Ne jamais banaliser une souffrance psychique intense en post-partum et orienter immédiatement vers un professionnel de santé ou les urgences psychiatriques si nécessaire."
+    "Sois à l'écoute de l'anxiété que peut générer l'éloignement des structures de naissance chez les parents vivant en zone rurale.",
+    "Ne prends pas position sur les décisions de fermeture d'hôpitaux, mais aide les parents à identifier les maternités de repli recommandées par leur équipe médicale."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2128,6 +2168,27 @@
     "Restez informée des disparités territoriales d'accès aux soins périnataux pour mieux orienter les familles selon leur lieu de résidence.",
     "Accueillez avec beaucoup de bienveillance les questionnements des parents inquiets face aux actualités sur la sécurité des naissances, tout en valorisant le suivi médical.",
     "Rappelez toujours aux parents que votre rôle d'accompagnante est non médical et qu'en cas de doute sur la santé du nouveau-né, les urgences ou l'équipe médicale restent les seuls interlocuteurs."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-06cfce23533d",
+   "category": "pol",
+   "priority": false,
+   "title": "Open Data en périnatalité : un outil d'amélioration de la santé périnatale",
+   "source": "Agence régionale de santé Ile-de-France",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.iledefrance.ars.sante.fr/open-data-en-perinatalite-un-outil-damelioration-de-la-sante-perinatale",
+   "summary": "L'Agence régionale de santé d'Île-de-France met en place un outil de données ouvertes pour analyser les indicateurs de santé périnatale et la mortalité infantile. Cette initiative vise à rendre les données hospitalières plus accessibles afin d'aider les professionnels et les décideurs à mieux comprendre les enjeux locaux.",
+   "auto": true,
+   "addedAt": "2026-11-14T11:59:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Prendre conscience des disparités territoriales et des enjeux de santé publique concernant la périnatalité pour mieux comprendre le contexte dans lequel évoluent les familles.",
+    "S'informer sur l'organisation des soins et les indicateurs régionaux sans pour autant s'immiscer dans l'analyse épidémiologique qui relève des autorités de santé.",
+    "Orienter les parents vers les ressources officielles et les professionnels compétents lorsqu'ils s'interrogent sur la sécurité des soins dans leur secteur."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3056,64 +3117,84 @@
    "enriched": true
   },
   {
-   "id": "a-cfc15a6e9370",
-   "category": "pol",
+   "id": "a-5fe000fc0b6a",
+   "category": "soc",
    "priority": false,
-   "title": "Congé supplémentaire de naissance : pour les employeurs, un nouveau formulaire déclaratif à partir du 1er novembre 2026",
-   "source": "Revue Fiduciaire",
-   "date": "28 octobre 2026",
-   "sortDate": "2026-10-28",
-   "url": "https://www.revue-fiduciaire.com/actualite/article/conge-supplementaire-de-naissance-pour-les-employeurs-un-nouveau-formulaire-declaratif-a-partir-du-1er-novembre-2026-0d8c112e-9168-4103-8cc0-77803f00892a",
-   "summary": "L'Assurance maladie annonce la mise en place d'un nouveau formulaire déclaratif destiné aux employeurs à partir du 1er novembre 2026 dans le cadre du congé supplémentaire de naissance. Le texte se limite à cette annonce administrative sans fournir d'autres détails.",
+   "title": "Mobilisation à Sapri contre la fermeture de la maternité",
+   "source": "Il Mattino",
+   "date": "14 novembre 2026",
+   "sortDate": "2026-11-14",
+   "url": "https://www.ilmattino.it/fr/mobilisation_a_sapri_contre_la_fermeture_de_la_maternite-9888268.html",
+   "summary": "Une mobilisation citoyenne et l'occupation d'un hôpital ont débuté pour contester la fermeture imminente du point naissance de Sapri. Cette décision suscite une forte opposition locale de la part des usagers et des élus.",
    "auto": true,
-   "addedAt": "2026-10-29T11:23:27+00:00",
+   "addedAt": "2026-11-14T11:59:17+00:00",
    "pageRead": true,
    "points": [
-    "Se tenir informée des évolutions administratives et des démarches liées aux congés parentaux pour mieux orienter les familles dans leurs préparatifs pratiques.",
-    "Encourager les parents à anticiper dès la grossesse les aspects administratifs et les discussions avec leurs employeurs respectifs.",
-    "Garder à l'esprit que l'accompagnante ne se substitue pas aux organismes officiels pour les démarches et doit se limiter à une écoute et une orientation générale."
+    "Soyez à l'écoute de l'anxiété que les fermetures de maternités ou l'éloignement des structures de soin peuvent générer chez les futurs parents.",
+    "Accueillez la parole des parents sur le manque d'accès aux soins périnataux avec empathie, tout en restant neutre face aux décisions politiques.",
+    "Rappelez que vous soutenez le projet de naissance des parents quel que soit le lieu, sans vous substituer aux urgences médicales."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-b21e7bd0d64f",
-   "category": "pol",
+   "id": "a-679862a0f3ee",
+   "category": "soc",
    "priority": false,
-   "title": "Congé supplémentaire de naissance : un nouveau formulaire déclaratif",
-   "source": "www.weblex.fr",
-   "date": "28 octobre 2026",
-   "sortDate": "2026-10-28",
-   "url": "https://www.weblex.fr/weblex-actualite/conge-supplementaire-de-naissance-un-nouveau-formulaire-declaratif",
-   "summary": "À partir de novembre 2026, l'Assurance maladie met en place un nouveau formulaire en ligne destiné aux employeurs pour déclarer le congé supplémentaire de naissance. Ce dispositif complète les congés classiques de maternité, de paternité ou d'adoption en offrant un ou deux mois de congé additionnel par parent.",
+   "title": "TÉMOIGNAGE. Méningiomes, PMA, bébé miracle… Comment Claire s'est reconstruite après des violences médicales",
+   "source": "France 3 Régions",
+   "date": "14 novembre 2026",
+   "sortDate": "2026-11-14",
+   "url": "https://france3-regions.franceinfo.fr/normandie/eure/evreux/temoignage-meningiomes-pma-bebe-miracle-comment-claire-s-est-reconstruite-apres-des-violences-medicales-3448290.html",
+   "summary": "Une patiente témoigne de son parcours de reconstruction après des années de prise d'un traitement hormonal prescrit pour des troubles comme le SOPK, qui s'est révélé responsable de méningiomes. Ce témoignage met en lumière un manque d'information passé sur les effets secondaires lourds de certains médicaments.",
    "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
+   "addedAt": "2026-11-14T11:59:17+00:00",
    "pageRead": true,
    "points": [
-    "Informer les futurs parents de l'existence de ce congé supplémentaire de naissance pour qu'ils puissent anticiper leur organisation post-natale.",
-    "Inviter les parents à échanger en amont avec leurs employeurs concernant les formalités administratives et les dates de congé.",
-    "Rappeler que la doula offre un soutien logistique et d'information générale, mais ne gère pas les démarches administratives officielles à la place des employeurs ou des salariés."
+    "Offrez un espace d'écoute sécurisant aux personnes portant un passif médical lourd ou des difficultés hormonales de type SOPK.",
+    "Encouragez les parents à questionner les professionnels de santé sur les bénéfices et les risques des traitements proposés pour restaurer leur autonomie.",
+    "Maintenez strictement votre posture non médicale en évitant tout commentaire sur la prescription initiale ou les choix thérapeutiques passés."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-cac4b130dc48",
-   "category": "pol",
+   "id": "a-14893a12a8de",
+   "category": "soc",
    "priority": false,
-   "title": "Allaitement : la discrimination désormais punie par la loi",
-   "source": "Presse Agence",
-   "date": "28 octobre 2026",
-   "sortDate": "2026-10-28",
-   "url": "https://presseagence.fr/paris-constance-de-pelichy-nourrir-son-enfant-ne-devrait-jamais-conduire-une-femme-a-etre-humiliee/",
-   "summary": "Un nouvel amendement inscrit officiellement la discrimination liée à l'allaitement parmi les délits punis par le Code pénal en France. Cette mesure vise à protéger les mères contre les exclusions et les remarques déplacées dans les espaces publics ou professionnels lorsqu'elles nourrissent leur enfant. L'objectif est de garantir la liberté de choix des femmes sans chercher à imposer un mode d'alimentation particulier.",
+   "title": "Congé de naissance 2026 : conditions, durée, indemnisation et impact sur la mutuelle",
+   "source": "Meilleurtaux",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.meilleurtaux.com/comparateur-assurance/mutuelle-sante/toutes-les-mutuelles-santes/mutuelle-maternite/conge-de-naissance.html",
+   "summary": "Depuis le 1er juillet 2026, un congé de naissance supplémentaire permet aux parents de prolonger leur présence auprès de leur nouveau-né ou enfant adopté pour une durée d'un à deux mois. Ce dispositif indemnisé par la Sécurité sociale s'ajoute aux congés légaux existants et peut être pris simultanément, en alternance ou de manière fractionnée.",
    "auto": true,
-   "addedAt": "2026-11-10T13:21:09+00:00",
+   "addedAt": "2026-11-14T11:59:17+00:00",
    "pageRead": true,
    "points": [
-    "Vous pouvez rassurer les mères sur leurs droits légaux en cas de remarques ou de pressions lorsqu'elles allaitent en public.",
-    "Soutenez le choix de chaque parent concernant l'alimentation de son bébé en valorisant l'absence de jugement et le libre arbitre.",
-    "Rappelez aux familles que vous offrez un soutien émotionnel et pratique, sans vous substituer au cadre juridique ou médical."
+    "Informe les parents de l'existence de ce nouveau congé pour les aider à anticiper leur organisation logistique et financière dans le post-partum.",
+    "Oriente les familles vers les organismes compétents comme la Sécurité sociale pour toute question juridique ou administrative précise sur l'indemnisation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-f28a56b163f8",
+   "category": "soc",
+   "priority": false,
+   "title": "Maeva Ghennam parle de son accouchement difficile et fait face aux critiques sur ses filtres",
+   "source": "M Radio",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://mradio.fr/news/people/57934/maeva-ghennam-parle-de-son-accouchement-difficile-et-fait-face-aux-critiques-sur-ses-filtres",
+   "summary": "Une personnalité publique partage son expérience difficile marquée par une césarienne d'urgence, de fortes douleurs et l'hospitalisation de son nouveau-né en néonatologie. Sa prise de parole sur les réseaux sociaux suscite des réactions ambivalentes, partagées entre l'empathie pour son vécu et des critiques sur sa mise en scène numérique.",
+   "auto": true,
+   "addedAt": "2026-11-14T11:59:17+00:00",
+   "pageRead": true,
+   "points": [
+    "Utiliser ce type de témoignage pour ouvrir le dialogue sur la violence potentielle d'un accouchement médicalisé inattendu et de la séparation précoce avec le bébé.",
+    "Offrir un espace d'écoute inconditionnel sur la complexité du retour à la maison après des débuts en néonatologie, loin des représentations idéalisées des réseaux sociaux.",
+    "Rappeler aux parents que la gestion de la douleur post-partum et les aspects cliniques relèvent strictement de l'équipe médicale, tandis que la doula soutient le vécu émotionnel."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4284,69 +4365,6 @@
    "points": [
     "Aborde la place du co-parent lors des ateliers prénataux pour trouver un équilibre qui valorise son rôle sans éclipser la place centrale de la mère.",
     "Ouvre l'espace de parole sur les ressentis et les potentiels sentiments de mise en retrait que peuvent éprouver les mères le jour de l'accouchement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-aead210b169e",
-   "category": "soc",
-   "priority": false,
-   "title": "Une nuit avec une nounou spécialisée : entre soins aux nouveau-nés et succès en ligne",
-   "source": "Il Mattino",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://www.ilmattino.it/fr/une_nuit_avec_une_nounou_specialisee_entre_soins_aux_nouveau_nes_et_succes_en_ligne-9834488.html",
-   "summary": "Cet article évoque l'activité d'une jeune professionnelle proposant des services d'assistance nocturne spécialisée pour les nouveau-nés, rencontrant un succès important notamment grâce à sa visibilité en ligne. Il illustre le développement de nouvelles formes d'accompagnement privé à destination des jeunes parents épuisés.",
-   "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborde avec les parents l'importance de anticiper la fatigue des premières semaines et de réfléchir au réseau de soutien disponible à la maison en post-partum.",
-    "Aide les couples à exprimer leurs besoins d'aide pratique à domicile pour qu'ils puissent solliciter leur entourage ou des professionnels adaptés à leurs attentes.",
-    "Rappelle que si le manque de sommeil devient pathologique ou source de détresse psychologique majeure, il est indispensable de rediriger les parents vers des professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-95d09b6f63cd",
-   "category": "soc",
-   "priority": false,
-   "title": "Nunavik: 40 ans de sages-femmes inuites, un modèle devenu une référence mondiale",
-   "source": "Sherbrooke.info",
-   "date": "18 octobre 2026",
-   "sortDate": "2026-10-18",
-   "url": "https://www.sherbrooke.info/nouvelles-nationales/nunavik-40-ans-de-sages-femmes-inuites-un-modele-devenu-une-reference-mondiale/",
-   "summary": "Depuis quarante ans, un modèle de centres de natalité dirigés par des sages-femmes s'est développé au Nunavik pour permettre aux femmes inuites d'accoucher au plus près de chez elles et de leur famille. Cette démarche communautaire intègre les savoirs traditionnels à la médecine moderne et s'appuie sur une reconnaissance progressive par les autorités publiques.",
-   "auto": true,
-   "addedAt": "2026-10-19T05:29:00+00:00",
-   "pageRead": true,
-   "points": [
-    "Discutez avec les parents de l'importance de se sentir entourés et de retrouver un environnement culturellement rassurant pour la naissance.",
-    "Valorisez le rôle clé des sages-femmes et des structures de proximité dans le respect du choix des lieux d'accouchement.",
-    "Rappelez que vous soutenez le projet de naissance des parents sans jamais vous substituer au suivi médical assuré par les sages-femmes."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-ffcd3321d92e",
-   "category": "soc",
-   "priority": false,
-   "title": "Orange. La maternité accompagne les parents sur le sujet de l’allaitement",
-   "source": "Le Dauphiné Libéré",
-   "date": "18 octobre 2026",
-   "sortDate": "2026-10-18",
-   "url": "https://www.ledauphine.com/sante/2026/10/18/la-maternite-accompagne-les-parents-sur-le-sujet-de-l-allaitement",
-   "summary": "Une maternité hospitalière a organisé une semaine dédiée à l'allaitement maternel comprenant des ateliers pratiques et des temps d'échange avec des professionnels. Cette initiative vise à aider les futurs et jeunes parents à préparer l'arrivée de leur bébé, à choisir le bon matériel et à anticiper les premières difficultés.",
-   "auto": true,
-   "addedAt": "2026-10-19T05:29:00+00:00",
-   "pageRead": true,
-   "points": [
-    "Encouragez les parents à participer aux ateliers proposés par les maternités pour se préparer concrètement aux premiers jours avec bébé.",
-    "Soutenez l'écoute et l'échange autour du matériel et des appréhensions, en valorisant l'expression des ressentis des parents.",
-    "Laissez aux professionnels de la maternité le soin d'aborder les aspects techniques ou médicaux de l'alimentation infantile."
    ],
    "summaryAI": true,
    "enriched": true
