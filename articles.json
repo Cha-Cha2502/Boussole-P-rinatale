@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T11:59:17+00:00",
+ "updatedAt": "2026-11-15T12:35:47+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -11,10 +11,12 @@
   "Franceinfo Santé",
   "Google Actualités (recherches par mots-clés)"
  ],
- "errors": [],
+ "errors": [
+  "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
+ ],
  "journal": [
-  "14 page(s) d'articles lue(s)",
-  "IA : 14 article(s) résumé(s) et commenté(s)"
+  "4 page(s) d'articles lue(s)",
+  "IA : 4 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -221,7 +223,9 @@
   "a-f5c95500d721": "2026-11-12",
   "a-3c029890cf8f": "2026-11-12",
   "a-cae730d71b9e": "2026-11-14",
-  "a-afd8c9395463": "2026-11-01"
+  "a-afd8c9395463": "2026-11-01",
+  "a-04c5c5c963f6": "2026-11-13",
+  "a-59061f6d704b": "2026-11-09"
  },
  "articles": [
   {
@@ -602,6 +606,27 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-284931fef340",
+   "category": "sci",
+   "priority": false,
+   "title": "Cannabis pendant la grossesse : une étude révèle un risque accru de troubles psychiatriques après l’accouchement",
+   "source": "Doctissimo",
+   "date": "15 novembre 2026",
+   "sortDate": "2026-11-15",
+   "url": "https://www.doctissimo.fr/grossesse/news-grossesse/cannabis-pendant-la-grossesse-une-etude-revele-un-risque-accru-de-troubles-psychiatriques-apres-laccouchement-831418.htm",
+   "summary": "Une étude menée en Californie indique qu'un trouble de l'usage du cannabis pendant la grossesse est associé à un risque accru de recours aux urgences psychiatriques au cours de l'année suivant l'accouchement. Ces admissions concernent des pathologies variées telles que la dépression, l'anxiété ou des idées suicidaires, touchant environ une femme sur dix concernée par ce diagnostic. Le contexte postnatal, marqué par la fatigue et les bouleversements hormonaux, contribue à fragiliser cet équilibre psychologique.",
+   "auto": true,
+   "addedAt": "2026-11-15T12:35:47+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder la question des consommations de substances avec bienveillance et sans jugement pour offrir un espace de parole sécurisant aux futurs parents.",
+    "Être particulièrement attentive aux signes de détresse psychologique intense dans le post-partum et orienter rapidement vers les professionnels de santé ou les urgences si nécessaire.",
+    "Rappeler que la doula ne pose aucun diagnostic et soutient les parents en complément du suivi médical indispensable en cas de souffrance psychique."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1835,27 +1860,6 @@
     "Informer les parents sur les bienfaits de l'allaitement tout en respectant pleinement leur choix personnel.",
     "Rappeler qu'un allaitement douloureux nécessite une orientation vers des professionnels spécialisés pour un soutien adapté.",
     "Ne pas se substituer aux professionnels de santé habilités à diagnostiquer les troubles de la succion ou les pathologies mammaires."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-62e022ae5fa0",
-   "category": "sci",
-   "priority": false,
-   "title": "30 % des jeunes mères témoignent de difficultés psychologiques après leur accouchement, révèle une étude",
-   "source": "Yahoo Life France",
-   "date": "22 octobre 2026",
-   "sortDate": "2026-10-22",
-   "url": "https://fr.style.yahoo.com/30-jeunes-m%C3%A8res-t%C3%A9moignent-difficult%C3%A9s-071448412.html",
-   "summary": "Une étude menée en France révèle que si la grande majorité des femmes se sentent bien accompagnées pendant la grossesse, près d'un tiers rencontrent des difficultés après l'accouchement. Parmi elles, un quart font face à des soucis psychologiques comme le baby-blues ou la dépression post-partum. De plus, seize pour cent des mères éprouvent des difficultés à organiser leur suivi médical post-natal.",
-   "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Valide la fréquence élevée des difficultés psychologiques en post-partum pour déculpabiliser les parents.",
-    "Propose un espace d'écoute sécurisant pour repérer les signes de détresse psychologique.",
-    "Oriente systématiquement vers les professionnels de santé habilités dès que des symptômes de dépression post-partum apparaissent."
    ],
    "summaryAI": true,
    "enriched": true
