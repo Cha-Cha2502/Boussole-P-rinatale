@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T12:35:47+00:00",
+ "updatedAt": "2026-11-16T13:27:33+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -15,8 +15,8 @@
   "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
  ],
  "journal": [
-  "4 page(s) d'articles lue(s)",
-  "IA : 4 article(s) résumé(s) et commenté(s)"
+  "8 page(s) d'articles lue(s)",
+  "IA : 3 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -706,6 +706,27 @@
    "points": [
     "Inspire-toi des démarches d'accouchement humanisé pour valoriser le respect du physiologisque et le bien-être émotionnel des parents.",
     "R rappelle que la prévention et la gestion des complications médicales graves comme les hémorragies relèvent exclusivement du personnel soignant."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-1800a7d4f58d",
+   "category": "sci",
+   "priority": false,
+   "title": "Maca et fertilité : aide-t-elle vraiment à tomber enceinte ?",
+   "source": "Darwin Nutrition",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.darwin-nutrition.fr/conseils/maca-fertilite/",
+   "summary": "La maca, un tubercule andin souvent consommé comme complément pour stimuler la fertilité, possède des effets encore incertains chez l'humain selon les recherches scientifiques actuelles. Si certaines études suggèrent un impact potentiel sur la qualité du sperme, les preuves définitives manquent pour valider son efficacité.",
+   "auto": true,
+   "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter de l'utilisation des compléments alimentaires avec recul, en informant les parents des limites des études scientifiques actuelles.",
+    "Inviter les couples à échanger avec un professionnel de santé qualifié avant d'entamer une cure de compléments pour la fertilité.",
+    "Rappeler son rôle non médical : ne pas recommander de dosages ni valider de traitements naturels pour concevoir."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1844,25 +1865,46 @@
    "enriched": true
   },
   {
-   "id": "a-bf6b4f5e9d1a",
-   "category": "sci",
+   "id": "a-9df725f8a1a2",
+   "category": "pol",
    "priority": false,
-   "title": "SANTÉ / Allaitement : un facteur de protection contre le cancer du sein",
-   "source": "Faxinfo",
-   "date": "23 octobre 2026",
-   "sortDate": "2026-10-23",
-   "url": "https://www.faxinfo.fr/sante-allaitement-un-facteur-de-protection-contre-le-cancer-du-sein/",
-   "summary": "Un événement de sensibilisation à l'allaitement rappelle ses bienfaits protecteurs contre le cancer du sein et pour la santé de l'enfant. Des professionnels y soulignent que la douleur en début d'allaitement n'est pas normale et qu'un accompagnement adapté est nécessaire.",
+   "title": "À Concarneau, une rencontre sur le congé supplémentaire de naissance est proposée aux futurs et jeunes parents ce lundi",
+   "source": "maville.com",
+   "date": "15 novembre 2026",
+   "sortDate": "2026-11-15",
+   "url": "https://brest.maville.com/actu/actudet_-a-concarneau-une-rencontre-sur-le-conge-supplementaire-de-naissance-est-proposee-aux-futurs-et-jeunes-parents-ce-lundi_dep-7570946_actu.Htm",
+   "summary": "Une réunion d’information sur le congé supplémentaire de naissance est organisée lundi 16 novembre 2026, à Concarneau (Finistère). L’occasion d’en apprendre…",
    "auto": true,
-   "addedAt": "2026-10-24T05:24:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur les bienfaits de l'allaitement tout en respectant pleinement leur choix personnel.",
-    "Rappeler qu'un allaitement douloureux nécessite une orientation vers des professionnels spécialisés pour un soutien adapté.",
-    "Ne pas se substituer aux professionnels de santé habilités à diagnostiquer les troubles de la succion ou les pathologies mammaires."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-fe5b308f350a",
+   "category": "pol",
+   "priority": false,
+   "title": "DÉCRYPTAGE. Une proposition de loi pourrait-elle venir au secours de la maternité d’Ancenis ?",
+   "source": "Ouest-France",
+   "date": "15 novembre 2026",
+   "sortDate": "2026-11-15",
+   "url": "https://www.ouest-france.fr/sante/hopital/decryptage-une-proposition-de-loi-pourrait-elle-venir-au-secours-de-la-maternite-dancenis-6e4f8888-dd1f-11f1-a62b-776e3051b0df",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-812a2554ae54",
+   "category": "pol",
+   "priority": false,
+   "title": "DÉCRYPTAGE. Une proposition de loi pourrait-elle venir au secours de la maternité d’Ancenis",
+   "source": "maville.com",
+   "date": "15 novembre 2026",
+   "sortDate": "2026-11-15",
+   "url": "https://saint-nazaire.maville.com/actu/actudet_-decryptage-une-proposition-de-loi-pourrait-elle-venir-au-secours-de-la-maternite-d-ancenis_dep-7570637_actu.Htm",
+   "summary": "Le moratoire concernant les fermetures de maternité, voté par les députés à l’Assemblée nationale en mai 2025, aurait pu protéger la maternité d’Ancenis, en…",
+   "auto": true,
+   "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true
   },
   {
    "id": "a-d506ff18581d",
@@ -1901,6 +1943,27 @@
    "points": [
     "Sois à l'écoute de l'anxiété que peut générer l'éloignement des structures de naissance chez les parents vivant en zone rurale.",
     "Ne prends pas position sur les décisions de fermeture d'hôpitaux, mais aide les parents à identifier les maternités de repli recommandées par leur équipe médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-5d79b56b0e8b",
+   "category": "pol",
+   "priority": false,
+   "title": "Hôpital d'Ancenis, le collectif de soignants et de médecins opposés à la fermeture de leur maternité",
+   "source": "Le Quotidien du Médecin",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.lequotidiendumedecin.fr/specialites/gynecologie-obstetrique/hopital-dancenis-le-collectif-de-soignants-et-de-medecins-opposes-la-fermeture-de-leur-maternite",
+   "summary": "La maternité de l'hôpital d'Ancenis est menacée d'une fermeture par l'exécutif pour être transformée en centre périnatal de proximité. Cette perspective suscite l'opposition d'un collectif local regroupant soignants, médecins, habitants et élus.",
+   "auto": true,
+   "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'évolution de l'offre de soins locale et les rassurer sur les alternatives en cas de modification des structures de naissance.",
+    "Rester à l'écoute de l'anxiété que ces incertitudes territoriales peuvent générer chez les couples en fin de grossesse.",
+    "Ne pas intervenir sur les choix de politique de santé et orienter vers les professionnels ou collectifs médicaux pour les questions d'organisation des soins."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3037,88 +3100,32 @@
    "enriched": true
   },
   {
-   "id": "a-3d0bed8e3440",
-   "category": "pol",
+   "id": "a-c5cea618f0c7",
+   "category": "soc",
    "priority": false,
-   "title": "Saumur. Avec la fermeture des urgences et de la maternité de Chinon, l'hôpital de Saumur reste vigilant",
-   "source": "Saumur Kiosque",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://www.le-kiosque.org/actualites/vie-de-la-cite/saumur-avec-la-fermeture-des-urgences-et-de-la-maternite-de-chinon-lhopital-de-saumur-reste-vigilant",
-   "summary": "Un hôpital voisin maintient une vigilance accrue suite à la fermeture temporaire des urgences et de la maternité d'un centre hospitalier des environs. Cette situation témoigne des tensions et des réorganisation en cascade de l'offre de soins périnataux.",
+   "title": "\"C'est lui qui a accueilli notre fils\" : Jeff Panacloc ému en entendant sa compagne raconter son accouchement à domicile",
+   "source": "Magicmaman",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://www.magicmaman.com/c-est-lui-qui-a-accueilli-notre-fils-jeff-panacloc-emu-en-entendant-sa-compagne-raconter-son-accouchement-a-domicile,3787761.asp",
+   "summary": "Jeff Panacloc et Charlotte Bizjak sont parents d'un petit Raphaël qui est né à la maison. Le ventriloque avait les larmes aux yeux quand sa compagne est revenue sur cette naissance et sur le rôle qu'il y a joué.",
    "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Aider les parents à anticiper les temps de trajet et les alternatives vers d'autres maternités en fin de grossesse.",
-    "Offrir une écoute rassurante pour aider les futurs parents à gérer l'anxiété liée à l'organisation logistique de l'accouchement.",
-    "Ne pas se prononcer sur la gestion interne des établissements de santé, la doula restant centrée sur l'accompagnement humain des parents."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-e03982c50647",
-   "category": "pol",
+   "id": "a-d128215aa466",
+   "category": "soc",
    "priority": false,
-   "title": "M. Ait Messaoudene rencontre une délégation du Syndicat national autonome des sages-femmes algériennes de santé publique",
-   "source": "وكالة الأنباء الجزائرية",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://www.aps.dz/fr/algerie/sante-et-environnement/mvu13nn1-m-ait-messaoudene-rencontre-une-delegation-du-syndicat-national-autonome-des-sages-femmes-algeriennes-de-sante-publique",
-   "summary": "Le ministre de la Santé a mené une séance de dialogue et de concertation officielle avec une délégation représentant un syndicat national autonome de sages-femmes de santé publique. Cette rencontre s'inscrit dans le cadre des échanges réguliers avec les partenaires sociaux du secteur médical.",
+   "title": "Marine Tondelier : cachez ce bébé que je ne saurais voir !",
+   "source": "ici.fr",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://www.ici.fr/emissions/mon-oeil/marine-tondelier-cachez-ce-bebe-que-je-ne-saurais-voir-4596093",
+   "summary": "L",
    "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Rappeler aux parents le rôle central et indispensable des sages-femmes dans le suivi médical de la grossesse et du post-partum.",
-    "Valoriser une posture de collaboration harmonieuse entre les accompagnantes non médicales et les professionnels de santé référents.",
-    "Éviter toute prise de position sur les revendications syndicales ou professionnelles pour préserver la neutralité du rôle de doula."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-59a0e6b8c84e",
-   "category": "pol",
-   "priority": false,
-   "title": "L’échographie fœtale réservée aux médecins et sages-femmes",
-   "source": "Docteur Imago",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://docteurimago.fr/actualite/socioprofessionnel/lechographie-foetale-reservee-aux-medecins-et-sages-femmes/",
-   "summary": "Un décret réglemente l'usage de l'imagerie fœtale en interdisant la pratique des échographies non médicales par des personnes autres que les médecins ou les sages-femmes. De plus, ces examens sont désormais strictement encadrés et réservés à certains établissements de santé ou structures professionnelles agréées.",
-   "auto": true,
-   "addedAt": "2026-11-11T12:32:52+00:00",
-   "pageRead": true,
-   "points": [
-    "Rappeler aux parents que les échographies fœtales ne sont pas des actes récréatifs mais des examens médicaux stricts.",
-    "Veiller à ne jamais se substituer au corps médical pour l'interprétation ou la réalisation d'images fœtales.",
-    "Orienter systématiquement les familles vers les professionnels de santé habilités pour tout contrôle ou suivi de grossesse."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-087cdc32e7fa",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance : l’employeur doit-il continuer à payer la mutuelle ? On vous répond",
-   "source": "maville.com",
-   "date": "28 octobre 2026",
-   "sortDate": "2026-10-28",
-   "url": "https://guingamp.maville.com/actu/actudet_-conge-supplementaire-de-naissance-l-employeur-doit-il-continuer-a-payer-la-mutuelle-on-vous-repond_54135-7546967_actu.Htm",
-   "summary": "Prévu pour juillet 2026, le congé supplémentaire de naissance permet aux parents salariés de prolonger leur absence d'un ou deux mois après l'arrivée de l'enfant pour soutenir la natalité. Ce dispositif s'ajoute aux congés déjà existants pour offrir un temps d'accueil élargi au sein de la famille.",
-   "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Informe les parents sur l'existence de ce nouveau congé pour qu'ils puissent anticiper leur organisation administrative et financière.",
-    "Oriente les familles vers les employeurs ou les services RH pour vérifier les conditions exactes d'application et de maintien de la mutuelle.",
-    "Rappelle que la doula n'a pas vocation à interpréter les textes juridiques ou sociaux mais peut encourager les parents à se renseigner auprès des organismes compétents."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true
   },
   {
    "id": "a-5fe000fc0b6a",
@@ -4328,47 +4335,6 @@
     "Aborder avec les parents la question des naissances inattendues et le rôle crucial des secours téléphoniques en cas d'urgence sur la route.",
     "Offrir un espace d'écoute pour les parents ayant vécu un accouchement rapide ou atypique, souvent source de fortes émotions.",
     "Rappeler que face à une expulsion imminente hors d'une structure médicale, contacter immédiatement les services d'urgence reste la priorité absolue."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d7ae697e500a",
-   "category": "soc",
-   "priority": false,
-   "title": "Allaitement à La Réunion : reconnue par l’État, bannie par le CHU, le cri du cœur d’Ericka Moimba de l’association Sœur de Lait",
-   "source": "Free Dom",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://freedom.fr/allaitement-a-la-reunion-reconnue-par-letat-bannie-par-le-chu-le-cri-du-coeur-dericka-moimba-de-lassociation-soeur-de-lait/",
-   "summary": "À La Réunion, une association reconnue par l'État pour son travail en faveur de l'allaitement maternel se heurte aux difficultés d'accès aux services hospitaliers locaux. Ce contraste met en évidence les obstacles rencontrés par les acteurs de terrain malgré une validation institutionnelle de leurs compétences.",
-   "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Soutenir les parents dans leur projet d'allaitement en valorisant les ressources associatives locales disponibles.",
-    "Offrir une écoute bienveillante sur les difficultés et les pressions que peuvent ressentir les mères autour de l'alimentation de leur nourrisson.",
-    "Éviter de s'immiscer dans les protocoles hospitaliers tout en informant les familles sur leurs droits en matière de soutien à l'allaitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-37196594f926",
-   "category": "soc",
-   "priority": false,
-   "title": "Accouchement : la vidéo TikTok où les soignantes félicitent le père pendant la naissance",
-   "source": "Magicmaman",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://www.magicmaman.com/video-tiktok-accouchement-felicitations-pere-reactions-mamans,3787159.asp",
-   "summary": "Une vidéo virale sur TikTok montrant des soignants félicitant un père pendant l'accouchement de sa conjointe a suscité de nombreuses réactions parmi les mères. Si la situation s'expliquait par un geste précis du co-parent, elle met en lumière le sentiment d'effacement ressenti par certaines femmes face à l'attention portée aux conjoints en salle de naissance.",
-   "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborde la place du co-parent lors des ateliers prénataux pour trouver un équilibre qui valorise son rôle sans éclipser la place centrale de la mère.",
-    "Ouvre l'espace de parole sur les ressentis et les potentiels sentiments de mise en retrait que peuvent éprouver les mères le jour de l'accouchement."
    ],
    "summaryAI": true,
    "enriched": true
