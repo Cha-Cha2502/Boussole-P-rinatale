@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T13:27:33+00:00",
+ "updatedAt": "2026-11-17T14:12:56+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -15,8 +15,8 @@
   "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
  ],
  "journal": [
-  "8 page(s) d'articles lue(s)",
-  "IA : 3 article(s) résumé(s) et commenté(s)"
+  "15 page(s) d'articles lue(s)",
+  "IA : 5 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -225,7 +225,9 @@
   "a-cae730d71b9e": "2026-11-14",
   "a-afd8c9395463": "2026-11-01",
   "a-04c5c5c963f6": "2026-11-13",
-  "a-59061f6d704b": "2026-11-09"
+  "a-59061f6d704b": "2026-11-09",
+  "a-0bc269e1db42": "2026-11-17",
+  "a-2c9fd5612efa": "2026-11-16"
  },
  "articles": [
   {
@@ -606,6 +608,27 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-51ca9192bb60",
+   "category": "sci",
+   "priority": false,
+   "title": "\"Il y a une vraie nécessité de faire de la prévention\" au sujet de l'infertilité, estime la cofondatrice d'une association",
+   "source": "Franceinfo Santé",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/il-y-a-une-vraie-necessite-de-faire-de-la-prevention-au-sujet-de-l-infertilite-estime-la-cofondatrice-d-une-association_8263331.html#xtor=RSS-3-%5Bsante%5D",
+   "summary": "Face à la prévalence de l'infertilité et aux nombreuses idées reçues sur la physiologie de la reproduction, les associations et les autorités soulignent la nécessité de renforcer la prévention. Un dispositif d'information, porté notamment par l'Assurance Maladie, vise à sensibiliser les jeunes adultes aux limites biologiques de la fertilité et aux réalités de l'assistance médicale à la procréation.",
+   "auto": true,
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true,
+   "points": [
+    "Intégrer l'existence de ces campagnes de prévention pour orienter les personnes qui s'interrogent sur leur parcours de fertilité.",
+    "Maintenir une posture d'écoute neutre et informer sur la réalité biologique de la conception, tout en renvoyant vers le corps médical pour les bilans et les démarches d'AMP.",
+    "Ne jamais poser de diagnostic sur la fertilité et veiller à respecter le secret médical ainsi que l'intimité des couples."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1844,25 +1867,32 @@
    "enriched": true
   },
   {
-   "id": "a-f2976b505b90",
-   "category": "sci",
+   "id": "a-05609ecc2aea",
+   "category": "pol",
    "priority": false,
-   "title": "Journée mondiale de la contraception : le Centre SIRE et DKT International forment les sages-femmes et gynécologues aux nouveaux stérilets",
-   "source": "Gabonreview.com",
-   "date": "23 octobre 2026",
-   "sortDate": "2026-10-23",
-   "url": "https://www.gabonreview.com/journee-mondiale-de-la-contraception-le-centre-sire-et-dkt-international-forment-les-sages-femmes-et-gynecologues-aux-nouveaux-sterilets/",
-   "summary": "Une formation destinée aux sages-femmes et gynécologues a été organisée pour présenter de nouveaux dispositifs intra-utérins adaptés à différents profils de femmes, y compris celles n'ayant pas encore eu d'enfants. L'initiative vise à actualiser les pratiques professionnelles tout en luttant contre les idées reçues et les peurs persistantes liées à la contraception. La diversité des stérilets présentés offre des durées d'efficacité variées pour répondre aux projets parentaux.",
+   "title": "« Un échec terrible pour le territoire » : la fermeture de la maternité s’invite au conseil municipal de Guingamp",
+   "source": "maville.com",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://guingamp.maville.com/actu/actudet_-un-echec-terrible-pour-le-territoire-la-fermeture-de-la-maternite-s-invite-au-conseil-municipal-de-guingamp_loc-7572458_actu.Htm",
+   "summary": "",
    "auto": true,
-   "addedAt": "2026-10-24T05:24:43+00:00",
-   "pageRead": true,
-   "points": [
-    "Maintiens une veille sur les différentes méthodes contraceptives pour orienter de manière neutre les parents vers des professionnels de santé qualifiés.",
-    "Offre un espace d'écoute bienveillant pour libérer la parole autour des craintes et des tabous liés à la contraception post-partum.",
-    "Ne pose aucun diagnostic ni prescription : encourage toujours le dialogue direct avec un médecin ou une sage-femme pour le choix du dispositif."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-9c11ecfba252",
+   "category": "pol",
+   "priority": false,
+   "title": "Ces deux maires de la Sarthe demandent à la ministre de la Santé la reprise des accouchements dans cette maternité",
+   "source": "Ouest-France",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://www.ouest-france.fr/sante/hopital/a-larret-depuis-2023-ces-deux-maires-de-la-sarthe-demandent-la-reprise-des-accouchements-dans-cette-maternite-65867b2a-e1b2-11f1-b029-43a761592972",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true
   },
   {
    "id": "a-9df725f8a1a2",
@@ -1926,6 +1956,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-e03982c50647",
+   "category": "pol",
+   "priority": false,
+   "title": "M. Ait Messaoudene rencontre une délégation du Syndicat national autonome des sages-femmes algériennes de santé publique",
+   "source": "الإذاعة الجزائرية |",
+   "date": "14 novembre 2026",
+   "sortDate": "2026-11-14",
+   "url": "https://news.radioalgerie.dz/fr/node/97726",
+   "summary": "Le ministre de la Santé, Mohamed Seddik Ait Messaoudene, a reçu, jeudi, une délégation du Syndicat national autonome des sages-femmes algériennes de santé publique (SNASFASP), conduite par Mme Kherrachi Safia, et ce, dans le cadre de la poursuite du dialogue et de la concertation avec les partenaires sociaux, a indiqué un communiqué du ministère.",
+   "auto": true,
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true
   },
   {
    "id": "a-4f053d23843e",
@@ -2156,6 +2200,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-2c7287eaf019",
+   "category": "pol",
+   "priority": false,
+   "title": "\"La maison des Maternelles\" : la sage-femme Anna Roy contrainte de lever le pied à cause d'un soucis de santé",
+   "source": "www.cg-tv.com",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.cg-tv.com/articles/la-maison-des-maternelles-la-sage-femme-anna-roy-contrainte-de-lever-le-pied-a-cause-d-un-soucis-de-sante",
+   "summary": "Anna Roy a annoncé lundi 9 novembre qu’elle annulait ses engagements des prochaines semaines pour des raisons de santé. La sage-femme, qui intervient dans \"La Maison des Maternelles\" depuis 2017, n’a pas précisé quand elle reprendrait l’antenne.",
+   "auto": true,
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true
   },
   {
    "id": "a-f81de35c3291",
@@ -3016,90 +3074,6 @@
    "enriched": true
   },
   {
-   "id": "a-38e687cb946b",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance : le ministère du Travail rectifie sa position sur le maintien de la complémentaire santé",
-   "source": "Editions Tissot",
-   "date": "30 octobre 2026",
-   "sortDate": "2026-10-30",
-   "url": "https://www.editions-tissot.fr/actualite/sante-securite/conge-supplementaire-de-naissance-quel-sort-pour-les-avantages-des-salaries",
-   "summary": "Le ministère du Travail a clarifié les règles concernant le maintien de la complémentaire santé pendant le congé supplémentaire de naissance, indiquant que celui-ci n'est pas automatique mais soumis à conditions. Accessible depuis juillet 2026 pour les enfants nés ou adoptés cette même année, ce congé permet de prendre un à deux mois supplémentaires après les congés initiaux. Pendant cette suspension du contrat de travail, les salariés perçoivent des indemnités journalières dégressives de la Sécurité sociale.",
-   "auto": true,
-   "addedAt": "2026-11-02T13:17:15+00:00",
-   "pageRead": true,
-   "points": [
-    "Utilise ces informations factuelles pour informer les familles sur l'existence de ce congé et de ses modalités d'indemnisation dégressive sur un ou deux mois.",
-    "Aide les parents à verbaliser leurs choix d'organisation temporelle, qu'ils décident de prendre ce congé simultanément, en alternance ou de le fractionner.",
-    "Rappelle aux parents que les aspects contractuels et le maintien des garanties de santé doivent être vérifiés directement auprès de leur employeur ou de leur service RH."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-fc419bde9d8f",
-   "category": "pol",
-   "priority": false,
-   "title": "« Des frais à la charge des patients » : les sages-femmes pourront bientôt facturer plus… mais cela ne convainc pas le secteur",
-   "source": "RTL Info",
-   "date": "30 octobre 2026",
-   "sortDate": "2026-10-30",
-   "url": "https://www.rtl.be/actu/magazine/sante/des-frais-la-charge-des-patients-les-sages-femmes-pourront-bientot-facturer-plus/2026-10-30/article/804993",
-   "summary": "La possibilité pour les sages-femmes de facturer de nouveaux frais suscite des débats et ne fait pas l'unanimité au sein de la profession. Cette question questionne l'organisation des soins et l'accès à l'accompagnement de santé périnatale.",
-   "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Sois à l'écoute des questionnements des parents sur le coût et l'accès aux soins de santé primaires durant la grossesse et le post-partum.",
-    "Encourage les familles à échanger directement avec leurs professionnels de santé pour toute question relative aux tarifs et aux remboursements.",
-    "Rappelle ton positionnement non médical en évitant de prendre position sur les grilles tarifaires des praticiens."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-0d980d84c180",
-   "category": "pol",
-   "priority": false,
-   "title": "Marine Tondelier, maman en campagne : « Pour un message sur l'allaitement, je reçois des remerciements sur Insta et des insultes sur X »",
-   "source": "Paris Match",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://www.parismatch.com/marine-tondelier-maman-en-campagne-pour-message-sur-lallaitement-je-recois-remerciements-sur-insta-insultes-sur-x-7mZEXoYrjLnPKOuBQ9YSiU",
-   "summary": "Une personnalité politique revient sur sa reprise rapide d'activité professionnelle peu de temps après la fin de son congé maternité. Le témoignage illustre l'organisation logistique et le rôle central du coparent, ainsi que le soutien familial, pour articuler vie publique, reprise des responsabilités et premiers mois de vie d'un nouveau-né.",
-   "auto": true,
-   "addedAt": "2026-10-29T11:23:27+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les couples de l'importance de l'organisation pratique et du rôle du coparent dans la répartition des tâches dès le retour à la maison.",
-    "Soutenir la réflexion des parents sur la reprise du travail et la conciliation avec l'accueil du nourrisson, dans le respect de leurs choix de vie.",
-    "Éviter de porter un jugement sur les choix de calendrier professionnel ou de mode de garde des parents, en restant neutre et à l'écoute de leurs contraintes."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-64183b7fcf81",
-   "category": "pol",
-   "priority": false,
-   "title": "Longuyon. Motion de soutien à la maternité : la T2L demande des comptes !",
-   "source": "Le Republicain Lorrain",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://www.republicain-lorrain.fr/economie/2026/10/29/motion-de-soutien-a-la-maternite-la-t2l-demande-des-comptes",
-   "summary": "Une communauté de communes s'oppose publiquement à l'arrêt prévu des accouchements et à la transformation de l'activité de la maternité locale. Cette décision suscite une vive préoccupation sur le territoire quant à l'accès aux soins obstétricaux.",
-   "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les futurs parents de leurs options de lieu de naissance et des plans de secours en cas de modification de l'offre de soins locale.",
-    "Accueillir les inquiétudes légitimes des familles face à l'incertitude des structures de proximité en leur offrant un espace de soutien émotionnel fort.",
-    "Maintenir une stricte neutralité sur les choix politiques et administratifs des hôpitaux tout en validant le besoin de sécurité des parents."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-c5cea618f0c7",
    "category": "soc",
    "priority": false,
@@ -3108,10 +3082,17 @@
    "date": "16 novembre 2026",
    "sortDate": "2026-11-16",
    "url": "https://www.magicmaman.com/c-est-lui-qui-a-accueilli-notre-fils-jeff-panacloc-emu-en-entendant-sa-compagne-raconter-son-accouchement-a-domicile,3787761.asp",
-   "summary": "Jeff Panacloc et Charlotte Bizjak sont parents d'un petit Raphaël qui est né à la maison. Le ventriloque avait les larmes aux yeux quand sa compagne est revenue sur cette naissance et sur le rôle qu'il y a joué.",
+   "summary": "Le couple formé par Jeff Panacloc et Charlotte Bizjak témoigne de leur expérience d'un accouchement physiologique et à domicile. La conjointe souligne l'importance du soutien actif de son partenaire tout au long du travail et lors de l'accueil de leur enfant.",
    "auto": true,
    "addedAt": "2026-11-16T13:27:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Valoriser la place et le rôle actif du co-parent lors de la préparation à la naissance, qu'elle ait lieu à domicile ou en structure.",
+    "Discuter avec les couples de la manière dont le partenaire peut s'impliquer concrètement pour soutenir la physiologie et participer à l'accueil du bébé.",
+    "Rappeler que l'accompagnement de la naissance à domicile relève exclusivement des sages-femmes et que la doula soutient le projet du couple sans intervenir sur le plan médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-d128215aa466",
@@ -3122,9 +3103,30 @@
    "date": "16 novembre 2026",
    "sortDate": "2026-11-16",
    "url": "https://www.ici.fr/emissions/mon-oeil/marine-tondelier-cachez-ce-bebe-que-je-ne-saurais-voir-4596093",
-   "summary": "L",
+   "summary": "L'apparition publique d'une personnalité politique avec son nourrisson a suscité des réactions contrastées, mettant en lumière la difficulté de concilier vie professionnelle, maternité et allaitement. L'article mentionne également les recommandations de l'Organisation mondiale de la santé concernant l'allaitement exclusif et les disparités des droits liés à l'allaitement selon les pays.",
    "auto": true,
    "addedAt": "2026-11-16T13:27:33+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute bienveillant aux parents sur la complexité de reprendre une activité professionnelle tout en poursuivant l'allaitement.",
+    "Soutenir les choix d'organisation des mères dans les premiers mois, en valorisant leurs décisions sans jugement.",
+    "Orioter les parents vers des professionnels de santé ou des associations spécialisées pour toute question médicale ou juridique concernant les droits liés à l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-24bb989492e7",
+   "category": "soc",
+   "priority": false,
+   "title": "TÉMOIGNAGE. « Une manière très douce de faire les choses » : les parents de Suzanne ont choisi l’accouchement à domicile",
+   "source": "maville.com",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://laval.maville.com/actu/actudet_-temoignage-une-maniere-tres-douce-de-faire-les-choses-les-parents-de-suzanne-ont-choisi-l-accouchement-a-domicile_-7572310_actu.Htm",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-17T14:12:56+00:00",
    "pageRead": true
   },
   {
@@ -3457,6 +3459,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-4edaaf851d62",
+   "category": "soc",
+   "priority": false,
+   "title": "Grossesse et arrivée de bébé : les bons repères pour avancer avec sérénité",
+   "source": "africaradio.com",
+   "date": "4 novembre 2026",
+   "sortDate": "2026-11-04",
+   "url": "https://www.africaradio.com/actualite-117256-grossesse-et-arrivee-de-bebe-les-bons-reperes-pour-avancer-avec-serenite",
+   "summary": "Entre les recommandations médicales, les conseils de l’entourage et les informations diffusées sur les réseaux sociaux, les futurs et jeunes parents peuvent rapidement se sentir perdus. Dans Les Rendez-vous Santé d’Africa Radio, Corinne Delamaire, chargée d’expertise scientifique à Santé publique France, et Clélia Bianchi, fondatrice d’Alim’Mater, ont partagé des conseils simples pour bien manger…",
+   "auto": true,
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true
   },
   {
    "id": "a-65efcb28d4fb",
@@ -4293,48 +4309,6 @@
     "Ouvrir un espace de parole pour déculpabiliser les jeunes mères face aux injonctions corporelles véhiculées par les médias après la naissance.",
     "Valider la lenteur du corps à récupérer, en rappelant que le post-partum demande du temps, du repos et de l'indulgence envers soi-même.",
     "Maintenir une posture d'écoute inconditionnelle pour que la mère puisse exprimer sa fatigue physique et psychologique sans craindre le jugement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b57d2545755b",
-   "category": "soc",
-   "priority": false,
-   "title": "Après l'accouchement, comment mieux accompagner les mères ? | Recherche",
-   "source": "Ville de Paris",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.paris.fr/pages/apres-l-accouchement-comment-mieux-accompagner-les-meres-recherche-36916",
-   "summary": "Une enquête anthropologique menée à Paris et Mexico met en lumière les difficultés physiques et émotionnelles rencontrées par les mères durant le post-partum. Ce travail souligne le décalage entre l'idéalisation de la maternité et la réalité vécue marquée par la fatigue et le manque de soutien. Il met également en avant le rôle des prises de parole sur les réseaux sociaux pour briser le tabou de cette période.",
-   "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Valider la parole des mères sur la fatigue intense et les bouleversements émotionnels pour lutter contre l'isolement et la culpabilité.",
-    "Ouvrir un espace d'échange bienveillant sur la réalité du post-partum qui dépasse le seul cadre du suivi médical classique.",
-    "Rappeler aux parents que le rythme de récupération physique et psychologique est personnel et ne correspond pas à un calendrier standardisé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-bc510fd7ec38",
-   "category": "soc",
-   "priority": false,
-   "title": "\"La tête du bébé était en train de sortir\", elle accouche toute seule sur une bande d'arrêt d'urgence, l'histoire se termine bien",
-   "source": "France 3 Régions",
-   "date": "19 octobre 2026",
-   "sortDate": "2026-10-19",
-   "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/temoignage-la-tete-du-bebe-etait-en-train-de-sortir-elle-accouche-toute-seule-sur-une-bande-d-arret-d-urgence-l-histoire-se-termine-bien-3435597.html",
-   "summary": "Un couple a dû faire face à un accouchement imprévu en pleine nuit sur la bande d'arrêt d'urgence d'une voie rapide, guidé à distance par des sages-femmes par téléphone. Grâce à cette assistance rapide, la mère et le nouveau-né se portent bien malgré la surprise de la situation.",
-   "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents la question des naissances inattendues et le rôle crucial des secours téléphoniques en cas d'urgence sur la route.",
-    "Offrir un espace d'écoute pour les parents ayant vécu un accouchement rapide ou atypique, souvent source de fortes émotions.",
-    "Rappeler que face à une expulsion imminente hors d'une structure médicale, contacter immédiatement les services d'urgence reste la priorité absolue."
    ],
    "summaryAI": true,
    "enriched": true
