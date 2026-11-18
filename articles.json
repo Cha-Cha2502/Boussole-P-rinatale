@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T14:12:56+00:00",
+ "updatedAt": "2026-11-18T13:44:11+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -15,8 +15,8 @@
   "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
  ],
  "journal": [
-  "15 page(s) d'articles lue(s)",
-  "IA : 5 article(s) résumé(s) et commenté(s)"
+  "22 page(s) d'articles lue(s)",
+  "IA : 0 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -609,6 +609,34 @@
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
    "enriched": true
+  },
+  {
+   "id": "a-b81a0a190e32",
+   "category": "sci",
+   "priority": false,
+   "title": "Pression artérielle post-partum et risque cardiovasculaire",
+   "source": "Univadis",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.univadis.fr/viewarticle/pression-art%C3%A9rielle-post-partum-et-risque-2026a100147q?uuid=b9e36e13-cb0d-4a27-b170-74cdefd206cb",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-c922cddcfa16",
+   "category": "sci",
+   "priority": false,
+   "title": "Pourquoi la grossesse pourrait nous faire vieillir plus vite",
+   "source": "elle.ch",
+   "date": "17 novembre 2026",
+   "sortDate": "2026-11-17",
+   "url": "https://elle.ch/169211/societe/post-partum-ces-facteurs-meconnus-pourraient-accelerer-le-vieillissement-biologique-des-femmes",
+   "summary": "La grossesse pourrait accélérer temporairement le vieillissement biologique, avant une phase de récupération après l’accouchement.",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
    "id": "a-51ca9192bb60",
@@ -1825,46 +1853,74 @@
    "enriched": true
   },
   {
-   "id": "a-0cbf7b7c6f30",
-   "category": "sci",
+   "id": "a-de002c458e73",
+   "category": "pol",
    "priority": false,
-   "title": "Remarquez, le docteur dit qu'il est fatigué lorsque l'allaitement est un signe que le bébé a une maladie cardiaque",
-   "source": "VOI.ID",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://voi.id/fr/info-sehat/599842",
-   "summary": "Une spécialiste en cardiologie infantile rappelle que certaines cardiopathies congénitales peuvent se manifester par une fatigue inhabituelle lors des tétées, une respiration rapide ou des difficultés de prise de poids. Ces signes d'alerte, parfois visibles seulement quelques semaines ou mois après la naissance, nécessitent une évaluation médicale approfondie.",
+   "title": "Pratique - Congé supplémentaire de naissance : de nouvelles démarches déclaratives",
+   "source": "La Lettre M",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.lalettrem.fr/actualites/conge-supplementaire-de-naissance-de-nouvelles-demarches-declaratives",
+   "summary": "La déclaration du congé supplémentaire de naissance (CSN) change : depuis le 1er novem",
    "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Connaître ces signes de vigilance non spécifiques (fatigue excessive au sein, prise de poids difficile) pour encourager les parents à consulter en cas de doute, sans jamais poser de diagnostic.",
-    "Rassurer les parents tout en leur offrant un espace d'écoute s'ils s'inquiètent du comportement de leur nourrisson pendant les tétées.",
-    "Veiller à orienter rapidement vers un pédiatre ou un médecin dès qu'un symptôme physique inhabituel persiste chez le nouveau-né."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-cf0820c9c5f1",
-   "category": "sci",
+   "id": "a-66fe2f498b8c",
+   "category": "pol",
    "priority": false,
-   "title": "Cancer du sein : un médicament utilisé après l’accouchement pourrait-il réduire le risque ?",
-   "source": "Le Figaro Santé",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://sante.lefigaro.fr/medecine/cancer-du-sein-un-medicament-utilise-apres-l-accouchement-pourrait-il-reduire-le-risque-20261024",
-   "summary": "Une étude récente s'intéresse au risque de cancer du sein dans les années suivant l'accouchement, une période où les tissus mammaires traversent une phase critique après la lactation. Les chercheurs étudient le rôle potentiel d'un médicament, la cabergoline, habituellement prescrit pour stopper la production de lait, dans la réduction de certaines tumeurs.",
+   "title": "INFO BFM BUSINESS. La mutuelle co-financée par l'employeur n'est pas maintenue pendant le congé de naissance: une proposition de loi portée par la gauche entend rectifier le tir",
+   "source": "BFM",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.bfmtv.com/economie/economie-social/info-bfm-business-la-mutuelle-co-financee-par-l-employeur-n-est-pas-maintenue-pendant-le-conge-de-naissance-une-proposition-de-loi-portee-par-la-gauche-entend-rectifier-le-tir_AV-202611180569.html",
+   "summary": "Depuis la mise en œuvre du congé supplémentaire de naissance le 1er juillet dernier, de nombreux parents découvrent avec désarroi que leur mutuelle n'est pas maintenue, sauf s'ils acceptent de payer la part patronale. Le député socialiste de la Loire Pierrick Courbon va déposer une proposition de...",
    "auto": true,
-   "addedAt": "2026-10-26T10:53:39+00:00",
-   "pageRead": true,
-   "points": [
-    "Accueillir avec beaucoup d'écoute les questions des mères sur la période délicate du post-partum et du sevrage, qui comporte des bouleversements physiques importants.",
-    "Ne formuler aucun avis médical sur les traitements d'inhibition de la lactation ou les risques oncologiques mentionnés.",
-    "Encourager les parents à aborder toutes leurs questions de santé mammaire avec leur médecin, leur sage-femme ou leur gynécologue."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-9d1f3442bd78",
+   "category": "pol",
+   "priority": false,
+   "title": "Formations paramédicales et de sage-femme : en 2025, une augmentation du nombre d'inscrits et de diplômés (Drees)",
+   "source": "AEF info",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.aefinfo.fr/depeche/760370-formations-paramedicales-et-de-sage-femme-en-2025-une-augmentation-du-nombre-dinscrits-et-de-diplomes-drees",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-99f7347bda6a",
+   "category": "pol",
+   "priority": false,
+   "title": "Les sages-femmes souhaitent aider à désengorger les soins périnataux",
+   "source": "Radio-Canada",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://ici.radio-canada.ca/article/info/2301388/sage-femme-penurie-perinatalite-maternite-drummondville",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-4d13772d36dc",
+   "category": "pol",
+   "priority": false,
+   "title": "Maternité menacée : « Aucun dossier m’a empêché de dormir, sauf celui-ci », le désarroi d’un maire en Loire-Atlantique",
+   "source": "Ouest-France",
+   "date": "17 novembre 2026",
+   "sortDate": "2026-11-17",
+   "url": "https://www.ouest-france.fr/sante/hopital/aucun-dossier-ma-empeche-de-dormir-sauf-celui-ci-le-desarroi-dun-maire-face-aux-menaces-sur-lhopital-local-163c9712-e288-11f1-a3b1-0c6de532ce7d",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
    "id": "a-05609ecc2aea",
@@ -2969,109 +3025,60 @@
    "enriched": true
   },
   {
-   "id": "a-604c97547f06",
-   "category": "pol",
+   "id": "a-35b595dfa40a",
+   "category": "soc",
    "priority": false,
-   "title": "Déclaration du congé supplémentaire de naissance : un nouveau formulaire obligatoire pour les employeurs",
-   "source": "Entreprendre — Service-Public",
-   "date": "2 novembre 2026",
-   "sortDate": "2026-11-02",
-   "url": "https://entreprendre.service-public.gouv.fr/actualites/A19127",
-   "summary": "Depuis le 1er novembre 2026, un nouveau formulaire en ligne obligatoire est mis en place pour les employeurs afin de déclarer le congé supplémentaire de naissance. Cette démarche vient remplacer le fichier Excel transitoire tout en s'articulant avec les obligations déclaratives existantes auprès de la Sécurité sociale.",
+   "title": "Santé mentale des mères : l’allaitement pourrait-il jouer un rôle ?",
+   "source": "Pourquoi Docteur",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56322-Sante-mentale-meres-l-allaitement-pourrait-il-jouer-role",
+   "summary": "Une étude suggère que les femmes qui allaitent pourraient présenter moins de symptômes dépressifs après l’accouchement..",
    "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Aide les futurs parents à anticiper leurs démarches administratives liées à l'arrivée de l'enfant pour réduire leur charge mentale.",
-    "Oriente les pères ou co-parents vers les ressources officielles pour connaître précisément leurs droits au congé de naissance.",
-    "Garde à l'esprit que tu apportes un soutien pratique et informatif, sans te substituer aux services administratifs ou juridiques."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-d9ba2a894c5f",
-   "category": "pol",
+   "id": "a-2cbf847d56d6",
+   "category": "soc",
    "priority": false,
-   "title": "Maternité d’Ancenis : les inquiétudes persistent, aucune fermeture officiellement décidée",
-   "source": "https://infos-media-nantes.fr/",
-   "date": "2 novembre 2026",
-   "sortDate": "2026-11-02",
-   "url": "https://infos-media-nantes.fr/maternite-ancenis-centre-perinatalite-projet-inquietudes-novembre-2026/",
-   "summary": "Le devenir de la maternité d'Ancenis fait l'objet de discussions et de craintes de la part de collectifs locaux, bien qu'aucune décision officielle de fermeture des accouchements n'ait été actée. Des rapports soulignent des contraintes financières et examinent des pistes de réorganisation des services de soins.",
+   "title": "Les Rencontres de magicmaman : retour sur notre journée dédiée à l'allaitement",
+   "source": "Magicmaman",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.magicmaman.com/les-rencontres-de-magicmaman-retour-sur-notre-journee-dediee-a-l-allaitement,3787591.asp",
+   "summary": "Échanges, conseils d'expertes et moments de détente : magicmaman et Momcozy ont réuni une trentaine de parents et futurs parents autour de l'allaitement. Retour en images sur cette journée placée sous le signe du partage et de la bienveillance.",
    "auto": true,
-   "addedAt": "2026-11-13T12:55:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Encouragez les parents à se tourner en priorité vers l'équipe médicale de leur maternité pour obtenir des informations factuelles et éviter l'anxiété liée aux rumeurs.",
-    "Soyez attentive au sentiment d'isolement ou d'inquiétude des futures mères face aux incertitudes concernant les structures de proximité.",
-    "Maintenez une stricte neutralité politique et ne prenez pas parti dans les débats locaux sur la gestion des établissements de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-26e289097910",
-   "category": "pol",
+   "id": "a-02bc70508b88",
+   "category": "soc",
    "priority": false,
-   "title": "TOULON : Droit du travail - Un webinaire pour décrypter le nouveau congé de naissance",
-   "source": "Presse Agence",
-   "date": "1 novembre 2026",
-   "sortDate": "2026-11-01",
-   "url": "https://presseagence.fr/toulon-droit-du-travail-un-webinaire-pour-decrypter-le-nouveau-conge-de-naissance/",
-   "summary": "Un webinaire est organisé à Toulon par l'Union Patronale et l'Assurance Maladie pour présenter aux entreprises le nouveau congé supplémentaire de naissance. En vigueur depuis le 1er juillet 2026, ce dispositif modifie la gestion des ressources humaines et l'indemnisation des salariés. L'événement vise à clarifier les règles juridiques et déclaratives auprès des employeurs et des services RH.",
+   "title": "Une nouvelle sage-femme est installée au centre La Garaye de Taden",
+   "source": "Ouest-France",
+   "date": "17 novembre 2026",
+   "sortDate": "2026-11-17",
+   "url": "https://www.ouest-france.fr/bretagne/taden-22100/une-nouvelle-sage-femme-est-installee-au-centre-la-garaye-de-taden-265840b6-e26e-11f1-9549-83e3460b2e87",
+   "summary": "",
    "auto": true,
-   "addedAt": "2026-11-02T13:17:15+00:00",
-   "pageRead": true,
-   "points": [
-    "Tiens-toi informée des évolutions législatives comme le congé supplémentaire de naissance pour pouvoir orienter globalement les parents vers les interlocuteurs administratifs adaptés.",
-    "Encourage les co-parents à anticiper le dialogue avec leur employeur en amont de l'arrivée de l'enfant pour aborder sereinement l'organisation de ces nouveaux temps de pause.",
-    "Garde à l'esprit que tu ne peux pas te substituer à l'administration ou aux services RH pour calculer ou valider les droits aux indemnités des familles."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
-   "id": "a-ecb7af3cb9dc",
-   "category": "pol",
+   "id": "a-82bacb6f2879",
+   "category": "soc",
    "priority": false,
-   "title": "« On a le sentiment que tout a été fait pour fermer » : la bataille pour le maintien de la maternité a débuté",
-   "source": "Le Republicain Lorrain",
-   "date": "31 octobre 2026",
-   "sortDate": "2026-10-31",
-   "url": "https://www.republicain-lorrain.fr/sante/2026/10/31/la-bataille-pour-le-maintien-de-la-maternite-a-debute",
-   "summary": "Des professionnels et des usagers se mobilisent pour contester la fermeture de la maternité de Mont-Saint-Martin, redoutant des délais d'intervention trop longs en cas d'urgence obstétricale vitale. Le texte souligne les risques accrus pour la sécurité des mères et des nouveau-nés en zone rurale ou éloignée des structures de soins adaptés.",
+   "title": "Bébés prématurés : 49 études révèlent un résultat majeur sur leur survie",
+   "source": "Doctissimo",
+   "date": "17 novembre 2026",
+   "sortDate": "2026-11-17",
+   "url": "https://www.doctissimo.fr/sante/news-sante/bebes-prematures-49-etudes-revelent-un-resultat-majeur-sur-leur-survie-832869.htm",
+   "summary": "La méthode kangourou, basée sur le peau à peau, pourrait réduire le risque de décès et d'infections graves chez les bébés prématurés.",
    "auto": true,
-   "addedAt": "2026-11-01T11:44:59+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les parents de leur projet de naissance et de l'organisation logistique en cas de départ en urgence vers la maternité.",
-    "Reconnaître l'anxiété que peut générer l'éloignement des structures de soins périnataux sans nourrir de panique.",
-    "Rappeler que la gestion des urgences médicales graves relève strictement de l'équipe médicale et des services de secours."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-528057b37d94",
-   "category": "pol",
-   "priority": false,
-   "title": "« À la maternité, un ordinateur sur les genoux pour faire des actes de procédure » : pourquoi les avocats ont encore du mal à prendre (vraiment) leur congé paternité",
-   "source": "JSS.fr",
-   "date": "30 octobre 2026",
-   "sortDate": "2026-10-30",
-   "url": "https://jss.fr/post/a-la-maternite-un-ordinateur-sur-les-genoux-pour-faire-des-actes-de-procedure-pourquoi-les-avocats-ont-encore-du-mal-a-prendre-vraiment-leur-conge-paternite",
-   "summary": "Dans la profession d'avocat, les pères peinent à prendre l'intégralité de leur congé paternité en raison de freins financiers, hiérarchiques et culturels. Les femmes subissent également des discriminations et des difficultés professionnelles liées à la maternité, malgré l'existence de dispositifs de protection juridique souvent difficiles à faire valoir.",
-   "auto": true,
-   "addedAt": "2026-10-31T10:48:36+00:00",
-   "pageRead": true,
-   "points": [
-    "Discutez avec les co-parents de la place du père et de l'importance de s'impliquer dès le retour à la maison malgré les pressions professionnelles.",
-    "Offrez un espace d'écoute aux couples sur la charge mentale et l'organisation pratique du post-partum face aux contraintes du travail.",
-    "Orientez les parents vers des juristes ou des permanences spécialisées en cas de difficultés ou de discrimination liée à la parentalité au travail, sans se substituer aux professionnels du droit."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
    "id": "a-c5cea618f0c7",
@@ -3253,6 +3260,20 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-5247952ee6e7",
+   "category": "soc",
+   "priority": false,
+   "title": "« Ils sont très soudés et curieux » : les bébés guépards baptisés et de nouvelles naissances au zoo de La Flèche",
+   "source": "Ouest-France",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://www.ouest-france.fr/societe/animaux/ils-sont-tres-soudes-et-curieux-les-bebes-guepards-baptises-et-de-nouvelles-naissances-au-zoo-de-la-fleche-4a04af68-de86-11f1-86b6-0a2fbb1d8ed9",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true
   },
   {
    "id": "a-af86344c023f",
@@ -4204,111 +4225,6 @@
     "Ce récit peut servir de support pour rassurer les parents sur leur capacité à faire face à l'imprévu grâce au soutien téléphonique des services d'urgence et des sages-femmes.",
     "Tu peux rappeler aux couples que les projets de naissance peuvent parfois être bousculés par la physiologie, ce qui rend l'écoute des professionnels indispensables en cas de départ précipité.",
     "Insiste bien sur le fait qu'en cas d'urgence médicale ou d'accouchement imminent hors structure, les doulas ne se substituent jamais aux régulateurs médicaux et aux sages-femmes joignables par téléphone."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-9c0d9ae7b393",
-   "category": "soc",
-   "priority": false,
-   "title": "Barbara Palvin au défilé Victoria’s Secret, une injonction pour les femmes en post-partum",
-   "source": "Le HuffPost",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.huffingtonpost.fr/life/article/le-retour-de-barbara-palvin-au-defile-victoria-s-secret-est-une-enieme-injonction-pour-les-femmes-en-post-partum_342313.html",
-   "summary": "Six semaines après son accouchement, une mannequin a repris les défilés et sa performance physique a été très commentée sur les réseaux sociaux. Elle-même a rappelé que ce retour rapide s'inscrit dans un contexte où les congés maternité font défaut aux États-Unis. Cette situation met en lumière les pressions exercées sur les jeunes mères pour retrouver rapidement leur apparence et leur activité habituelles.",
-   "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents les pressions esthétiques et sociales qui pèsent sur le corps des mères après la naissance.",
-    "Offrir un espace d'écoute bienveillant pour déculpabiliser les mères face au rythme exigeant du post-partum et à la nécessité de repos.",
-    "Rappeler que la récupération physique et psychologique post-natale demande du temps, en dehors de toute considération médicale."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4849c430c6ab",
-   "category": "soc",
-   "priority": false,
-   "title": "Impliquée dans un accident en se rendant à l'hôpital pour accoucher",
-   "source": "Radio-Canada",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://ici.radio-canada.ca/tele/le-telejournal-acadie/site/segments/reportage/2508159/accident-orignal-hopital-maternite-accouchement",
-   "summary": "À cause de la fermeture de la maternité locale, une femme enceinte a dû parcourir une longue distance en voiture pour aller accoucher dans un autre hôpital et le véhicule a heurté un animal en chemin. Ce fait divers illustre les risques et le stress engendrés par l'éloignement des structures de soins obstétricaux pour les familles.",
-   "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Prendre en compte l'anxiété liée à l'éloignement géographique des maternités lors de la préparation à la naissance avec les couples.",
-    "Aider les futurs parents à évaluer sereinement le temps de trajet réel vers la maternité choisie en conditions réelles.",
-    "Ne jamais se substituer au corps médical pour évaluer l'urgence d'un départ ou la gestion d'un transport vers l'hôpital."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-c9ecb8f35fa6",
-   "category": "soc",
-   "priority": false,
-   "title": "«Cela ne devrait pas être normalisé» : le retour de Barbara Palvin chez Victoria’s Secret, six semaines après son accouchement, fait débat",
-   "source": "Madame Figaro",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://madame.lefigaro.fr/style/news/cela-ne-devrait-pas-etre-normalise-le-retour-de-barbara-palvin-chez-victoria-s-secret-six-semaines-apres-son-accouchement-fait-debat-20261020",
-   "summary": "Le retour rapide d'un mannequin sur les podiums six semaines après son accouchement ravive le débat sur la normalisation du corps post-partum. Cet événement met en lumière la pression sociale exercée sur les femmes pour retrouver leur apparence physique et questionne la réalité de la période postnatale. Il fait écho aux discussions plus larges sur la durée du congé maternité et l'acceptation des transformations corporelles.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Ouvrir un espace de parole sécurisant pour permettre aux mères d'exprimer leur fatigue et la pression sociale liée à l'image corporelle après la naissance.",
-    "Valoriser le temps de repos et de récupération inhérent au post-partum, en déconstruisant les standards irréalistes véhiculés par les médias.",
-    "Réorienter les parents vers des professionnels de santé ou psychologues si la pression esthétique ou l'anxiété post-natale devient source de souffrance."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d0693cbcd3a8",
-   "category": "soc",
-   "priority": false,
-   "title": "Une maman de Floride veut monter à bord d’un vol Delta. On lui refuse son tire-lait, car le bébé n’est pas là: «L’allaitement ne s’arrête pas",
-   "source": "TPL Moms",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://tplmoms.com/2026/10/20/une-maman-de-floride-veut-monter-a-bord-dun-vol-delta-on-lui-refuse-son-tire-lait-car-le-bebe-nest-pas-la-lallaitement-ne-sarrete-pas/",
-   "summary": "Une voyageuse a rencontré des difficultés avec une compagnie aérienne pour transporter son tire-lait en cabine en l'absence de son bébé. Bien que le règlement officiel autorise cet appareil sans la présence du nourrisson, la divergence d'informations a généré du stress. Cet incident illustre les obstacles pratiques que peuvent rencontrer les parents dans l'organisation de leurs déplacements en lien avec l'alimentation lactée.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Conseiller aux parents qui voyagent de vérifier systématiquement les politiques écrites des compagnies de transport concernant le matériel d'allaitement.",
-    "Proposer un soutien pratique et logistique pour anticiper les aspects matériels de l'alimentation du nourrisson lors des déplacements.",
-    "R rappeler que la doula n'a pas de rôle juridique ou réglementaire, mais qu'elle peut aider les parents à préparer sereinement leurs démarches."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-002597c58792",
-   "category": "soc",
-   "priority": false,
-   "title": "Le retour de Barbara Palvin au défilé Victoria’s Secret est une énième injonction pour les femmes en post-partum",
-   "source": "Le HuffPost",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.huffingtonpost.fr/life/article/le-retour-de-barbara-palvin-au-defile-victoria-s-secret-est-une-enieme-injonction-pour-les-femmes-en-post-partum_342313.html",
-   "summary": "Six semaines seulement après son accouchement, une mannequin a fait un retour très médiatisé sur les podiums, suscitant de nombreux commentaires sur sa silhouette. Cet événement met en lumière les fortes pressions esthétiques et sociétales qui pèsent sur les mères en post-partum, ainsi que la précarité des congés maternité aux États-Unis.",
-   "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Ouvrir un espace de parole pour déculpabiliser les jeunes mères face aux injonctions corporelles véhiculées par les médias après la naissance.",
-    "Valider la lenteur du corps à récupérer, en rappelant que le post-partum demande du temps, du repos et de l'indulgence envers soi-même.",
-    "Maintenir une posture d'écoute inconditionnelle pour que la mère puisse exprimer sa fatigue physique et psychologique sans craindre le jugement."
    ],
    "summaryAI": true,
    "enriched": true
