@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T13:44:11+00:00",
+ "updatedAt": "2026-11-19T14:13:46+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -15,8 +15,8 @@
   "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
  ],
  "journal": [
-  "22 page(s) d'articles lue(s)",
-  "IA : 0 article(s) résumé(s) et commenté(s)"
+  "40 page(s) d'articles lue(s)",
+  "IA : 21 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -227,7 +227,12 @@
   "a-04c5c5c963f6": "2026-11-13",
   "a-59061f6d704b": "2026-11-09",
   "a-0bc269e1db42": "2026-11-17",
-  "a-2c9fd5612efa": "2026-11-16"
+  "a-2c9fd5612efa": "2026-11-16",
+  "a-f076b7c3ba94": "2026-11-19",
+  "a-4ab85b005601": "2026-11-19",
+  "a-bec2233cdd19": "2026-11-13",
+  "a-5247952ee6e7": "2026-11-12",
+  "a-d501e39b10e2": "2026-11-09"
  },
  "articles": [
   {
@@ -611,6 +616,27 @@
    "enriched": true
   },
   {
+   "id": "a-999b7318ff64",
+   "category": "sci",
+   "priority": false,
+   "title": "Accoucher après 35 ans, en surpoids ou diabétique : un cumul qui change tout",
+   "source": "RTBF",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://www.rtbf.be/article/age-des-meres-obesite-diabete-le-rapport-francophone-sur-la-sante-perinatale-alerte-sur-des-grossesses-de-plus-en-plus-risquees-11816659",
+   "summary": "Les données périnatales récentes en Wallonie et à Bruxelles montrent une baisse générale des naissances couplée à un allongement de l'âge moyen des mères à l'accouchement. Ce report de la maternité, combiné à l'augmentation des traitements de fertilité, nécessite un suivi médical de plus en plus complexe. Le profil des femmes enceintes évolue donc profondément, avec une proportion importante de mères de 35 ans et plus.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder avec bienveillance et sans jugement la question de l'âge ou des parcours de PMA lors des échanges avec les parents.",
+    "Soutenir l'écoute émotionnelle des futures mères confrontées à des grossesses aux suivis médicaux parfois plus lourds ou anxiogènes.",
+    "Rappeler clairement son rôle non médical d'accompagnement global tout en orientant vers l'équipe médicale en cas de besoin spécifique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-b81a0a190e32",
    "category": "sci",
    "priority": false,
@@ -625,6 +651,55 @@
    "pageRead": true
   },
   {
+   "id": "a-eb391adee1ac",
+   "category": "sci",
+   "priority": false,
+   "title": "\"Accoucher dans sa ville, ça crée des souvenirs\" : à Ancenis, des habitants inquiets de voir la maternité fermer",
+   "source": "ici.fr",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-loire-ocean/accoucher-dans-sa-ville-ca-cree-des-souvenirs-a-ancenis-des-habitants-inquiets-de-voir-la-maternite-fermer-9994179",
+   "summary": "L",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-dd247557039a",
+   "category": "sci",
+   "priority": false,
+   "title": "Prématurité : Renforcer le dispositif de soins aux nouveau-nés -",
+   "source": "Gabonactu.com",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://gabonactu.com/blog/2026/11/18/prematurite-renforcer-le-dispositif-de-soins-aux-nouveau-nes/",
+   "summary": "Officiels et participants à la session d’ouverture des ateliers sur la prématurité / Gabonactu.com À l’occasion de la Journée mondiale de la prématurité, célébrée le 17 novembre de chaque année,…",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-a2f329785761",
+   "category": "sci",
+   "priority": false,
+   "title": "Bébés prématurés : ce geste des parents qui pourrait tout changer",
+   "source": "Pourquoi Docteur",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56323-Bebes-prematures-geste-parents-pourrait-changer",
+   "summary": "Une importante revue systématique publiée dans Cochrane confirme les bienfaits de la méthode kangourou, incluant le contact peau à peau prolongé pour les nourrissons prématurés ou de faible poids. L'analyse de nombreux essais cliniques démontre que cette pratique réduit significativement la mortalité hospitalière et prévient les infections graves. L'Organisation mondiale de la santé recommande ainsi de privilégier au moins huit heures quotidiennes de ces soins parentaux.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Encourager les parents à pratiquer le peau à peau le plus tôt et le plus longtemps possible selon les recommandations médicales.",
+    "Valoriser le rôle actif des parents dans les soins de leur nouveau-né prématuré pour renforcer le lien d'attachement.",
+    "Respecter strictement les protocoles de néonatalogie et orienter les questions de santé vers l'équipe médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-c922cddcfa16",
    "category": "sci",
    "priority": false,
@@ -633,10 +708,17 @@
    "date": "17 novembre 2026",
    "sortDate": "2026-11-17",
    "url": "https://elle.ch/169211/societe/post-partum-ces-facteurs-meconnus-pourraient-accelerer-le-vieillissement-biologique-des-femmes",
-   "summary": "La grossesse pourrait accélérer temporairement le vieillissement biologique, avant une phase de récupération après l’accouchement.",
+   "summary": "Des recherches récentes indiquent que la grossesse entraîne une accélération temporaire de l'âge biologique en raison du stress physiologique exercé sur l'organisme. Cependant, les modifications observées au cours de ces neuf mois s'avèrent en grande partie réversibles lors de la période du post-partum. Cette récupération met en lumière l'importance de prêter attention à la santé des jeunes mères après l'accouchement.",
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Dédramatiser la fatigue intense et les bouleversements physiques du post-partum en expliquant les impacts physiologiques de la grossesse.",
+    "Mettre l'accent sur le repos et la récupération des mères durant les premiers mois suivant la naissance.",
+    "Inviter les parents à consulter un professionnel de santé en cas de symptômes physiques ou psychologiques persistants."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-51ca9192bb60",
@@ -1055,6 +1137,27 @@
    "enriched": true
   },
   {
+   "id": "a-1ccf02dd1ecf",
+   "category": "sci",
+   "priority": false,
+   "title": "Allaitement maternel: l’association HANEN formule six recommandations pour mieux protéger les mères et les enfants",
+   "source": "Leaders.com.tn",
+   "date": "6 novembre 2026",
+   "sortDate": "2026-11-06",
+   "url": "https://www.leaders.com.tn/article/38609-allaitement-maternel-l-association-hanen-formule-six-recommandations-pour-mieux-proteger-les-meres-et-les-enfants",
+   "summary": "Une association a formulé plusieurs recommandations pour renforcer la protection et la promotion de l'allaitement maternel lors d'une journée nationale dédiée. Les axes principaux soulignent la nécessité d'une collaboration intersectorielle et d'une information grand public accessible sur les bienfaits du lait maternel et du contact peau à peau.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Appuie-toi sur les recommandations officielles pour encourager le contact peau à peau précoce et informer les parents sur physiologie de la lactation sans jamais poser de diagnostic en cas de difficulté.",
+    "Oriute systématiquement vers une consultante en lactation certifiée ou une sage-femme les mères rencontrant des douleurs ou des problématiques médicales liées à l'allaitement.",
+    "Valorise dans tes discussions avec les futurs parents l'importance d'une information éclairée et globale pour leur permettre de choisir sereinement leur mode d'alimentation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-0e03ab267c5e",
    "category": "sci",
    "priority": false,
@@ -1260,6 +1363,27 @@
     "Discutez de l'allaitement maternel avec les parents en valorisant ses bienfaits globaux pour la santé, tout en restant dans une écoute bienveillante et sans culpabilisation.",
     "Accompagnez les mères dans leurs choix d'allaitement ou d'alimentation pour leur nouveau-né en leur offrant une information éclairée, sans jamais vous substituer au suivi médical.",
     "Gardez à l'esprit que la prévention des pathologies mammaires relève strictement du parcours médical et orientez toujours les parents vers des professionnels de santé en cas de doute."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-4edaaf851d62",
+   "category": "sci",
+   "priority": false,
+   "title": "Grossesse et arrivée de bébé : les bons repères pour avancer avec sérénité",
+   "source": "africaradio.com",
+   "date": "4 novembre 2026",
+   "sortDate": "2026-11-04",
+   "url": "https://www.africaradio.com/actualite-117256-grossesse-et-arrivee-de-bebe-les-bons-reperes-pour-avancer-avec-serenite",
+   "summary": "Les futurs parents font face à une multitude d'informations contradictoires provenant du milieu médical, de leurs proches et d'internet. Des expertes rappellent l'importance de s'appuyer sur des repères fiables pour aborder sereinement la grossesse et l'alimentation.",
+   "auto": true,
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true,
+   "points": [
+    "Aidez les parents à faire le tri face au trop-plein d'informations reçues pendant la grossesse.",
+    "Offrez un espace d'écoute bienveillant pour libérer la parole sur leurs doutes sans leur imposer de directives.",
+    "Rappelez que les choix de santé médicale relèvent strictement des professionnels habilités."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1727,127 +1851,22 @@
    "enriched": true
   },
   {
-   "id": "a-bf1d3e73548f",
-   "category": "sci",
+   "id": "a-ed22c064e977",
+   "category": "pol",
    "priority": false,
-   "title": "30 % des mamans ont connu au moins une difficulté en post-partum, selon une étude de l'Ifop",
-   "source": "Magicmaman",
-   "date": "27 octobre 2026",
-   "sortDate": "2026-10-27",
-   "url": "https://www.magicmaman.com/30-des-mamans-ont-connu-au-moins-une-difficulte-en-post-partum-selon-une-etude-de-l-ifop,3787320.asp",
-   "summary": "Une étude de l'Ifop menée pour l'Ordre des sages-femmes montre que les femmes sont globalement satisfaites du suivi de leur grossesse tout en soulignant la nécessité d'améliorer l'accompagnement après l'accouchement. Elle révèle également que les professionnels de santé et l'entourage constituent les principales sources d'information des parents, loin devant Internet et les réseaux sociaux.",
+   "title": "infos citoyennes - De Maripasoula à Cayenne, des médiatrices autour des femmes enceintes",
+   "source": "Blada.com",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://www.blada.com/boite-aux-lettres/infos-citoyennes/19223-De_Maripasoula_a_Cayenne_des_mediatrices_autour_des_femmes_enceintes.htm",
+   "summary": "La mise en place de la gouvernance de la Stratégie régionale de médiation en santé en Guyane intègre des femmes relais pour soutenir les femmes enceintes éloignées du parcours de soins. Ces médiatrices facilitent le lien entre les patientes, leur famille et l'hôpital de proximité ou le pôle mère-enfant. Cet accompagnement permet de rassurer les futures mères et de maintenir un lien de confiance lors de leur transfert vers les structures de naissance.",
    "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
+   "addedAt": "2026-11-19T14:13:46+00:00",
    "pageRead": true,
    "points": [
-    "Valide l'importance d'un soutien renforcé et d'une présence attentive auprès des parents durant la période délicate du post-partum.",
-    "Utilise ce constat sur la valeur de l'entourage pour valoriser le rôle de soutien informel et de transmission d'informations pratiques de la doula.",
-    "Oriente systématiquement les parents vers le corps médical pour toute question de santé, tout en offrant un espace d'écoute et de parole bienveillant."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-92d1c97a147b",
-   "category": "sci",
-   "priority": false,
-   "title": "Cette étude détecte un effet inattendu du tabac chez les enfants exposés pendant la grossesse et après la naissance",
-   "source": "Magicmaman",
-   "date": "26 octobre 2026",
-   "sortDate": "2026-10-26",
-   "url": "https://www.magicmaman.com/cette-etude-detecte-un-effet-inattendu-du-tabac-chez-les-enfants-exposes-pendant-la-grossesse-et-apres-la-naissance,3787292.asp",
-   "summary": "Une étude récente menée sur des modèles animaux met en lumière les impacts à long terme de l'exposition à la nicotine avant et après la naissance sur les cellules souches du sang. Si les complications immédiates de la grossesse liées au tabac sont bien documentées, ces travaux insistent sur des effets durables potentiels touchant le système immunitaire jusqu'à l'âge adulte.",
-   "auto": true,
-   "addedAt": "2026-10-27T10:17:45+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder la question du tabagisme et de la nicotine de manière bienveillante et sans jugement lors des entretiens prénataux.",
-    "Soutenir l'information globale sur les risques de l'exposition au tabac, tout en redirigeant vers des professionnels de santé qualifiés pour le sevrage.",
-    "Garder à l'esprit que la doula n'a pas à porter de diagnostic sur les impacts physiologiques à long terme, mais peut offrir un espace d'écoute sur les difficultés du sevrage."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-26da88bb8d6f",
-   "category": "sci",
-   "priority": false,
-   "title": "Allaitement maternel : pourquoi les seins semblent-ils savoir que bébé a faim ?",
-   "source": "La Nation Bénin",
-   "date": "25 octobre 2026",
-   "sortDate": "2026-10-25",
-   "url": "https://lanation.bj/sante/allaitement-maternel-pourquoi-les-seins-semblent-ils-savoir-que-bebe-a-faim",
-   "summary": "Cet article explique la physiologie derrière le réflexe d'éjection du lait maternel, qui est stimulé non seulement par la succion du bébé, mais aussi par des facteurs émotionnels et sensoriels comme la vue, les pleurs ou les pensées envers l'enfant. Il met en lumière le rôle des hormones telles que la prolactine et l'ocytocine dans ces réactions corporelles.",
-   "auto": true,
-   "addedAt": "2026-10-28T11:10:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux rassurer les mères en leur expliquant que ressentir des picotements ou des montées de lait en pensant à leur bébé est une réaction physiologique normale et naturelle.",
-    "Utilise cette information pour encourager les parents à cultiver le lien émotionnel avec leur nourrisson, ce qui favorise l'allaitement sans forcer le contact physique permanent.",
-    "Rappelle aux parents que si des difficultés d'allaitement ou des douleurs surviennent, seule une consultante en lactation certifiée ou un professionnel de santé qualifié doit intervenir."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-923907986d98",
-   "category": "sci",
-   "priority": false,
-   "title": "Post-partum : une mère sur trois rencontre des difficultés après la naissance, révèle une enquête",
-   "source": "Doctissimo",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://www.doctissimo.fr/grossesse/news-grossesse/post-partum-une-mere-sur-trois-rencontre-des-difficultes-apres-la-naissance-revele-une-enquete-827997.htm",
-   "summary": "Une enquête révèle qu'environ un tiers des mères rencontrent des difficultés lors du post-partum, qu'il s'agisse de détresse psychologique ou de problèmes d'organisation du suivi médical. Si la grossesse bénéficie d'un encadrement très bien évalué, le suivi se distend nettement après l'accouchement, en particulier chez les plus jeunes. Ces données soulignent l'importance cruciale d'un soutien renforcé pour les familles durant les premiers mois suivant la naissance.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Utilisez ces données pour rassurer les parents sur la fréquence des difficultés post-natales et libérer la parole autour de la santé mentale.",
-    "Renforcez votre présence et votre écoute attentive auprès des jeunes mères durant les premières semaines à domicile.",
-    "Rappelez aux familles que vous offrez un soutien pratique et émotionnel tout en les encourageant à maintenir un contact étroit avec les professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-23947173857f",
-   "category": "sci",
-   "priority": false,
-   "title": "ALLAITEMENT MATERNEL : Des associations contrastées avec les allergies de l'enfant",
-   "source": "Santé log",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://www.santelog.com/actualites/allaitement-maternel-des-associations-contrastees-avec-les-allergies-de-lenfant",
-   "summary": "Une étude récente menée au Japon montre que l'allaitement maternel exclusif pendant six mois protège l'enfant contre l'asthme et la rhinite allergique, tout en étant associé à une prévalence plus élevée d'allergies alimentaires. Ces résultats suggèrent l'importance de s'intéresser aux recommandations concernant la diversification et l'introduction des allergènes courants entre quatre et six mois. Les chercheurs rappellent ainsi la complexité des facteurs immunologiques liés aux modes d'alimentation du nourrisson.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Partagez ces informations de manière nuancée pour soutenir les choix d'alimentation des parents sans jamais émettre de jugement.",
-    "Encouragez les parents à aborder la diversification alimentaire et l'introduction des allergènes avec leur pédiatre ou leur médecin traitant.",
-    "Ne posez aucun diagnostic et ne donnez pas de conseils médicaux sur la gestion des allergies ou les protocoles d'évitement."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-3d8389a7fe00",
-   "category": "sci",
-   "priority": false,
-   "title": "Campagne nationale de promotion de l’allaitement maternel exlusif : Le point avec Dr. Nabil Benchama",
-   "source": "Medi1 News",
-   "date": "24 octobre 2026",
-   "sortDate": "2026-10-24",
-   "url": "https://www.medi1news.com/fr/article/413142.html",
-   "summary": "Cet article aborde une campagne nationale de promotion de l'allaitement maternel exclusif en compagnie d'un médecin. Le texte fourni ne contient toutefois pas de détails ou de corps d'article exploitables.",
-   "auto": true,
-   "addedAt": "2026-10-25T09:40:11+00:00",
-   "pageRead": true,
-   "points": [
-    "Garder en tête que l'allaitement maternel exclusif est un sujet de santé publique souvent soutenu par les institutions.",
-    "Rester attentive aux messages officiels de prévention pour informer les parents avec des repères clairs.",
-    "Ne pas se substituer aux recommandations médicales en matière de nutrition infantile."
+    "S'inspirer de cette démarche de lien et d'écoute active pour rassurer les parents isolés ou éloignés de leurs repères habituels.",
+    "Valoriser l'importance du réseau et de l'entraide entre parents pour briser l'isolement pendant la période périnatale.",
+    "Maintenir une posture de relais et de pont relationnel sans se substituer au personnel médical ou institutionnel."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1907,6 +1926,48 @@
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
    "pageRead": true
+  },
+  {
+   "id": "a-f148192225c0",
+   "category": "pol",
+   "priority": false,
+   "title": "La maternité de Mont-Saint-Martin fermera le 12 décembre",
+   "source": "L'essentiel",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.lessentiel.lu/fr/story/meurthe-et-moselle-la-maternite-de-mont-saint-martin-fermera-le-12-decembre-103669690",
+   "summary": "La maternité de Mont-Saint-Martin fermera ses portes en raison d'une pénurie de personnel médical et d'une baisse des naissances, malgré les mobilisations locales. Les familles devront se tourner vers des structures situées à une cinquantaine de kilomètres, ce qui inquiète les professionnels quant à la sécurité des prises en charge. Cette fermeture s'inscrit dans un contexte national de réduction du nombre de maternités en France depuis plusieurs années.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les parents de la région sur les alternatives de proximité et l'éloignement des structures de recours.",
+    "Ouvrir un espace de parole pour exprimer les inquiétudes face aux déserts médicaux périnataux.",
+    "Rappeler aux parents que la doula ne remplace pas le suivi médical d'urgence malgré l'allongement des trajets."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-80c3d4dcb923",
+   "category": "pol",
+   "priority": false,
+   "title": "[DOSSIER 3/5] 5 ans de la loi PMA pour toutes : Focus sur le centre AMP de Martinique",
+   "source": "RCI",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://rci.fm/martinique/infos/Sante/DOSSIER-35-5-ans-de-la-loi-PMA-pour-toutes-Focus-sur-le-centre-AMP-de-Martinique",
+   "summary": "Cinq ans après l'ouverture de la procréation médicalement assistée à toutes les femmes, le centre AMP de Martinique fait face à d'importantes difficultés financières et à un manque d'effectifs. Malgré un nombre élevé de démarches amorcées par des couples, la structure peine à pérenniser son activité et fait appel à des dons ainsi qu'au soutien institutionnel. Cette situation illustre les tensions qui pèsent sur l'accès aux soins de fertilité dans certains territoires.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir l'écoute spécifique des parcours de PMA qui demandent souvent un accompagnement émotionnel long.",
+    "Orienter les parents vers les associations locales de soutien à la fertilité en cas de difficultés d'accès.",
+    "Maintenir une posture de neutralité et de soutien inconditionnel face aux parcours d'assistance médicale à la procréation."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-4d13772d36dc",
@@ -2022,10 +2083,17 @@
    "date": "14 novembre 2026",
    "sortDate": "2026-11-14",
    "url": "https://news.radioalgerie.dz/fr/node/97726",
-   "summary": "Le ministre de la Santé, Mohamed Seddik Ait Messaoudene, a reçu, jeudi, une délégation du Syndicat national autonome des sages-femmes algériennes de santé publique (SNASFASP), conduite par Mme Kherrachi Safia, et ce, dans le cadre de la poursuite du dialogue et de la concertation avec les partenaires sociaux, a indiqué un communiqué du ministère.",
+   "summary": "Le ministre de la Santé algérien a rencontré une délégation du syndicat des sages-femmes pour discuter de leurs conditions de travail et des réformes du système de santé. L'entretien a mis en avant le rôle central de ces professionnelles pour la santé de la mère et de l'enfant ainsi que la nécessité d'améliorer leur répartition géographique. Cette concertation vise à renforcer l'approche participative et à garantir un accès équitable aux services de santé maternelle.",
    "auto": true,
    "addedAt": "2026-11-17T14:12:56+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Comprendre le rôle clé des sages-femmes dans le parcours de soin et l'importance de leur collaboration avec les parents.",
+    "Rappeler aux parents que la doula travaille en complémentarité avec ces professionnels de santé sans jamais s'y substituer.",
+    "Observer l'évolution de l'organisation des soins pour mieux orienter les familles vers les structures adaptées."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-4f053d23843e",
@@ -2174,6 +2242,27 @@
    "enriched": true
   },
   {
+   "id": "a-53ea959a1650",
+   "category": "pol",
+   "priority": false,
+   "title": "De moins en moins de places pour les sages-femmes dans les hôpitaux",
+   "source": "RTBF",
+   "date": "12 novembre 2026",
+   "sortDate": "2026-11-12",
+   "url": "https://www.rtbf.be/article/de-moins-en-moins-de-places-pour-les-sages-femmes-dans-les-hopitaux-11814389",
+   "summary": "Malgré un taux de natalité globalement stable, les hôpitaux constatent une diminution des besoins en personnel de sage-femme en raison de la réduction de la durée des séjours en maternité. Cette situation entraîne une baisse des recrutements hospitaliers et limite les places de stage disponibles pour les étudiantes. Les séjours post-nataux plus courts modifient l'organisation des services et l'accompagnement des jeunes mères.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Anticiper l'angoisse des parents face à des retours à domicile de plus en plus précoces après l'accouchement.",
+    "Proposer un espace d'écoute et de soutien pratique renforcé pour les premiers jours à la maison suite à la baisse de la durée d'hospitalisation.",
+    "Rappeler aux parents que le suivi médical du nouveau-né et de la mère reste la prérogative des sages-femmes et des pédiatres."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-4d511eba7de2",
    "category": "pol",
    "priority": false,
@@ -2256,20 +2345,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-2c7287eaf019",
-   "category": "pol",
-   "priority": false,
-   "title": "\"La maison des Maternelles\" : la sage-femme Anna Roy contrainte de lever le pied à cause d'un soucis de santé",
-   "source": "www.cg-tv.com",
-   "date": "11 novembre 2026",
-   "sortDate": "2026-11-11",
-   "url": "https://www.cg-tv.com/articles/la-maison-des-maternelles-la-sage-femme-anna-roy-contrainte-de-lever-le-pied-a-cause-d-un-soucis-de-sante",
-   "summary": "Anna Roy a annoncé lundi 9 novembre qu’elle annulait ses engagements des prochaines semaines pour des raisons de santé. La sage-femme, qui intervient dans \"La Maison des Maternelles\" depuis 2017, n’a pas précisé quand elle reprendrait l’antenne.",
-   "auto": true,
-   "addedAt": "2026-11-17T14:12:56+00:00",
-   "pageRead": true
   },
   {
    "id": "a-f81de35c3291",
@@ -2496,6 +2571,27 @@
     "Accueillir les questionnements des parents inquiets par la restructuration ou la fermeture potentielle des maternités proches de chez eux.",
     "Soutenir l'élaboration du plan de naissance en tenant compte des temps de trajet actualisés vers les structures de soins disponibles.",
     "Laisser l'équipe médicale informer les parents sur les protocoles cliniques liés aux changements de structures."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-80af04e158ad",
+   "category": "pol",
+   "priority": false,
+   "title": "La mobilisation des soignants n’aura pas suffi : la maternité de Mont-Saint-Martin va fermer",
+   "source": "Whatsupdoc-lemag.fr",
+   "date": "9 novembre 2026",
+   "sortDate": "2026-11-09",
+   "url": "https://www.whatsupdoc-lemag.fr/article/la-maternite-de-mont-saint-martin-menacee-de-fermeture-apres-le-depart-du-seul-gyneco",
+   "summary": "Malgré la mobilisation des soignants et des élus, la maternité de Mont-Saint-Martin fermera ses portes en raison de difficultés persistantes de recrutement médical. Les futures mères devront être orientées vers un hôpital situé à une cinquantaine de kilomètres pour garantir la sécurité des accouchements.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Sois à l'écoute de l'anxiété que peuvent ressentir les parents face à l'éloignement des structures de naissance et à la diminution du nombre de maternités de proximité.",
+    "Aide les couples à anticiper leur trajet et leur logistique de fin de grossesse en tenant compte des temps de parcours rallongés vers la maternité de recours.",
+    "Rappelle aux parents que le suivi médical et l'évaluation des risques de la fin de grossesse relèvent exclusivement des sages-femmes et des médecins de la structure référente."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2941,88 +3037,39 @@
    "enriched": true
   },
   {
-   "id": "a-f6d0beea05c3",
-   "category": "pol",
+   "id": "a-4b1951e53cc8",
+   "category": "soc",
    "priority": false,
-   "title": "Menaces sur la maternité de l'hôpital d'Ancenis : elle risque de fermer et se transformer en centre de périnatalité",
-   "source": "ici.fr",
-   "date": "3 novembre 2026",
-   "sortDate": "2026-11-03",
-   "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/ancenis-saint-gereon/menaces-sur-la-maternite-de-l-hopital-d-ancenis-elle-risque-de-fermer-et-se-transformer-en-centre-de-perinatalite-8149404",
-   "summary": "Un collectif de soignants alerte sur la possible fermeture de la maternité d'Ancenis au profit d'un centre de périnatalité sans accouchements. Cette modification obligerait les futures mères à se tourner vers d'autres maternités de la région, déjà confrontées à des difficultés de saturation.",
+   "title": "La Leche League : À Gap, des rencontres pour accompagner les mères dans l'allaitement",
+   "source": "ram05",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://ram05.fr/la-leche-league-a-gap-des-rencontres-pour-accompagner-les-meres-dans-lallaitement",
+   "summary": "L'organisation La Leche League développe son réseau de soutien de mère à mère en proposant de nouvelles réunions mensuelles animées par des bénévoles formées, notamment à Gap. Ces rencontres permettent aux mères de se réunir pour partager leurs expériences, poser leurs questions et trouver du réconfort autour de l'allaitement. L'objectif est de favoriser l'entraide et le partage d'informations entre parents sur ces sujets.",
    "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
+   "addedAt": "2026-11-19T14:13:46+00:00",
    "pageRead": true,
    "points": [
-    "Aidez les parents à anticiper dès le début de la grossesse leurs options de lieux d'accouchement au vu du contexte de saturation des structures.",
-    "Proposez un soutien émotionnel renforcé aux familles confrontées à l'incertitude géographique de leur prise en charge médicale.",
-    "Maintenez une stricte neutralité sur les choix institutionnels tout en soutenant les parents dans la préparation logistique de leur projet de naissance."
+    "Orienter les parents vers ces groupes de parole locaux pour compléter l'accompagnement émotionnel et pratique sur l'allaitement.",
+    "Faciliter l'expression du vécu des mères en proposant un espace d'écoute bienveillant inspiré des dynamiques de soutien par les pairs.",
+    "Veiller à ne pas formuler de recommandations médicales sur l'allaitement et passer le relais aux associations spécialisées ou aux professionnels de santé habilités."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-d985b16ebedc",
-   "category": "pol",
+   "id": "a-9d50342557ef",
+   "category": "soc",
    "priority": false,
-   "title": "Congé supplémentaire de naissance : la procédure se simplifie",
-   "source": "Le Quotidien du Pharmacien",
-   "date": "3 novembre 2026",
-   "sortDate": "2026-11-03",
-   "url": "https://www.lequotidiendupharmacien.fr/gestion-de-lofficine/droit-du-travail/conge-supplementaire-de-naissance-la-procedure-se-simplifie",
-   "summary": "Le congé supplémentaire de naissance, opérationnel depuis l'été, nécessite une déclaration de l'employeur auprès de l'Assurance-maladie pour garantir l'indemnisation. Depuis novembre, cette démarche administrative s'effectue via un formulaire en ligne dédié sur le site ameli.fr.",
+   "title": "Opti.Group : système de surveillance et d’alimentation basé sur la technologie RFID pour l’allaitement en groupe",
+   "source": "3tres3.com",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://www.3tres3.com/fr/actualites_entreprises/opti-group-systeme-de-surveillance-et-d%E2%80%99alimentation-base-sur-rfid_18589/",
+   "summary": "Opti.Group permet un suivi continu de chaque animal au niveau du distributeur d’aliments collectif, plus économique, et ce, sans aucune barrière mécanique.",
    "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les futurs ou jeunes parents sur l'existence de leurs droits administratifs et des démarches liées au congé de naissance.",
-    "Aider les familles à s'orienter vers les bons interlocuteurs institutionnels, comme l'Assurance-maladie, pour sécuriser leurs aspects pratiques et financiers.",
-    "Rappeler que les aspects juridiques et l'indemnisation relèvent strictement des instances officielles et non du rôle de la doula."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-705b550df0cb",
-   "category": "pol",
-   "priority": false,
-   "title": "Mont-Saint-Martin : un rassemblement citoyen prévu le 7 novembre contre la fermeture de la maternité",
-   "source": "ici.fr",
-   "date": "2 novembre 2026",
-   "sortDate": "2026-11-02",
-   "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-lorraine-moselle-et-pays-haut/un-rassemblement-prevu-contre-la-fermeture-de-la-maternite-de-mont-saint-martin-alors-que-la-transformation-se-prepare-2707920",
-   "summary": "La maternité de l'hôpital de Mont-Saint-Martin doit fermer ses portes en décembre 2026 en raison d'un manque de personnel médical. Face à cette situation, un collectif local et des élus organisent un rassemblement citoyen pour contester cette décision. Cette fermeture s'inscrit dans un contexte plus large de réduction de l'offre de soins périnataux dans la région.",
-   "auto": true,
-   "addedAt": "2026-11-02T13:17:15+00:00",
-   "pageRead": true,
-   "points": [
-    "Sois attentive à l'anxiété que la fermeture des structures locales peut générer chez les parents, en ouvrant un espace d'écoute bienveillant sur leurs craintes d'éloignement des lieux de naissance.",
-    "Informe-toi sur les maternités alternatives et les réseaux de santé disponibles aux alentours pour orienter au mieux les familles en quête de solutions de repli.",
-    "Rappelle toujours que la gestion des urgences et de la sécurité médicale relève strictement des professionnels de santé et des structures hospitalières."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-0d1359fee6bf",
-   "category": "pol",
-   "priority": false,
-   "title": "Le clesrovimab désormais inscrit sur la liste de prescription des sages-femmes",
-   "source": "Conseil national de l'Ordre des sages-femmes",
-   "date": "2 novembre 2026",
-   "sortDate": "2026-11-02",
-   "url": "https://www.ordre-sages-femmes.fr/2026/le-clesrovimab-desormais-inscrit-sur-la-liste-de-prescription-des-sages-femmes/",
-   "summary": "Un décret récent autorise les sages-femmes à prescrire le clesrovimab, un anticorps monoclonal destiné à prévenir les infections graves à VRS chez les nourrissons. Cette décision s'inscrit dans les stratégies de prévention de la bronchiolite, bien que l'Ordre des sages-femmes regrette la lourdeur du cadre réglementaire limitatif des prescriptions.",
-   "auto": true,
-   "addedAt": "2026-11-03T12:41:27+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les parents des différentes options de prévention contre la bronchiolite proposées par le corps médical.",
-    "Rappeler aux familles que la prescription de ces traitements préventifs relève exclusivement des compétences médicales des sages-femmes et des médecins.",
-    "Observer comment l'évolution des réglementations de santé publique élargit l'accès aux soins de prévention pour les nouveau-nés."
-   ],
-   "summaryAI": true,
-   "enriched": true
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true
   },
   {
    "id": "a-35b595dfa40a",
@@ -3051,6 +3098,27 @@
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
    "pageRead": true
+  },
+  {
+   "id": "a-580b6239fe15",
+   "category": "soc",
+   "priority": false,
+   "title": "Cinq mois après la mort de son fils, une scène poignante dans une maternité israélienne",
+   "source": "IsraJ",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://israj.media-j.com/article/74974/cinq-mois-apres-la-mort-de-son-fils-une-scene-poignante-dans-une-maternite-israelienne",
+   "summary": "Une femme israélienne de 46 ans a accouché d'une petite fille cinq mois après la perte tragique de son fils aîné à la guerre. Ayant découvert cette grossesse inattendue peu de temps avant le drame, elle a traversé une période de deuil et de bouleversements émotionnels intenses. Pour elle, porter cette nouvelle vie est devenu une source vitale de résilience et d'espoir pour l'avenir de sa famille.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Accueillir avec beaucoup de délicatesse les situations où le deuil et la naissance se croisent dans une même trajectoire de vie.",
+    "Proposer un espace d'écoute sécurisant pour les parents qui traversent une grossesse marquée par un traumatisme ou une perte.",
+    "Éviter toute interprétation médicale ou psychologique et se concentrer sur l'accompagnement émotionnel du vécu parental."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-02bc70508b88",
@@ -3134,6 +3202,20 @@
    "summary": "",
    "auto": true,
    "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-4d63582e5674",
+   "category": "soc",
+   "priority": false,
+   "title": "Prématurité au Burkina Faso : Un appel au renforcement du suivi des nouveau-nés pour sauver des vies",
+   "source": "leFaso.net - L'actualité au Burkina Faso",
+   "date": "15 novembre 2026",
+   "sortDate": "2026-11-15",
+   "url": "https://lefaso.net/?page=impression&id_article=150799",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
    "pageRead": true
   },
   {
@@ -3262,18 +3344,46 @@
    "enriched": true
   },
   {
-   "id": "a-5247952ee6e7",
+   "id": "a-2c7287eaf019",
    "category": "soc",
    "priority": false,
-   "title": "« Ils sont très soudés et curieux » : les bébés guépards baptisés et de nouvelles naissances au zoo de La Flèche",
-   "source": "Ouest-France",
-   "date": "12 novembre 2026",
-   "sortDate": "2026-11-12",
-   "url": "https://www.ouest-france.fr/societe/animaux/ils-sont-tres-soudes-et-curieux-les-bebes-guepards-baptises-et-de-nouvelles-naissances-au-zoo-de-la-fleche-4a04af68-de86-11f1-86b6-0a2fbb1d8ed9",
-   "summary": "",
+   "title": "\"La maison des Maternelles\" : la sage-femme Anna Roy contrainte de lever le pied à cause d'un soucis de santé",
+   "source": "www.cg-tv.com",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://www.cg-tv.com/articles/la-maison-des-maternelles-la-sage-femme-anna-roy-contrainte-de-lever-le-pied-a-cause-d-un-soucis-de-sante",
+   "summary": "La sage-femme et médiatrice Anna Roy a dû interrompre ses activités professionnelles et médiatiques pour des raisons de santé liées à l'épuisement. Elle fait le lien avec son dernier ouvrage qui invite les femmes à prêter attention à leur fatigue et à s'autoriser à lever le pied. Cet événement met en lumière la surcharge mentale et physique à laquelle font face les mères et les professionnelles de la périnatalité.",
    "auto": true,
-   "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-17T14:12:56+00:00",
+   "pageRead": true,
+   "points": [
+    "Sensibiliser les jeunes mères au risque d'épuisement maternel et à l'importance cruciale du repos en post-partum.",
+    "Encourager les parents à déléguer les tâches du quotidien et à accepter l'aide extérieure pour préserver leur santé.",
+    "Veiller à sa propre posture de doula en s'imposant des limites saines pour éviter l'épuisement professionnel."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-59d35565adc1",
+   "category": "soc",
+   "priority": false,
+   "title": "« À 12 ans, j’ai aidé ma maman à accoucher » : l’incroyable destin de Tyfène auprès des bébés",
+   "source": "Actu.fr",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://actu.fr/bretagne/brehan_56024/a-12-ans-jai-aide-ma-maman-a-accoucher-lincroyable-destin-de-tyfene-aupres-des-bebes_65037575.html",
+   "summary": "Une entrepreneuse spécialisée dans l'accompagnement émotionnel des bébés et des enfants partage son parcours atypique, marqué par une forte présence sur les réseaux sociaux. Elle propose des pratiques telles que les massages, le bain thérapeutique et la réflexologie plantaire pour apaiser les tensions. Son histoire personnelle est profondément liée à sa vocation précoce pour l'univers de la périnatalité.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux t'inspirer de son approche axée sur l'écoute des émotions et le bien-être corporel pour enrichir tes propositions de soutien non médical auprès des tout-petits.",
+    "Rappelle-toi de maintenir ta posture d'accompagnante en orientant les familles vers des professionnels qualifiés dès qu'un trouble physique ou psychologique profond dépasse ton champ de compétences.",
+    "Tu peux échanger avec les parents sur l'importance du toucher et de la détente dans les premiers mois pour favoriser la libération des tensions chez le nourrisson."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-af86344c023f",
@@ -3312,6 +3422,27 @@
     "Utiliser ce témoignage pour ouvrir la discussion avec les parents sur la difficulté des parcours de PMA et la charge émotionnelle associée.",
     "Aborder la question de la conciliation entre vie professionnelle intense et fin de grossesse en valorisant l'écoute des signaux corporels.",
     "R rappeler que la doula soutient le vécu émotionnel des parents sans interférer avec les choix professionnels ou médicaux qu'ils font."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-ca38e1d624a5",
+   "category": "soc",
+   "priority": false,
+   "title": "Sommeil de bébé : Kiabi Connect face aux alternatives gratuites",
+   "source": "Economie Matin",
+   "date": "10 novembre 2026",
+   "sortDate": "2026-11-10",
+   "url": "https://www.economiematin.fr/kiabi-connect-sommeil-parents-bebe",
+   "summary": "Face aux offres payantes de services et de produits dédiés au sommeil infantile proposées par des marques, de nombreuses alternatives gratuites existent pour les familles. Les centres de PMI, les bibliothèques municipales et les professionnels de santé offrent des ressources fiables et accessibles pour accompagner les parents dans la gestion du sommeil des jeunes enfants.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Informe les parents que tu accompagnes sur l'existence de structures publiques gratuites, comme la PMI, vers lesquelles ils peuvent se tourner pour obtenir du soutien en cas de difficultés de sommeil.",
+    "Aide les familles à faire le tri face à la surabondance d'offres commerciales payantes en valorisant une approche relationnelle et des conseils de bon sens validés par les professionnels de santé.",
+    "Garde à l'esprit que les troubles du sommeil des nourrissons peuvent parfois cacher des problématiques médicales ou relationnelles complexes qui nécessitent une orientation vers un professionnel de santé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3480,20 +3611,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-4edaaf851d62",
-   "category": "soc",
-   "priority": false,
-   "title": "Grossesse et arrivée de bébé : les bons repères pour avancer avec sérénité",
-   "source": "africaradio.com",
-   "date": "4 novembre 2026",
-   "sortDate": "2026-11-04",
-   "url": "https://www.africaradio.com/actualite-117256-grossesse-et-arrivee-de-bebe-les-bons-reperes-pour-avancer-avec-serenite",
-   "summary": "Entre les recommandations médicales, les conseils de l’entourage et les informations diffusées sur les réseaux sociaux, les futurs et jeunes parents peuvent rapidement se sentir perdus. Dans Les Rendez-vous Santé d’Africa Radio, Corinne Delamaire, chargée d’expertise scientifique à Santé publique France, et Clélia Bianchi, fondatrice d’Alim’Mater, ont partagé des conseils simples pour bien manger…",
-   "auto": true,
-   "addedAt": "2026-11-17T14:12:56+00:00",
-   "pageRead": true
   },
   {
    "id": "a-65efcb28d4fb",
@@ -4121,110 +4238,6 @@
     "Encourage les parents à exprimer librement leurs émotions et leurs craintes durant la période périnatale.",
     "Utilise ces espaces d'échange pour orienter les familles vers des réseaux de soutien associatifs locaux.",
     "Garde en tête que les sujets lourds comme la réanimation néonatale nécessitent une écoute particulièrement délicate et mesurée."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-b5a6a570baba",
-   "category": "soc",
-   "priority": false,
-   "title": "Angleterre : dans les maternités du NHS, ce cocktail explosif qui inquiète les futures mères et le système de santé",
-   "source": "Homéophyto",
-   "date": "22 octobre 2026",
-   "sortDate": "2026-10-22",
-   "url": "https://homeophyto.topsante.com/mere-enfant/chez-le-tout-petit/laccouchement/angleterre-dans-les-maternites-du-nhs-ce-cocktail-explosif-qui-inquiete-les-futures-meres-et-le-systeme-de-sante-70323.html",
-   "summary": "Les maternités en Angleterre font face à une crise majeure marquée par des fermetures d'unités, des pénuries de personnel et des difficultés d'accès aux soins pour les futures mères. Des témoignages soulignent des situations dramatiques et des risques accrus de complications non prises en charge à temps. Cette situation met en lumière un système de santé sous tension et génère une anxiété grandissante chez les parents.",
-   "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Accueillez la peur et l'anxiété des parents concernant la sécurité des parcours de naissance en leur offrant un espace d'écoute sécurisant.",
-    "Encouragez les parents à exprimer leurs doutes et à faire valoir leur ressenti auprès des équipes médicales en cas d'inquiétude durant la grossesse.",
-    "Rappelez que vous ne pouvez ni évaluer la qualité des soins d'un établissement ni vous substituer au corps médical pour juger des risques obstétricaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2a29a38d880e",
-   "category": "soc",
-   "priority": false,
-   "title": "Taourirt/INDH : Une rencontre à Debdou pour sensibiliser à l’importance de l’allaitement maternel",
-   "source": "هبة بريس",
-   "date": "22 octobre 2026",
-   "sortDate": "2026-10-22",
-   "url": "https://fr.hibapress.com/news-279451.html",
-   "summary": "Une rencontre a été organisée à Debdou dans le cadre de l'INDH pour sensibiliser la population locale à l'importance de l'allaitement maternel. Le texte d'origine est toutefois trop succinct pour détailler davantage le contenu de cet événement.",
-   "auto": true,
-   "addedAt": "2026-10-23T05:27:29+00:00",
-   "pageRead": true,
-   "points": [
-    "S'appuyer sur ces initiatives locales pour encourager les parents à participer à des groupes de soutien autour de l'allaitement.",
-    "Offrir un espace de discussion bienveillant pour aborder les choix d'alimentation des nourrissons sans pression.",
-    "Rappeler que le rôle de la doula est d'accompagner la mise en place de l'allaitement sur le plan pratique et émotionnel, en orientant vers des professionnels de santé en cas de difficulté médicale."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-782b9fc4015b",
-   "category": "soc",
-   "priority": false,
-   "title": "\"On sent les équipes sous tension\" : la maternité de Pau face à une forte activité depuis la fermeture de Navarre",
-   "source": "ici.fr",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/pau/on-sent-les-equipes-sous-tension-la-maternite-de-pau-face-a-une-forte-activite-depuis-la-fermeture-de-navarre-4928840",
-   "summary": "La nouvelle maternité de Pau fait face à un afflux important de naissances à la suite de la fermeture d'un établissement voisin, provoquant une surcharge de travail pour les équipes. Si les mères interrogées saluent la bienveillance et la compétence du personnel soignant, elles notent des conditions d'accueil tendues, marquées par un manque de chambres et une incitation rapide au retour à domicile. Cette situation met en lumière les difficultés organisationnelles des structures hospitalières face à la concentration des naissances.",
-   "auto": true,
-   "addedAt": "2026-10-21T05:28:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Validez l'écoute des parents en reconnaissant leur fatigue face aux tensions hospitalières, tout en valorisant le dévouement des équipes soignantes malgré les difficultés.",
-    "Aidez les parents à anticiper un retour à domicile potentiellement plus précoce que prévu en renforçant leur préparation pratique et émotionnelle au post-partum.",
-    "Rappelez que les décisions de sortie et la gestion des lits relèvent exclusivement du personnel médical, sans vous immiscer dans ces choix hospitaliers."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d6cd35d728cc",
-   "category": "soc",
-   "priority": false,
-   "title": "Post-partum : 8 h aux urgences sur une chaise, cette mère alerte sur ces signaux qu’on ne doit jamais minimiser",
-   "source": "Homéophyto",
-   "date": "21 octobre 2026",
-   "sortDate": "2026-10-21",
-   "url": "https://homeophyto.topsante.com/sante/a-lhopital/post-partum-8-h-aux-urgences-sur-une-chaise-cette-mere-alerte-sur-ces-signaux-quon-ne-doit-jamais-minimiser-70303.html",
-   "summary": "Une mère de famille partage son long parcours aux urgences à Québec en raison de saignements post-partum importants et inhabituels survenus une semaine après son accouchement. Après plusieurs heures d'attente, les examens médicaux ont révélé la présence de sang résiduel dans l'utérus qui devait s'évacuer naturellement. Ce témoignage met en lumière la détresse psychologique des mères face aux failles du parcours de soins en post-partum et rappelle les critères d'alerte médicale concernant les lochies.",
-   "auto": true,
-   "addedAt": "2026-10-22T05:28:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Tu peux utiliser cet article pour informer les parents des signes d'alerte précis en post-partum, comme des saignements abondants remplissant une serviette en moins d'une heure ou de la fièvre.",
-    "Encourage les parents à écouter leur instinct et à consulter rapidement en cas de doute, tout en sachant que tu dois immédiatement les orienter vers un médecin ou une sage-femme face à de tels symptômes sans tenter de poser un diagnostic."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-bac3675a6e81",
-   "category": "soc",
-   "priority": false,
-   "title": "\"J'ai mis mes deux mains et j'ai sorti le bébé\" : avec les sages-femmes au téléphone, il accouche sa femme la nuit sur le périphérique",
-   "source": "Centre Presse Aveyron",
-   "date": "20 octobre 2026",
-   "sortDate": "2026-10-20",
-   "url": "https://www.centrepresseaveyron.fr/2026/10/20/jai-mis-mes-deux-mains-et-jai-sorti-le-bebe-avec-les-sages-femmes-au-telephone-il-accouche-sa-femme-la-nuit-sur-le-peripherique-13609993.php",
-   "summary": "Un couple a traversé une situation d'urgence inattendue lorsqu'un accouchement a débuté sur la route menant à la maternité, contraignant le conjoint à faire naître le bébé guidé par les instructions téléphoniques des sages-femmes. L'intervention rapide des secours arrivés peu après a permis de prendre le relais pour acheminer la mère et l'enfant en toute sécurité vers l'établissement de soins. Cet événement témoigne de la force imprévisible du travail et de la réactivité des parents face à l'urgence.",
-   "auto": true,
-   "addedAt": "2026-10-20T05:27:57+00:00",
-   "pageRead": true,
-   "points": [
-    "Ce récit peut servir de support pour rassurer les parents sur leur capacité à faire face à l'imprévu grâce au soutien téléphonique des services d'urgence et des sages-femmes.",
-    "Tu peux rappeler aux couples que les projets de naissance peuvent parfois être bousculés par la physiologie, ce qui rend l'écoute des professionnels indispensables en cas de départ précipité.",
-    "Insiste bien sur le fait qu'en cas d'urgence médicale ou d'accouchement imminent hors structure, les doulas ne se substituent jamais aux régulateurs médicaux et aux sages-femmes joignables par téléphone."
    ],
    "summaryAI": true,
    "enriched": true
