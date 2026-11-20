@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T14:13:46+00:00",
+ "updatedAt": "2026-11-20T13:54:39+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -15,8 +15,8 @@
   "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
  ],
  "journal": [
-  "40 page(s) d'articles lue(s)",
-  "IA : 21 article(s) résumé(s) et commenté(s)"
+  "37 page(s) d'articles lue(s)",
+  "IA : 35 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -232,7 +232,18 @@
   "a-4ab85b005601": "2026-11-19",
   "a-bec2233cdd19": "2026-11-13",
   "a-5247952ee6e7": "2026-11-12",
-  "a-d501e39b10e2": "2026-11-09"
+  "a-d501e39b10e2": "2026-11-09",
+  "a-eee76d26e25a": "2026-11-20",
+  "a-9d50342557ef": "2026-11-19",
+  "a-ea9d2888ae4d": "2026-11-19",
+  "a-33d1c5fdb742": "2026-11-19",
+  "a-0f5d180d3d31": "2026-11-19",
+  "a-b81a0a190e32": "2026-11-18",
+  "a-4d13772d36dc": "2026-11-17",
+  "a-02bc70508b88": "2026-11-17",
+  "a-295a1cb2147e": "2026-11-17",
+  "a-24bb989492e7": "2026-11-16",
+  "a-fe5b308f350a": "2026-11-15"
  },
  "articles": [
   {
@@ -616,6 +627,47 @@
    "enriched": true
   },
   {
+   "id": "a-0c1782d35fab",
+   "category": "sci",
+   "priority": false,
+   "title": "Burkina/Santé : Un symposium international pour renforcer le mentorat clinique des sages-femmes",
+   "source": "leFaso.net - L'actualité au Burkina Faso",
+   "date": "20 novembre 2026",
+   "sortDate": "2026-11-20",
+   "url": "https://lefaso.net/spip.php?article150913",
+   "summary": "Un symposium international s'est tenu au Burkina Faso pour promouvoir le mentorat clinique des sages-femmes et améliorer la qualité des soins maternels et néonataux. Organisée avec le soutien d'institutions internationales, cette rencontre met l'accent sur la formation continue pour réduire la mortalité périnatale. Les discussions ont également porté sur les soins obstétricaux d'urgence et le leadership des professionnels de santé.",
+   "auto": true,
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Valorise auprès des parents le rôle crucial et l'expertise des sages-femmes dans la sécurité de la grossesse et de l'accouchement.",
+    "Garde à l'esprit que ton rôle se situe dans le soutien émotionnel et pratique, en dehors de la sphère des soins cliniques et médicaux."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-fe7e291e3cef",
+   "category": "sci",
+   "priority": false,
+   "title": "Fourmies : un label de qualité reconduit pour la maternité",
+   "source": "CANAL FM",
+   "date": "20 novembre 2026",
+   "sortDate": "2026-11-20",
+   "url": "https://www.canalfm.fr/fourmies-un-label-de-qualite-reconduit-pour-la-maternite",
+   "summary": "La maternité du centre hospitalier de Fourmies a obtenu pour la troisième fois le renouvellement de son label Initiative Hôpital Ami des Bebes. Cette distinction souligne l'implication des équipes dans le respect de la physiologie, le soutien à l'allaitement et le renforcement du lien d'attachement familial. Cette approche s'intègre directement dans le cadre du programme des 1000 premiers jours.",
+   "auto": true,
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Tu peux t'appuyer sur les critères de ce label pour rassurer les parents sur l'importance du peau à peau et du respect du rythme de leur nouveau-né.",
+    "Connais les principes de l'IHAB pour valoriser les maternités qui favorisent un accompagnement bienveillant et physiologique lors de tes discussions avec les familles.",
+    "Rappelle aux parents que ton rôle non médical complète ces démarches en les soutenant émotionnellement dans la mise en place du lien d'attachement à la maison."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-999b7318ff64",
    "category": "sci",
    "priority": false,
@@ -637,32 +689,25 @@
    "enriched": true
   },
   {
-   "id": "a-b81a0a190e32",
+   "id": "a-5a41587e3f9e",
    "category": "sci",
    "priority": false,
-   "title": "Pression artérielle post-partum et risque cardiovasculaire",
-   "source": "Univadis",
-   "date": "18 novembre 2026",
-   "sortDate": "2026-11-18",
-   "url": "https://www.univadis.fr/viewarticle/pression-art%C3%A9rielle-post-partum-et-risque-2026a100147q?uuid=b9e36e13-cb0d-4a27-b170-74cdefd206cb",
-   "summary": "",
+   "title": "Face à Ebola, les sages-femmes veillent à ce que les soins maternels ne soient pas interrompus dans les Centres de Traitement d’Ebola",
+   "source": "unfpa drc",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://drc.unfpa.org/fr/news/face-%C3%A0-ebola-les-sages-femmes-veillent-%C3%A0-ce-que-les-soins-maternels-ne-soient-pas-interrompus",
+   "summary": "Des sages-femmes interviennent au sein de centres de traitement d'Ebola pour garantir la continuité des soins maternels et obstétricaux d'urgence malgré l'épidémie. Cette organisation répond aux risques majeurs que font courir les retards de prise en charge pour les femmes enceintes atteintes de complications. L'intégration de maternités dans ces structures permet d'assurer un suivi médical ininterrompu pour ces patientes.",
    "auto": true,
-   "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-eb391adee1ac",
-   "category": "sci",
-   "priority": false,
-   "title": "\"Accoucher dans sa ville, ça crée des souvenirs\" : à Ancenis, des habitants inquiets de voir la maternité fermer",
-   "source": "ici.fr",
-   "date": "18 novembre 2026",
-   "sortDate": "2026-11-18",
-   "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-loire-ocean/accoucher-dans-sa-ville-ca-cree-des-souvenirs-a-ancenis-des-habitants-inquiets-de-voir-la-maternite-fermer-9994179",
-   "summary": "L",
-   "auto": true,
-   "addedAt": "2026-11-19T14:13:46+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Comprendre que la gestion des urgences médicales graves prime toujours et nécessite des professionnels de santé qualifiés.",
+    "Soutenir l'importance d'un accès ininterrompu aux soins de santé pour les femmes enceintes, même en situation de crise sanitaire.",
+    "Respecter strictement le champ médical en ne se prononçant jamais sur la prise en charge clinique des pathologies et des urgences obstétricales."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-dd247557039a",
@@ -673,10 +718,16 @@
    "date": "18 novembre 2026",
    "sortDate": "2026-11-18",
    "url": "https://gabonactu.com/blog/2026/11/18/prematurite-renforcer-le-dispositif-de-soins-aux-nouveau-nes/",
-   "summary": "Officiels et participants à la session d’ouverture des ateliers sur la prématurité / Gabonactu.com À l’occasion de la Journée mondiale de la prématurité, célébrée le 17 novembre de chaque année,…",
+   "summary": "Le Gabon renforce son dispositif de prise en charge des nouveau-nés prématurés à l'occasion de la Journée mondiale de la prématurité. Les discussions se concentrent sur l'amélioration du parcours de soins, la coordination hospitalière et la sécurité des transferts pour ces bébés représentant environ 10 à 12% des naissances.",
    "auto": true,
    "addedAt": "2026-11-19T14:13:46+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Soyez particulièrement attentive aux vécus émotionnels lourds et aux inquiétudes des parents confrontés à une naissance prématurée ou à un parcours néonatal complexe.",
+    "Soutenez l'attachement précoce et l'écoute des parents tout en évitant toute interprétation ou conseil sur les protocoles médicaux de prise en charge des prématurés."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-a2f329785761",
@@ -695,6 +746,27 @@
     "Encourager les parents à pratiquer le peau à peau le plus tôt et le plus longtemps possible selon les recommandations médicales.",
     "Valoriser le rôle actif des parents dans les soins de leur nouveau-né prématuré pour renforcer le lien d'attachement.",
     "Respecter strictement les protocoles de néonatalogie et orienter les questions de santé vers l'équipe médicale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-35b595dfa40a",
+   "category": "sci",
+   "priority": false,
+   "title": "Santé mentale des mères : l’allaitement pourrait-il jouer un rôle ?",
+   "source": "Pourquoi Docteur",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56322-Sante-mentale-meres-l-allaitement-pourrait-il-jouer-role",
+   "summary": "Une étude récente suggère une association entre l'allaitement et une diminution des symptômes dépressifs chez les mères en post-partum. Menés auprès de plus de 12 000 femmes dans plusieurs pays, ces travaux soulignent l'importance potentielle des dispositifs de soutien à l'allaitement pour la santé mentale maternelle. Les chercheurs rappellent toutefois que ces dynamiques nécessitent encore d'être approfondies selon les contextes.",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder l'allaitement avec bienveillance en soulignant son lien potentiel avec le bien-être psychologique, sans jamais culpabiliser celles qui ne le souhaitent ou ne le peuvent pas.",
+    "Être particulièrement à l'écoute des signes de détresse psychologique en post-partum et proposer un espace d'échange sécurisant et sans jugement.",
+    "Orienter systématiquement vers un professionnel de santé qualifié en cas de suspicion de dépression post-partum, la doula assurant un soutien non médical."
    ],
    "summaryAI": true,
    "enriched": true
@@ -721,6 +793,27 @@
    "enriched": true
   },
   {
+   "id": "a-82bacb6f2879",
+   "category": "sci",
+   "priority": false,
+   "title": "Bébés prématurés : 49 études révèlent un résultat majeur sur leur survie",
+   "source": "Doctissimo",
+   "date": "17 novembre 2026",
+   "sortDate": "2026-11-17",
+   "url": "https://www.doctissimo.fr/sante/news-sante/bebes-prematures-49-etudes-revelent-un-resultat-majeur-sur-leur-survie-832869.htm",
+   "summary": "Une vaste revue d'études montre que la méthode kangourou, fondée sur le peau à peau, contribue à diminuer la mortalité, les infections et l'hypothermie chez les nouveau-nés prématurés ou de faible poids. Cette pratique favorise également l'allaitement maternel exclusif et participe au bien-être global des bébés vulnérables.",
+   "auto": true,
+   "addedAt": "2026-11-18T13:44:11+00:00",
+   "pageRead": true,
+   "points": [
+    "Valoriser les bienfaits du peau à peau auprès des parents pour renforcer le lien d'attachement et la régulation thermique du nouveau-né.",
+    "Encourager l'allaitement et la proximité physique tout en laissant l'équipe médicale gérer les aspects techniques de la prématurité.",
+    "Partager ces données scientifiques rassurantes avec les familles confrontées à une naissance prématurée."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-51ca9192bb60",
    "category": "sci",
    "priority": false,
@@ -737,6 +830,27 @@
     "Intégrer l'existence de ces campagnes de prévention pour orienter les personnes qui s'interrogent sur leur parcours de fertilité.",
     "Maintenir une posture d'écoute neutre et informer sur la réalité biologique de la conception, tout en renvoyant vers le corps médical pour les bilans et les démarches d'AMP.",
     "Ne jamais poser de diagnostic sur la fertilité et veiller à respecter le secret médical ainsi que l'intimité des couples."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-614f8f9792d9",
+   "category": "sci",
+   "priority": true,
+   "title": "Les 1000 premiers jours",
+   "source": "Santé publique France",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/les-1000-premiers-jours",
+   "summary": "La période allant de la conception aux deux ans de l'enfant est cruciale pour sa santé future et celle de l'adulte qu'il sera. Cette approche globale, portée par l'Unicef, met en avant l'importance d'un environnement favorable dès le projet de parentalité. Elle souligne la nécessité de soutenir la santé et les conditions de vie des parents et de l'enfant à toutes les étapes de cette période.",
+   "auto": true,
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Utilisez le concept des mille premiers jours pour ouvrir le dialogue avec les parents sur leur bien-être global et leurs besoins dès la grossesse.",
+    "Valorisez dans vos conseils non médicaux l'importance d'un environnement sécurisant et soutenant pour le couple parental et le nouveau-né.",
+    "Rappelez que votre rôle d'accompagnement émotionnel et pratique s'inscrit pleinement dans cette période clé, tout en orientant vers les professionnels de santé pour le suivi médical."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1767,85 +1881,61 @@
    "enriched": true
   },
   {
-   "id": "a-78d3622515ca",
-   "category": "sci",
+   "id": "a-1374a8f52f7f",
+   "category": "pol",
    "priority": false,
-   "title": "Photos. Allaitement, coaching parental, portage... Une journée d'information pour les parents et futurs parents au centre hospitalier de Lunéville",
-   "source": "L'Est Républicain",
-   "date": "28 octobre 2026",
-   "sortDate": "2026-10-28",
-   "url": "https://www.estrepublicain.fr/sante/2026/10/16/allaitement-coaching-parental-portage-une-journee-d-information-pour-les-parents-et-futurs-parents-au-centre-hospitalier-de-luneville",
-   "summary": "Une journée d'information hospitalière a permis d'aborder la contraception post-partum, le coaching parental à domicile et la prévention de la mort inattendue du nourrisson. Les professionnels ont notamment rappelé l'importance de respecter le rythme de chaque couple et de sécuriser l'environnement de sommeil de bébé.",
+   "title": "À Loudun, un centre de périnatalité pour accompagner les femmes et les familles au plus près de chez elles",
+   "source": "Saumur Kiosque",
+   "date": "20 novembre 2026",
+   "sortDate": "2026-11-20",
+   "url": "https://www.le-kiosque.org/actualites/vie-de-la-cite/a-loudun-un-centre-de-perinatalite-pour-accompagner-les-femmes-et-les-familles-au-plus-pres-de-chez-elles",
+   "summary": "Un centre de périnatalité de proximité a été implanté au sein de l'hôpital de Loudun pour faciliter l'accès aux soins gynécologiques et au suivi de grossesse. Coordonné par une sage-femme, il vise à faire face à la raréfaction des spécialistes dans la région en proposant une prise en charge globale. Cette structure offre des services allant de la contraception à l'accompagnement après la naissance.",
    "auto": true,
-   "addedAt": "2026-11-06T12:48:04+00:00",
+   "addedAt": "2026-11-20T13:54:39+00:00",
    "pageRead": true,
    "points": [
-    "S'appuyer sur ces thématiques de prévention pour rassurer les parents sur la normalité du post-partum et du retour à l'intimité.",
-    "Partager des repères pratiques et bienveillants sur l'aménagement sécurisé de l'espace de sommeil du nouveau-né.",
-    "Respecter la limite médicale en orientant vers les sages-femmes ou médecins pour toutes les questions relatives à la contraception et aux risques médicamenteux."
+    "Informe-toi sur les ressources locales de ta région pour orienter efficacement les parents vers les structures de santé de proximité.",
+    "Rappelle aux familles que la doula complète mais ne remplace pas le suivi médical assuré par les sages-femmes et gynécologues."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-b71f4635c8a0",
-   "category": "sci",
+   "id": "a-039a3b8b11bf",
+   "category": "pol",
    "priority": false,
-   "title": "Publireportage | Cancer du sein : l’allaitement maternel et l’arrêt du tabac et de l’alcool parmi les facteurs de prévention",
-   "source": "mediacongo.net",
-   "date": "28 octobre 2026",
-   "sortDate": "2026-10-28",
-   "url": "https://www.mediacongo.net/publireportage-reportage-168780_cancer_du_sein_l_allaitement_maternel_et_l_arret_du_tabac_et_de_l_alcool_parmi_les_facteurs_de_prevention.html",
-   "summary": "Des professionnels de santé soulignent que l'adoption d'un mode de vie sain, comprenant notamment un allaitement maternel prolongé, l'arrêt du tabac et de l'alcool ainsi qu'une activité physique, contribue à réduire les risques de cancer du sein. Néanmoins, ces mesures préventives ne garantissent pas une protection totale, les antécédents et l'âge jouant également un rôle majeur.",
+   "title": "Congé de naissance : LFI propose 20 semaines obligatoires pour chaque parent, voici ce qui changerait",
+   "source": "Magicmaman",
+   "date": "20 novembre 2026",
+   "sortDate": "2026-11-20",
+   "url": "https://www.magicmaman.com/presidentielle-2027-jean-luc-melenchon-propose-20-semaines-de-conge-obligatoire-pour-chaque-parent-apres-une-naissance,3787872.asp",
+   "summary": "Un parti politique propose de remplacer les congés de maternité et de paternité actuels par un congé d'accueil de l'enfant de vingt semaines pour chaque parent. Cette mesure obligatoire et identique viserait à transformer le partage du temps consacré au nouveau-né dès ses premiers mois. Les modalités pratiques et d'indemnisation de cette proposition restent toutefois à définir.",
    "auto": true,
-   "addedAt": "2026-11-11T12:32:52+00:00",
+   "addedAt": "2026-11-20T13:54:39+00:00",
    "pageRead": true,
    "points": [
-    "Soutenir les parents dans leurs choix concernant l'allaitement sans culpabilisation tout en partageant les informations de santé publique.",
-    "Encourager l'écoute bienveillante autour de l'hygiène de vie globale pendant la période périnatale.",
-    "Laisser aux professionnels médicaux le soin d'aborder les risques de pathologies et le dépistage."
+    "Tiens-toi informée des évolutions législatives concernant les congés parentaux pour mieux écouter les préoccupations des futurs parents sur l'organisation du post-partum.",
+    "Encourage le coparent à exprimer ses besoins et ses interrogations sur sa place et son implication auprès du nouveau-né dès le retour à la maison."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-e935209988c0",
-   "category": "sci",
+   "id": "a-2f626dd1da89",
+   "category": "pol",
    "priority": false,
-   "title": "GROSSESSE : Ses complications compromettent aussi les artères",
-   "source": "Santé log",
-   "date": "27 octobre 2026",
-   "sortDate": "2026-10-27",
-   "url": "https://www.santelog.com/actualites/grossesse-ses-complications-compromettent-aussi-les-arteres",
-   "summary": "Une vaste étude indique que les femmes ayant rencontré des complications durant leur grossesse s'exposent à un risque plus élevé de souffrir d'artériopathie oblitérante des membres inférieurs (AOMI) à l'avenir. Cette affection, caractérisée par un rétrécissement des artères, s'ajoute aux autres risques cardiovasculaires déjà documentés liés aux grossesses compliquées.",
+   "title": "Suite à la fermeture de la maternité du Fief de Grimoire à Poitiers : le CHU forcé de s’organiser",
+   "source": "lanouvellerepublique.fr",
+   "date": "20 novembre 2026",
+   "sortDate": "2026-11-20",
+   "url": "https://www.lanouvellerepublique.fr/poitiers/suite-a-la-fermeture-de-la-maternite-du-fief-de-grimoire-a-poitiers-le-chu-force-de-s-organiser-1795175544",
+   "summary": "La fermeture programmée d'une maternité privée à Poitiers contraint le CHU local à réorganiser ses capacités d'accueil et ses salles d'accouchement. Cette modification de l'offre de soins intervient alors que plusieurs centaines de naissances devaient être réorientées. Les structures publiques doivent ainsi faire face à un report d'activité important.",
    "auto": true,
-   "addedAt": "2026-10-27T10:17:45+00:00",
+   "addedAt": "2026-11-20T13:54:39+00:00",
    "pageRead": true,
    "points": [
-    "Garde en tête que les antécédents de grossesse peuvent impacter durablement la santé cardiovasculaire des mères.",
-    "Encourage les parents à maintenir un dialogue ouvert avec leur médecin traitant ou leur sage-femme concernant leur suivi de santé global après l'accouchement.",
-    "Rappelle que ton rôle n'est pas de diagnostiquer ou d'interpréter ces risques médicaux à long terme."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-980bd0d94862",
-   "category": "sci",
-   "priority": false,
-   "title": "Les bébés conçus par FIV présentent des différences dans leur ADN, selon une étude",
-   "source": "Parents.fr",
-   "date": "27 octobre 2026",
-   "sortDate": "2026-10-27",
-   "url": "https://www.parents.fr/actualites/envie-de-bebe/les-bebes-concus-par-fiv-presentent-ils-des-differences-dans-leur-adn-une-etude-revele-une-piste-inattendue-1158625",
-   "summary": "Une recherche récente s'est penchée sur l'ADN d'enfants nés par fécondation in vitro en analysant l'activité de séquences spécifiques nommées LINE-1. Les scientifiques ont relevé de légères différences génétiques par rapport aux enfants conçus spontanément, tout en soulignant qu'il est encore trop tôt pour en mesurer l'impact réel sur la santé future.",
-   "auto": true,
-   "addedAt": "2026-10-27T10:17:45+00:00",
-   "pageRead": true,
-   "points": [
-    "Sois à l'écoute des questionnements ou des éventuelles inquiétudes des parents passés par un parcours de PMA.",
-    "Valorise leur parcours de parentalité sans porter de jugement sur le mode de conception de leur enfant.",
-    "Oriente les familles vers des professionnels de santé qualifiés pour toute question d'ordre génétique ou biologique."
+    "Sois attentive aux inquiétudes des parents face aux modifications de l'offre de soins locale et à la saturation des maternités.",
+    "Aide les parents à préparer leur projet de naissance en tenant compte des éventuels changements de structures de santé dans leur secteur."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1872,6 +1962,89 @@
    "enriched": true
   },
   {
+   "id": "a-e612f300e3e1",
+   "category": "pol",
+   "priority": false,
+   "title": "INFO NR. Après cinquante ans d’activité, la maternité du Fief de Grimoire à Poitiers fermera au début du mois de septembre 2027",
+   "source": "lanouvellerepublique.fr",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://www.lanouvellerepublique.fr/poitiers/info-nr-apres-cinquante-ans-d-activite-la-maternite-du-fief-de-grimoire-a-poitiers-fermera-au-debut-du-mois-de-septembre-2027-1795118347",
+   "summary": "La maternité du Fief de Grimoire à Poitiers arrêtera son activité en septembre 2027 en raison d'un projet de réorganisation des cliniques Elsan et de la création d'un nouveau pôle de santé prévu pour 2028. Cette décision entraîne une réduction du nombre de maternités disponibles sur le département de la Vienne.",
+   "auto": true,
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Sois attentive aux inquiétudes des parents face à la diminution du nombre de structures de naissance dans la région et offre un espace d'écoute sécurisant pour exprimer leurs craintes.",
+    "Informe-toi sur la carte des maternités locales pour orienter au mieux les familles vers les structures restantes et anticiper leurs trajets.",
+    "Garde à l'esprit que tu ne gères pas les aspects logistiques ou médicaux des fermetures d'établissements, ton rôle se limitant au soutien émotionnel des parents impactés."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-71f6f17f3490",
+   "category": "pol",
+   "priority": false,
+   "title": "Corrèze : la fermeture de la maternité d'Ussel pourrait entraîner celle de la chirurgie, alerte la CGT",
+   "source": "La Montagne",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://www.lamontagne.fr/ussel-19200/actualites/correze-la-fermeture-de-la-maternite-d-ussel-pourrait-entrainer-celle-de-la-chirurgie-alerte-la-cgt_15086555/",
+   "summary": "Un syndicat professionnel alerte sur la menace de fermeture de la maternité d'Ussel en Corrèze, liée à un projet de centralisation des soins au sein d'un pôle mère-enfant à Brive. Cette situation suscite des inquiétudes locales quant à l'avenir de l'accès aux soins et à l'attractivité du territoire.",
+   "auto": true,
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Entends l'anxiété que peuvent ressentir les parents vivant en zone rurale face à l'éloignement progressif des structures de soins périnataux.",
+    "Encourage les familles que tu accompagnes à anticiper leur plan de naissance et leurs options de transport vers la maternité de recours.",
+    "Ne prends pas position dans le débat syndical ou politique, mais aide les parents à verbaliser leurs craintes concernant la sécurité de leur parcours."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-430a6fa55018",
+   "category": "pol",
+   "priority": false,
+   "title": "[DOSSIER 4/5] 5 ans de la loi PMA pour toutes : La congélation des ovocytes",
+   "source": "RCI",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://rci.fm/martinique/infos/Sante/DOSSIER-45-5-ans-de-la-loi-PMA-pour-toutes-La-congelation-des-ovocytes",
+   "summary": "La loi ouvrant la PMA à toutes les femmes permet également la congélation des ovocytes, notamment pour des raisons médicales comme l'endométriose ou à titre préventif. Les délais d'accès et les conditions de prise en charge peuvent varier selon les centres et les territoires en raison d'une forte demande. Des spécialistes soulignent l'intérêt d'une démarche proactive pour la préservation de la fertilité en fonction de l'âge et de la situation personnelle.",
+   "auto": true,
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Informer les personnes concernées sur l'existence légale de la congélation préventive des ovocytes et de ses conditions d'accès.",
+    "Accueillir avec écoute les questionnements liés à l'horloge biologique et aux parcours de fertilité complexes.",
+    "Orienter systématiquement vers des professionnels de santé ou des centres spécialisés pour toute question relative aux examens et aux techniques médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-eb391adee1ac",
+   "category": "pol",
+   "priority": false,
+   "title": "\"Accoucher dans sa ville, ça crée des souvenirs\" : à Ancenis, des habitants inquiets de voir la maternité fermer",
+   "source": "ici.fr",
+   "date": "18 novembre 2026",
+   "sortDate": "2026-11-18",
+   "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-loire-ocean/accoucher-dans-sa-ville-ca-cree-des-souvenirs-a-ancenis-des-habitants-inquiets-de-voir-la-maternite-fermer-9994179",
+   "summary": "Un projet de transformation de la maternité d'Ancenis en centre de périnatalité suscite de vives inquiétudes et l'opposition des habitants et des soignants. Une pétition a été lancée pour exiger le maintien des accouchements sur place face à l'éloignement des structures alternatives.",
+   "auto": true,
+   "addedAt": "2026-11-19T14:13:46+00:00",
+   "pageRead": true,
+   "points": [
+    "Vous pouvez écouter l'anxiété des parents face à la fermeture de structures de proximité et les informer sur les alternatives de parcours dans leur région.",
+    "Rappelez-vous que l'organisation des soins et le choix des lieux d'accouchement relèvent strictement du corps médical et des politiques de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-de002c458e73",
    "category": "pol",
    "priority": false,
@@ -1880,10 +2053,16 @@
    "date": "18 novembre 2026",
    "sortDate": "2026-11-18",
    "url": "https://www.lalettrem.fr/actualites/conge-supplementaire-de-naissance-de-nouvelles-demarches-declaratives",
-   "summary": "La déclaration du congé supplémentaire de naissance (CSN) change : depuis le 1er novem",
+   "summary": "La procédure déclarative du congé supplémentaire de naissance évolue avec la mise en place d'un formulaire en ligne sur le site ameli.fr. Ce dispositif numérique vise à sécuriser les données transmises par l'employeur à l'Assurance Maladie pour éviter les retards de traitement.",
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Vous pouvez informer les parents sur l'existence de ce nouveau formulaire en ligne pour simplifier leurs démarches administratives liées au congé supplémentaire.",
+    "Veillez à ne pas vous substituer aux organismes sociaux pour le calcul ou la validation officielle de leurs droits."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-66fe2f498b8c",
@@ -1894,10 +2073,16 @@
    "date": "18 novembre 2026",
    "sortDate": "2026-11-18",
    "url": "https://www.bfmtv.com/economie/economie-social/info-bfm-business-la-mutuelle-co-financee-par-l-employeur-n-est-pas-maintenue-pendant-le-conge-de-naissance-une-proposition-de-loi-portee-par-la-gauche-entend-rectifier-le-tir_AV-202611180569.html",
-   "summary": "Depuis la mise en œuvre du congé supplémentaire de naissance le 1er juillet dernier, de nombreux parents découvrent avec désarroi que leur mutuelle n'est pas maintenue, sauf s'ils acceptent de payer la part patronale. Le député socialiste de la Loire Pierrick Courbon va déposer une proposition de...",
+   "summary": "Une proposition de loi vise à rendre obligatoire le maintien de la complémentaire santé d'entreprise lors du congé supplémentaire de naissance. Actuellement, de nombreux parents perdent le bénéfice de leur mutuelle ou doivent payer la part patronale, ce qui pénalise leur accès aux soins durant les premiers mois de l'enfant.",
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informez les parents sur ces zones d'ombre juridiques et administratives concernant la couverture santé pendant les congés récents.",
+    "Encouragez les familles à se renseigner auprès de leur employeur ou de leur mutuelle, sans donner d'avis juridique ou assurantiel."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-9d1f3442bd78",
@@ -1908,10 +2093,17 @@
    "date": "18 novembre 2026",
    "sortDate": "2026-11-18",
    "url": "https://www.aefinfo.fr/depeche/760370-formations-paramedicales-et-de-sage-femme-en-2025-une-augmentation-du-nombre-dinscrits-et-de-diplomes-drees",
-   "summary": "",
+   "summary": "Les formations paramédicales et de sage-femme connaissent des évolutions notables, notamment avec l'universitarisation des cursus infirmiers prévue dès la rentrée 2026. Ces réformes visent à rapprocher les différentes formations de santé et à moderniser les parcours professionnels. Ces changements structurels s'inscrivent dans une volonté de valoriser et de structurer durablement ces professions de santé.",
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Garder à l'esprit que le paysage des professionnels de santé évolue pour mieux orienter les parents vers les bons interlocuteurs médicaux.",
+    "Connaître ces évolutions institutionnelles permet de comprendre le contexte dans lequel exercent les sages-femmes et soignants qui entourent les familles.",
+    "Rappeler aux parents que les doulas ne se substituent en aucun cas au parcours de soin médical, tout en valorisant le travail des professionnels formés."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-99f7347bda6a",
@@ -1922,10 +2114,17 @@
    "date": "18 novembre 2026",
    "sortDate": "2026-11-18",
    "url": "https://ici.radio-canada.ca/article/info/2301388/sage-femme-penurie-perinatalite-maternite-drummondville",
-   "summary": "",
+   "summary": "Face aux difficultés d'accès aux soins périnataux et au manque de effectifs, les sages-femmes revendiquent une plus grande place dans l'organisation du système de santé. De nouvelles lois élargissent progressivement leurs compétences, notamment en matière de contraception et de santé sexuelle. Ces évolutions visent à répondre aux besoins croissants des familles tout en valorisant l'expérience des praticiennes.",
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur l'élargissement des compétences des sages-femmes pour les encourager à solliciter ces professionnels de santé pour leur suivi global.",
+    "Soutenir la collaboration pluridisciplinaire en valorisant le rôle pivot des sages-femmes auprès des familles en période périnatale.",
+    "Ne jamais poser de diagnostic ni donner d'avis médical, mais encourager les parents à se tourner vers les sages-femmes pour toute question relative à leur santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-f148192225c0",
@@ -1970,20 +2169,6 @@
    "enriched": true
   },
   {
-   "id": "a-4d13772d36dc",
-   "category": "pol",
-   "priority": false,
-   "title": "Maternité menacée : « Aucun dossier m’a empêché de dormir, sauf celui-ci », le désarroi d’un maire en Loire-Atlantique",
-   "source": "Ouest-France",
-   "date": "17 novembre 2026",
-   "sortDate": "2026-11-17",
-   "url": "https://www.ouest-france.fr/sante/hopital/aucun-dossier-ma-empeche-de-dormir-sauf-celui-ci-le-desarroi-dun-maire-face-aux-menaces-sur-lhopital-local-163c9712-e288-11f1-a3b1-0c6de532ce7d",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
-  },
-  {
    "id": "a-05609ecc2aea",
    "category": "pol",
    "priority": false,
@@ -1992,10 +2177,17 @@
    "date": "16 novembre 2026",
    "sortDate": "2026-11-16",
    "url": "https://guingamp.maville.com/actu/actudet_-un-echec-terrible-pour-le-territoire-la-fermeture-de-la-maternite-s-invite-au-conseil-municipal-de-guingamp_loc-7572458_actu.Htm",
-   "summary": "",
+   "summary": "Les discussions autour de la fermeture d'une maternité locale s'invitent dans le débat municipal, illustrant les difficultés d'accès aux structures de soins périnataux. Cette situation met en lumière les tensions territoriales liées à l'organisation de l'offre de naissance.",
    "auto": true,
    "addedAt": "2026-11-17T14:12:56+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Écouter l'inquiétude des parents face aux incertitudes concernant les lieux de naissance disponibles dans leur région.",
+    "Aider les familles à anticiper leur projet de naissance en tenant compte des réalités logistiques et des temps de trajet vers la maternité.",
+    "S'abstenir de tout commentaire politique ou critique sur les décisions de fermeture des structures médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-9c11ecfba252",
@@ -2006,10 +2198,17 @@
    "date": "16 novembre 2026",
    "sortDate": "2026-11-16",
    "url": "https://www.ouest-france.fr/sante/hopital/a-larret-depuis-2023-ces-deux-maires-de-la-sarthe-demandent-la-reprise-des-accouchements-dans-cette-maternite-65867b2a-e1b2-11f1-b029-43a761592972",
-   "summary": "",
+   "summary": "Des élus locaux interpellent la ministre de la Santé afin d'obtenir la reprise des activités d'une maternité fermée. Cette démarche témoigne des préoccupations des élus et des usagers concernant l'accès aux soins obstétricaux de proximité.",
    "auto": true,
    "addedAt": "2026-11-17T14:12:56+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur les ressources et les options de suivi disponibles localement en cas de modification de l'offre de soins.",
+    "Offrir un espace d'écoute bienveillant pour libérer la parole des futurs parents anxieux à l'idée de devoir accoucher plus loin de chez eux.",
+    "Orienter systématiquement les familles vers les sages-femmes et les réseaux de santé pour toute question relative aux lieux de suivi et d'accouchement."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-9df725f8a1a2",
@@ -2020,24 +2219,17 @@
    "date": "15 novembre 2026",
    "sortDate": "2026-11-15",
    "url": "https://brest.maville.com/actu/actudet_-a-concarneau-une-rencontre-sur-le-conge-supplementaire-de-naissance-est-proposee-aux-futurs-et-jeunes-parents-ce-lundi_dep-7570946_actu.Htm",
-   "summary": "Une réunion d’information sur le congé supplémentaire de naissance est organisée lundi 16 novembre 2026, à Concarneau (Finistère). L’occasion d’en apprendre…",
+   "summary": "Une réunion d'information publique concernant le congé supplémentaire de naissance est programmée pour les futurs et jeunes parents à Concarneau. Cet événement vise à informer les familles sur leurs droits et les dispositifs existants liés à cette période.",
    "auto": true,
    "addedAt": "2026-11-16T13:27:33+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-fe5b308f350a",
-   "category": "pol",
-   "priority": false,
-   "title": "DÉCRYPTAGE. Une proposition de loi pourrait-elle venir au secours de la maternité d’Ancenis ?",
-   "source": "Ouest-France",
-   "date": "15 novembre 2026",
-   "sortDate": "2026-11-15",
-   "url": "https://www.ouest-france.fr/sante/hopital/decryptage-une-proposition-de-loi-pourrait-elle-venir-au-secours-de-la-maternite-dancenis-6e4f8888-dd1f-11f1-a62b-776e3051b0df",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-16T13:27:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informez-vous sur les dispositifs de congé et les réunions locales pour orienter au mieux les parents vers les ressources administratives existantes.",
+    "Intégrez dans vos échanges la dimension pratique et organisationnelle du retour à la maison, notamment l'impact des congés sur l'organisation familiale.",
+    "Rappelez aux parents que vous ne donnez pas de conseils juridiques ou administratifs formels, mais que vous pouvez les aider à identifier les interlocuteurs adaptés."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-812a2554ae54",
@@ -2048,10 +2240,17 @@
    "date": "15 novembre 2026",
    "sortDate": "2026-11-15",
    "url": "https://saint-nazaire.maville.com/actu/actudet_-decryptage-une-proposition-de-loi-pourrait-elle-venir-au-secours-de-la-maternite-d-ancenis_dep-7570637_actu.Htm",
-   "summary": "Le moratoire concernant les fermetures de maternité, voté par les députés à l’Assemblée nationale en mai 2025, aurait pu protéger la maternité d’Ancenis, en…",
+   "summary": "Un moratoire sur les fermetures de maternités a été voté par les députés à l'Assemblée nationale afin de protéger certains établissements menacés. Cette mesure législative vise à préserver l'organisation des soins périnataux sur le territoire.",
    "auto": true,
    "addedAt": "2026-11-16T13:27:33+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Abordez avec bienveillance les inquiétudes des parents face aux incertitudes concernant les lieux de naissance et la fermeture des structures.",
+    "Aidez les futurs parents à exprimer leurs craintes quant au choix de leur maternité tout en restant neutre sur les décisions politiques.",
+    "Rappelez que la gestion des ouvertures et fermetures d'établissements de santé relève strictement du champ médical et institutionnel, hors de votre portée."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-d506ff18581d",
@@ -2681,6 +2880,20 @@
    "enriched": true
   },
   {
+   "id": "a-4adfce41a395",
+   "category": "pol",
+   "priority": false,
+   "title": "TOULON : Ressources Humaines - Un webinaire pour décrypter le nouveau congé de naissance",
+   "source": "Presse Agence",
+   "date": "7 novembre 2026",
+   "sortDate": "2026-11-07",
+   "url": "https://presseagence.fr/toulon-ressources-humaines-un-webinaire-pour-decrypter-le-nouveau-conge-de-naissance/",
+   "summary": "Webinaire exclusif pour les entreprises du Var : décryptez le nouveau congé de naissance, ses impacts RH et paie. Toutes les réponses pour une application sereine.",
+   "auto": true,
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true
+  },
+  {
    "id": "a-f92ae6fa9171",
    "category": "pol",
    "priority": false,
@@ -2911,132 +3124,6 @@
    "enriched": true
   },
   {
-   "id": "a-64e79f4d024c",
-   "category": "pol",
-   "priority": false,
-   "title": "Maternité d’Ancenis : un projet de centre périnatal inquiète les soignants de l’hôpital Erdre et Loire",
-   "source": "https://infos-media-nantes.fr/",
-   "date": "4 novembre 2026",
-   "sortDate": "2026-11-04",
-   "url": "https://infos-media-nantes.fr/maternite-ancenis-centre-perinatalite-projet-inquietudes-novembre-2026/",
-   "summary": "Des discussions sont en cours concernant une possible transformation de la maternité d'Ancenis en centre périnatal de proximité, ce qui suscite l'inquiétude des soignants locaux. Un tel changement modifierait l'organisation des soins et les trajets des familles pour les accouchements, bien qu'aucune décision définitive n'ait encore été officialisée. Le centre périnatal propose un accompagnement global mais ne réalise généralement pas d'accouchements sur place.",
-   "auto": true,
-   "addedAt": "2026-11-05T12:59:33+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur l'existence et le rôle des centres périnataux de proximité si l'offre de soins locale venait à évoluer.",
-    "Discuter avec les couples de leur plan de naissance et des temps de trajet actualisés vers la maternité de recours.",
-    "Rappeler que la gestion des urgences obstétricales relève strictement du parcours hospitalier et des équipes médicales."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-a9999e74fbd1",
-   "category": "pol",
-   "priority": false,
-   "title": "Trappes : maternité HPOP menacée, 3 200 pétitionnaires",
-   "source": "InfosYvelines",
-   "date": "4 novembre 2026",
-   "sortDate": "2026-11-04",
-   "url": "https://www.infosyvelines.fr/articles/trappes-maternite-hpop-fermeture-ramsay-sante-2026",
-   "summary": "La fermeture programmée de la maternité de l'Hôpital Privé de l'Ouest Parisien à Trappes d'ici fin 2026 inquiète les élus et les habitants du bassin de Saint-Quentin-en-Yvelines. Cette décision, liée à une baisse d'activité et des difficultés de recrutement selon le groupe Ramsay Santé, va allonger significativement les temps de trajet pour rejoindre les structures de soins environnantes. Une telle réorganisation territoriale interroge sur l'accès aux soins d'urgence et la prise en charge des femmes enceintes dans la région.",
-   "auto": true,
-   "addedAt": "2026-11-07T11:36:32+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents l'anticipation des trajets vers la maternité et l'importance d'avoir un plan B en cas d'éloignement des structures de soins.",
-    "Rester neutre et bienveillante face aux inquiétudes liées aux fermetures d'établissements, sans émettre d'avis médical sur le choix des maternités de recours.",
-    "Rappeler aux familles que le suivi médical de la grossesse et les urgences obstétricales relèvent exclusivement des professionnels de santé et des hôpitaux."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d75398afd7fe",
-   "category": "pol",
-   "priority": false,
-   "title": "CHIMM : la maternité des Mureaux en sursis avant octobre",
-   "source": "InfosYvelines",
-   "date": "4 novembre 2026",
-   "sortDate": "2026-11-04",
-   "url": "https://www.infosyvelines.fr/articles/les-mureaux-chimm-avant-decision-ars-octobre",
-   "summary": "Des manifestations et des rassemblements ont lieu pour contester la menace de fermeture ou de reconfiguration de la maternité et d'autres services du CHIMM à Meulan-Les Mureaux. Face aux difficultés financières de l'établissement, le personnel et les usagers s'inquiètent d'un report des naissances vers des maternités déjà saturées et de l'éloignement géographique des soins pour les familles.",
-   "auto": true,
-   "addedAt": "2026-11-12T13:37:31+00:00",
-   "pageRead": true,
-   "points": [
-    "Discuter avec les parents des questions d'organisation logistique et du choix du lieu de naissance, notamment en cas d'éloignement des structures.",
-    "Écouter les inquiétudes des futurs parents face aux tensions du système de santé et aux fermetures potentielles de maternités locales.",
-    "Éviter de prendre parti dans les débats administratifs ou politiques tout en validant le stress que l'incertitude des parcours de soins peut générer."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-8d82f387176e",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé de naissance 2026 : ce qu’il faut retenir !",
-   "source": "Culture RH",
-   "date": "3 novembre 2026",
-   "sortDate": "2026-11-03",
-   "url": "https://culture-rh.com/conge-naissance-2026-premiers-enseignements/",
-   "summary": "Un nouveau congé de naissance entré en vigueur en 2026 permet aux parents de prolonger leur présence auprès de leur enfant avec des mois supplémentaires indemnisés de manière dégressive. Cette mesure implique une baisse de revenus pour les familles et nécessite des démarches administratives spécifiques auprès des employeurs et de l'Assurance maladie.",
-   "auto": true,
-   "addedAt": "2026-11-03T12:41:27+00:00",
-   "pageRead": true,
-   "points": [
-    "Informez les parents sur l'existence de ce congé de naissance et l'importance d'anticiper son impact financier dans leur budget.",
-    "Encouragez les couples à discuter en amont de l'organisation de ce temps partagé pour mieux vivre la transition du post-partum.",
-    "Rappelez que la gestion de ce congé relève du droit du travail et de l'administration, hors de votre champ de compétence non médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-28668b6d5814",
-   "category": "pol",
-   "priority": false,
-   "title": "Rassemblement pour dire \"Non\" à la fermeture de la maternité de Mont-Saint-Martin",
-   "source": "Lor'FM",
-   "date": "3 novembre 2026",
-   "sortDate": "2026-11-03",
-   "url": "https://www.lorfm.com/rassemblement-pour-dire-non-a-la-fermeture-de-la-maternite-de-mont-saint-martin",
-   "summary": "Un collectif et des élus locaux se mobilisent pour s'opposer à la transformation de la maternité de Mont-Saint-Martin en centre de suivi périnatal. Cette contestation vise à alerter sur les besoins de soins de la population locale et à préserver l'offre de santé sur le secteur.",
-   "auto": true,
-   "addedAt": "2026-11-03T12:41:27+00:00",
-   "pageRead": true,
-   "points": [
-    "Soyez à l'écoute des inquiétudes des parents face à la modification ou la fermeture des services de maternité locaux.",
-    "Aidez les familles à identifier les structures de soins alternatives et les professionnels de santé disponibles près de chez elles.",
-    "Évitez de prendre position sur les choix politiques de gestion des structures médicales, tout en validant les émotions des parents."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-dcf96fe2d4b7",
-   "category": "pol",
-   "priority": false,
-   "title": "«La maternité d’Ancenis pourrait devenir un centre de périnatalité», alerte le collectif de soignants de l’hôpital",
-   "source": "maville.com",
-   "date": "3 novembre 2026",
-   "sortDate": "2026-11-03",
-   "url": "https://nantes.maville.com/actu/actudet_-la-maternite-d-ancenis-pourrait-devenir-un-centre-de-perinatalite-alerte-le-collectif-de-soignants-de-l-hopital_-7554923_actu.Htm",
-   "summary": "Les orientations présentées par les autorités de santé suggèrent une transformation potentielle de la maternité de l'hôpital d'Ancenis en centre de périnatalité. Un collectif de soignants exprime son inquiétude face à ce projet qui supprimerait les accouchements sur place.",
-   "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Restez informée des évolutions de l'offre de soins locale pour orienter au mieux les parents vers les structures adaptées.",
-    "Accueillez l'éventuelle anxiété des futurs parents face aux modifications des parcours de naissance en leur offrant un espace d'écoute inconditionnel.",
-    "Rappelez que l'organisation médicale et le choix des lieux d'accouchement relèvent strictement des professionnels de santé et des politiques publiques."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-4b1951e53cc8",
    "category": "soc",
    "priority": false,
@@ -3058,32 +3145,25 @@
    "enriched": true
   },
   {
-   "id": "a-9d50342557ef",
+   "id": "a-f4d29ca4c921",
    "category": "soc",
    "priority": false,
-   "title": "Opti.Group : système de surveillance et d’alimentation basé sur la technologie RFID pour l’allaitement en groupe",
-   "source": "3tres3.com",
+   "title": "PMA : après le témoignage de Marie Portolano, une psychologue explique ce qui peut rapprocher un couple",
+   "source": "Doctissimo",
    "date": "19 novembre 2026",
    "sortDate": "2026-11-19",
-   "url": "https://www.3tres3.com/fr/actualites_entreprises/opti-group-systeme-de-surveillance-et-d%E2%80%99alimentation-base-sur-rfid_18589/",
-   "summary": "Opti.Group permet un suivi continu de chaque animal au niveau du distributeur d’aliments collectif, plus économique, et ce, sans aucune barrière mécanique.",
+   "url": "https://www.doctissimo.fr/grossesse/avant-la-grossesse/pma/pma-apres-le-temoignage-de-marie-portolano-une-psychologue-explique-ce-qui-peut-rapprocher-un-couple-833724.htm",
+   "summary": "Les parcours de PMA impliquent une forte charge émotionnelle, marquée par l'attente, les examens répétés et la médicalisation de l'intime. Si ces épreuves peuvent fragiliser les couples, certains parviennent à traverser cette période en renforçant leur solidarité et leur communication. Les professionnels rappellent que chaque parcours est unique et que la manière de vivre l'épreuve dépend avant tout de la dynamique propre à chaque couple.",
    "auto": true,
-   "addedAt": "2026-11-19T14:13:46+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-35b595dfa40a",
-   "category": "soc",
-   "priority": false,
-   "title": "Santé mentale des mères : l’allaitement pourrait-il jouer un rôle ?",
-   "source": "Pourquoi Docteur",
-   "date": "18 novembre 2026",
-   "sortDate": "2026-11-18",
-   "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56322-Sante-mentale-meres-l-allaitement-pourrait-il-jouer-role",
-   "summary": "Une étude suggère que les femmes qui allaitent pourraient présenter moins de symptômes dépressifs après l’accouchement..",
-   "auto": true,
-   "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-20T13:54:39+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de parole bienveillant pour exprimer la fatigue psychologique et l'impact de la médicalisation sur l'intimité du couple.",
+    "Valoriser l'importance de la communication et du soutien mutuel face aux épreuves de l'infertilité.",
+    "Éviter de généraliser les expériences individuelles et ne formuler aucun avis médical sur les protocoles de procréation."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-2cbf847d56d6",
@@ -3094,10 +3174,17 @@
    "date": "18 novembre 2026",
    "sortDate": "2026-11-18",
    "url": "https://www.magicmaman.com/les-rencontres-de-magicmaman-retour-sur-notre-journee-dediee-a-l-allaitement,3787591.asp",
-   "summary": "Échanges, conseils d'expertes et moments de détente : magicmaman et Momcozy ont réuni une trentaine de parents et futurs parents autour de l'allaitement. Retour en images sur cette journée placée sous le signe du partage et de la bienveillance.",
+   "summary": "Des événements dédiés à l'allaitement permettent aux parents et futurs parents de rencontrer divers professionnels, tels que des consultantes en lactation et des sages-femmes. Ces espaces d'échange favorisent le partage d'expériences et offrent des temps de bien-être, notamment à travers le yoga et la naturopathie. L'objectif est d'accompagner les familles dans leurs questionnements tout en créant du lien social.",
    "auto": true,
    "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Encourager les parents à participer à des temps d'échange collectifs pour briser l'isolement et partager leurs expériences des premiers mois.",
+    "Valoriser l'importance d'être entouré par des professionnels spécialisés, comme les consultantes en lactation, pour surmonter les difficultés d'alimentation.",
+    "Proposer des espaces de détente et d'écoute adaptés aux jeunes parents, tout en maintenant la distinction claire avec les actes thérapeutiques."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-580b6239fe15",
@@ -3119,34 +3206,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-02bc70508b88",
-   "category": "soc",
-   "priority": false,
-   "title": "Une nouvelle sage-femme est installée au centre La Garaye de Taden",
-   "source": "Ouest-France",
-   "date": "17 novembre 2026",
-   "sortDate": "2026-11-17",
-   "url": "https://www.ouest-france.fr/bretagne/taden-22100/une-nouvelle-sage-femme-est-installee-au-centre-la-garaye-de-taden-265840b6-e26e-11f1-9549-83e3460b2e87",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-82bacb6f2879",
-   "category": "soc",
-   "priority": false,
-   "title": "Bébés prématurés : 49 études révèlent un résultat majeur sur leur survie",
-   "source": "Doctissimo",
-   "date": "17 novembre 2026",
-   "sortDate": "2026-11-17",
-   "url": "https://www.doctissimo.fr/sante/news-sante/bebes-prematures-49-etudes-revelent-un-resultat-majeur-sur-leur-survie-832869.htm",
-   "summary": "La méthode kangourou, basée sur le peau à peau, pourrait réduire le risque de décès et d'infections graves chez les bébés prématurés.",
-   "auto": true,
-   "addedAt": "2026-11-18T13:44:11+00:00",
-   "pageRead": true
   },
   {
    "id": "a-c5cea618f0c7",
@@ -3189,20 +3248,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-24bb989492e7",
-   "category": "soc",
-   "priority": false,
-   "title": "TÉMOIGNAGE. « Une manière très douce de faire les choses » : les parents de Suzanne ont choisi l’accouchement à domicile",
-   "source": "maville.com",
-   "date": "16 novembre 2026",
-   "sortDate": "2026-11-16",
-   "url": "https://laval.maville.com/actu/actudet_-temoignage-une-maniere-tres-douce-de-faire-les-choses-les-parents-de-suzanne-ont-choisi-l-accouchement-a-domicile_-7572310_actu.Htm",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-17T14:12:56+00:00",
-   "pageRead": true
   },
   {
    "id": "a-4d63582e5674",
