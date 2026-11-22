@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T13:18:27+00:00",
+ "updatedAt": "2026-11-22T13:10:15+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -15,8 +15,8 @@
   "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
  ],
  "journal": [
-  "10 page(s) d'articles lue(s)",
-  "IA : 5 article(s) résumé(s) et commenté(s)"
+  "11 page(s) d'articles lue(s)",
+  "IA : 6 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -245,7 +245,9 @@
   "a-24bb989492e7": "2026-11-16",
   "a-fe5b308f350a": "2026-11-15",
   "a-8400a30395ef": "2026-11-17",
-  "a-bdb0477d857a": "2026-11-10"
+  "a-bdb0477d857a": "2026-11-10",
+  "a-195f9c946410": "2026-11-20",
+  "a-6dd34e47effd": "2026-11-19"
  },
  "articles": [
   {
@@ -726,6 +728,26 @@
    "enriched": true
   },
   {
+   "id": "a-c0686bed2dbf",
+   "category": "sci",
+   "priority": false,
+   "title": "Quelle maternité chez Homo erectus ?",
+   "source": "Hominides",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://www.hominides.com/quelle-maternite-chez-homo-erectus/",
+   "summary": "Une étude anthropologique récente réexamine le coût énergétique de la gestation et de la lactation chez les femelles d'Homo erectus. Les calculs confirment que l'espèce présentait des besoins accrus, compatibles avec un modèle de reproduction proche de celui des humains modernes incluant un allaitement plus court et des naissances plus rapprochées.",
+   "auto": true,
+   "addedAt": "2026-11-22T13:10:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de l'importance des besoins énergétiques accrus pendant la grossesse et le post-partum.",
+    "Soutenir l'écoute autour de la fatigue physique parentale en l'inscrivant dans une réalité biologique globale."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-dd247557039a",
    "category": "sci",
    "priority": false,
@@ -867,6 +889,27 @@
     "Utilisez le concept des mille premiers jours pour ouvrir le dialogue avec les parents sur leur bien-être global et leurs besoins dès la grossesse.",
     "Valorisez dans vos conseils non médicaux l'importance d'un environnement sécurisant et soutenant pour le couple parental et le nouveau-né.",
     "Rappelez que votre rôle d'accompagnement émotionnel et pratique s'inscrit pleinement dans cette période clé, tout en orientant vers les professionnels de santé pour le suivi médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-483502963088",
+   "category": "sci",
+   "priority": false,
+   "title": "Vaccination et grossesse",
+   "source": "Agence régionale de santé Ile-de-France",
+   "date": "16 novembre 2026",
+   "sortDate": "2026-11-16",
+   "url": "https://www.iledefrance.ars.sante.fr/vaccination-et-grossesse-0",
+   "summary": "La vaccination durant la grossesse protège la mère contre les infections et transmet des anticorps au nouveau-né pour le protéger avant ses propres vaccins. Des outils d'information et des supports adaptés existent pour orienter les patientes et encadrer les compétences des professionnels de santé de premier recours.",
+   "auto": true,
+   "addedAt": "2026-11-22T13:10:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Orienter les parents vers les sources officielles et leurs professionnels de santé pour toute question vaccinale.",
+    "Soutenir l'expression des doutes ou des craintes des parents concernant les recommandations de santé publique sans se substituer au médecin.",
+    "Connaître le rôle des différents professionnels habilités pour orienter efficacement les femmes enceintes."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1095,6 +1138,27 @@
     "Pensez à inclure systématiquement le second parent dans vos échanges et à vous enquérir de son état émotionnel au fil des mois.",
     "Gardez en tête que chez les hommes, la détresse psychologique peut prendre la forme de colères ou de repli plutôt que de tristesse apparente.",
     "Orientez rapidement vers des professionnels de santé adaptés dès que vous observez des signes de souffrance psychique chez l'un ou l'autre des parents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-05634dae9145",
+   "category": "sci",
+   "priority": false,
+   "title": "Des membres de la SOGC plaident pour un meilleur suivi postpartum dans Le Devoir",
+   "source": "SOGC",
+   "date": "11 novembre 2026",
+   "sortDate": "2026-11-11",
+   "url": "https://sogc.org/fr/fr/content/featured-news/Des-membres-de-la-SOGC-plaident-pour-un-meilleur-suivi-postpartum-dans-Le-Devoir.aspx",
+   "summary": "Des professionnels de la santé soulignent la nécessité d'améliorer le suivi médical et global des parents après la naissance. Cet enjeu met en lumière les besoins souvent négligés de la période du post-partum.",
+   "auto": true,
+   "addedAt": "2026-11-22T13:10:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Rappeler aux parents l'importance cruciale de planifier leur accompagnement et leur repos durant les semaines suivant l'accouchement.",
+    "Offrir une écoute attentive sur le vécu émotionnel et physique du post-partum, tout en encourageant les familles à consulter les professionnels de santé adaptés.",
+    "Maintenir strictement sa posture non médicale en orientant vers le corps médical pour tout symptôme ou question clinique."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1813,69 +1877,6 @@
    "enriched": true
   },
   {
-   "id": "a-3ece90abdceb",
-   "category": "sci",
-   "priority": false,
-   "title": "Étude sur l’alimentation des bébés et le bien-être maternel dans Eeyou Istchee 2026-2027",
-   "source": "Institut de la statistique du Québec",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://statistique.quebec.ca/fr/enquetes/en-cours-de-collecte/alimentation-bebes-bien-etre-maternel-eeyou-istchee-2026-2027",
-   "summary": "Un organisme statistique réalise une enquête auprès des mères d'une région spécifique pour documenter l'alimentation des nourrissons, l'allaitement ainsi que le bien-être maternel. Cette démarche vise à recueillir des données objectives sur la santé et les habitudes de vie dans les premiers mois de vie de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder avec les parents la question de l'allaitement et de l'alimentation du nourrisson en valorisant l'écoute de leurs choix personnels.",
-    "Ouvrir un espace de dialogue bienveillant sur le bien-être psychologique de la mère en post-partum, en complément des aspects purement physiologiques.",
-    "Rappeler aux familles que les doulas n'ont pas de rôle d'évaluation statistique ou médicale, mais qu'elles soutiennent le vécu émotionnel au quotidien."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4adf33f932ff",
-   "category": "sci",
-   "priority": false,
-   "title": "La dépression post-partum : comprendre et en parler en replay - De l'autre côté du miroir",
-   "source": "France TV",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://www.france.tv/mieux/de-l-autre-cote-du-miroir/8988733-la-depression-post-partum-comprendre-et-en-parler.html",
-   "summary": "Une émission audiovisuelle aborde la question de la dépression post-partum afin de mieux la faire comprendre et d'encourager la libération de la parole sur le sujet. Ce programme met en avant la nécessité d'informer le public sur les difficultés psychologiques pouvant survenir après la naissance.",
-   "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Aborder ouvertement le sujet du baby-blues et de la dépression post-partum dès les séances prénatales pour normaliser ces vécus.",
-    "Être particulièrement attentive aux signes de détresse psychologique en post-partum et offrir une écoute sans jugement aux jeunes mères.",
-    "Orienter systématiquement vers des professionnels de santé qualifiés dès l'apparition de symptômes de dépression avérée, car la doula ne pose aucun diagnostic."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-7b1cade9dee9",
-   "category": "sci",
-   "priority": false,
-   "title": "Pourquoi soigner la dépression des femmes enceintes favorise le développement cérébral de leur bébé",
-   "source": "Le Figaro Santé",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://sante.lefigaro.fr/social/enfance-famille/pourquoi-soigner-la-depression-des-femmes-enceintes-favorise-le-developpement-cerebral-de-leurs-bebes-20261029",
-   "summary": "Une étude américaine met en lumière les effets bénéfiques d'une psychothérapie suivie par les femmes enceintes souffrant de dépression sur le développement cérébral précoce de leur nourrisson. Ces travaux suggèrent qu'un accompagnement psychologique adapté pendant la grossesse influence positivement les réactions émotionnelles de l'enfant à l'âge de six mois.",
-   "auto": true,
-   "addedAt": "2026-11-10T13:21:09+00:00",
-   "pageRead": true,
-   "points": [
-    "Valider l'importance du bien-être psychologique pendant la grossesse et son impact direct sur le lien parent-bébé.",
-    "Offrir un espace d'écoute bienveillant tout en sachant repérer les signes de détresse psychologique nécessitant une orientation vers un spécialiste.",
-    "Ne jamais poser de diagnostic de dépression mais encourager les futures mères à consulter des professionnels de la santé mentale dès que le besoin s'en fait sentir."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
    "id": "a-1374a8f52f7f",
    "category": "pol",
    "priority": false,
@@ -2046,20 +2047,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-6dd34e47effd",
-   "category": "pol",
-   "priority": false,
-   "title": "Santé : infirmières et sages-femmes expriment leurs inquiétudes | Lunion.ga | Actualités Gabon",
-   "source": "sonapresse",
-   "date": "19 novembre 2026",
-   "sortDate": "2026-11-19",
-   "url": "https://www.union.sonapresse.com/fr/sante-infirmieres-et-sages-femmes-expriment-leurs-inquietudes",
-   "summary": "Hier, à Libreville, la ministre de la Santé, Pr Elsa Nkana Joséphine Ayo-Bivigou, était face au collectif des infirmières et sagesfemmes issues des promotions 2021-2022.",
-   "auto": true,
-   "addedAt": "2026-11-21T13:18:27+00:00",
-   "pageRead": true
   },
   {
    "id": "a-eb391adee1ac",
@@ -3105,6 +3092,34 @@
    "enriched": true
   },
   {
+   "id": "a-05997cac3cfc",
+   "category": "soc",
+   "priority": false,
+   "title": "L'allaitement pourrait réduire le risque de dépression chez les mères, selon une étude",
+   "source": "Yahoo Life France",
+   "date": "21 novembre 2026",
+   "sortDate": "2026-11-21",
+   "url": "https://fr.style.yahoo.com/lallaitement-pourrait-reduire-risque-depression-153745709.html",
+   "summary": "Allaiter pourrait être associé à un risque plus faible de symptômes dépressifs chez les mères, selon une nouvelle étude internationale. Des résultats encourageants, mais à interpréter avec prudence.",
+   "auto": true,
+   "addedAt": "2026-11-22T13:10:15+00:00",
+   "pageRead": true
+  },
+  {
+   "id": "a-3e5dc7ab5302",
+   "category": "soc",
+   "priority": false,
+   "title": "Rosalie Taillefer-Simard est enceinte!",
+   "source": "TPL Moms",
+   "date": "21 novembre 2026",
+   "sortDate": "2026-11-21",
+   "url": "https://tplmoms.com/2026/11/21/rosalie-taillefer-simard-est-enceinte-2/",
+   "summary": "«Je n'en revenais pas! J'étais tellement surprise, j'étais tellement bouche bée, je suis restée figée»",
+   "auto": true,
+   "addedAt": "2026-11-22T13:10:15+00:00",
+   "pageRead": true
+  },
+  {
    "id": "a-718b6daffccd",
    "category": "soc",
    "priority": false,
@@ -3113,10 +3128,17 @@
    "date": "20 novembre 2026",
    "sortDate": "2026-11-20",
    "url": "https://quid.ma/chroniques/lallaitement-maternel-a-luniversite-marocaine-%E2%80%93-par-dr-anwar-cherkaoui",
-   "summary": "À l’initiative de l’Université Mohammed V de Rabat, une rencontre consacrée à l’allaitement maternel ouvre la réflexion sur le rôle des établissements universitaires dans la santé maternelle et infant",
+   "summary": "Une université marocaine a organisé une rencontre de sensibilisation pour promouvoir l'allaitement maternel et réfléchir à sa conciliation avec la vie estudiantine. Cet événement a permis d'aborder les bienfaits du lait maternel, les idées reçues et le soutien nécessaire de l'entourage pour les mères. L'initiative vise à étendre la culture de la santé familiale au-delà des seuls cadres médicaux traditionnels.",
    "auto": true,
    "addedAt": "2026-11-21T13:18:27+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents la question de la reprise des études ou du travail tout en poursuivant l'allaitement.",
+    "Valoriser l'importance du soutien de l'entourage et du co-parent dans la réussite de l'allaitement.",
+    "Rappeler que les aspects pratiques et émotionnels de l'allaitement se discutent hors du strict cadre médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-4b1951e53cc8",
