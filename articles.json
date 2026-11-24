@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T15:47:23+00:00",
+ "updatedAt": "2026-11-24T15:39:33+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -12,11 +12,22 @@
   "Google Actualités (recherches par mots-clés)"
  ],
  "errors": [
-  "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
+  "Inserm : <unknown>:7:2: mismatched tag",
+  "Inserm – salle de presse : <unknown>:7:2: mismatched tag",
+  "UNSSF (sages-femmes) : <unknown>:2:0: syntax error",
+  "Google Actualités « \"santé périnatale\" OR périnatalité » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « post-partum étude » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « grossesse recommandation HAS OR \"Santé publique France\" » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « \"congé de naissance\" OR \"congé supplémentaire de naissance\" » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « maternité fermeture OR moratoire » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « sages-femmes ministère OR loi OR réforme » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « \"dépression post-partum\" » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « accouchement témoignage » : <unknown>:2:252: not well-formed (invalid token)",
+  "Google Actualités « allaitement OR \"baby blues\" OR doula » : <unknown>:2:252: not well-formed (invalid token)"
  ],
  "journal": [
-  "40 page(s) d'articles lue(s)",
-  "IA : 10 article(s) résumé(s) et commenté(s)"
+  "29 page(s) d'articles lue(s)",
+  "IA : 4 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -1103,6 +1114,27 @@
    "enriched": true
   },
   {
+   "id": "a-4adf33f932ff",
+   "category": "sci",
+   "priority": false,
+   "title": "La dépression post-partum : comprendre et en parler en replay - De l'autre côté du miroir",
+   "source": "France TV",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.france.tv/mieux/de-l-autre-cote-du-miroir/8988733-la-depression-post-partum-comprendre-et-en-parler.html",
+   "summary": "Cette émission aborde la question de la dépression post-partum et propose des clés pour mieux comprendre cette épreuve psychologique et en parler librement. Elle s'inscrit dans une démarche d'information et de sensibilisation autour de la santé mentale des jeunes parents.",
+   "auto": true,
+   "addedAt": "2026-11-23T15:47:23+00:00",
+   "pageRead": true,
+   "points": [
+    "Intégrer la prévention et le repérage de la détresse psychique dans les discussions prénatales pour préparer le couple au post-partum.",
+    "Valider sans jugement la palette d'émotions traversées par les parents lors des premiers mois sans minimiser leur vécu.",
+    "Orienter immédiatement vers des professionnels de santé qualifiés dès l'apparition de signes de dépression post-partum, la doula n'ayant pas de rôle thérapeutique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-f68c21bf685c",
    "category": "sci",
    "priority": false,
@@ -1853,27 +1885,6 @@
     "Aborder la question du tabac et de la nicotine pendant la grossesse avec bienveillance et sans jugement pour informer les parents de l'impact sur le fœtus.",
     "Soutenir les parents dans leurs démarches de sevrage en les orientant vers des professionnels de santé qualifiés.",
     "Rappeler son rôle non médical en évitant d'interpréter les risques de santé tout en valorisant la prévention."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-2f0e6c0143a1",
-   "category": "sci",
-   "priority": false,
-   "title": "Le lait d'une mère déprimée fatigue le cerveau de son bébé, selon une étude chinoise",
-   "source": "Chine Informations",
-   "date": "30 octobre 2026",
-   "sortDate": "2026-10-30",
-   "url": "https://chine.in/actualite/lait-une-mere-deprimee-fatigue-cerveau_177965.html",
-   "summary": "Des travaux de recherche récents, réalisés sur des souris et comparant des échantillons de lait maternel, indiquent que la dépression post-partum modifie la composition du lait. Ces changements biologiques pourraient influencer négativement les capacités cognitives et émotionnelles du nourrisson.",
-   "auto": true,
-   "addedAt": "2026-11-01T11:44:59+00:00",
-   "pageRead": true,
-   "points": [
-    "Accueillir la parole des mères sur leur santé mentale avec beaucoup de douceur et sans culpabilisation.",
-    "Rappeler aux parents que la détresse psychologique se soigne et encourager à consulter rapidement en cas de symptômes dépressifs.",
-    "Maintenir sa limite en s'abstenant de tout diagnostic ou analyse biologique, tout en restant une présence soutenante au quotidien."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2706,24 +2717,17 @@
    "date": "13 novembre 2026",
    "sortDate": "2026-11-13",
    "url": "https://www.echoancenis.fr/actualite-13617-hopital-d-ancenis-urgences-renforcees-contre-fin-des-accouchements-le-choix-impossible-des-soignants",
-   "summary": "Fermeture de la maternité, d'un côté, rénovation du bloc et urgences renforcées de l'autre, le Chel fait face à un dilemme.",
+   "summary": "Le centre hospitalier Erdre et Loire d'Ancenis fait face à des tensions concernant l'avenir de sa maternité, entre projets de transformation et propositions d'arrêt des accouchements formulées par le CHU de Nantes. La question du maintien des structures de proximité pour les naissances reste au cœur des préoccupations des équipes soignantes.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-d4731b27e9e7",
-   "category": "pol",
-   "priority": false,
-   "title": "Rhône. Elle arrive en pleine nuit pour accoucher : « On m’a dit qu’il n’y avait plus de lit disponible »",
-   "source": "Le Progrès",
-   "date": "13 novembre 2026",
-   "sortDate": "2026-11-13",
-   "url": "https://www.leprogres.fr/sante/2026/11/13/arrivee-en-pleine-nuit-elle-ne-peut-pas-accoucher-dans-la-maternite-prevue-on-m-a-dit-qu-il-n-y-avait-plus-de-lit-disponible",
-   "summary": "Laure devait accoucher à la maternité des Hôpitaux Nord-Ouest (HNO), à Gleizé, où elle a effectué sa préparation à l’accouchement et eu son ...",
-   "auto": true,
-   "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'importance d'anticiper le choix de la maternité et de se renseigner sur la stabilité des structures locales.",
+    "Soutenir l'anxiété éventuelle des futurs parents face aux incertitudes concernant la fermeture de services de proximité.",
+    "Rappeler aux familles que la doula ne se prononce pas sur les choix de politique hospitalière mais offre un espace d'écoute pour exprimer leurs inquiétudes."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-3c7406070db5",
@@ -2944,10 +2948,17 @@
    "date": "11 novembre 2026",
    "sortDate": "2026-11-11",
    "url": "https://www.midilibre.fr/2026/11/11/epilogue-heureux-en-vue-pour-les-sages-femmes-et-auxiliaires-de-puericulture-de-la-polyclinique-sainte-therese-13645601.php",
-   "summary": "Après la fermeture de la maternité de la Polyclinique Sainte-Thérèse au 1er juillet 2027, cinq des huit personnels ont été repris à l’hôpital Saint-Clair. Les trois autres ont fait d’autres choix.",
+   "summary": "Suite à la fermeture d'une maternité privée, le personnel soignant a été redéployé vers l'hôpital public du secteur après de longues négociations. Cet événement illustre les restructurations de l'offre de soins périnataux et la réorganisation des équipes sur un territoire.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Comprendre les mouvements des professionnels de santé locaux pour mieux orienter les familles vers les maternités en activité.",
+    "Être à l'écoute des inquiétudes des parents qui voient les équipes soignantes de leur secteur évoluer ou changer d'établissement.",
+    "Garder à l'esprit que les choix d'organisation hospitalière relèvent des autorités de santé et ne relèvent pas du domaine d'intervention de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-f81de35c3291",
@@ -3298,6 +3309,27 @@
    "enriched": true
   },
   {
+   "id": "a-d4731b27e9e7",
+   "category": "soc",
+   "priority": false,
+   "title": "Rhône. Elle arrive en pleine nuit pour accoucher : « On m’a dit qu’il n’y avait plus de lit disponible »",
+   "source": "Le Progrès",
+   "date": "13 novembre 2026",
+   "sortDate": "2026-11-13",
+   "url": "https://www.leprogres.fr/sante/2026/11/13/arrivee-en-pleine-nuit-elle-ne-peut-pas-accoucher-dans-la-maternite-prevue-on-m-a-dit-qu-il-n-y-avait-plus-de-lit-disponible",
+   "summary": "Une jeune maman ayant suivi toute sa préparation à l'accouchement dans une maternité locale s'est vu refuser l'admission pour son terme en raison d'un manque de lits disponibles en pleine nuit. Cette situation illustre la détresse des parents confrontés à la saturation des structures de soins au moment de la naissance.",
+   "auto": true,
+   "addedAt": "2026-11-23T15:47:23+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de l'importance de préparer un plan de naissance qui intègre des alternatives en cas d'indisponibilité de l'établissement choisi.",
+    "Offrir un espace d'écoute sécurisant pour libérer la parole sur le stress lié à la gestion des imprévus le jour J.",
+    "Rappeler son rôle non médical : la doula soutient le couple émotionnellement mais ne gère pas les aspects logistiques ou d'orientation hospitalière."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-14893a12a8de",
    "category": "soc",
    "priority": false,
@@ -3337,20 +3369,6 @@
    ],
    "summaryAI": true,
    "enriched": true
-  },
-  {
-   "id": "a-4adf33f932ff",
-   "category": "soc",
-   "priority": false,
-   "title": "La dépression post-partum : comprendre et en parler en replay - De l'autre côté du miroir",
-   "source": "France TV",
-   "date": "13 novembre 2026",
-   "sortDate": "2026-11-13",
-   "url": "https://www.france.tv/mieux/de-l-autre-cote-du-miroir/8988733-la-depression-post-partum-comprendre-et-en-parler.html",
-   "summary": "Dans cet épisode de De l'autre côté du miroir, Alice Detollenaere met en lumière le Syndrome métabolique ovarien polyendocrinien (le SMOP, anciennement connu...",
-   "auto": true,
-   "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
   },
   {
    "id": "a-d41d1844f35b",
