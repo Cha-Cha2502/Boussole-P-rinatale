@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T15:23:38+00:00",
+ "updatedAt": "2026-11-26T14:52:48+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -16,7 +16,7 @@
  ],
  "journal": [
   "40 page(s) d'articles lue(s)",
-  "IA : 5 article(s) résumé(s) et commenté(s)"
+  "IA : 55 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -249,7 +249,19 @@
   "a-195f9c946410": "2026-11-20",
   "a-6dd34e47effd": "2026-11-19",
   "a-6fff49419d9f": "2026-11-23",
-  "a-9b2b572ca79d": "2026-11-23"
+  "a-9b2b572ca79d": "2026-11-23",
+  "a-f132aa76181d": "2026-11-26",
+  "a-70f0c8833a05": "2026-11-26",
+  "a-5e1013519b4b": "2026-11-25",
+  "a-00af704b507b": "2026-11-25",
+  "a-ac4ee61e965a": "2026-11-25",
+  "a-97f2e5081075": "2026-11-25",
+  "a-44fe120684f3": "2026-11-24",
+  "a-9fc406276b52": "2026-11-24",
+  "a-ccd32234927c": "2026-11-24",
+  "a-40641ae85b98": "2026-11-24",
+  "a-15eb61c46fcf": "2026-11-23",
+  "a-3e5dc7ab5302": "2026-11-21"
  },
  "articles": [
   {
@@ -633,6 +645,27 @@
    "enriched": true
   },
   {
+   "id": "a-eb0e6f478f3c",
+   "category": "sci",
+   "priority": false,
+   "title": "Agir en périnatalité : la prévention au cœur de notre système de santé",
+   "source": "Agence régionale de santé Ile-de-France",
+   "date": "26 novembre 2026",
+   "sortDate": "2026-11-26",
+   "url": "https://www.iledefrance.ars.sante.fr/agir-en-perinatalite-la-prevention-au-coeur-de-notre-systeme-de-sante",
+   "summary": "L'Agence régionale de santé Île-de-France et la CRSA organisent une journée régionale dédiée à la prévention en périnatalité. Cet événement rassemble des experts, des professionnels de santé et des représentants des usagers pour échanger sur les parcours de prévention et la coordination des acteurs.",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00",
+   "pageRead": true,
+   "points": [
+    "S'informer sur les initiatives locales de prévention en santé périnatale pour mieux orienter les familles vers les réseaux de soins adaptés.",
+    "Valoriser dans ses accompagnements l'importance de la prévention précoce et du dialogue entre les différents professionnels qui entourent les parents.",
+    "Se positionner comme un relai d'information non médical en complément des parcours de santé institutionnels."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-504e054351e8",
    "category": "sci",
    "priority": false,
@@ -641,10 +674,17 @@
    "date": "25 novembre 2026",
    "sortDate": "2026-11-25",
    "url": "https://la1ere.franceinfo.fr/guadeloupe/alcool-et-grossesse-il-n-y-a-pas-de-petit-verre-rappelle-une-nouvelle-campagne-de-prevention-1761329.html",
-   "summary": "À l",
+   "summary": "Une campagne de prévention rappelle qu'aucun seuil de consommation d'alcool n'est sans danger pendant la grossesse, tordant le cou aux idées reçues sur les prétendus petits verres occasionnels ou les boissons moins fortes. L'alcool traverse le placenta et peut provoquer des accouchements prématurés, des retards de croissance ou des troubles du développement fœtal.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Soutenez les futures mères dans leur démarche d'abstinence en valorisant la prévention de manière bienveillante et sans culpabilisation excessive.",
+    "Rappelez l'information scientifique selon laquelle aucun verre d'alcool n'est sûr, tout en évitant de vous substituer au médecin pour évaluer des risques individuels.",
+    "En cas de question ou de difficulté avec l'alcool, encouragez les parents à en parler sans crainte à leur sage-femme, leur médecin ou leur gynécologue."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-d34c165a452f",
@@ -655,10 +695,58 @@
    "date": "25 novembre 2026",
    "sortDate": "2026-11-25",
    "url": "https://www.guadeloupe.franceantilles.fr/actualite/sante/alcool-et-grossesse-sante-publique-france-brise-le-mythe-du-petit-verre-1100883.php",
-   "summary": "À l’occasion du lancement de sa nouvelle campagne de prévention, Santé publique France et le ministère de la Santé tirent la sonnette d’alarme sur la consommation d’alcool pendant la grossesse. Malgré une connaissance globale des risques, les idées reçues persistent et continuent de mettre en danger la santé des nouveau-nés.",
+   "summary": "Santé publique France rappelle qu'aucun niveau de consommation d'alcool n'est sans risque pendant la grossesse, soulignant la persistance d'idées reçues malgré une bonne connaissance globale des dangers. Les troubles liés à l'alcoolisation fœtale, dont la forme la plus sévère est le SAF, entraînent des conséquences lourdes sur le développement de l'enfant. L'organisme insiste sur le fait qu'il n'est jamais trop tard pour arrêter et que l'arrêt de la consommation est toujours bénéfique à tout moment de la gestation.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder la question de la consommation d'alcool avec bienveillance et sans jugement dès le projet d'enfant pour déconstruire les fausses croyances.",
+    "Rappeler de façon factuelle qu'aucun seuil ni aucun type d'alcool n'est sans danger pour le fœtus.",
+    "Orienter systématiquement vers un professionnel de santé en cas de difficulté ou de dépendance, la doula n'ayant pas de rôle thérapeutique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-4546e7ff1717",
+   "category": "sci",
+   "priority": false,
+   "title": "Une distinction nationale pour Laniado : première place pour l’allaitement maternel exclusif",
+   "source": "נתניה נט",
+   "date": "25 novembre 2026",
+   "sortDate": "2026-11-25",
+   "url": "https://www.netanyanet.co.il/%D0%BDnouvelles/18155-une-distinction-nationale-pour-laniado",
+   "summary": "Un rapport du ministère de la Santé israélien met en avant l'importance de l'allaitement maternel exclusif en maternité et souligne le rôle clé des consultantes en lactation dans cet accompagnement précoce. Les équipes de terrain aident les mères à surmonter les difficultés mécaniques et physiologiques dès les premiers jours suivant la naissance. Cet accompagnement favorise la poursuite de l'allaitement après le retour à domicile et contribue à la protection immunitaire du nouveau-né.",
+   "auto": true,
+   "addedAt": "2026-11-25T15:23:38+00:00",
+   "pageRead": true,
+   "points": [
+    "Valoriser l'importance d'un soutien précoce et personnalisé pour les parents qui souhaitent allaiter dès la maternité.",
+    "Encourager les familles à solliciter des spécialistes qualifiés en lactation en cas de difficultés spécifiques.",
+    "Orienter les mères vers les professionnels de santé ou consultantes en lactation certifiées pour tout problème médical lié à l'allaitement."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-a7b4212726bd",
+   "category": "sci",
+   "priority": false,
+   "title": "Ouaddaï : la Semaine nationale de l’allaitement maternel lancée à Abéché",
+   "source": "Tchadinfos",
+   "date": "25 novembre 2026",
+   "sortDate": "2026-11-25",
+   "url": "https://tchadinfos.com/2026/11/25/ouaddai-la-semaine-nationale-de-lallaitement-maternel-lancee-a-abeche/",
+   "summary": "Une Semaine nationale de l'allaitement maternel a été lancée pour promouvoir l'allaitement exclusif durant les six premiers premiers mois du nourrisson. Les autorités sanitaires rappellent l'importance de la mise au sein précoce dès la première heure, de donner le colostrum et de proscrire l'eau ou d'autres liquides avant six mois. L'allaitement est également recommandé jusqu'à l'âge de deux ans avec une diversification alimentaire adaptée.",
+   "auto": true,
+   "addedAt": "2026-11-25T15:23:38+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder sereinement le sujet de l'allaitement et du colostrum lors des séances de préparation pour informer les futurs parents des recommandations de santé publique.",
+    "Offrir un espace d'écoute bienveillant sur les difficultés de mise en route de l'allaitement sans jamais se substituer aux conseils médicaux des sages-femmes ou des pédiatres."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-a7d68cd83b5f",
@@ -669,10 +757,17 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://www.magicmaman.com/il-n-y-a-pas-de-petit-verre-sur-l-alcool-pendant-la-grossesse-cette-campagne-rappelle-le-principe-de-precaution-essentiel,3787938.asp",
-   "summary": "Une nouvelle campagne de prévention met en avant les dangers induits par la consommation d'alcool pendant la grossesse. Et elle souligne qu'\"aucun niveau de consommation ne peut être garanti sans risque pour le bébé\".",
+   "summary": "Une campagne de Santé publique France rappelle que toute consommation d'alcool pendant la grossesse comporte des risques pour le fœtus, soulignant qu'aucun seuil sans danger n'existe. Elle met en avant l'importance d'informer sur les troubles du spectre de l'alcoolisation fœtale et de déconstruire les idées reçues sur les petits verres occasionnels.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Transmettre l'information officielle sur le principe de précaution 'zéro alcool' de manière factuelle et sans culpabiliser les parents.",
+    "Soutenir l'écoute autour des difficultés de sevrage en orientant systématiquement vers le corps médical ou les structures spécialisées adaptées.",
+    "Respecter strictement son rôle non médical en ne posant aucun diagnostic ni en évaluant les risques de consommation passés."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-f9a0ec49d683",
@@ -683,10 +778,38 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://www.democrata.es/fr/sante/un-rapport-avertit-d-une-perte-de-la-suppression-virale-chez-les-femmes-vivant-avec-le-vih-apres-l-accouchement-et-appelle-a-intensifier-leur-suivi-medical/",
-   "summary": "Des chercheuses de l’ISCIII constatent qu’environ 16 % des femmes vivant avec le VIH perdent la suppression virale au cours de la première année post-partum et réclament davantage de suivi et de soutien clinique.",
+   "summary": "Des recherches récentes indiquent qu'une part non négligeable de femmes vivant avec le VIH perd sa suppression virale au cours de la première année suivant l'accouchement. Cette situation met en lumière la nécessité de renforcer le suivi clinique et l'accompagnement de ces mères durant le post-partum.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Renforcer l'écoute attentive des jeunes mères quant à leur fatigue et à la régularité de leur parcours de soins global.",
+    "Encourager activement les parents à maintenir le lien avec l'équipe médicale, en particulier pour les suivis de santé spécifiques.",
+    "Ne formuler aucun avis médical sur les traitements ou les charges virales, en s'en tenant strictement au soutien émotionnel et pratique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-2553e5c21b2d",
+   "category": "sci",
+   "priority": false,
+   "title": "Grossesse : \"Il n’y a pas de petit verre\", rappelle la nouvelle campagne de prévention",
+   "source": "Doctissimo",
+   "date": "24 novembre 2026",
+   "sortDate": "2026-11-24",
+   "url": "https://www.doctissimo.fr/grossesse/news-grossesse/grossesse-il-ny-a-pas-de-petit-verre-rappelle-la-nouvelle-campagne-de-prevention-834554.htm",
+   "summary": "Une campagne de sensibilisation menée par les autorités sanitaires rappelle l'absence de seuil sécurisé pour la consommation d'alcool pendant la grossesse et détaille les risques de complications fœtales. Elle insiste sur la nécessité d'accompagner les femmes avec empathie pour favoriser l'arrêt de la consommation sans isolement.",
+   "auto": true,
+   "addedAt": "2026-11-25T15:23:38+00:00",
+   "pageRead": true,
+   "points": [
+    "Sensibiliser les futurs parents aux recommandations de santé publique avec tact, en ouvrant un dialogue de confiance sur le bien-être de la grossesse.",
+    "Proposer une présence sécurisante et ouverte à l'écoute des difficultés personnelles, sans jugement moral.",
+    "Laisser la prise en charge de l'addiction ou des conseils thérapeutiques aux professionnels de santé habilités."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-b23cd065f776",
@@ -766,18 +889,101 @@
    "pageRead": true
   },
   {
-   "id": "a-d807c140ce40",
+   "id": "a-cda8a2d6a01b",
    "category": "sci",
    "priority": false,
-   "title": "Maternité d’Ancenis : manifestation le 28 novembre",
-   "source": "Actu44",
+   "title": "\"Pendant la grossesse, il n'y a pas de petit verre\" : une nouvelle campagne de prévention rappelle les risques de l'alcool chez les femmes enceintes",
+   "source": "Franceinfo Santé",
+   "date": "23 novembre 2026",
+   "sortDate": "2026-11-23",
+   "url": "https://www.franceinfo.fr/sante/drogue-addictions/pendant-la-grossesse-il-n-y-a-pas-de-petit-verre-une-nouvelle-campagne-de-prevention-rappelle-les-risques-de-l-alcool-chez-la-femme-enceinte_8296094.html#xtor=RSS-3-%5Bsante%5D",
+   "summary": "Une campagne nationale de prévention met en garde contre les dangers de l'alcool pendant la grossesse. L'agence sanitaire rappelle qu'aucune quantité d'alcool ne peut être consommée sans danger pour le fœtus.",
+   "auto": true,
+   "addedAt": "2026-11-23T15:47:23+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder ce sujet avec bienveillance et sans jugement lors des discussions autour de l'hygiène de vie globale de la future mère.",
+    "Rappeler de manière claire et informative le principe de précaution concernant l'alcool, en orientant vers le corps médical pour toute question spécifique.",
+    "Ne jamais banaliser une consommation minime et réaffirmer qu'aucun seuil de sécurité n'est défini."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-5e5fd61b6998",
+   "category": "sci",
+   "priority": false,
+   "title": "Le Canada déconseille les Ricola aux enfants et femmes enceintes",
+   "source": "Watson",
+   "date": "23 novembre 2026",
+   "sortDate": "2026-11-23",
+   "url": "https://www.watson.ch/fr/suisse/sante/737060353-le-canada-deconseille-les-ricola-aux-enfants-et-femmes-enceintes",
+   "summary": "Les emballages de certains bonbons de la marque Ricola comportent des avertissements au Canada ciblant spécifiquement les femmes enceintes et les enfants. Ces précautions diffèrent des usages observés en Suisse.",
+   "auto": true,
+   "addedAt": "2026-11-23T15:47:23+00:00",
+   "pageRead": true,
+   "points": [
+    "Inviter les parents à la vigilance sur la composition des produits du commerce et des compléments d'herboristerie pendant la grossesse.",
+    "Encourager un dialogue ouvert sur l'automédication douce et rappeler l'importance de vérifier l'innocuité des produits consommés.",
+    "Ne jamais valider la consommation de produits à base de plantes sans l'accord préalable d'un professionnel de santé qualifié."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-3a1a2ec7ff66",
+   "category": "sci",
+   "priority": false,
+   "title": "La maternité de Guingamp ne rouvrira pas, mais un nouveau projet se dessine pour les femmes à l'hôpital",
+   "source": "Actu.fr",
+   "date": "23 novembre 2026",
+   "sortDate": "2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVptNkZSVURqM2wyOERzQS14dWlqQ0gycUNUUkVpU2kzR3hjZ2RvLUpoXzBkNnFiQ25IbFVtdnpMdGwtQzA1ak5xelR1TC1SSHp5dUZleXpkZU8wVTNaQTVOWHRMV01EUzBtVlktNnpaaGowaVRxeXNRLUhoRWUyeEZWUjZhNXVZZmxRVW40SmswU1hKRE1EeFBOdV9ldDd5S1pCVnAyOUZCWnF5aE5iSUZpbDBfM0d3YXBBR3hQQ2JpSXF2cy1IcFF2aHpaY0tRZy12VnVGazVTY01P?oc=5",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00"
+  },
+  {
+   "id": "a-cc719011d48a",
+   "category": "sci",
+   "priority": false,
+   "title": "L’allaitement maternel exclusif au Maroc ne dépasse pas 35 % durant les six premiers mois",
+   "source": "Hespress Français - Actualités du Maroc",
    "date": "22 novembre 2026",
    "sortDate": "2026-11-22",
-   "url": "https://www.actu44.fr/maternite-dancenis-manifestation-le-28-novembre/",
-   "summary": "L'intersyndicale et le collectif de soignants du centre hospitalier Erdre et Loire appellent à manifester samedi 28 novembre, à 10 h, contre la fermeture annoncée des salles de naissance.",
+   "url": "https://fr.hespress.com/497427-lallaitement-maternel-exclusif-au-maroc-ne-depasse-pas-35-durant-les-six-premiers-mois.html",
+   "summary": "Au Maroc, le taux d'allaitement maternel exclusif ne dépasse pas 35 % au cours des six premiers mois de vie de l'enfant. Face à ce constat, l'Association Marocaine de la Promotion de la Santé demande la mise en place de mesures concrètes pour protéger les droits des mères qui allaitent.",
    "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-23T15:47:23+00:00",
+   "pageRead": true,
+   "points": [
+    "Aborder le sujet de l'allaitement de manière globale en tenant compte des difficultés et des taux de réussite observés au niveau sociétal.",
+    "Soutenir le projet d'allaitement des parents avec une information éclairée et bienveillante, sans pression ni culpabilisation.",
+    "Connaître ses limites en orientant les mères vers des consultantes en lactation ou des sages-femmes en cas de problématiques physiologiques."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-05997cac3cfc",
+   "category": "sci",
+   "priority": false,
+   "title": "L'allaitement pourrait réduire le risque de dépression chez les mères, selon une étude",
+   "source": "Yahoo Life France",
+   "date": "21 novembre 2026",
+   "sortDate": "2026-11-21",
+   "url": "https://fr.style.yahoo.com/lallaitement-pourrait-reduire-risque-depression-153745709.html",
+   "summary": "Une étude internationale suggère un lien potentiel entre la pratique de l'allaitement et une diminution des symptômes dépressifs chez les mères. Les auteurs invitent toutefois à considérer ces conclusions avec précaution.",
+   "auto": true,
+   "addedAt": "2026-11-22T13:10:15+00:00",
+   "pageRead": true,
+   "points": [
+    "Discuter de l'alimentation du nourrisson avec bienveillance, en gardant en tête que l'allaitement peut influencer le bien-être maternel sans constituer une garantie absolue.",
+    "Soutenir la mère dans son choix d'allaitement tout en veillant à ne pas culpabiliser celles qui ne le peuvent ou ne le souhaitent pas.",
+    "Rappeler que la doula soutient le choix parental et oriente vers des professionnels de santé en cas de symptômes dépressifs post-partum."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-0c1782d35fab",
@@ -902,6 +1108,19 @@
    ],
    "summaryAI": true,
    "enriched": true
+  },
+  {
+   "id": "a-a4732cc6eb80",
+   "category": "sci",
+   "priority": false,
+   "title": "NÎMES Une maternité de référence sur le territoire",
+   "source": "www.objectifsud.fr",
+   "date": "19 novembre 2026",
+   "sortDate": "2026-11-19",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORl94M09uQ000Zmw4UzNxbEw3T2FMUjJLY3FkbzMxcVZJTDJLakF5MFlkN1NfdXdJWEZGeG02QU1NWWFDTllla05wdDJKRTB3OGhUOTZlT3U2V25MVVZQZDhXVGZjT09TTEdtbzVaMHctZ3VRd1FyckktcWMybVBzWGJzMDlmQklnaEhtNXRtZnV6RHd3eTFSMHln?oc=5",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00"
   },
   {
    "id": "a-dd247557039a",
@@ -1634,190 +1853,63 @@
    "enriched": true
   },
   {
-   "id": "a-df07a300456a",
-   "category": "sci",
+   "id": "a-a1f29799f6e0",
+   "category": "pol",
    "priority": false,
-   "title": "Approfondir le rôle des sages-femmes",
-   "source": "TVA - CIMT-CHAU",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://cimtchau.ca/nouvelles/approfondir-le-role-des-sages-femmes/",
-   "summary": "Une conférence récente présentée par une sage-femme au Nouveau-Brunswick a mis en lumière le rôle et l'autonomie de cette profession introduite en 2017 dans la province. L'exposé a rappelé les exigences de formation universitaire ainsi que la diversité des lieux de pratique possibles, qu'il s'agisse du domicile, de centres de naissance ou d'hôpitaux. Cette approche de soin se caractérise par une vision humaniste et centrée sur la famille.",
+   "title": "PARIS : Droit du travail - Le nouveau congé de naissance d'un à deux mois est entré en vigueur",
+   "source": "Presse Agence",
+   "date": "26 novembre 2026",
+   "sortDate": "2026-11-26",
+   "url": "https://presseagence.fr/paris-droit-du-travail-le-nouveau-conge-de-naissance-dun-a-deux-mois-est-entre-en-vigueur/",
+   "summary": "Un nouveau congé de naissance indemnisé d'une durée d'un à deux mois est entré en vigueur en juillet 2026 pour tous les salariés, sans condition d'ancienneté. Ce droit individuel et autonome s'ajoute au congé de paternité ou d'adoption et peut être pris à la suite de ces derniers selon des modalités précises de prévenance.",
    "auto": true,
-   "addedAt": "2026-11-06T12:48:04+00:00",
+   "addedAt": "2026-11-26T14:52:48+00:00",
    "pageRead": true,
    "points": [
-    "Informer les parents sur les compétences et le champ d'intervention légal des sages-femmes pour les accompagner dans leur choix de suivi périnatal.",
-    "Valoriser l'approche globale et physiologique portée par les sages-femmes lors des discussions sur le projet de naissance avec les couples.",
-    "Rappeler la distinction claire entre le suivi médical assuré par les sages-femmes et l'accompagnement non médical et émotionnel propre à la doula."
+    "Informer les futurs co-parents de l'existence de ce nouveau droit pour les aider à anticiper au mieux leur présence auprès du nouveau-né dans les premiers mois.",
+    "Intégrer la dimension administrative et juridique du post-partum dans les discussions sur l'organisation du foyer après l'arrivée du bébé.",
+    "Laisser le corps médical et les employeurs gérer les démarches formelles tout en offrant un espace d'écoute sur l'impact de ces congés dans la dynamique familiale."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-be2c4241b822",
-   "category": "sci",
+   "id": "a-778b0a193ec1",
+   "category": "pol",
    "priority": false,
-   "title": "Allaitement maternel : la Tunisie appelée à renforcer son dispositif de protection",
-   "source": "Espacemanager",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://espacemanager.com/allaitement-maternel-tunisie-renforcer-dispositif-protection/",
-   "summary": "Lors de sa septième Journée nationale, l'Association HANEN a souligné l'importance de l'allaitement maternel en tant qu'enjeu de santé publique majeur en Tunisie. Les participants ont formulé plusieurs recommandations, insistant notamment sur la nécessité d'une collaboration multisectorielle et d'une meilleure sensibilisation du public. L'association préconise également la diffusion de messages simples valorisant le contact peau à peau et la mise au sein précoce.",
+   "title": "Maternité d’Ancenis : le GHT renonce à son projet, la marche du 28 novembre reste annoncée",
+   "source": "https://infos-media-nantes.fr/",
+   "date": "26 novembre 2026",
+   "sortDate": "2026-11-26",
+   "url": "https://infos-media-nantes.fr/maternite-ancenis-centre-perinatalite-projet-inquietudes-novembre-2026/",
+   "summary": "Le Groupement hospitalier de territoire de Loire-Atlantique a renoncé à son projet de transformation de la maternité d'Ancenis en centre périnatal, bien qu'une mobilisation des soignants et des syndicats reste maintenue. Cette décision locale illustre les incertitudes persistantes autour du maintien de l'offre de soins et des structures de naissance.",
    "auto": true,
-   "addedAt": "2026-11-06T12:48:04+00:00",
+   "addedAt": "2026-11-26T14:52:48+00:00",
    "pageRead": true,
    "points": [
-    "Soutenir les jeunes mères dans leur projet d'allaitement en valorisant des pratiques simples comme le peau à peau et la mise au sein précoce.",
-    "Partager des informations factuelles et bienveillantes sur les bienfaits de l'allaitement tout en restant à l'écoute des difficultés et des choix de chaque parent.",
-    "Orienter les parents vers des professionnels de santé qualifiés ou des associations spécialisées en lactation en cas de difficultés médicales."
+    "Aborder avec tact les inquiétudes des parents concernant la fermeture potentielle ou la réorganisation des maternités de leur secteur.",
+    "Aider les parents à identifier plusieurs options de lieux de naissance et à élaborer un plan de secours en cas de modification de l'offre de soins locale.",
+    "Rester neutre et bienveillante face aux mobilisations sociales sans prendre position dans les choix de politique de santé publique."
    ],
    "summaryAI": true,
    "enriched": true
   },
   {
-   "id": "a-c35955e516d0",
-   "category": "sci",
+   "id": "a-e55a57a9096c",
+   "category": "pol",
    "priority": false,
-   "title": "Biogen Canada annonce une large couverture par les régimes privés d’assurance médicaments pour ZURZUVAE, élargissant l’accès pour les patients admissibles souffrant de dépression post-partum chez les adultes après l’accouchement",
-   "source": "Benzinga France",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://fr.benzinga.com/news/france/general/biogen-canada-annonce-une-large-couverture-par-les-regimes-prives-dassurance-medicaments-pour-zurzuvae-elargissant-lacces-pour-les-patients-admissibles-souffrant-de-depression-post/",
-   "summary": "Un traitement médicamenteux ciblant la dépression post-partum, le Zurzuvae, bénéficie désormais d'une large couverture par les régimes d'assurance privés au Canada. Cette mesure vise à faciliter l'accès à ce médicament pour les adultes concernés après la naissance.",
+   "title": "Grossesse : dès 2027, plus de franchise ni de quote-part dès les premières semaines",
+   "source": "Econostrum.info",
+   "date": "26 novembre 2026",
+   "sortDate": "2026-11-26",
+   "url": "https://econostrum.info/suisse/grossesse-franchise-premieres-semaines/",
+   "summary": "À partir de janvier 2027, les femmes enceintes seront totalement exonérées de franchise et de quote-part dès le début de leur grossesse pour les prestations de l'assurance de base concernées. Cette mesure prolonge la protection financière en amont de la treizième semaine et s'inscrit dans un plan de maîtrise des coûts de la santé.",
    "auto": true,
-   "addedAt": "2026-11-06T12:48:04+00:00",
+   "addedAt": "2026-11-26T14:52:48+00:00",
    "pageRead": true,
    "points": [
-    "Informe-toi sur l'existence de nouveaux traitements pour la dépression post-partum afin de comprendre les options disponibles pour les parents, tout en orientant vers le corps médical pour toute prescription.",
-    "Rappelle aux parents que le soutien psychologique et émotionnel de la doula complète les thérapies médicales, mais ne s'y substitue pas.",
-    "Sois attentive aux signes de détresse psychologique sévère dans le post-partum pour encourager un accompagnement spécialisé sans poser de diagnostic."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-85ddb1d85d76",
-   "category": "sci",
-   "priority": false,
-   "title": "À Kousséri, l’allaitement maternel, un bouclier indispensable contre le choléra",
-   "source": "Unicef",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://www.unicef.org/cameroon/fr/recits/%C3%A0-kouss%C3%A9ri-lallaitement-maternel-un-bouclier-indispensable-contre-le-chol%C3%A9ra",
-   "summary": "Des agents de santé communautaire mènent une campagne de sensibilisation auprès des mères pour maintenir l'allaitement maternel malgré les épidémies de choléra et les rumeurs persistantes. Les recommandations indiquent qu'une mère atteinte du choléra peut continuer d'allaiter tant qu'elle est consciente et en mesure de le faire. Une prise en charge médicale adaptée est nécessaire, et une séparation temporaire ne s'impose qu'en cas d'affaiblissement extrême de la part de la mère.",
-   "auto": true,
-   "addedAt": "2026-11-07T11:36:32+00:00",
-   "pageRead": true,
-   "points": [
-    "Informer les parents sur l'importance de s'appuyer sur des recommandations de santé publique fiables face aux fausses croyances en période d'épidémie.",
-    "Valoriser l'écoute des besoins de la mère et du bébé tout en respectant les impératifs de sécurité dictés par l'état de santé global.",
-    "Orienter systématiquement vers le corps médical pour tout diagnostic, protocole de soin ou gestion de pathologie infectieuse."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-53c95068c622",
-   "category": "sci",
-   "priority": false,
-   "title": "Décès d'un nouveau-né à la maternité de Saint-Affrique : le centre hospitalier suspend ses accouchements, les futures mamans vont être contactées",
-   "source": "Centre Presse Aveyron",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://www.centrepresseaveyron.fr/2026/11/05/deces-dun-nouveau-ne-a-la-maternite-de-saint-affrique-le-centre-hospitalier-suspend-ses-accouchements-les-futures-mamans-vont-etre-contactees-13638566.php",
-   "summary": "La maternité de Saint-Affrique a suspendu temporairement ses accouchements suite au décès d'un nouveau-né survenu début novembre 2026. Une analyse approfondie des pratiques est menée en lien avec l'Agence régionale de santé et plusieurs structures médicales pour identifier d'éventuelles fragilités avant une réouverture.",
-   "auto": true,
-   "addedAt": "2026-11-08T11:48:42+00:00",
-   "pageRead": true,
-   "points": [
-    "Être à l'écoute de l'anxiété que cette actualité locale et la fermeture temporaire de la maternité peuvent générer chez les futurs parents suivis dans la région.",
-    "Aider les familles à anticiper un plan de naissance alternatif en identifiant clairement les maternités de recours les plus proches en cas de modification de leur parcours.",
-    "Respecter strictement votre rôle non médical en évitant d'émettre des hypothèses sur les causes de l'accident et en orientant les questions médicales vers les professionnels de santé."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-7d41afd241e3",
-   "category": "sci",
-   "priority": false,
-   "title": "Le cancer du sein est la principale cause de morbidité et de mortalité : des moyens « révélateurs » de réduire les risques grâce à la maternité.",
-   "source": "Vietnam.vn",
-   "date": "4 novembre 2026",
-   "sortDate": "2026-11-04",
-   "url": "https://www.vietnam.vn/fr/ung-thu-vu-dan-dau-ca-mac-va-tu-vong-bat-mi-cach-giam-nguy-co-tu-thien-chuc-lam-me",
-   "summary": "D'après les données de santé publique, le cancer du sein constitue la principale cause de mortalité par cancer chez les femmes. Plusieurs facteurs de risque sont identifiés, parmi lesquels l'absence d'allaitement, l'absence d'enfants ou une première grossesse tardive.",
-   "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Discutez de l'allaitement maternel avec les parents en valorisant ses bienfaits globaux pour la santé, tout en restant dans une écoute bienveillante et sans culpabilisation.",
-    "Accompagnez les mères dans leurs choix d'allaitement ou d'alimentation pour leur nouveau-né en leur offrant une information éclairée, sans jamais vous substituer au suivi médical.",
-    "Gardez à l'esprit que la prévention des pathologies mammaires relève strictement du parcours médical et orientez toujours les parents vers des professionnels de santé en cas de doute."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-4edaaf851d62",
-   "category": "sci",
-   "priority": false,
-   "title": "Grossesse et arrivée de bébé : les bons repères pour avancer avec sérénité",
-   "source": "africaradio.com",
-   "date": "4 novembre 2026",
-   "sortDate": "2026-11-04",
-   "url": "https://www.africaradio.com/actualite-117256-grossesse-et-arrivee-de-bebe-les-bons-reperes-pour-avancer-avec-serenite",
-   "summary": "Les futurs parents font face à une multitude d'informations contradictoires provenant du milieu médical, de leurs proches et d'internet. Des expertes rappellent l'importance de s'appuyer sur des repères fiables pour aborder sereinement la grossesse et l'alimentation.",
-   "auto": true,
-   "addedAt": "2026-11-17T14:12:56+00:00",
-   "pageRead": true,
-   "points": [
-    "Aidez les parents à faire le tri face au trop-plein d'informations reçues pendant la grossesse.",
-    "Offrez un espace d'écoute bienveillant pour libérer la parole sur leurs doutes sans leur imposer de directives.",
-    "Rappelez que les choix de santé médicale relèvent strictement des professionnels habilités."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-fce1d2f89f30",
-   "category": "sci",
-   "priority": false,
-   "title": "Téléphone pendant l’allaitement : culpabilité, attention au bébé et ondes, que retenir ?",
-   "source": "Magicmaman",
-   "date": "3 novembre 2026",
-   "sortDate": "2026-11-03",
-   "url": "https://www.magicmaman.com/peut-on-scroller-sur-son-telephone-quand-on-allaite-et-ne-pas-culpabiliser,3782892.asp",
-   "summary": "L'utilisation du téléphone portable pendant l'allaitement est fréquente et jugée tout à fait acceptable par les spécialistes, tout en invitant à préserver des moments d'échange visuel avec le nourrisson. Par précaution concernant l'exposition aux ondes, il est conseillé de maintenir une certaine distance entre l'appareil et la tête de l'enfant.",
-   "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Déculpabiliser les mères sur leurs pratiques pendant l'allaitement, qu'il s'agisse de se distraire ou de contempler leur bébé.",
-    "Encourager un climat de bienveillance et d'écoute pour que chaque parent trouve un équilibre qui lui convienne sans injonction culpabilisante.",
-    "Rappeler les recommandations de précaution élémentaires concernant l'environnement matériel du nourrisson sans poser de diagnostic médical."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-62fb789cd805",
-   "category": "sci",
-   "priority": false,
-   "title": "L’hôpital des Forces de sécurité de Riyad obtient le label « Hôpital ami des bébés »",
-   "source": "وكالة الأنباء السعودية",
-   "date": "3 novembre 2026",
-   "sortDate": "2026-11-03",
-   "url": "https://www.spa.gov.sa/fr/N2717651",
-   "summary": "L'hôpital des Forces de sécurité de Riyad a reçu le label international « Hôpital ami des bébés », fondé sur les recommandations de l'OMS et de l'UNICEF. Cette certification met en avant les établissements qui s'engagent activement à soutenir l'allaitement maternel et à optimiser la qualité des soins prodigués aux mères et aux nouveau-nés.",
-   "auto": true,
-   "addedAt": "2026-11-04T12:51:29+00:00",
-   "pageRead": true,
-   "points": [
-    "Informe les parents sur l'existence de ces labels hospitaliers pour les aider à choisir une maternité alignée avec leurs souhaits d'allaitement.",
-    "Valorise les bienfaits d'un environnement de soins bienveillant et formé pour sécuriser la mise en route de l'alimentation du nouveau-né.",
-    "Rappelle ton rôle non médical en valorisant le choix des parents, sans interférer dans les protocoles de l'établissement."
+    "Vous pouvez informer les parents sur l'évolution de leurs droits financiers dès le début de la grossesse, tout en les invitant à se renseigner auprès de leur caisse d'assurance.",
+    "Restez neutre face aux aspects administratifs et orientez toujours les familles vers les professionnels ou organismes compétents pour le calcul de leurs remboursements de soins."
    ],
    "summaryAI": true,
    "enriched": true
@@ -1831,66 +1923,38 @@
    "date": "25 novembre 2026",
    "sortDate": "2026-11-25",
    "url": "https://www.magnolia.fr/actualites/sante/%20mutuelle-entreprise-paiement-cotisation-conge-supplementaire-naissance",
-   "summary": "découvrez qui finance votre mutuelle d'entreprise pendant le congé supplémentaire de naissance et dans quelles conditions l'employeur peut suspendre sa participation.",
+   "summary": "Le congé supplémentaire de naissance, en vigueur depuis juillet 2026, permet aux parents de prolonger leur absence de deux mois après les congés initiaux. Cette période entraîne une suspension du contrat de travail, ce qui modifie les conditions de maintien de la mutuelle d'entreprise selon les règles de financement de l'employeur. Les indemnités journalières versées par l'Assurance maladie ne constituent pas un complément de salaire permettant d'imposer automatiquement la participation patronale à la complémentaire santé.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informer les parents sur l'existence de ce nouveau congé de naissance et sur l'importance de vérifier leur couverture santé durant cette période.",
+    "Encourager les couples à anticiper les impacts administratifs et financiers d'une suspension de contrat sur leurs dépenses de santé.",
+    "Rappeler que les questions relatives aux contrats de travail et aux cotisations sociales relèvent des RH ou de l'administration, et non du champ d'expertise de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-5e1013519b4b",
+   "id": "a-377c410711de",
    "category": "pol",
    "priority": false,
-   "title": "Le ministère de l'Intérieur répond au cas d'une sage-femme de 13 ans souhaitant obtenir une augmentation de salaire",
-   "source": "Laodong.vn",
+   "title": "Une FIV peut coûter plus de 15 000 dollars par cycle et une doula privée 3 000 dollars : ce que change réellement le nouveau paquet de mesures du Conseil municipal de New York sur la fertilité, les doulas et la contraception",
+   "source": "Secret NYC",
    "date": "25 novembre 2026",
    "sortDate": "2026-11-25",
-   "url": "https://fr.laodong.vn/thoi-su/bo-noi-vu-tra-loi-truong-hop-co-13-nam-lam-ho-sinh-muon-nang-bac-luong-1806471.ldo",
-   "summary": "",
+   "url": "https://secretnyc.co/fr/conseil-fertilite-fiv-doula-contraception/",
+   "summary": "Le Conseil municipal de New York a adopté un ensemble de mesures législatives visant à améliorer l'accès aux traitements de fertilité, à la contraception et aux services de doulas. Ces textes renforcent l'information du public sur les aides financières disponibles et renforcent l'application des lois protégeant la présence des doulas dans les établissements de soins. L'accès à ces accompagnements reste toutefois marqué par des coûts élevés et des taux d'utilisation encore limités.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-495031051089",
-   "category": "pol",
-   "priority": false,
-   "title": "Budget 2027 : le Sénat élargit le prêt à taux zéro natalité à chaque nouvelle naissance",
-   "source": "Public Sénat",
-   "date": "24 novembre 2026",
-   "sortDate": "2026-11-24",
-   "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-elargit-le-pret-a-taux-zero-natalite-a-chaque-nouvelle-naissance",
-   "summary": "Mesure défendue par le gouvernement pour relancer la natalité, le prêt à taux zéro (PTZ) natalité, dispositif initialement prévu pour le premier enfant, a été élargi par la commission des finances à chaque enfant.",
-   "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-2553e5c21b2d",
-   "category": "pol",
-   "priority": false,
-   "title": "Grossesse : \"Il n’y a pas de petit verre\", rappelle la nouvelle campagne de prévention",
-   "source": "Doctissimo",
-   "date": "24 novembre 2026",
-   "sortDate": "2026-11-24",
-   "url": "https://www.doctissimo.fr/grossesse/news-grossesse/grossesse-il-ny-a-pas-de-petit-verre-rappelle-la-nouvelle-campagne-de-prevention-834554.htm",
-   "summary": "Santé publique France rappelle qu'aucune consommation d'alcool ne peut être considérée comme sans risque pendant la grossesse.",
-   "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-44fe120684f3",
-   "category": "pol",
-   "priority": false,
-   "title": "Congé supplémentaire de naissance : l'employeur doit-il maintenir la mutuelle ?",
-   "source": "Lefebvre Dalloz Compétences",
-   "date": "24 novembre 2026",
-   "sortDate": "2026-11-24",
-   "url": "https://formation.lefebvre-dalloz.fr/actualite/conge-supplementaire-de-naissance-lemployeur-doit-il-maintenir-la-mutuelle",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discuter avec les parents de l'importance de connaître leurs droits en matière d'accompagnement et de présence de leur doula en structure de soins.",
+    "Soutenir l'accès à l'information sur les ressources disponibles pour les familles, tout en restant consciente des freins financiers que rencontrent certains parents.",
+    "Laisser aux professionnels médicaux la responsabilité de l'organisation interne des structures de soin tout en soutenant l'autonomie des parents."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-ae7e8d1ce0ac",
@@ -1901,10 +1965,16 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://libnanews.com/espagne-le-gouvernement-approuve-20-semaines-de-conge-de-naissance/",
-   "summary": "Le Conseil espagnol approuve 20 semaines de congé par parent et 34 pour un parent seul. L’accord ne suffit pas à ouvrir les nouveaux droits.",
+   "summary": "Le gouvernement espagnol a approuvé l'extension du congé de naissance et de soins à 20 semaines par parent, et à 34 semaines pour les familles monoparentales. Ce dispositif individuel et non transférable est pris en charge à 100 % par la Sécurité sociale, mais sa mise en application effective reste subordonnée à sa publication officielle.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Vous pouvez aborder avec les parents l'importance de se renseigner en amont sur leurs droits administratifs et la durée de leurs congés post-nataux.",
+    "Rappelez aux couples que ces sujets de législation du travail relèvent des instances administratives et juridiques, et non de votre accompagnement non médical."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-e34cd6b34087",
@@ -1915,10 +1985,16 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://barcelonasecreta.com/fr/allongement-du-conge-de-paternite/",
-   "summary": "Le congé de naissance passe à 20 semaines par parent, à 100 % et non transférables. On t'explique comment elles se répartissent et quand ça entre en vigueur.",
+   "summary": "En Espagne, le congé de naissance est étendu à 20 semaines par parent, payé à 100 % et non transférable, portant le total à 34 semaines pour les familles monoparentales. Cette mesure inclut des semaines flexibles à répartir au cours de la première année de l'enfant et entrera en vigueur dès sa publication officielle.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discutez avec les futurs parents de la manière dont ils envisagent l'organisation de leur foyer et le partage du temps auprès du nouveau-né pendant le post-partum.",
+    "Encouragez les parents à anticiper ces démarches administratives pour aborder les premiers mois avec moins de charge mentale financière et organisationnelle."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-da632edf44df",
@@ -1929,10 +2005,16 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://madridsecreto.co/fr/le-gouvernement-approuve-20-semaines-de-conge-de-naissance-pour-chaque-parent-a-repartir-comme-bon-leur-semble/",
-   "summary": "Congé de 20 semaines à la naissance : 18 la première année et 2 jusqu’à l’âge de 8 ans. C’est comme ça qu’elles sont réparties et qu’on touche 100 % de l’assiette de calcul.",
+   "summary": "Le congé de naissance espagnol s'établit à 20 semaines par parent, dont 18 semaines la première année de l'enfant et 2 semaines utilisables jusqu'aux huit ans de ce dernier. Les six premières semaines suivant l'accouchement sont obligatoires et ininterrompues, tandis que le reste offre une flexibilité d'organisation pour les familles.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aidez les parents à réfléchir à l'impact de ces temps de présence partagés ou alternés sur leur quotidien et leur récupération physique après la naissance.",
+    "Gardez en tête que le choix de la répartition de ces congés appartient au couple et à leur employeur, en dehors de votre rôle d'écoute et de soutien émotionnel."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-0a1f74f216a8",
@@ -1943,24 +2025,16 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://www.democrata.es/fr/politique/gouvernement-etend-a-20-semaines-conge-naissance-prise-en-charge-enfants/amp/",
-   "summary": "Le Conseil des ministres approuvera une semaine supplémentaire de congé pendant la première année de vie du mineur et portera à 34 semaines la période dont pourront bénéficier les familles monoparentales.",
+   "summary": "Le gouvernement prévoit d'allonger d'une semaine supplémentaire les congés rémunérés pour la naissance et la prise en charge des enfants durant leur première année. Cette évolution porte la durée globale à 34 semaines pour les familles monoparentales.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-9fc406276b52",
-   "category": "pol",
-   "priority": false,
-   "title": "« Le blocage, c’est la fermeture de la maternité ! » Pour sauver le centre hospitalier d’Ancenis, faut-il la sacrifier ?",
-   "source": "maville.com",
-   "date": "24 novembre 2026",
-   "sortDate": "2026-11-24",
-   "url": "https://cholet.maville.com/actu/actudet_-le-blocage-c-est-la-fermeture-de-la-maternite-pour-sauver-le-centre-hospitalier-d-ancenis-faut-il-la-sacrifier_fil-7583961_actu.Htm",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Mentionnez aux parents l'intérêt de suivre l'évolution des textes législatifs pour connaître précisément leurs droits au moment de l'arrivée de l'enfant.",
+    "Soutenez l'écoute des familles monoparentales qui font face à des défis logistiques spécifiques inhérents à l'organisation de leurs congés."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-8d906a44a5a0",
@@ -1971,24 +2045,17 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/ancenis-saint-gereon/le-projet-d-adaptation-de-l-hopital-d-ancenis-et-de-fermeture-de-la-maternite-abandonne-6035989",
-   "summary": "Le Groupement hospitalier de territoire de Loire-Atlantique annonce, ce mardi, renoncer à mettre en œuvre le projet visant à \"clarifier l",
+   "summary": "Le projet de fermeture de la maternité de l'hôpital d'Ancenis a finalement été abandonné suite à un manque d'adhésion des parties prenantes. Les discussions sur l'avenir et le financement de l'établissement se poursuivent pour trouver des solutions adaptées.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-ccd32234927c",
-   "category": "pol",
-   "priority": false,
-   "title": "L’avenir de l’hôpital d’Ancenis-Saint-Géréon passera-t-il par le sacrifice de sa maternité ?",
-   "source": "Ouest-France",
-   "date": "24 novembre 2026",
-   "sortDate": "2026-11-24",
-   "url": "https://www.ouest-france.fr/sante/hopital/lavenir-de-lhopital-dancenis-saint-gereon-passera-t-il-par-le-sacrifice-de-sa-maternite-6e261a1e-e834-11f1-9b33-2f81462d3339",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Vous pouvez aborder avec les parents l'importance de se renseigner régulièrement sur l'évolution de l'offre de soins locale et des maternités de leur secteur.",
+    "Restez à l'écoute des inquiétudes des futurs parents face aux incertitudes concernant les structures de naissance de proximité.",
+    "Rappelez aux familles que les décisions d'organisation hospitalière relèvent des instances de santé publique et échappent au champ d'intervention de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-61c4cc8dd7e8",
@@ -2089,18 +2156,59 @@
    "pageRead": true
   },
   {
-   "id": "a-15eb61c46fcf",
+   "id": "a-6031f052d5bb",
    "category": "pol",
    "priority": false,
-   "title": "MSF interrompt une partie de son action au Soudan du Sud après l’enlèvement d’un travailleur et d’une sage-femme",
-   "source": "Demócrata",
+   "title": "Maternité et expatriation : quelle protection avec la CFE ?​",
+   "source": "French Morning",
    "date": "23 novembre 2026",
    "sortDate": "2026-11-23",
-   "url": "https://www.democrata.es/fr/international/msf-interrompt-une-partie-de-son-action-au-soudan-du-sud-apres-l-enlevement-d-un-travailleur-et-d-une-sage-femme/amp/",
-   "summary": "Médecins Sans Frontières suspend pendant trois mois ses activités à Río Yei après un nouvel enlèvement et met en garde contre le risque en cas d’une possible flambée d’Ebola.",
+   "url": "https://www.frenchmorning.com/maternite-et-expatriation-quelle-protection-avec-la-cfe/",
+   "summary": "La question de la prise en charge financière et administrative de la maternité à l'étranger est abordée à travers le rôle de la Caisse des Français de l'Étranger. Cet organisme permet de maintenir une protection sociale adaptée pour les familles expatriées.",
+   "auto": true,
+   "addedAt": "2026-11-23T15:47:23+00:00",
+   "pageRead": true,
+   "points": [
+    "Être attentive aux questionnements spécifiques des parents qui préparent une naissance ou un suivi hors de leur pays d'origine.",
+    "Orienter les familles vers les organismes administratifs et de protection sociale adaptés pour sécuriser leurs droits en matière de santé.",
+    "Ne pas se prononcer sur les aspects techniques ou juridiques des assurances santé, qui relèvent strictement des organismes compétents."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-45ecf057d48b",
+   "category": "pol",
+   "priority": false,
+   "title": "(+) Maternité fermée : mesures pour les femmes enceintes",
+   "source": "lequotidien",
+   "date": "23 novembre 2026",
+   "sortDate": "2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHVaX0M3UXdacXFEa2hhbkJ0eUgyVjltNXBuUjdpT1dOU3l3YmNPc19Wb2MybndDbVdQWllQYTJZUlNMSmhWaFgyZ3ptUkdfaVp2WVdhQzlWRXZPbVg5M2dfTDNubnN3b2Q4TEJWNHpRX1Y0eW9obUNOaVgwX0x5MUJSeF9LQUF4OUFwUkw5Z3pfQXJPbnExR21WZEdYRHUz?oc=5",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00"
+  },
+  {
+   "id": "a-d807c140ce40",
+   "category": "pol",
+   "priority": false,
+   "title": "Maternité d’Ancenis : manifestation le 28 novembre",
+   "source": "Actu44",
+   "date": "22 novembre 2026",
+   "sortDate": "2026-11-22",
+   "url": "https://www.actu44.fr/maternite-dancenis-manifestation-le-28-novembre/",
+   "summary": "Une manifestation est organisée par l'intersyndicale et les soignants du centre hospitalier Erdre et Loire pour protester contre la fermeture prévue des salles de naissance de la maternité d'Ancenis. Ce mouvement met en lumière les tensions et la mobilisation autour de l'organisation des soins locaux.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'impact potentiel des fermetures de maternités sur leur projet de naissance et leur lieu d'accouchement.",
+    "Discuter de l'importance d'anticiper les trajets et les plans alternatifs en cas de modification de l'offre de soins locale.",
+    "Rester neutre face aux revendications politiques et syndicales tout en soutenant l'écoute des inquiétudes parentales."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-3c529be76533",
@@ -2111,10 +2219,17 @@
    "date": "22 novembre 2026",
    "sortDate": "2026-11-22",
    "url": "https://selectra.info/assurance/actualites/marche/conge-naissance-complementaire-sante-entreprise",
-   "summary": "En congé de naissance, la complémentaire santé d'entreprise peut s'arrêter : le maintien dépend d'un complément de salaire ou d'une prévoyance.",
+   "summary": "Durant le congé de naissance, le maintien de la complémentaire santé d'entreprise peut être interrompu car il est conditionné par un complément de salaire ou un contrat de prévoyance. Cette règle administrative impacte la couverture sociale des jeunes parents pendant cette période.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Sensibiliser les futurs parents à l'importance de vérifier leurs droits sociaux et contrats de prévoyance avant l'arrivée de l'enfant.",
+    "Intégrer les questions administratives et financières dans les discussions pour aider les parents à anticiper les aspects pratiques du post-partum.",
+    "Ne pas se substituer à un conseiller juridique ou aux RH, mais encourager les familles à se renseigner auprès de leur employeur."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-76b668f81695",
@@ -2138,10 +2253,17 @@
    "date": "21 novembre 2026",
    "sortDate": "2026-11-21",
    "url": "https://www.ici.fr/emissions/le-conseil-pratique-ici-pays-de-savoie/conge-supplementaire-de-naissance-qui-peut-en-beneficier-et-comment-le-demander-6498440",
-   "summary": "Depuis le 1er juillet 2026, les parents d’enfants nés ou accueillis cette année peuvent bénéficier d’un nouveau congé indemnisé. Sur ICI Pays de Savoie, Alexia Wongsokarjo, de la CPAM de Haute-Savoie, explique à Sylvia Depierre les conditions, les montants et les démarches à effectuer.",
+   "summary": "Un nouveau congé de naissance indemnisé est mis en place à partir de juillet 2026 pour les parents d'enfants nés ou accueillis au cours de l'année. Les conditions d'attribution, les montants associés ainsi que les démarches administratives nécessaires sont précisés par la Sécurité sociale.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Informer les futurs parents de l'existence de ce nouveau droit pour qu'ils puissent anticiper leur organisation financière et administrative.",
+    "Orienter les familles vers les organismes compétents, comme la CPAM, pour connaître précisément leurs droits et les démarches à accomplir.",
+    "Rappeler que la doula n'a pas vocation à réaliser des démarches administratives à la place des parents, mais peut les encourager à s'informer tôt."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-2f5fc18539ab",
@@ -2152,10 +2274,17 @@
    "date": "21 novembre 2026",
    "sortDate": "2026-11-21",
    "url": "https://www.letelegramme.fr/finistere/landerneau-29800/cest-degradant-pour-le-territoire-les-accouchements-suspendus-jusqua-lundi-a-la-maternite-de-landerneau-7163173.php",
-   "summary": "",
+   "summary": "Les accouchements sont temporairement suspendus à la maternité de Landerneau jusqu'à lundi, une situation jugée dégradante pour le territoire. Cette interruption témoigne des difficultés d'organisation et des tensions que traversent certaines structures de soins périnataux.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'importance d'avoir un plan de naissance modulable et d'identifier un plan B en cas de fermeture inopinée de leur maternité de proximite.",
+    "Offrir un espace d'écoute sécurisant pour apaiser l'anxiété que génère l'actualité des fermetures de services de maternité.",
+    "Éviter de porter un jugement médical ou politique sur la gestion des hôpitaux, tout en validant le sentiment d'insécurité des parents."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-5bf1260f04a4",
@@ -2166,10 +2295,17 @@
    "date": "21 novembre 2026",
    "sortDate": "2026-11-21",
    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-lorraine-moselle-et-pays-haut/une-lueur-d-espoir-pour-sauver-sa-maternite-la-ville-de-mont-saint-martin-affirme-avoir-trouve-4-gynecologues-3989820",
-   "summary": "La maternité de l",
+   "summary": "La ville de Mont-Saint-Martin annonce avoir trouvé quatre gynécologues afin de sauver sa maternité menacée de fermeture. Cette initiative apporte une perspective favorable pour le maintien de l'offre de soins obstétricaux locale.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discuter de l'accès aux soins locaux avec les futurs parents pour les aider à se repérer dans l'offre de santé de leur région.",
+    "Soutenir l'apaisement des craintes liées à la pérennité des structures de naissance sans pour autant se prononcer sur la viabilité médicale de l'équipe.",
+    "Laisser l'équipe médicale gérer les aspects de recrutement et de fonctionnement des structures hospitalières."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-a7df3beceb52",
@@ -2337,10 +2473,17 @@
    "date": "20 novembre 2026",
    "sortDate": "2026-11-20",
    "url": "https://mesinfos.fr/19200-ussel/hopital-d-ussel-maternite-cardiologie-dettes-reorganisation-ou-en-est-on-vraiment-343594.html",
-   "summary": "Hôpital d'Ussel : rumeurs et réalités en Corrèze. Découvrez l'état actuel de la maternité, cardiologie et réorganisation avec les acteurs clés du dossier.",
+   "summary": "Cet article évoque la situation de l'hôpital d'Ussel et l'état actuel de sa maternité face à des enjeux de réorganisation et de gestion financière. Il met en lumière les incertitudes locales qui entourent le maintien des services de santé de proximité pour les familles.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aborder avec les parents l'anxiété liée à l'accès aux structures de naissance locales et leur offrir un espace d'écoute sécurisant.",
+    "Rester informée des évolutions des structures de soins de proximité pour orienter au mieux les futurs parents vers les maternités en activité.",
+    "Rappeler aux familles que la doula soutient le projet de naissance mais ne se substitue pas aux choix des structures hospitalières."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-afe8ee93775c",
@@ -2351,10 +2494,17 @@
    "date": "20 novembre 2026",
    "sortDate": "2026-11-20",
    "url": "https://www.republicain-lorrain.fr/politique/2026/11/20/quatre-gynecologues-prets-a-signer-pour-sauver-la-maternite",
-   "summary": "L’annonce de la dernière chance… Ce vendredi 20 novembre, le maire de Mont-Saint-Martin a fait savoir que quatre gynécologues obstétriciens ...",
+   "summary": "À Mont-Saint-Martin, quatre gynécologues obstétriciens se déclarent prêts à signer pour sauver la maternité locale, constituant un espoir de dernière minute pour ce service. Cette mobilisation médicale illustre les tensions et les sursis que connaissent certaines maternités sur le territoire.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Discuter de l'actualité des maternités locales avec les parents pour les aider à verbaliser leurs craintes concernant le lieu de naissance.",
+    "Valoriser l'importance du réseau de professionnels de santé de proximité dans l'accompagnement global de la grossesse.",
+    "Maintenir une posture d'information neutre sans prendre position sur les négociations médico-administratives en cours."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-ed22c064e977",
@@ -2449,10 +2599,17 @@
    "date": "19 novembre 2026",
    "sortDate": "2026-11-19",
    "url": "https://tr78.fr/2026/11/20/a-versailles-lars-laisse-la-maternite-de-meulan-les-mureaux-dans-lincertitude/",
-   "summary": "Reçue jeudi 19 novembre par l’Agence Régionale de Santé à Versailles, une délégation du collectif de défense du CHIMM est repartie sans la moindre garantie. L’ARS écarte une fermeture immédiate de la maternité, mais évoque un centre de périnatalité où l’on suivrait les femmes avant et après l’accouchement… sans plus y accoucher.",
+   "summary": "L'Agence Régionale de Santé a reçu une délégation concernant le CHIMM et écarte une fermeture immédiate, tout en envisageant de transformer la maternité en centre de périnatalité sans accouchements. Les femmes enceintes pourraient ainsi y être suivies avant et après la naissance, mais devraient accoucher ailleurs.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Aider les parents à anticiper les changements logistiques si leur maternité de proximité ne pratique plus les accouchements.",
+    "Accompagner l'émotion et le deuil potentiel d'un projet de naissance de proximité lors des entretiens prénataux.",
+    "Clarifier la différence entre le suivi global (médical et non médical) et la gestion des naissances en milieu hospitalier."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-9c89da58dd9b",
@@ -2463,10 +2620,17 @@
    "date": "19 novembre 2026",
    "sortDate": "2026-11-19",
    "url": "https://infos-media-nantes.fr/maternite-ancenis-centre-perinatalite-projet-inquietudes-novembre-2026/",
-   "summary": "Maternité d’Ancenis : soignants et syndicats appellent à manifester le 28 novembre 2026. Ce qui est envisagé et ce qui n'est pas décidé.",
+   "summary": "Un appel à manifestation est lancé par des soignants et des syndicats pour défendre l'hôpital et la maternité d'Ancenis. Cette mobilisation témoigne des inquiétudes persistantes concernant l'avenir de l'offre de soins périnataux dans cette zone.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute aux parents touchés par l'incertitude et l'angoisse de la fermeture de leur maternité de secteur.",
+    "Informer les familles sur les canaux citoyens existants pour exprimer leurs préoccupations face aux politiques de santé publique.",
+    "Rappeler que la doula se concentre sur le soutien émotionnel et pratique des parents, indépendamment des luttes syndicales ou politiques."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-392bd99d9833",
@@ -2477,10 +2641,17 @@
    "date": "19 novembre 2026",
    "sortDate": "2026-11-19",
    "url": "https://journal-deux-rives.com/2026/11/une-mobilisation-devant-la-prefecture-a-versailles-pour-sauver-la-maternite-et-le-chimm/",
-   "summary": "Légende : affiche de la manifestation La défense de l’offre de soins de proximité franchit une nouvelle étape dans les Yvelines. Un appel à la mobilisation est lancé pour le jeudi 19 novembre 2026 afin de protéger la maternité de Meulan-Les Mureaux, le Centre Hospitalier Intercommunal de Meulan-Les Mureaux (CHIMM) et l’ensemble des services publics […]",
+   "summary": "Une mobilisation est organisée devant la préfecture à Versailles pour défendre le Centre Hospitalier Intercommunal de Meulan-Les Mureaux et sa maternité. Cet événement traduit la mobilisation collective pour préserver l'accès aux soins de proximité dans les Yvelines.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Échanger avec les familles sur l'importance de l'accès aux soins de proximité pour aborder sereinement la parentalité.",
+    "Soutenir les parents dans l'expression de leurs émotions face à la fragilisation des services publics périnataux.",
+    "Garder une stricte neutralité politique et se limiter au soutien non médical des familles dans leur parcours."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-08779ca0e3c8",
@@ -2863,46 +3034,129 @@
    "enriched": true
   },
   {
-   "id": "a-377c410711de",
+   "id": "a-60702c760034",
    "category": "soc",
    "priority": false,
-   "title": "Une FIV peut coûter plus de 15 000 dollars par cycle et une doula privée 3 000 dollars : ce que change réellement le nouveau paquet de mesures du Conseil municipal de New York sur la fertilité, les doulas et la contraception",
-   "source": "Secret NYC",
-   "date": "25 novembre 2026",
-   "sortDate": "2026-11-25",
-   "url": "https://secretnyc.co/fr/conseil-fertilite-fiv-doula-contraception/",
-   "summary": "Le Conseil municipal de New York a adopté le 19 novembre des projets de loi sur la fertilité, l’accès aux doulas et à la contraception. Découvre ce qui change dans la ville et ce qui attend Albany.",
+   "title": "\"Il lui disait de se calmer, que c'était ridicule\" : un médecin régulateur du Samu jugé six ans après la mort de Sarah, décédée des suites d'une grossesse extra-utérine malgré ses appels au 15",
+   "source": "Franceinfo Santé",
+   "date": "26 novembre 2026",
+   "sortDate": "2026-11-26",
+   "url": "https://www.franceinfo.fr/faits-divers/justice-proces/il-lui-disait-de-se-calmer-que-c-etait-ridicule-un-medecin-regulateur-du-samu-juge-six-ans-apres-la-mort-de-sarah-decedee-des-suites-d-une-grossesse-extra-uterine-malgre-ses-appels-au-15_8300997.html#xtor=RSS-3-%5Bsante%5D",
+   "summary": "Un médecin régulateur du Samu est jugé à la suite du décès en 2020 d'une jeune femme enceinte de 24 ans, morte d'une hémorragie interne causée par une grossesse extra-utérine après que ses appels de détresse n'aient pas été pris au sérieux. Son compagnon témoigne de la détresse de la victime face au refus d'envoyer des secours lors des appels au 15.",
    "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-26T14:52:48+00:00",
+   "pageRead": true,
+   "points": [
+    "Rappeler aux parents l'importance de faire écouter leurs intuitions et de ne pas hésiter à insister ou à rappeler les urgences en cas de symptômes inhabituels ou intenses en début de grossesse.",
+    "Renforcer son écoute active face à l'angoisse des femmes enceintes et valider systématiquement leur ressenti physique sans jamais banaliser une douleur.",
+    "Connaître ses strictes limites non médicales en orientant immédiatement vers le 15 ou les urgences devant tout signe d'alerte grave, sans tenter d'interpréter des symptômes médicaux."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-4546e7ff1717",
+   "id": "a-462d6713624d",
    "category": "soc",
    "priority": false,
-   "title": "Une distinction nationale pour Laniado : première place pour l’allaitement maternel exclusif",
-   "source": "נתניה נט",
-   "date": "25 novembre 2026",
-   "sortDate": "2026-11-25",
-   "url": "https://www.netanyanet.co.il/%D0%BDnouvelles/18155-une-distinction-nationale-pour-laniado",
-   "summary": "Une distinction nationale pour Laniado : première place pour l’allaitement maternel exclusif",
+   "title": "NÎMES La maternité de la polyclinique Grand Sud ouvre ses portes aux futurs parents le 3 décembre",
+   "source": "www.objectifsud.fr",
+   "date": "26 novembre 2026",
+   "sortDate": "2026-11-26",
+   "url": "https://www.objectifsud.fr/sante/nimes-la-maternite-de-la-polyclinique-grand-sud-ouvre-ses-portes-aux-futurs-parents-le-3-decembre-172711.php",
+   "summary": "La maternité de la polyclinique Grand Sud à Nîmes organise une journée portes ouvertes pour permettre aux futurs parents de découvrir les lieux et de rencontrer les équipes. Cet établissement, récemment labellisé Initiative hôpital ami des bébés, propose des ateliers, des visites et des initiations aux premiers secours du nourrisson.",
    "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "addedAt": "2026-11-26T14:52:48+00:00",
+   "pageRead": true,
+   "points": [
+    "Encourager les parents à participer aux visites de maternité pour se familiariser avec les lieux de naissance et poser leurs questions aux équipes.",
+    "Discuter avec les parents de leurs choix en matière de lieu de naissance en tenant compte des labels de qualité comme l'IHAB.",
+    "Rappeler aux familles que les ateliers de premiers secours et d'information proposés en structure sont d'excellents compléments à l'accompagnement global."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
-   "id": "a-a7b4212726bd",
+   "id": "a-7f305ea9f303",
    "category": "soc",
    "priority": false,
-   "title": "Ouaddaï : la Semaine nationale de l’allaitement maternel lancée à Abéché",
-   "source": "Tchadinfos",
+   "title": "Dépression post-partum : au domicile, les TISF aux avant-postes d'un repérage encore défaillant",
+   "source": "Enfance & Jeunesse Infos",
+   "date": "26 novembre 2026",
+   "sortDate": "2026-11-26",
+   "url": "https://www.enfancejeunesseinfos.fr/depression-post-partum-au-domicile-les-tisf-aux-avant-postes-dun-reperage-encore-defaillant/",
+   "summary": "Le repérage de la dépression périnatale et des phobies d'impulsion reste insuffisant, laissant de nombreuses mères isolées face à leur souffrance psychique. Des professionnels rappellent lors d'un colloque l'importance d'une écoute attentive pour libérer la parole sur ces pensées violentes et involontaires qui ne traduisent aucune intention de nuire.",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00",
+   "pageRead": true,
+   "points": [
+    "Soyez particulièrement attentive aux signes de détresse psychologique ou de culpabilité excessive chez les jeunes parents lors de vos visites à domicile.",
+    "Offrez un espace d'écoute bienveillant et sans jugement pour libérer la parole sur les pensées intrusives, tout en orientant rapidement vers un professionnel de santé mentale spécialisé dès que nécessaire.",
+    "Rappelez-vous que vous ne posez aucun diagnostic : votre rôle est de repérer la souffrance et de faire le lien avec le réseau médical ou psychologique."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-c629733a7a0c",
+   "category": "soc",
+   "priority": false,
+   "title": "Tara Groulx et son fils répondent aux critiques sur l’allaitement à 2 ans",
+   "source": "Noovo Moi",
    "date": "25 novembre 2026",
    "sortDate": "2026-11-25",
-   "url": "https://tchadinfos.com/2026/11/25/ouaddai-la-semaine-nationale-de-lallaitement-maternel-lancee-a-abeche/",
-   "summary": "Le top départ de la Semaine nationale de l’allaitement maternel a été donné ce mardi 24 novembre 2026 à Abéché. La cérémonie s’est déroulée au centre de santé Ahmat Albadawi, sous la présidence du secrétaire général du département de Ouara, Mahamat Ali Imam, représentant le délégué général du gouvernement auprès de la province du Ouaddaï. […]",
+   "url": "https://www.noovomoi.ca/en-vedette/actualites-potins/article/tara-groulx-et-son-fils-repondent-aux-critiques-sur-lallaitement-a-2-ans/",
+   "summary": "Une mère partage son expérience sur l'allaitement au long cours d'un enfant de deux ans et demi malgré les critiques reçues sur les réseaux sociaux. Elle choisit de se fier aux besoins de son fils plutôt qu'aux jugements extérieurs.",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00",
+   "pageRead": true,
+   "points": [
+    "Soutenir les mères qui font le choix de l'allaitement prolongé en valorisant leur écoute des besoins de leur enfant face aux pressions de l'entourage ou de la société.",
+    "Discuter de la charge mentale et de la conciliation entre l'allaitement et la vie quotidienne pour aider les parents à déculpabiliser dans leur organisation."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-6fccdba5b2cf",
+   "category": "soc",
+   "priority": false,
+   "title": "Tara Groulx réplique aux critiques sur l'allaitement de son fils de 2 ans et demi",
+   "source": "Monde de Stars",
+   "date": "25 novembre 2026",
+   "sortDate": "2026-11-25",
+   "url": "https://www.mondedestars.com/divertissement/tara-groulx-replique-aux-critiques-sur-lallaitement-de-son-fils-de-2-ans-et-demi",
+   "summary": "Une personnalité publique fait face à des critiques sur les réseaux sociaux concernant l'allaitement prolongé de son jeune enfant tout en gérant son quotidien familial. Elle choisit de répondre en montrant que l'enfant est demandeur et en assumant son choix parental face aux jugements extérieurs.",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00",
+   "pageRead": true,
+   "points": [
+    "Offrir un espace de parole bienveillant et sans jugement aux parents qui font le choix d'un allaitement long.",
+    "Aider les mères à verbaliser leurs propres choix face aux pressions et aux normes sociales extérieures.",
+    "Rappeler que l'accompagnante ne se positionne pas sur l'âge opportun du sevrage, qui relève du choix intime du parent et de l'enfant."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-495031051089",
+   "category": "soc",
+   "priority": false,
+   "title": "Budget 2027 : le Sénat élargit le prêt à taux zéro natalité à chaque nouvelle naissance",
+   "source": "Public Sénat",
+   "date": "24 novembre 2026",
+   "sortDate": "2026-11-24",
+   "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-elargit-le-pret-a-taux-zero-natalite-a-chaque-nouvelle-naissance",
+   "summary": "Le Sénat a adopté un amendement visant à élargir le prêt à taux zéro natalité à chaque nouvelle naissance afin de soutenir l'accès au logement des familles. Ce dispositif fait l'objet de débats politiques et budgétaires quant à sa mise en œuvre et son coût réel.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Accueillir les questionnements matériels des futurs parents sur l'organisation du foyer et l'arrivée d'un nouvel enfant.",
+    "Orioter les familles vers les sources d'information administratives ou les travailleurs sociaux pour les questions de aides financières et de logement.",
+    "Garder à l'esprit que l'accompagnante soutient le projet de vie familial sans s'impliquer dans les décisions économiques ou juridiques."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-4db3e381a7fa",
@@ -2913,24 +3167,17 @@
    "date": "24 novembre 2026",
    "sortDate": "2026-11-24",
    "url": "https://www.lechorepublicain.fr/france-monde/actualites/le-medecin-a-attendu-que-son-collegue-finisse-de-jouer-au-basket-une-cesarienne-retardee-aurait-rendu-cet-enfant-handicape_15090826/",
-   "summary": "Un médecin aurait retardé une césarienne de deux heures en Pologne, afin que son collègue la réalise à sa place. Cette attente de deux heures aurait causé un lourd handicap à l’enfant. Quatorze ans après les faits, la justice a attribué une compensation financière à la mère en ce début novembre.",
+   "summary": "Une justice polonaise a accordé une compensation financière à une mère dont la césarienne d'urgence a été retardée de deux heures par un médecin en 2012. Ce délai, causé par l'attente d'un confrère occupé à une activité personnelle, a entraîné un lourd handicap pour l'enfant.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-40641ae85b98",
-   "category": "soc",
-   "priority": false,
-   "title": "Tiflet : Une agression contre une femme enceinte provoque un accouchement prématuré et l'arrestation du suspect",
-   "source": "هبة بريس",
-   "date": "24 novembre 2026",
-   "sortDate": "2026-11-24",
-   "url": "https://fr.hibapress.com/news-287158.html",
-   "summary": "",
-   "auto": true,
-   "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Ce récit met en lumière la question de la confiance envers l'équipe médicale et peut servir à écouter les craintes des parents concernant la prise en charge des urgences.",
+    "Aidez les parents à verbaliser leurs peurs liées à la gestion du temps et des imprévus lors de l'accouchement en milieu hospitalier, tout en valorisant le dialogue avec les soignants.",
+    "Rappelez aux parents que la doula soutient le couple dans sa préparation émotionnelle mais ne se positionne pas en juge des pratiques médicales."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-8711d2aeaeab",
@@ -2947,45 +3194,17 @@
    "pageRead": true
   },
   {
-   "id": "a-cda8a2d6a01b",
+   "id": "a-a797da329d78",
    "category": "soc",
    "priority": false,
-   "title": "\"Pendant la grossesse, il n'y a pas de petit verre\" : une nouvelle campagne de prévention rappelle les risques de l'alcool chez les femmes enceintes",
-   "source": "Franceinfo Santé",
-   "date": "23 novembre 2026",
-   "sortDate": "2026-11-23",
-   "url": "https://www.franceinfo.fr/sante/drogue-addictions/pendant-la-grossesse-il-n-y-a-pas-de-petit-verre-une-nouvelle-campagne-de-prevention-rappelle-les-risques-de-l-alcool-chez-la-femme-enceinte_8296094.html#xtor=RSS-3-%5Bsante%5D",
-   "summary": "Santé publique France rappelle qu'aucune consommation ne peut être considérée sans risque pour la santé du fœtus, dans une campagne qui sera diffusée jusqu'au 31 décembre.",
+   "title": "'Train de maternité': Carole Dubuis brise les tabous du post-partum",
+   "source": "rts.ch",
+   "date": "24 novembre 2026",
+   "sortDate": "2026-11-24",
+   "url": "https://www.rts.ch/info/culture/spectacles/2026/article/train-de-maternite-carole-dubuis-brise-les-tabous-du-post-partum-29422125.html",
+   "summary": "L'autrice suisse Carole Dubuis livre dans 'Train de maternité' une plongée intime au cœur de la parentalité. Présenté sous la forme d'une lecture théâtralisée à Lausanne les 28 et 29 novembre, le projet explore le tourbillon d’émotions et la vulnérabilité qui accompagnent la naissance d'un enfant.",
    "auto": true,
-   "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-6031f052d5bb",
-   "category": "soc",
-   "priority": false,
-   "title": "Maternité et expatriation : quelle protection avec la CFE ?​",
-   "source": "French Morning",
-   "date": "23 novembre 2026",
-   "sortDate": "2026-11-23",
-   "url": "https://www.frenchmorning.com/maternite-et-expatriation-quelle-protection-avec-la-cfe/",
-   "summary": "La maternité à l’étranger soulève de nombreuses questions : coût des soins, fonctionnement du système de santé local et droits en matière de protection sociale. Ce webinaire vous permettra de mieux comprendre le rôle de la Caisse des Français de l’Étranger (CFE) et les garanties proposées pour accompagner les Français expatriés pendant leur maternité. Nous […]",
-   "auto": true,
-   "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-5e5fd61b6998",
-   "category": "soc",
-   "priority": false,
-   "title": "Le Canada déconseille les Ricola aux enfants et femmes enceintes",
-   "source": "Watson",
-   "date": "23 novembre 2026",
-   "sortDate": "2026-11-23",
-   "url": "https://www.watson.ch/fr/suisse/sante/737060353-le-canada-deconseille-les-ricola-aux-enfants-et-femmes-enceintes",
-   "summary": "En Suisse, les bonbons Ricola se consomment sans trop se poser de questions. Mais au Canada, certains emballages affichent des mises en garde surprenantes.",
-   "auto": true,
-   "addedAt": "2026-11-23T15:47:23+00:00",
+   "addedAt": "2026-11-26T14:52:48+00:00",
    "pageRead": true
   },
   {
@@ -2997,10 +3216,17 @@
    "date": "23 novembre 2026",
    "sortDate": "2026-11-23",
    "url": "https://www.letelegramme.fr/finistere/landerneau-29800/accouchements-suspendus-a-landerneau-comment-vivez-vous-le-fait-de-changer-detablissement-appel-a-temoignages-7165219.php",
-   "summary": "",
+   "summary": "Un média local recueille les témoignages de parents confrontés à la suspension des accouchements dans une maternité de Landerneau. Cette situation les oblige à modifier leur lieu de naissance initialement prévu.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Offrir un espace d'écoute sécurisant pour libérer la parole des parents anxieux face aux modifications imprévues de leur lieu de naissance.",
+    "Aider les familles à exprimer leurs émotions et leurs craintes face aux bouleversements de leur parcours de fin de grossesse.",
+    "Respecter strictement le cadre non médical en évitant tout commentaire sur la gestion administrative ou les choix de l'établissement de santé."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-372a45ff91f6",
@@ -3011,10 +3237,30 @@
    "date": "23 novembre 2026",
    "sortDate": "2026-11-23",
    "url": "https://www.familiscope.fr/sorties-famille/ateliers-enfants/maison-ne-une-maison-de-la-parentalite-pour-les-futurs-et-jeunes-parents-32976",
-   "summary": "Maison-Né est un réseau d'espaces de santé, de bien-être et d'accompagnement parental installé à Paris. Un lieu dédié à la grossesse et aux premières années de l'enfant. Fondé par des professionnelles de santé, le lieu rassemble sous un même toit sages-femmes, psychologues, ostéopathes,...",
+   "summary": "Maison-Né est un réseau parisien fondé par des professionnels de santé qui réunit en un même lieu des espaces dédiés à la grossesse, au bien-être et au soutien à la parentalité. Ce centre pluridisciplinaire rassemble différents intervenants tels que des sages-femmes, des psychologues et des ostéopathes pour accompagner les familles.",
    "auto": true,
    "addedAt": "2026-11-25T15:23:38+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Repérer les structures pluridisciplinaires locales pour orienter les parents vers des professionnels de santé adaptés.",
+    "Comprendre l'offre de soins et de bien-être disponible autour de la grossesse pour mieux informer les familles sur leurs options.",
+    "Maintenir une posture d'accompagnement non médical en orientant clairement vers les sages-femmes et thérapeutes du réseau selon les besoins."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-4545bf36b5b9",
+   "category": "soc",
+   "priority": false,
+   "title": "Allaitement maternel: un bouclier pour la croissance des nourrissons",
+   "source": "Gabon Media Time",
+   "date": "23 novembre 2026",
+   "sortDate": "2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekR0Y0Q4QXBBMU1QZ1UtOWVXRU9hTDYxa3pDNTJ3ZHp0Unp2THdISTJXUzZtYU5uQ09YSlRQenp4SEI1U1dYaTBSLWN3dlJ5dWRsaVBJYWduX0puc09OS2hEV2JlcjhmU3U0eGluLTFzemZTV1g5U1ozeElFMi1CT0MwZlQzNXh6enpsdG9KT1hUM1ZKQ25sYXR4TQ?oc=5",
+   "summary": "",
+   "auto": true,
+   "addedAt": "2026-11-26T14:52:48+00:00"
   },
   {
    "id": "a-2a3c934741e3",
@@ -3025,52 +3271,17 @@
    "date": "22 novembre 2026",
    "sortDate": "2026-11-22",
    "url": "https://www.quefaire.be/parlons-naissances-8779239.shtml",
-   "summary": "Parlons Naissances : échanges et témoignage sur l\\",
+   "summary": "Des conférences et des temps d'échange intitulés 'Parlons Naissances' sont organisés à Liège pour permettre aux participants de partager des témoignages et de discuter autour de l'accouchement. Ces espaces favorisent la parole et le partage d'expériences entre citoyens et futurs parents.",
    "auto": true,
    "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-cc719011d48a",
-   "category": "soc",
-   "priority": false,
-   "title": "L’allaitement maternel exclusif au Maroc ne dépasse pas 35 % durant les six premiers mois",
-   "source": "Hespress Français - Actualités du Maroc",
-   "date": "22 novembre 2026",
-   "sortDate": "2026-11-22",
-   "url": "https://fr.hespress.com/497427-lallaitement-maternel-exclusif-au-maroc-ne-depasse-pas-35-durant-les-six-premiers-mois.html",
-   "summary": "L’Association Marocaine de la Promotion de la Santé (AMPS) a appelé à l’adoption de mesures concrètes afin de garantir les droits des mères allaitantes et",
-   "auto": true,
-   "addedAt": "2026-11-23T15:47:23+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-05997cac3cfc",
-   "category": "soc",
-   "priority": false,
-   "title": "L'allaitement pourrait réduire le risque de dépression chez les mères, selon une étude",
-   "source": "Yahoo Life France",
-   "date": "21 novembre 2026",
-   "sortDate": "2026-11-21",
-   "url": "https://fr.style.yahoo.com/lallaitement-pourrait-reduire-risque-depression-153745709.html",
-   "summary": "Allaiter pourrait être associé à un risque plus faible de symptômes dépressifs chez les mères, selon une nouvelle étude internationale. Des résultats encourageants, mais à interpréter avec prudence.",
-   "auto": true,
-   "addedAt": "2026-11-22T13:10:15+00:00",
-   "pageRead": true
-  },
-  {
-   "id": "a-3e5dc7ab5302",
-   "category": "soc",
-   "priority": false,
-   "title": "Rosalie Taillefer-Simard est enceinte!",
-   "source": "TPL Moms",
-   "date": "21 novembre 2026",
-   "sortDate": "2026-11-21",
-   "url": "https://tplmoms.com/2026/11/21/rosalie-taillefer-simard-est-enceinte-2/",
-   "summary": "«Je n'en revenais pas! J'étais tellement surprise, j'étais tellement bouche bée, je suis restée figée»",
-   "auto": true,
-   "addedAt": "2026-11-22T13:10:15+00:00",
-   "pageRead": true
+   "pageRead": true,
+   "points": [
+    "Encourager les parents à participer à des groupes de parole locaux pour rompre l'isolement et partager leurs vécus.",
+    "Utiliser ces retours d'expériences pour affiner l'écoute active des craintes et des attentes des couples.",
+    "Rappeler que chaque parcours d'accouchement est unique et que ces espaces d'échange ne remplacent pas un suivi personnalisé."
+   ],
+   "summaryAI": true,
+   "enriched": true
   },
   {
    "id": "a-718b6daffccd",
