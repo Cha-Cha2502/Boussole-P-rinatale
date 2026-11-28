@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T14:50:24+00:00",
+ "updatedAt": "2026-11-28T13:59:10+00:00",
  "sources": [
   "Inserm",
   "Inserm – salle de presse",
@@ -12,11 +12,13 @@
   "Google Actualités (recherches par mots-clés)"
  ],
  "errors": [
+  "Inserm : <unknown>:7:2: mismatched tag",
+  "Inserm – salle de presse : <unknown>:7:2: mismatched tag",
   "UNSSF (sages-femmes) : <unknown>:2:0: syntax error"
  ],
  "journal": [
-  "28 page(s) d'articles lue(s)",
-  "IA : 28 article(s) résumé(s) et commenté(s)"
+  "8 page(s) d'articles lue(s)",
+  "IA : 8 article(s) résumé(s) et commenté(s)"
  ],
  "ignores": {
   "a-8c5e653851e4": "2026-09-23",
@@ -266,7 +268,10 @@
   "a-ae04c3a5380b": "2026-11-23",
   "a-1e91f16f33dc": "2026-11-23",
   "a-a4732cc6eb80": "2026-11-19",
-  "a-ac6321fdb3e5": "2026-11-15"
+  "a-ac6321fdb3e5": "2026-11-15",
+  "a-d2a8a3dde985": "2026-11-28",
+  "a-441a36e1684e": "2026-11-28",
+  "a-730f6b2269e0": "2026-11-27"
  },
  "articles": [
   {
@@ -647,6 +652,27 @@
     "Encourager systématiquement les parents à profiter des ressources médicales publiques existantes, comme l'entretien prénatal précoce.",
     "Respecter strictement la limite de la profession en rappelant qu'aucun acte ou avis médical ne relève de l'accompagnement de la doula."
    ],
+   "enriched": true
+  },
+  {
+   "id": "a-3e9a402f3bb8",
+   "category": "sci",
+   "priority": false,
+   "title": "Un soutien supplémentaire pour votre allaitement.",
+   "source": "Vietnam.vn",
+   "date": "28 novembre 2026",
+   "sortDate": "2026-11-28",
+   "url": "https://www.vietnam.vn/fr/them-diem-tua-tren-hanh-trinh-nuoi-con-bang-sua-me",
+   "summary": "Un séminaire récent a permis à des dizaines de mères d'échanger sur l'allaitement et d'obtenir des réponses sur la production lactée. Des professionnels de santé y ont présenté des techniques de stimulation ainsi que la prise en charge médicale des engorgements et des mastites.",
+   "auto": true,
+   "addedAt": "2026-11-28T13:59:10+00:00",
+   "pageRead": true,
+   "points": [
+    "Utilise ces informations pour proposer une écoute bienveillante autour des questionnements fréquents des premiers jours d'allaitement.",
+    "Encourage les mères à verbaliser leurs difficultés de succion ou de production de lait sans jamais poser de diagnostic sur un éventuel engorgement pathologique.",
+    "oriente immédiatement vers un médecin ou une consultante en lactation certifiée dès l'apparition de signes de mastite ou de douleur anormale."
+   ],
+   "summaryAI": true,
    "enriched": true
   },
   {
@@ -1881,22 +1907,22 @@
    "enriched": true
   },
   {
-   "id": "a-a439aecc8dcc",
-   "category": "sci",
+   "id": "a-7ad1b5db309b",
+   "category": "pol",
    "priority": false,
-   "title": "Cette vitamine pourrait atténuer les effets du stress pendant la grossesse sur le bébé, selon une étude",
-   "source": "Magicmaman",
-   "date": "5 novembre 2026",
-   "sortDate": "2026-11-05",
-   "url": "https://www.magicmaman.com/cette-vitamine-pourrait-attenuer-les-effets-du-stress-pendant-la-grossesse-sur-le-bebe-selon-une-etude,3787543.asp",
-   "summary": "Une étude menée par l'université de l'Oregon s'est intéressée aux liens entre le stress maternel pendant la grossesse, les apports en vitamine C et le tempérament du bébé. Les chercheurs ont analysé les données de 300 femmes enceintes concernant leur niveau de stress et leur alimentation, puis ont évalué le comportement des bébés à l'âge de 6 mois.",
+   "title": "Comment demander le congé de naissance – Vidéo pratique",
+   "source": "stephanelarue.com",
+   "date": "28 novembre 2026",
+   "sortDate": "2026-11-28",
+   "url": "https://stephanelarue.com/videos-pratiques/?v=Z5CHP8wmCIg",
+   "summary": "Ce contenu pratique aborde les étapes administratives pour demander le congé de naissance et informer l'employeur. Il liste les points de vigilance utiles pour anticiper les démarches liées à l'arrivée de l'enfant.",
    "auto": true,
-   "addedAt": "2026-11-06T12:48:04+00:00",
+   "addedAt": "2026-11-28T13:59:10+00:00",
    "pageRead": true,
    "points": [
-    "Valide les émotions et le stress des futures mères avec empathie, en créant un espace de parole sécurisant pour libérer la charge émotionnelle.",
-    "Encourage une alimentation variée tout en rappelant aux parents que les choix de compléments alimentaires se discuttent avec le médecin ou la sage-femme.",
-    "Évite toute interprétation médicale des liens entre nutriments et développement, en te concentrant uniquement sur le soutien émotionnel et pratique."
+    "Informe les parents sur l'existence de ce congé et encourage-les à anticiper les démarches administratives dès la grossesse.",
+    "Oriente les familles vers les organismes compétents ou les services RH pour toute question précise sur les durées et les droits.",
+    "Rappelle que tu ne peux pas effectuer les démarches à leur place ni intervenir dans le calcul de leurs indemnités."
    ],
    "summaryAI": true,
    "enriched": true
@@ -2069,6 +2095,27 @@
    "enriched": true
   },
   {
+   "id": "a-8148ce42dc27",
+   "category": "pol",
+   "priority": false,
+   "title": "Santé : infirmières et sages-femmes expriment leurs inquiétudes",
+   "source": "L'Union (Sonapresse)",
+   "date": "25 novembre 2026",
+   "sortDate": "2026-11-25",
+   "url": "https://www.union.sonapresse.com/fr/sante-infirmieres-et-sages-femmes-expriment-leurs-inquietudes",
+   "summary": "La ministre de la Santé de Libreville a rencontré un collectif de sages-femmes et d'infirmières diplômées en attente de régularisation administrative et d'intégration à la Fonction publique. Bien que des commissions de traitement aient été mises en place par le gouvernement, les professionnels de santé expriment des doutes face aux retards persistants. Cette situation met en lumière les difficultés d'organisation et les tensions au sein du personnel soignant local.",
+   "auto": true,
+   "addedAt": "2026-11-28T13:59:10+00:00",
+   "pageRead": true,
+   "points": [
+    "Échangez avec les parents sur le climat de tension possible dans les structures de soins pour les aider à anticiper leurs parcours de naissance.",
+    "Valorisez le rôle des sages-femmes tout en rappelant que la doula n'a pas vocation à se substituer au personnel médical en sous-effectif.",
+    "Soutenez l'écoute active des craintes des parents concernant l'accès aux soins et la disponibilité des équipes hospitalières."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
    "id": "a-ae7e8d1ce0ac",
    "category": "pol",
    "priority": false,
@@ -2165,6 +2212,27 @@
     "Vous pouvez aborder avec les parents l'importance de se renseigner régulièrement sur l'évolution de l'offre de soins locale et des maternités de leur secteur.",
     "Restez à l'écoute des inquiétudes des futurs parents face aux incertitudes concernant les structures de naissance de proximité.",
     "Rappelez aux familles que les décisions d'organisation hospitalière relèvent des instances de santé publique et échappent au champ d'intervention de la doula."
+   ],
+   "summaryAI": true,
+   "enriched": true
+  },
+  {
+   "id": "a-1b00d67bafc2",
+   "category": "pol",
+   "priority": false,
+   "title": "Congé de naissance de 20 semaines : répartition et prestations",
+   "source": "Madrid Secreto",
+   "date": "24 novembre 2026",
+   "sortDate": "2026-11-24",
+   "url": "https://madridsecreto.co/fr/le-gouvernement-approuve-20-semaines-de-conge-de-naissance-pour-chaque-parent-a-repartir-comme-bon-leur-semble/",
+   "summary": "Le gouvernement a approuvé un allongement du congé de naissance et de garde à vingt semaines, dont dix-huit la première année et deux utilisables jusqu'aux huit ans de l'enfant. Ce congé est individuel, non transférable, et inclut une période obligatoire et ininterrompue de six semaines juste après l'accouchement. Le reste des semaines de la première année offre de la souplesse d'organisation, tandis que les deux dernières années peuvent être posées plus tardivement.",
+   "auto": true,
+   "addedAt": "2026-11-28T13:59:10+00:00",
+   "pageRead": true,
+   "points": [
+    "Informez les futurs parents sur leurs droits administratifs et l'organisation possible de leur congé pour préparer sereinement le post-partum.",
+    "Aidez les couples à réfléchir en amont à la répartition de leur temps auprès du nouveau-né selon ces nouvelles modalités légales.",
+    "Rappelez que la doula offre un soutien pratique et émotionnel, sans intervenir sur les aspects juridiques ou contractuels du congé."
    ],
    "summaryAI": true,
    "enriched": true
@@ -3088,64 +3156,22 @@
    "enriched": true
   },
   {
-   "id": "a-9df725f8a1a2",
-   "category": "pol",
+   "id": "a-8bfda04c8b8e",
+   "category": "soc",
    "priority": false,
-   "title": "À Concarneau, une rencontre sur le congé supplémentaire de naissance est proposée aux futurs et jeunes parents ce lundi",
-   "source": "maville.com",
-   "date": "15 novembre 2026",
-   "sortDate": "2026-11-15",
-   "url": "https://brest.maville.com/actu/actudet_-a-concarneau-une-rencontre-sur-le-conge-supplementaire-de-naissance-est-proposee-aux-futurs-et-jeunes-parents-ce-lundi_dep-7570946_actu.Htm",
-   "summary": "Une réunion d'information publique concernant le congé supplémentaire de naissance est programmée pour les futurs et jeunes parents à Concarneau. Cet événement vise à informer les familles sur leurs droits et les dispositifs existants liés à cette période.",
+   "title": "\"On dégrade les services publics partout\" : près de 500 manifestants à Ancenis pour défendre la maternité menacée de fermeture",
+   "source": "France 3 Régions",
+   "date": "28 novembre 2026",
+   "sortDate": "2026-11-28",
+   "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/on-degrade-les-services-publics-partout-pres-de-500-manifestants-a-ancenis-pour-defendre-la-maternite-menacee-de-fermeture-3457625.html",
+   "summary": "Environ 500 personnes se sont mobilisées pour protester contre la menace de fermeture de la maternité du Centre hospitalier d'Erdre-et-Loire à Ancenis. Les usagers et les soignants soulignent l'importance de préserver une structure de proximité pour garantir un suivi de qualité et un post-partum serein.",
    "auto": true,
-   "addedAt": "2026-11-16T13:27:33+00:00",
+   "addedAt": "2026-11-28T13:59:10+00:00",
    "pageRead": true,
    "points": [
-    "Informez-vous sur les dispositifs de congé et les réunions locales pour orienter au mieux les parents vers les ressources administratives existantes.",
-    "Intégrez dans vos échanges la dimension pratique et organisationnelle du retour à la maison, notamment l'impact des congés sur l'organisation familiale.",
-    "Rappelez aux parents que vous ne donnez pas de conseils juridiques ou administratifs formels, mais que vous pouvez les aider à identifier les interlocuteurs adaptés."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-812a2554ae54",
-   "category": "pol",
-   "priority": false,
-   "title": "DÉCRYPTAGE. Une proposition de loi pourrait-elle venir au secours de la maternité d’Ancenis",
-   "source": "maville.com",
-   "date": "15 novembre 2026",
-   "sortDate": "2026-11-15",
-   "url": "https://saint-nazaire.maville.com/actu/actudet_-decryptage-une-proposition-de-loi-pourrait-elle-venir-au-secours-de-la-maternite-d-ancenis_dep-7570637_actu.Htm",
-   "summary": "Un moratoire sur les fermetures de maternités a été voté par les députés à l'Assemblée nationale afin de protéger certains établissements menacés. Cette mesure législative vise à préserver l'organisation des soins périnataux sur le territoire.",
-   "auto": true,
-   "addedAt": "2026-11-16T13:27:33+00:00",
-   "pageRead": true,
-   "points": [
-    "Abordez avec bienveillance les inquiétudes des parents face aux incertitudes concernant les lieux de naissance et la fermeture des structures.",
-    "Aidez les futurs parents à exprimer leurs craintes quant au choix de leur maternité tout en restant neutre sur les décisions politiques.",
-    "Rappelez que la gestion des ouvertures et fermetures d'établissements de santé relève strictement du champ médical et institutionnel, hors de votre portée."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-d506ff18581d",
-   "category": "pol",
-   "priority": false,
-   "title": "Var : Congé de naissance – nouvelle démarche obligatoire",
-   "source": "TV83",
-   "date": "14 novembre 2026",
-   "sortDate": "2026-11-14",
-   "url": "https://www.tv83.info/var-conge-de-naissance-nouvelle-demarche-obligatoire/",
-   "summary": "Un nouveau formulaire en ligne obligatoire est mis en place pour les employeurs afin de déclarer les congés supplémentaires de naissance. Cette démarche vient simplifier et remplacer le dispositif transitoire initial tout en s'articulant avec les déclarations sociales habituelles.",
-   "auto": true,
-   "addedAt": "2026-11-14T11:59:17+00:00",
-   "pageRead": true,
-   "points": [
-    "Informez les futurs parents sur l'existence de leurs droits administratifs et du congé de naissance pour alléger leur charge mentale.",
-    "Aidez les pères ou co-parents à identifier les démarches que leur employeur doit réaliser pour faciliter leur implication précoce.",
-    "Rappelez que vos informations sont d'ordre pratique et que les aspects juridiques et déclaratifs précis relèvent des employeurs et des organismes sociaux."
+    "Écoute l'anxiété des parents face à l'éloignement des structures de naissance et valide leur besoin de sécurité et de proximité.",
+    "Intègre dans ton accompagnement la réalité des modifications territoriales de l'offre de soins pour aider les familles à préparer leur trajet vers la maternité.",
+    "Évite de prendre parti sur les décisions politiques de fermeture tout en soutenant l'expression du vécu émotionnel des parents."
    ],
    "summaryAI": true,
    "enriched": true
@@ -4379,27 +4405,6 @@
     "Accueillir avec beaucoup d'empathie la détresse émotionnelle des parents traversant des situations de pathologie lourde pendant la grossesse.",
     "Reconnaître la charge émotionnelle liée au deuil d'un accouchement physiologique lorsque la médicalisation s'impose d'urgence.",
     "Maintenir fermement la limite de non-intervention médicale tout en assurant un soutien émotionnel inconditionnel face à la maladie."
-   ],
-   "summaryAI": true,
-   "enriched": true
-  },
-  {
-   "id": "a-89a0be107785",
-   "category": "soc",
-   "priority": false,
-   "title": "Sainte-Flavie : municipalité favorable à l’allaitement",
-   "source": "Journal Le Soir",
-   "date": "29 octobre 2026",
-   "sortDate": "2026-10-29",
-   "url": "https://journallesoir.ca/2026/10/29/sainte-flavie-municipalite-favorable-a-lallaitement/",
-   "summary": "La municipalité de Sainte-Flavie adopte une résolution pour devenir un territoire favorable à l'allaitement, garantissant le droit d'allaiter librement dans ses espaces publics. Cette initiative est soutenue par l'organisme Nourri-Source Bas-Saint-Laurent, qui développe également des projets de cliniques communautaires d'allaitement.",
-   "auto": true,
-   "addedAt": "2026-10-30T11:15:49+00:00",
-   "pageRead": true,
-   "points": [
-    "Rappeler aux parents qu'ils disposent de droits et d'espaces publics bienveillants pour allaiter librement hors de chez eux.",
-    "Orienter les familles vers des ressources communautaires locales et des organismes de soutien à l'allaitement pour les aider au quotidien.",
-    "Rester dans un rôle de soutien émotionnel et d'information pratique, sans se substituer aux consultations de lactation médicales."
    ],
    "summaryAI": true,
    "enriched": true
